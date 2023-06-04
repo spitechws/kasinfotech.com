@@ -1,4 +1,4 @@
-# SCMS (Version : 1.0)
+# CMS FOR ANY DYNAMIC SITE
 
 # Techstack 
 - Codeigniter-v3 : https://www.codeigniter.com/userguide3/
