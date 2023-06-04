@@ -1,0 +1,69 @@
+<?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+class MY_Controller extends CI_Controller
+{
+
+    public  $moduleUrl = '', $moduleId = '0';
+    function __construct()
+    {
+        parent::__construct();
+        if (session_status() == PHP_SESSION_NONE) {
+            session_start();
+        }
+
+        //$this->load->model('MY_Model','oMyModel');
+    }
+
+    function setModuleUrl($arg)
+    {
+        $this->moduleUrl = base_url() . $arg . '/';
+    }
+
+    function getModuleUrl()
+    {
+        return $this->moduleUrl;
+    }
+
+    function setModuleId($arg)
+    {
+        $this->moduleId = $arg;
+    }
+
+    function getModuleId()
+    {
+        return $this->moduleId;
+    }
+
+    function index()
+    {
+    }
+
+    function setTable($tbl_name)
+    {
+        $this->oMainModel->setTable($tbl_name);
+    }
+
+    function media_download($folder = "")
+    {
+        if (isset($_GET['file_name']) && $_GET['file_name'] != "") {
+            $file_name = $_GET['file_name'];
+            $this->load->helper('download');
+            $path = config_item('media_path');
+            if ($folder != "") {
+                $path .= $folder . '/' . $file_name;
+            } else {
+                $path .= $file_name;
+            }
+            force_download($path, NULL);
+        }
+    }
+
+    function checkTheme()
+    {
+        $theme_folder = config_item('theme_path') . config_item('site_theme');
+        if (!file_exists($theme_folder)) {
+            debug("Theme Folder not exit, please check or change the site theme from admin > System Settings");
+        }
+    }
+}
