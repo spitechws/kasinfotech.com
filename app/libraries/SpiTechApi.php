@@ -8,9 +8,9 @@ class SpiTechApi
     public function getAuth($email, $password)
     {
         $curl = curl_init();
-        $base_url ='http://api.spitech.in/api/auth';
+        $base_url = 'http://api.spitech.in/api/auth';
         $param = array('email' => $email, 'password' => $password, 'api_key' => self::API_KEY);
-        $api_url = $base_url.'?' . http_build_query($param);
+        $api_url = $base_url . '?' . http_build_query($param);
         curl_setopt_array($curl, array(
             CURLOPT_URL => $api_url,
             CURLOPT_RETURNTRANSFER => true,
@@ -32,4 +32,3 @@ class SpiTechApi
         return json_decode($response);
     }
 }
-
