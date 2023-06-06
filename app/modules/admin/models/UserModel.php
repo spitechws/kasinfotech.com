@@ -6,10 +6,12 @@ if (!defined('BASEPATH'))
 class UserModel extends MY_Model
 {
 
+   
     function __construct()
     {
         parent::__construct();
         parent::setTable('user');
+        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
     }
 
     function user_list($aWhere = array())
@@ -46,9 +48,7 @@ class UserModel extends MY_Model
             $password = $this->input->post('password');
             $row = parent::getRecord('*', array('email' => $email));
             if (!empty($row)) {
-                $spitechApi = new SpiTechApi();
-                $apiResponse = $spitechApi->getAuth($email, $password);
-                //debug($apiResponse);
+                $apiResponse = $this->spitechApi->getAuth($email, $password);
                 if (!empty($apiResponse->data->id)) {
                     if ($row->status == '1') {
                         $lastId = $row;
@@ -181,12 +181,14 @@ class UserModel extends MY_Model
                 "email" => filterValue($email),
                 "status" => filterValue($status)
             );
-            if ($editId == 0) {
-                $password = $this->input->post('password', TRUE);
-                $aInput['password'] = md5(filterValue($password));
-            }
             $_POST['rowId'] = $editId;
             $lastId = parent::save($this->tbl_name, $aInput, 'user_id');
+            if ($editId == 0) {
+                $password = $this->input->post('password', TRUE);
+               $this->spitechApi->createUser($name, $email, $password);                
+            } else {
+                $this->spitechApi->updateUser($name, $email);
+            }
             $response['msg'] = $lastId;
         } else {
             $response['is_error'] = 1;

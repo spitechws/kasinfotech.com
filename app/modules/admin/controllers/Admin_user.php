@@ -12,6 +12,7 @@ class Admin_user extends MY_Controller
         checkAdminLogin();
         parent::setModuleUrl('admin_user');
         $this->load->model('UserModel', 'oMainModel');
+        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
     }
 
     function index()
@@ -52,7 +53,6 @@ class Admin_user extends MY_Controller
 
     function add($editId = 0)
     {
-        debug(SpiTechApi::API_KEY);
         if (isset($_POST['submitform'])) {
             $response = $this->oMainModel->add();
             if ($response['is_error'] == 0) {
@@ -73,17 +73,17 @@ class Admin_user extends MY_Controller
         load_admin_view('user/form', $data);
     }
 
-    function delete()
+    function send_password()
     {
-        if (isset($_POST['rowId'])) {
-            $this->oMainModel->delete('user', array("domain_id" => $_POST['rowId']));
+        if(!empty($_GET['email'])){
+            $res = $this->spitechApi->sendPassword($_GET['email']);
+            set_message($res->msg);
+            redirect($this->moduleUrl);
+        }else{
+            set_message("Email is empty for the selected user");
+            redirect($this->moduleUrl);
         }
-    }
-
-    function export()
-    {
-        $aResult = $this->oMainModel->export();
-        export_domain($aResult, 'User List', 'User List');
+      
     }
 
     //------------Ajax Methods----------

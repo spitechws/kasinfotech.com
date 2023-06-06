@@ -74,11 +74,12 @@ function formValidation(form_id, name) {
     if (is_submit) {
         var $inputs = $('#' + form_id + ' :input,#' + form_id + ' textarea,#' + form_id + ' select');
         $inputs.each(function () {
-            if ($(this).attr('validate') != undefined) {
+            if ($(this).attr('validate') != undefined && !$(this).hasClass('hide')) {
                 var validation = $(this).attr('validate');
                 //var validation_array = validation.split(',');
                 var validation_array = validation.split('||');
-                var current_name = $(this).attr('name'); //alert(current_name);
+                var current_name = $(this).attr('name'); 
+                //alert(current_name);
                 for (var i = 0; i < validation_array.length; i++) {
                     var validation_inner_array = validation_array[i].split('|');
                     for (var j = 0; j < validation_inner_array.length; j++) {                        

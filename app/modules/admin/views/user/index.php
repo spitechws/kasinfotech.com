@@ -12,9 +12,9 @@
                             <tr>								
                                 <th width="5%">#</th>
                                 <th width="15%">Name</th>
-                                <th width="15%">Role</th>
+                                <th width="10%">Role</th>
                                 <th width="15%">Email</th>
-                                <th width="20%">Mobile</th>
+                                <th width="10%">Mobile</th>
                                 <th width="10%">Status</th>
                                 <th width="*">Action</th>
                             </tr>
@@ -36,10 +36,9 @@
                                         <td><?php echo $row->mobile; ?></td>
                                         <td class="status-<?php echo strtolower($status);?>"><?php echo $status; ?></td>
                                         <td class="action">                                            
-                                            <a class="edit" href="<?php echo $moduleUrl; ?>permission/<?php echo $row->user_id ?>"><i class="glyphicon glyphicon-pencil"></i>Permission</a>
-                                            <a class="edit" href="<?php echo $moduleUrl; ?>add/<?php echo $row->user_id ?>"><i class="glyphicon glyphicon-pencil" title="<?php echo lang('Edit') ?>"><?php echo lang('Edit') ?></i></a>
-                                            &nbsp;
-                                            <a onclick="return confirm('Are you sure want to delete this user?')" class="delete" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->user_id ?>"><i class="glyphicon glyphicon-remove" title="<?php echo lang('Delete') ?>"><?php echo lang('Delete') ?></i></a>
+                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>permission/<?php echo $row->user_id ?>">Permission</a>
+                                            <a class="btn btn-sm btn-success" href="<?php echo $moduleUrl; ?>add/<?php echo $row->user_id ?>">Edit</a>
+                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>send_password/?email=<?php echo $row->email ?>">Send Password</a>
                                         </td>
                                     </tr>
                                     <?php

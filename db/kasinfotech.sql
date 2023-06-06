@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Jun 04, 2022 at 03:20 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 7.4.26
+-- Host: 127.0.0.1:3306
+-- Generation Time: Jun 06, 2023 at 10:25 AM
+-- Server version: 8.0.31
+-- PHP Version: 7.4.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `scms-v3`
+-- Database: `kasinfotech`
 --
 
 -- --------------------------------------------------------
@@ -27,18 +27,20 @@ SET time_zone = "+00:00";
 -- Table structure for table `academic_calendar`
 --
 
-CREATE TABLE `academic_calendar` (
-  `calendar_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `academic_calendar`;
+CREATE TABLE IF NOT EXISTS `academic_calendar` (
+  `calendar_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`calendar_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `academic_calendar`
@@ -53,19 +55,21 @@ INSERT INTO `academic_calendar` (`calendar_id`, `attachment`, `title`, `short_de
 -- Table structure for table `admission`
 --
 
-CREATE TABLE `admission` (
-  `admission_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `admission`;
+CREATE TABLE IF NOT EXISTS `admission` (
+  `admission_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(150) NOT NULL,
-  `course` int(11) NOT NULL,
+  `course` int NOT NULL,
   `mobile` varchar(12) NOT NULL,
   `email` varchar(150) NOT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`admission_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `admission`
@@ -82,18 +86,20 @@ INSERT INTO `admission` (`admission_id`, `name`, `course`, `mobile`, `email`, `s
 -- Table structure for table `admission_list`
 --
 
-CREATE TABLE `admission_list` (
-  `list_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `admission_list`;
+CREATE TABLE IF NOT EXISTS `admission_list` (
+  `list_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`list_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `admission_list`
@@ -108,18 +114,20 @@ INSERT INTO `admission_list` (`list_id`, `attachment`, `title`, `short_descripti
 -- Table structure for table `admission_notification`
 --
 
-CREATE TABLE `admission_notification` (
-  `admission_notification_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `admission_notification`;
+CREATE TABLE IF NOT EXISTS `admission_notification` (
+  `admission_notification_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`admission_notification_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `admission_notification`
@@ -134,8 +142,9 @@ INSERT INTO `admission_notification` (`admission_notification_id`, `attachment`,
 -- Table structure for table `alumni`
 --
 
-CREATE TABLE `alumni` (
-  `alumni_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `alumni`;
+CREATE TABLE IF NOT EXISTS `alumni` (
+  `alumni_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(150) NOT NULL,
   `class` varchar(100) NOT NULL,
   `year_of_passing` varchar(10) NOT NULL,
@@ -145,13 +154,14 @@ CREATE TABLE `alumni` (
   `current_organization` varchar(200) NOT NULL,
   `current_designation` varchar(100) NOT NULL,
   `address` text NOT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`alumni_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `alumni`
@@ -175,17 +185,19 @@ INSERT INTO `alumni` (`alumni_id`, `name`, `class`, `year_of_passing`, `dob`, `m
 -- Table structure for table `banner`
 --
 
-CREATE TABLE `banner` (
-  `banner_id` int(11) NOT NULL,
-  `image` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `banner`;
+CREATE TABLE IF NOT EXISTS `banner` (
+  `banner_id` int NOT NULL AUTO_INCREMENT,
+  `image` mediumtext,
   `caption` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
+  `short_description` mediumtext,
   `status` enum('1','0') NOT NULL DEFAULT '1',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int DEFAULT NULL,
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`banner_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `banner`
@@ -202,23 +214,25 @@ INSERT INTO `banner` (`banner_id`, `image`, `caption`, `short_description`, `sta
 -- Table structure for table `career`
 --
 
-CREATE TABLE `career` (
-  `career_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `career`;
+CREATE TABLE IF NOT EXISTS `career` (
+  `career_id` int NOT NULL AUTO_INCREMENT,
   `job_title` varchar(300) DEFAULT NULL,
-  `job_description` mediumtext DEFAULT NULL,
-  `posts` int(11) DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
-  `salary` int(11) NOT NULL DEFAULT 0,
+  `job_description` mediumtext,
+  `posts` int DEFAULT NULL,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
+  `salary` int NOT NULL DEFAULT '0',
   `location` varchar(100) NOT NULL DEFAULT '',
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
+  `sequence_no` int NOT NULL DEFAULT '1',
   `created_date` datetime NOT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `edited_date` datetime NOT NULL,
-  `edited_by` int(11) DEFAULT NULL,
-  `job_type` int(11) DEFAULT 0,
-  `work_mode` int(11) DEFAULT 0,
-  `hr_contact` varchar(100) DEFAULT ''
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `edited_by` int DEFAULT NULL,
+  `job_type` int DEFAULT '0',
+  `work_mode` int DEFAULT '0',
+  `hr_contact` varchar(100) DEFAULT '',
+  PRIMARY KEY (`career_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `career`
@@ -233,21 +247,23 @@ INSERT INTO `career` (`career_id`, `job_title`, `job_description`, `posts`, `sta
 -- Table structure for table `cms`
 --
 
-CREATE TABLE `cms` (
-  `cms_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `cms`;
+CREATE TABLE IF NOT EXISTS `cms` (
+  `cms_id` int NOT NULL AUTO_INCREMENT,
   `page_name` varchar(100) DEFAULT NULL,
-  `page_title` mediumtext DEFAULT NULL,
-  `page_content` mediumtext DEFAULT NULL,
+  `page_title` mediumtext,
+  `page_content` mediumtext,
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int(11) NOT NULL,
+  `created_by` int NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `meta_keywords` mediumtext DEFAULT NULL,
-  `meta_description` mediumtext DEFAULT NULL,
+  `meta_keywords` mediumtext,
+  `meta_description` mediumtext,
   `meta_robots` varchar(100) NOT NULL DEFAULT 'index,follow',
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `menu` varchar(100) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `menu` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`cms_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=130 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `cms`
@@ -366,17 +382,19 @@ INSERT INTO `cms` (`cms_id`, `page_name`, `page_title`, `page_content`, `created
 -- Table structure for table `comments`
 --
 
-CREATE TABLE `comments` (
-  `comment_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `comments`;
+CREATE TABLE IF NOT EXISTS `comments` (
+  `comment_id` int NOT NULL AUTO_INCREMENT,
   `title` text NOT NULL,
-  `post_id` int(11) NOT NULL,
+  `post_id` int NOT NULL,
   `content` text NOT NULL,
-  `web_user_id` int(11) NOT NULL COMMENT 'pk of web user table',
+  `web_user_id` int NOT NULL COMMENT 'pk of web user table',
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int(11) NOT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int NOT NULL,
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`comment_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 -- --------------------------------------------------------
 
@@ -384,11 +402,14 @@ CREATE TABLE `comments` (
 -- Table structure for table `config`
 --
 
-CREATE TABLE `config` (
-  `id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `config`;
+CREATE TABLE IF NOT EXISTS `config` (
+  `id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(300) NOT NULL,
-  `value` mediumtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `value` mediumtext,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `name` (`name`)
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `config`
@@ -451,22 +472,24 @@ INSERT INTO `config` (`id`, `name`, `value`) VALUES
 -- Table structure for table `course`
 --
 
-CREATE TABLE `course` (
-  `course_id` int(11) NOT NULL,
-  `image` text DEFAULT NULL,
+DROP TABLE IF EXISTS `course`;
+CREATE TABLE IF NOT EXISTS `course` (
+  `course_id` int NOT NULL AUTO_INCREMENT,
+  `image` text,
   `caption` varchar(300) DEFAULT NULL,
   `duration` varchar(100) NOT NULL,
   `level` varchar(100) NOT NULL,
   `ready_in` varchar(100) DEFAULT NULL,
-  `short_description` text DEFAULT NULL,
+  `short_description` text,
   `description` text NOT NULL,
   `status` enum('1','0') NOT NULL DEFAULT '1',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`course_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb3 COMMENT='Framework Table';
 
 --
 -- Dumping data for table `course`
@@ -482,18 +505,20 @@ INSERT INTO `course` (`course_id`, `image`, `caption`, `duration`, `level`, `rea
 -- Table structure for table `download`
 --
 
-CREATE TABLE `download` (
-  `download_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `download`;
+CREATE TABLE IF NOT EXISTS `download` (
+  `download_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`download_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `download`
@@ -508,8 +533,9 @@ INSERT INTO `download` (`download_id`, `attachment`, `title`, `short_description
 -- Table structure for table `enquiry`
 --
 
-CREATE TABLE `enquiry` (
-  `enquiry_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `enquiry`;
+CREATE TABLE IF NOT EXISTS `enquiry` (
+  `enquiry_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(100) NOT NULL,
   `mobile` varchar(100) NOT NULL,
   `email` varchar(300) NOT NULL,
@@ -518,11 +544,12 @@ CREATE TABLE `enquiry` (
   `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `sequence_no` int(11) DEFAULT 1,
-  `created_by` int(11) NOT NULL,
+  `sequence_no` int DEFAULT '1',
+  `created_by` int NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `service_name` mediumtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `service_name` mediumtext,
+  PRIMARY KEY (`enquiry_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `enquiry`
@@ -538,18 +565,20 @@ INSERT INTO `enquiry` (`enquiry_id`, `name`, `mobile`, `email`, `purpose`, `subj
 -- Table structure for table `events`
 --
 
-CREATE TABLE `events` (
-  `event_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `events`;
+CREATE TABLE IF NOT EXISTS `events` (
+  `event_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`event_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `events`
@@ -564,16 +593,18 @@ INSERT INTO `events` (`event_id`, `attachment`, `title`, `short_description`, `s
 -- Table structure for table `event_gallery`
 --
 
-CREATE TABLE `event_gallery` (
-  `gallery_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `event_gallery`;
+CREATE TABLE IF NOT EXISTS `event_gallery` (
+  `gallery_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(300) DEFAULT NULL,
-  `sequence_no` int(11) DEFAULT NULL,
+  `sequence_no` int DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `status` int(11) NOT NULL,
+  `status` int NOT NULL,
   `edited_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`gallery_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `event_gallery`
@@ -588,17 +619,19 @@ INSERT INTO `event_gallery` (`gallery_id`, `title`, `sequence_no`, `created_date
 -- Table structure for table `event_gallery_image`
 --
 
-CREATE TABLE `event_gallery_image` (
-  `image_id` int(11) NOT NULL,
-  `gallery_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `event_gallery_image`;
+CREATE TABLE IF NOT EXISTS `event_gallery_image` (
+  `image_id` int NOT NULL AUTO_INCREMENT,
+  `gallery_id` int NOT NULL,
   `image` mediumtext NOT NULL,
-  `sequence_no` int(11) DEFAULT NULL,
+  `sequence_no` int DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `edited_by` datetime DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `title` mediumtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `title` mediumtext,
+  PRIMARY KEY (`image_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `event_gallery_image`
@@ -615,17 +648,19 @@ INSERT INTO `event_gallery_image` (`image_id`, `gallery_id`, `image`, `sequence_
 -- Table structure for table `facility`
 --
 
-CREATE TABLE `facility` (
-  `facility_id` int(11) NOT NULL,
-  `title` text DEFAULT NULL,
+DROP TABLE IF EXISTS `facility`;
+CREATE TABLE IF NOT EXISTS `facility` (
+  `facility_id` int NOT NULL AUTO_INCREMENT,
+  `title` text,
   `image` varchar(200) DEFAULT NULL,
-  `description` text DEFAULT NULL,
-  `short_description` text NOT NULL DEFAULT '',
+  `description` text,
+  `short_description` text NOT NULL,
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` int(11) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Framework Table';
+  `created_by` int DEFAULT NULL,
+  `edited_by` int DEFAULT '0',
+  PRIMARY KEY (`facility_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb3 COMMENT='Framework Table';
 
 --
 -- Dumping data for table `facility`
@@ -642,9 +677,10 @@ INSERT INTO `facility` (`facility_id`, `title`, `image`, `description`, `short_d
 -- Table structure for table `faculty`
 --
 
-CREATE TABLE `faculty` (
-  `faculty_id` int(11) NOT NULL,
-  `thumbnail` text DEFAULT NULL,
+DROP TABLE IF EXISTS `faculty`;
+CREATE TABLE IF NOT EXISTS `faculty` (
+  `faculty_id` int NOT NULL AUTO_INCREMENT,
+  `thumbnail` text,
   `faculty_name` varchar(200) DEFAULT NULL,
   `designation` varchar(200) DEFAULT NULL,
   `qualification` varchar(200) DEFAULT NULL,
@@ -653,10 +689,11 @@ CREATE TABLE `faculty` (
   `email` varchar(200) NOT NULL,
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`faculty_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb3 COMMENT='Framework Table';
 
 --
 -- Dumping data for table `faculty`
@@ -671,19 +708,21 @@ INSERT INTO `faculty` (`faculty_id`, `thumbnail`, `faculty_name`, `designation`,
 -- Table structure for table `feedback`
 --
 
-CREATE TABLE `feedback` (
-  `feedback_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `feedback`;
+CREATE TABLE IF NOT EXISTS `feedback` (
+  `feedback_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(150) NOT NULL,
   `message` text NOT NULL,
   `mobile` varchar(12) NOT NULL,
   `email` varchar(150) NOT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`feedback_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `feedback`
@@ -698,16 +737,18 @@ INSERT INTO `feedback` (`feedback_id`, `name`, `message`, `mobile`, `email`, `st
 -- Table structure for table `gallery`
 --
 
-CREATE TABLE `gallery` (
-  `gallery_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `gallery`;
+CREATE TABLE IF NOT EXISTS `gallery` (
+  `gallery_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(300) DEFAULT NULL,
-  `sequence_no` int(11) DEFAULT NULL,
+  `sequence_no` int DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `status` int(11) NOT NULL,
+  `status` int NOT NULL,
   `edited_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`gallery_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `gallery`
@@ -722,17 +763,19 @@ INSERT INTO `gallery` (`gallery_id`, `title`, `sequence_no`, `created_date`, `st
 -- Table structure for table `gallery_image`
 --
 
-CREATE TABLE `gallery_image` (
-  `image_id` int(11) NOT NULL,
-  `gallery_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `gallery_image`;
+CREATE TABLE IF NOT EXISTS `gallery_image` (
+  `image_id` int NOT NULL AUTO_INCREMENT,
+  `gallery_id` int NOT NULL,
   `image` mediumtext NOT NULL,
-  `sequence_no` int(11) DEFAULT NULL,
+  `sequence_no` int DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `edited_by` datetime DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `title` mediumtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `title` mediumtext,
+  PRIMARY KEY (`image_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `gallery_image`
@@ -748,15 +791,17 @@ INSERT INTO `gallery_image` (`image_id`, `gallery_id`, `image`, `sequence_no`, `
 -- Table structure for table `job_application`
 --
 
-CREATE TABLE `job_application` (
-  `application_id` int(11) NOT NULL,
-  `career_id` int(11) DEFAULT NULL,
+DROP TABLE IF EXISTS `job_application`;
+CREATE TABLE IF NOT EXISTS `job_application` (
+  `application_id` int NOT NULL AUTO_INCREMENT,
+  `career_id` int DEFAULT NULL,
   `name` varchar(250) DEFAULT NULL,
   `mobile` varchar(100) DEFAULT NULL,
   `email` varchar(250) DEFAULT NULL,
-  `resume` mediumtext DEFAULT NULL,
-  `created_date` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `resume` mediumtext,
+  `created_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`application_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `job_application`
@@ -772,15 +817,18 @@ INSERT INTO `job_application` (`application_id`, `career_id`, `name`, `mobile`, 
 -- Table structure for table `label`
 --
 
-CREATE TABLE `label` (
-  `label_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `label`;
+CREATE TABLE IF NOT EXISTS `label` (
+  `label_id` int NOT NULL AUTO_INCREMENT,
   `label` varchar(200) NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int(11) NOT NULL,
+  `created_by` int NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `sequence_no` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL,
+  PRIMARY KEY (`label_id`),
+  UNIQUE KEY `label` (`label`)
+) ENGINE=InnoDB AUTO_INCREMENT=158 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `label`
@@ -923,12 +971,14 @@ INSERT INTO `label` (`label_id`, `label`, `created_date`, `edited_date`, `create
 -- Table structure for table `label_value`
 --
 
-CREATE TABLE `label_value` (
-  `id` int(11) NOT NULL,
-  `language_id` int(11) NOT NULL,
-  `label_id` int(11) NOT NULL,
-  `value` mediumtext NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+DROP TABLE IF EXISTS `label_value`;
+CREATE TABLE IF NOT EXISTS `label_value` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `language_id` int NOT NULL,
+  `label_id` int NOT NULL,
+  `value` mediumtext NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=272 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 --
 -- Dumping data for table `label_value`
@@ -1197,12 +1247,15 @@ INSERT INTO `label_value` (`id`, `language_id`, `label_id`, `value`) VALUES
 -- Table structure for table `language`
 --
 
-CREATE TABLE `language` (
-  `language_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `language`;
+CREATE TABLE IF NOT EXISTS `language` (
+  `language_id` int NOT NULL AUTO_INCREMENT,
   `language` varchar(100) NOT NULL,
   `status` enum('0','1') NOT NULL DEFAULT '1',
-  `is_default` enum('0','1') NOT NULL DEFAULT '0'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `is_default` enum('0','1') NOT NULL DEFAULT '0',
+  PRIMARY KEY (`language_id`),
+  UNIQUE KEY `language` (`language`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `language`
@@ -1218,17 +1271,19 @@ INSERT INTO `language` (`language_id`, `language`, `status`, `is_default`) VALUE
 -- Table structure for table `links`
 --
 
-CREATE TABLE `links` (
-  `link_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `links`;
+CREATE TABLE IF NOT EXISTS `links` (
+  `link_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(300) DEFAULT NULL,
-  `link` text DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `link` text,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`link_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `links`
@@ -1243,18 +1298,20 @@ INSERT INTO `links` (`link_id`, `title`, `link`, `status`, `edited_date`, `creat
 -- Table structure for table `merit`
 --
 
-CREATE TABLE `merit` (
-  `merit_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `merit`;
+CREATE TABLE IF NOT EXISTS `merit` (
+  `merit_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`merit_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `merit`
@@ -1269,8 +1326,9 @@ INSERT INTO `merit` (`merit_id`, `attachment`, `title`, `short_description`, `st
 -- Table structure for table `message_templates`
 --
 
-CREATE TABLE `message_templates` (
-  `template_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `message_templates`;
+CREATE TABLE IF NOT EXISTS `message_templates` (
+  `template_id` int NOT NULL AUTO_INCREMENT,
   `template` varchar(300) NOT NULL,
   `subject` mediumtext NOT NULL,
   `from_name` varchar(300) NOT NULL,
@@ -1279,12 +1337,13 @@ CREATE TABLE `message_templates` (
   `cc` varchar(100) NOT NULL,
   `message` mediumtext NOT NULL,
   `type` enum('sms','email') NOT NULL DEFAULT 'sms',
-  `sequence_id` int(11) DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `sequence_id` int DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `created_date` date DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`template_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `message_templates`
@@ -1299,22 +1358,24 @@ INSERT INTO `message_templates` (`template_id`, `template`, `subject`, `from_nam
 -- Table structure for table `modules`
 --
 
-CREATE TABLE `modules` (
-  `module_id` int(11) NOT NULL,
-  `is_module` int(11) NOT NULL DEFAULT 1,
-  `group_id` int(11) NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 0,
+DROP TABLE IF EXISTS `modules`;
+CREATE TABLE IF NOT EXISTS `modules` (
+  `module_id` int NOT NULL AUTO_INCREMENT,
+  `is_module` int NOT NULL DEFAULT '1',
+  `group_id` int NOT NULL,
+  `sequence_no` int NOT NULL DEFAULT '0',
   `title` varchar(200) NOT NULL,
   `url` text NOT NULL,
   `icon` varchar(200) NOT NULL,
   `status` enum('0','1') NOT NULL DEFAULT '1',
   `edited_date` date DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
+  `edited_by` int DEFAULT NULL,
   `module_table` varchar(250) DEFAULT NULL,
-  `module_table_pk` varchar(250) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `module_table_pk` varchar(250) DEFAULT NULL,
+  PRIMARY KEY (`module_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=34 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `modules`
@@ -1361,17 +1422,19 @@ INSERT INTO `modules` (`module_id`, `is_module`, `group_id`, `sequence_no`, `tit
 -- Table structure for table `module_group`
 --
 
-CREATE TABLE `module_group` (
-  `group_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `module_group`;
+CREATE TABLE IF NOT EXISTS `module_group` (
+  `group_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(100) NOT NULL,
   `selected_id` varchar(100) NOT NULL,
   `icon` varchar(100) NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
+  `sequence_no` int NOT NULL DEFAULT '1',
   `created_date` datetime DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`group_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `module_group`
@@ -1386,18 +1449,20 @@ INSERT INTO `module_group` (`group_id`, `title`, `selected_id`, `icon`, `sequenc
 -- Table structure for table `news`
 --
 
-CREATE TABLE `news` (
-  `news_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `news`;
+CREATE TABLE IF NOT EXISTS `news` (
+  `news_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`news_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `news`
@@ -1412,18 +1477,20 @@ INSERT INTO `news` (`news_id`, `attachment`, `title`, `short_description`, `stat
 -- Table structure for table `notification`
 --
 
-CREATE TABLE `notification` (
-  `notification_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `notification`;
+CREATE TABLE IF NOT EXISTS `notification` (
+  `notification_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`notification_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `notification`
@@ -1439,17 +1506,19 @@ INSERT INTO `notification` (`notification_id`, `attachment`, `title`, `short_des
 -- Table structure for table `page_component`
 --
 
-CREATE TABLE `page_component` (
-  `id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `page_component`;
+CREATE TABLE IF NOT EXISTS `page_component` (
+  `id` int NOT NULL AUTO_INCREMENT,
   `section` enum('header','body','sidebar','footer') NOT NULL DEFAULT 'body',
   `name` varchar(100) NOT NULL,
   `content` text NOT NULL,
   `status` enum('1','0') NOT NULL DEFAULT '1',
   `created_date` date DEFAULT NULL,
-  `created_by` int(11) DEFAULT NULL,
+  `created_by` int DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 --
 -- Dumping data for table `page_component`
@@ -1464,21 +1533,23 @@ INSERT INTO `page_component` (`id`, `section`, `name`, `content`, `status`, `cre
 -- Table structure for table `post`
 --
 
-CREATE TABLE `post` (
-  `post_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `post`;
+CREATE TABLE IF NOT EXISTS `post` (
+  `post_id` int NOT NULL AUTO_INCREMENT,
   `title` text NOT NULL,
   `slug` varchar(150) NOT NULL,
-  `featured_image` text NOT NULL DEFAULT '',
+  `featured_image` text NOT NULL,
   `content` text NOT NULL,
   `short_description` varchar(150) NOT NULL,
   `tag` text NOT NULL,
-  `view_count` int(11) NOT NULL,
-  `category_id` int(11) NOT NULL,
+  `view_count` int NOT NULL,
+  `category_id` int NOT NULL,
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int(11) NOT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int NOT NULL,
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`post_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `post`
@@ -1494,14 +1565,16 @@ INSERT INTO `post` (`post_id`, `title`, `slug`, `featured_image`, `content`, `sh
 -- Table structure for table `post_category`
 --
 
-CREATE TABLE `post_category` (
-  `category_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `post_category`;
+CREATE TABLE IF NOT EXISTS `post_category` (
+  `category_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(50) DEFAULT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int(11) NOT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int NOT NULL,
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`category_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `post_category`
@@ -1517,18 +1590,20 @@ INSERT INTO `post_category` (`category_id`, `title`, `created_date`, `edited_dat
 -- Table structure for table `sports`
 --
 
-CREATE TABLE `sports` (
-  `sport_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `sports`;
+CREATE TABLE IF NOT EXISTS `sports` (
+  `sport_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`sport_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `sports`
@@ -1543,18 +1618,20 @@ INSERT INTO `sports` (`sport_id`, `attachment`, `title`, `short_description`, `s
 -- Table structure for table `ssr`
 --
 
-CREATE TABLE `ssr` (
-  `ssr_id` int(11) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+DROP TABLE IF EXISTS `ssr`;
+CREATE TABLE IF NOT EXISTS `ssr` (
+  `ssr_id` int NOT NULL AUTO_INCREMENT,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `short_description` mediumtext DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `short_description` mediumtext,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`ssr_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `ssr`
@@ -1569,12 +1646,14 @@ INSERT INTO `ssr` (`ssr_id`, `attachment`, `title`, `short_description`, `status
 -- Table structure for table `subscriber`
 --
 
-CREATE TABLE `subscriber` (
-  `subscriber_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `subscriber`;
+CREATE TABLE IF NOT EXISTS `subscriber` (
+  `subscriber_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULL,
   `email` varchar(50) DEFAULT NULL,
-  `created_date` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_date` datetime NOT NULL,
+  PRIMARY KEY (`subscriber_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `subscriber`
@@ -1593,19 +1672,21 @@ INSERT INTO `subscriber` (`subscriber_id`, `name`, `email`, `created_date`) VALU
 -- Table structure for table `tc`
 --
 
-CREATE TABLE `tc` (
-  `tc_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `tc`;
+CREATE TABLE IF NOT EXISTS `tc` (
+  `tc_id` int NOT NULL AUTO_INCREMENT,
   `tc_no` varchar(20) NOT NULL,
   `admission_no` varchar(20) NOT NULL,
-  `attachment` mediumtext DEFAULT NULL,
+  `attachment` mediumtext,
   `title` varchar(300) DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` int DEFAULT NULL,
+  PRIMARY KEY (`tc_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `tc`
@@ -1620,18 +1701,20 @@ INSERT INTO `tc` (`tc_id`, `tc_no`, `admission_no`, `attachment`, `title`, `stat
 -- Table structure for table `testimonial`
 --
 
-CREATE TABLE `testimonial` (
-  `testimonial_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `testimonial`;
+CREATE TABLE IF NOT EXISTS `testimonial` (
+  `testimonial_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(100) NOT NULL,
   `video_url` varchar(300) NOT NULL,
   `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int(11) NOT NULL,
-  `edited_by` int(11) NOT NULL,
-  `sequence_no` int(11) NOT NULL,
-  `image` mediumtext DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int NOT NULL,
+  `edited_by` int NOT NULL,
+  `sequence_no` int NOT NULL,
+  `image` mediumtext,
+  PRIMARY KEY (`testimonial_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `testimonial`
@@ -1647,18 +1730,20 @@ INSERT INTO `testimonial` (`testimonial_id`, `name`, `video_url`, `message`, `cr
 -- Table structure for table `topper`
 --
 
-CREATE TABLE `topper` (
-  `topper_id` int(11) NOT NULL,
-  `thumbnail` text DEFAULT NULL,
+DROP TABLE IF EXISTS `topper`;
+CREATE TABLE IF NOT EXISTS `topper` (
+  `topper_id` int NOT NULL AUTO_INCREMENT,
+  `thumbnail` text,
   `topper_name` varchar(200) DEFAULT NULL,
   `standard` varchar(200) DEFAULT NULL,
   `percentage` varchar(200) DEFAULT NULL,
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`topper_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb3 COMMENT='Framework Table';
 
 --
 -- Dumping data for table `topper`
@@ -1678,33 +1763,30 @@ INSERT INTO `topper` (`topper_id`, `thumbnail`, `topper_name`, `standard`, `perc
 -- Table structure for table `user`
 --
 
-CREATE TABLE `user` (
-  `user_id` int(11) NOT NULL,
-  `role_id` int(11) NOT NULL COMMENT 'User role id',
+DROP TABLE IF EXISTS `user`;
+CREATE TABLE IF NOT EXISTS `user` (
+  `user_id` int NOT NULL AUTO_INCREMENT,
+  `role_id` int NOT NULL COMMENT 'User role id',
   `name` varchar(300) NOT NULL,
   `mobile` varchar(20) NOT NULL,
   `email` varchar(300) NOT NULL,
-  `password` varchar(100) NOT NULL,
-  `status` int(11) NOT NULL DEFAULT 1,
+  `status` int NOT NULL DEFAULT '1',
   `photo` text NOT NULL,
   `quote` varchar(200) NOT NULL,
   `created_date` date DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `created_by` int(11) NOT NULL,
+  `created_by` int NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`user_id`, `role_id`, `name`, `mobile`, `email`, `password`, `status`, `photo`, `quote`, `created_date`, `edited_date`, `created_by`, `edited_by`, `sequence_no`) VALUES
-(1, 0, 'SuperAdmin', '7828796979', 'contact@spitech.in', '1ab7bc8a726cd0f7137d190e474cdde7', 1, '', '', '0000-00-00', '2021-07-04', 1, '0000-00-00 00:00:00', 1),
-(3, 1, 'Admin', '1234567890', 'info@nagarpalikamungeli.com', '32cc05ae2f9e0b3878d28fa3f5515b68', 1, '', '', '2019-02-18', '2019-10-11', 1, '0000-00-00 00:00:00', 2),
-(4, 2, 'Demo', '8888538591', 'spsoni.acc@gmail.com', '1ab7bc8a726cd0f7137d190e474cdde7', 1, '', '', '2021-07-11', '2021-07-11', 1, '0000-00-00 00:00:00', 3),
-(5, 2, 'Trimurty Public School', '9755380108', 'tps.sargaon@gmail.com', 'e6e061838856bf47e1de730719fb2609', 1, '', '', '2021-08-07', '2022-06-04', 1, '0000-00-00 00:00:00', 1),
-(6, 2, 'Rahul Soni', '9340369212', 'rahul.soni@spitech.in', 'b0a3054e2648c9e4048ac26105289154', 1, '', '', '2022-06-04', '2022-06-04', 1, NULL, 1);
+INSERT INTO `user` (`user_id`, `role_id`, `name`, `mobile`, `email`, `status`, `photo`, `quote`, `created_date`, `edited_date`, `created_by`, `edited_by`, `sequence_no`) VALUES
+(1, 0, 'SuperAdmin', '7828796979', 'spitechtesting@gmail.com', 1, '', '', '0000-00-00', '2021-07-04', 1, '0000-00-00 00:00:00', 1);
 
 -- --------------------------------------------------------
 
@@ -1712,17 +1794,19 @@ INSERT INTO `user` (`user_id`, `role_id`, `name`, `mobile`, `email`, `password`,
 -- Table structure for table `user_permission`
 --
 
-CREATE TABLE `user_permission` (
-  `id` int(11) NOT NULL,
-  `user_id` int(11) NOT NULL,
-  `module_id` int(11) NOT NULL,
-  `add_permission` int(11) NOT NULL DEFAULT 0,
-  `edit_permission` int(11) NOT NULL DEFAULT 0,
-  `delete_permission` int(11) NOT NULL DEFAULT 0,
-  `company_id` int(11) NOT NULL DEFAULT 1,
-  `view_permission` int(11) NOT NULL DEFAULT 0,
-  `export_permission` int(11) NOT NULL DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+DROP TABLE IF EXISTS `user_permission`;
+CREATE TABLE IF NOT EXISTS `user_permission` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `user_id` int NOT NULL,
+  `module_id` int NOT NULL,
+  `add_permission` int NOT NULL DEFAULT '0',
+  `edit_permission` int NOT NULL DEFAULT '0',
+  `delete_permission` int NOT NULL DEFAULT '0',
+  `company_id` int NOT NULL DEFAULT '1',
+  `view_permission` int NOT NULL DEFAULT '0',
+  `export_permission` int NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=67 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user_permission`
@@ -1802,14 +1886,16 @@ INSERT INTO `user_permission` (`id`, `user_id`, `module_id`, `add_permission`, `
 -- Table structure for table `user_role`
 --
 
-CREATE TABLE `user_role` (
-  `role_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `user_role`;
+CREATE TABLE IF NOT EXISTS `user_role` (
+  `role_id` int NOT NULL AUTO_INCREMENT,
   `role` varchar(100) NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int(11) NOT NULL DEFAULT 0,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `created_by` int NOT NULL DEFAULT '0',
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`role_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user_role`
@@ -1826,17 +1912,19 @@ INSERT INTO `user_role` (`role_id`, `role`, `created_date`, `edited_date`, `crea
 -- Table structure for table `video`
 --
 
-CREATE TABLE `video` (
-  `video_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `video`;
+CREATE TABLE IF NOT EXISTS `video` (
+  `video_id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(300) DEFAULT NULL,
-  `link` text DEFAULT NULL,
-  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `link` text,
+  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int(11) NOT NULL DEFAULT 1,
-  `created_by` int(11) DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Framework Table';
+  `sequence_no` int NOT NULL DEFAULT '1',
+  `created_by` int DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL,
+  PRIMARY KEY (`video_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `video`
@@ -1853,576 +1941,15 @@ INSERT INTO `video` (`video_id`, `title`, `link`, `status`, `edited_date`, `crea
 -- Table structure for table `web_user`
 --
 
-CREATE TABLE `web_user` (
-  `web_user_id` int(11) NOT NULL,
+DROP TABLE IF EXISTS `web_user`;
+CREATE TABLE IF NOT EXISTS `web_user` (
+  `web_user_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(100) NOT NULL,
   `mobile` varchar(20) NOT NULL,
   `email` varchar(150) NOT NULL,
-  `created_date` datetime NOT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;
-
---
--- Indexes for dumped tables
---
-
---
--- Indexes for table `academic_calendar`
---
-ALTER TABLE `academic_calendar`
-  ADD PRIMARY KEY (`calendar_id`);
-
---
--- Indexes for table `admission`
---
-ALTER TABLE `admission`
-  ADD PRIMARY KEY (`admission_id`);
-
---
--- Indexes for table `admission_list`
---
-ALTER TABLE `admission_list`
-  ADD PRIMARY KEY (`list_id`);
-
---
--- Indexes for table `admission_notification`
---
-ALTER TABLE `admission_notification`
-  ADD PRIMARY KEY (`admission_notification_id`);
-
---
--- Indexes for table `alumni`
---
-ALTER TABLE `alumni`
-  ADD PRIMARY KEY (`alumni_id`);
-
---
--- Indexes for table `banner`
---
-ALTER TABLE `banner`
-  ADD PRIMARY KEY (`banner_id`);
-
---
--- Indexes for table `career`
---
-ALTER TABLE `career`
-  ADD PRIMARY KEY (`career_id`);
-
---
--- Indexes for table `cms`
---
-ALTER TABLE `cms`
-  ADD PRIMARY KEY (`cms_id`);
-
---
--- Indexes for table `comments`
---
-ALTER TABLE `comments`
-  ADD PRIMARY KEY (`comment_id`);
-
---
--- Indexes for table `config`
---
-ALTER TABLE `config`
-  ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `name` (`name`);
-
---
--- Indexes for table `course`
---
-ALTER TABLE `course`
-  ADD PRIMARY KEY (`course_id`);
-
---
--- Indexes for table `download`
---
-ALTER TABLE `download`
-  ADD PRIMARY KEY (`download_id`);
-
---
--- Indexes for table `enquiry`
---
-ALTER TABLE `enquiry`
-  ADD PRIMARY KEY (`enquiry_id`);
-
---
--- Indexes for table `events`
---
-ALTER TABLE `events`
-  ADD PRIMARY KEY (`event_id`);
-
---
--- Indexes for table `event_gallery`
---
-ALTER TABLE `event_gallery`
-  ADD PRIMARY KEY (`gallery_id`);
-
---
--- Indexes for table `event_gallery_image`
---
-ALTER TABLE `event_gallery_image`
-  ADD PRIMARY KEY (`image_id`);
-
---
--- Indexes for table `facility`
---
-ALTER TABLE `facility`
-  ADD PRIMARY KEY (`facility_id`);
-
---
--- Indexes for table `faculty`
---
-ALTER TABLE `faculty`
-  ADD PRIMARY KEY (`faculty_id`);
-
---
--- Indexes for table `feedback`
---
-ALTER TABLE `feedback`
-  ADD PRIMARY KEY (`feedback_id`);
-
---
--- Indexes for table `gallery`
---
-ALTER TABLE `gallery`
-  ADD PRIMARY KEY (`gallery_id`);
-
---
--- Indexes for table `gallery_image`
---
-ALTER TABLE `gallery_image`
-  ADD PRIMARY KEY (`image_id`);
-
---
--- Indexes for table `job_application`
---
-ALTER TABLE `job_application`
-  ADD PRIMARY KEY (`application_id`);
-
---
--- Indexes for table `label`
---
-ALTER TABLE `label`
-  ADD PRIMARY KEY (`label_id`),
-  ADD UNIQUE KEY `label` (`label`);
-
---
--- Indexes for table `label_value`
---
-ALTER TABLE `label_value`
-  ADD PRIMARY KEY (`id`);
-
---
--- Indexes for table `language`
---
-ALTER TABLE `language`
-  ADD PRIMARY KEY (`language_id`),
-  ADD UNIQUE KEY `language` (`language`);
-
---
--- Indexes for table `links`
---
-ALTER TABLE `links`
-  ADD PRIMARY KEY (`link_id`);
-
---
--- Indexes for table `merit`
---
-ALTER TABLE `merit`
-  ADD PRIMARY KEY (`merit_id`);
-
---
--- Indexes for table `message_templates`
---
-ALTER TABLE `message_templates`
-  ADD PRIMARY KEY (`template_id`);
-
---
--- Indexes for table `modules`
---
-ALTER TABLE `modules`
-  ADD PRIMARY KEY (`module_id`);
-
---
--- Indexes for table `module_group`
---
-ALTER TABLE `module_group`
-  ADD PRIMARY KEY (`group_id`);
-
---
--- Indexes for table `news`
---
-ALTER TABLE `news`
-  ADD PRIMARY KEY (`news_id`);
-
---
--- Indexes for table `notification`
---
-ALTER TABLE `notification`
-  ADD PRIMARY KEY (`notification_id`);
-
---
--- Indexes for table `page_component`
---
-ALTER TABLE `page_component`
-  ADD PRIMARY KEY (`id`);
-
---
--- Indexes for table `post`
---
-ALTER TABLE `post`
-  ADD PRIMARY KEY (`post_id`);
-
---
--- Indexes for table `post_category`
---
-ALTER TABLE `post_category`
-  ADD PRIMARY KEY (`category_id`);
-
---
--- Indexes for table `sports`
---
-ALTER TABLE `sports`
-  ADD PRIMARY KEY (`sport_id`);
-
---
--- Indexes for table `ssr`
---
-ALTER TABLE `ssr`
-  ADD PRIMARY KEY (`ssr_id`);
-
---
--- Indexes for table `subscriber`
---
-ALTER TABLE `subscriber`
-  ADD PRIMARY KEY (`subscriber_id`);
-
---
--- Indexes for table `tc`
---
-ALTER TABLE `tc`
-  ADD PRIMARY KEY (`tc_id`);
-
---
--- Indexes for table `testimonial`
---
-ALTER TABLE `testimonial`
-  ADD PRIMARY KEY (`testimonial_id`);
-
---
--- Indexes for table `topper`
---
-ALTER TABLE `topper`
-  ADD PRIMARY KEY (`topper_id`);
-
---
--- Indexes for table `user`
---
-ALTER TABLE `user`
-  ADD PRIMARY KEY (`user_id`);
-
---
--- Indexes for table `user_permission`
---
-ALTER TABLE `user_permission`
-  ADD PRIMARY KEY (`id`);
-
---
--- Indexes for table `user_role`
---
-ALTER TABLE `user_role`
-  ADD PRIMARY KEY (`role_id`);
-
---
--- Indexes for table `video`
---
-ALTER TABLE `video`
-  ADD PRIMARY KEY (`video_id`);
-
---
--- Indexes for table `web_user`
---
-ALTER TABLE `web_user`
-  ADD PRIMARY KEY (`web_user_id`);
-
---
--- AUTO_INCREMENT for dumped tables
---
-
---
--- AUTO_INCREMENT for table `academic_calendar`
---
-ALTER TABLE `academic_calendar`
-  MODIFY `calendar_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `admission`
---
-ALTER TABLE `admission`
-  MODIFY `admission_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
-
---
--- AUTO_INCREMENT for table `admission_list`
---
-ALTER TABLE `admission_list`
-  MODIFY `list_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `admission_notification`
---
-ALTER TABLE `admission_notification`
-  MODIFY `admission_notification_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `alumni`
---
-ALTER TABLE `alumni`
-  MODIFY `alumni_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
-
---
--- AUTO_INCREMENT for table `banner`
---
-ALTER TABLE `banner`
-  MODIFY `banner_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
-
---
--- AUTO_INCREMENT for table `career`
---
-ALTER TABLE `career`
-  MODIFY `career_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `cms`
---
-ALTER TABLE `cms`
-  MODIFY `cms_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=130;
-
---
--- AUTO_INCREMENT for table `comments`
---
-ALTER TABLE `comments`
-  MODIFY `comment_id` int(11) NOT NULL AUTO_INCREMENT;
-
---
--- AUTO_INCREMENT for table `config`
---
-ALTER TABLE `config`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=64;
-
---
--- AUTO_INCREMENT for table `course`
---
-ALTER TABLE `course`
-  MODIFY `course_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
-
---
--- AUTO_INCREMENT for table `download`
---
-ALTER TABLE `download`
-  MODIFY `download_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `enquiry`
---
-ALTER TABLE `enquiry`
-  MODIFY `enquiry_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
-
---
--- AUTO_INCREMENT for table `events`
---
-ALTER TABLE `events`
-  MODIFY `event_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `event_gallery`
---
-ALTER TABLE `event_gallery`
-  MODIFY `gallery_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `event_gallery_image`
---
-ALTER TABLE `event_gallery_image`
-  MODIFY `image_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
-
---
--- AUTO_INCREMENT for table `facility`
---
-ALTER TABLE `facility`
-  MODIFY `facility_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
-
---
--- AUTO_INCREMENT for table `faculty`
---
-ALTER TABLE `faculty`
-  MODIFY `faculty_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `feedback`
---
-ALTER TABLE `feedback`
-  MODIFY `feedback_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `gallery`
---
-ALTER TABLE `gallery`
-  MODIFY `gallery_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
-
---
--- AUTO_INCREMENT for table `gallery_image`
---
-ALTER TABLE `gallery_image`
-  MODIFY `image_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
-
---
--- AUTO_INCREMENT for table `job_application`
---
-ALTER TABLE `job_application`
-  MODIFY `application_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `label`
---
-ALTER TABLE `label`
-  MODIFY `label_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=158;
-
---
--- AUTO_INCREMENT for table `label_value`
---
-ALTER TABLE `label_value`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=272;
-
---
--- AUTO_INCREMENT for table `language`
---
-ALTER TABLE `language`
-  MODIFY `language_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `links`
---
-ALTER TABLE `links`
-  MODIFY `link_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `merit`
---
-ALTER TABLE `merit`
-  MODIFY `merit_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `message_templates`
---
-ALTER TABLE `message_templates`
-  MODIFY `template_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `modules`
---
-ALTER TABLE `modules`
-  MODIFY `module_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=34;
-
---
--- AUTO_INCREMENT for table `module_group`
---
-ALTER TABLE `module_group`
-  MODIFY `group_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
-
---
--- AUTO_INCREMENT for table `news`
---
-ALTER TABLE `news`
-  MODIFY `news_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `notification`
---
-ALTER TABLE `notification`
-  MODIFY `notification_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `page_component`
---
-ALTER TABLE `page_component`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `post`
---
-ALTER TABLE `post`
-  MODIFY `post_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `post_category`
---
-ALTER TABLE `post_category`
-  MODIFY `category_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
-
---
--- AUTO_INCREMENT for table `sports`
---
-ALTER TABLE `sports`
-  MODIFY `sport_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `ssr`
---
-ALTER TABLE `ssr`
-  MODIFY `ssr_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
---
--- AUTO_INCREMENT for table `subscriber`
---
-ALTER TABLE `subscriber`
-  MODIFY `subscriber_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
-
---
--- AUTO_INCREMENT for table `tc`
---
-ALTER TABLE `tc`
-  MODIFY `tc_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
-
---
--- AUTO_INCREMENT for table `testimonial`
---
-ALTER TABLE `testimonial`
-  MODIFY `testimonial_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-
---
--- AUTO_INCREMENT for table `topper`
---
-ALTER TABLE `topper`
-  MODIFY `topper_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
-
---
--- AUTO_INCREMENT for table `user`
---
-ALTER TABLE `user`
-  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
-
---
--- AUTO_INCREMENT for table `user_permission`
---
-ALTER TABLE `user_permission`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=67;
-
---
--- AUTO_INCREMENT for table `user_role`
---
-ALTER TABLE `user_role`
-  MODIFY `role_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
-
---
--- AUTO_INCREMENT for table `video`
---
-ALTER TABLE `video`
-  MODIFY `video_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
-
---
--- AUTO_INCREMENT for table `web_user`
---
-ALTER TABLE `web_user`
-  MODIFY `web_user_id` int(11) NOT NULL AUTO_INCREMENT;
+  `created_date` datetime NOT NULL,
+  PRIMARY KEY (`web_user_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

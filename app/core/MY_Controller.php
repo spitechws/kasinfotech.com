@@ -4,6 +4,7 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 class MY_Controller extends CI_Controller
 {
 
+    public SpiTechApi $spitechApi;
     public  $moduleUrl = '', $moduleId = '0';
     function __construct()
     {

@@ -6,7 +6,7 @@ $autoload['packages'] = array();
 
 $autoload['libraries'] = array(
     'database', 'session', 'form_validation',
-    'AppSecurity', 'SpiTechApi', 'encryption', 'MY_Form_validation'
+    'AppSecurity', 'SpiTechApi/SpiTechApi', 'encryption', 'MY_Form_validation'
 );
 
 $autoload['drivers'] = array();

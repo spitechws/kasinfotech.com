@@ -98,7 +98,7 @@
                                 $password = $aContentInfo->password;
                             }
                             ?>
-                            <input validate="Required" id="password" name="password"  type="password" class="form-control" value="<?php echo $password ?>">
+                            <input validate="Required" id="password" name="password"  type="password" class="form-control <?php echo $activeClass ?>" value="<?php echo $password ?>">
                             <div id="error_password" class="error"><?php echo form_error('password') ?></div>
                         </div>
                     </div>				
