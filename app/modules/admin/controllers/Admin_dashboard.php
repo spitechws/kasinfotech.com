@@ -13,6 +13,7 @@ class Admin_dashboard extends MY_Controller
         parent::setModuleUrl('admin_dashboard');
         parent::setModuleId(20);
         $this->load->model('Dashboard_model', 'oMainModel');
+        $this->load->model('UserModel');
     }
 
     function index()
@@ -72,7 +73,7 @@ class Admin_dashboard extends MY_Controller
     function change_password($editId = 0)
     {
         if (isset($_POST['submitform'])) {
-            $response = $this->oMainModel->change_password();
+            $response = $this->UserModel->change_password();
             if ($response['is_error'] == 0) {
                 set_message('Password Changed successfully');
                 redirect($this->moduleUrl . 'change_password/');

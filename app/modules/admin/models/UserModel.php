@@ -6,7 +6,7 @@ if (!defined('BASEPATH'))
 class UserModel extends MY_Model
 {
 
-   
+
     function __construct()
     {
         parent::__construct();
@@ -68,6 +68,32 @@ class UserModel extends MY_Model
         return $lastId;
     }
 
+    function change_password()
+    {
+        $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
+        $editId = $_SESSION['aUser']->user_id;
+        $this->form_validation->set_rules('password', 'Old Password', 'required');
+        $this->form_validation->set_rules('new_password', 'New Password', 'required');
+        $this->form_validation->set_rules('re_password', 'Re Password', 'required|matches[new_password]');
+        if ($this->form_validation->run() == TRUE) {
+            $password = $this->input->post('password', TRUE);
+            $new_password = $this->input->post('new_password', TRUE);
+            parent::setTable('user');
+            $row = parent::getRecord('email', array("user_id" => $editId));
+            if (!empty($row)) {
+                $res = $this->spitechApi->changePassword($password, $new_password);
+                $response['msg'] = $res->msg;
+            } else {
+                $response['is_error'] = 1;
+                $response['msg'] = "Please enter correct old passowrd.";
+            }
+        } else {
+            $response['is_error'] = 1;
+            $response['msg'] = validation_errors();
+        }
+        return $response;
+    }
+
     function profile()
     {
         $editId = $this->input->post('user_id');
@@ -91,33 +117,9 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $email = $this->input->post('email', true);
             $row = get_row('user', array("email" => filterValue($email)));
-            if (isset($row) && is_object($row) && !empty($row)) {
-                if ($row->role_id == "0") {
-                    $lastId = "Superadmin Password Reset Not Allowed";
-                } else {
-                    $password = random_string(8);
-                    $aInput = array(
-                        "password" => md5($password)
-                    );
-                    $_POST['rowId'] = $row->user_id;
-                    $lastId = parent::save($this->tbl_name, $aInput, 'user_id');
-                    //---------sending mail------------	                    
-                    $template = get_message_template(1);
-                    $subject = $template->subject;
-                    $message = $template->message;
-                    $message = str_replace('[[NAME]]', $row->name, $message);
-                    $message = str_replace('[[LOGIN_URL]]', admin_url(), $message);
-                    $message = str_replace('[[USERNAME]]', $row->email, $message);
-                    $message = str_replace('[[PASSWORD]]', $password, $message);
-                    $message = str_replace('[[SITENAME]]', config_item('site_name'), $message);
-
-                    $arrParam = array(
-                        'to' => $row->email,
-                        'subject' => $subject,
-                        'message' => $message
-                    );
-                    send_spitech_mail($arrParam);
-                }
+            if (!empty($row)) {
+                $res = $this->spitechApi->forgotPassword($email);
+                $lastId = $res->msg;
             } else {
                 $lastId = "This email id is not registered with us.";
             }
@@ -185,7 +187,7 @@ class UserModel extends MY_Model
             $lastId = parent::save($this->tbl_name, $aInput, 'user_id');
             if ($editId == 0) {
                 $password = $this->input->post('password', TRUE);
-               $this->spitechApi->createUser($name, $email, $password);                
+                $this->spitechApi->createUser($name, $email, $password);
             } else {
                 $this->spitechApi->updateUser($name, $email);
             }
