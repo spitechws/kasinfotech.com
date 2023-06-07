@@ -31,8 +31,8 @@
                                         <td align="center"><a href="https://youtu.be/<?php echo $row->link; ?>" target="_blank">https://youtu.be/<?php echo $row->link; ?></a></td>
                                        
                                         <td class="text-center">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->video_id ?>">Edit</a>
-                                            <a onclick="return confirm('Are you sure want to delete this attachment #<?php $row->title;?>?');" class="btn btn-sm btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->video_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->video_id ?>">Edit</a>
+                                            <a onclick="return confirm('Are you sure want to delete this attachment #<?php $row->title;?>?');" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->video_id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php

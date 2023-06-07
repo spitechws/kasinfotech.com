@@ -92,7 +92,7 @@ function is_admin() {
 function load_admin_view($view_name, $data) {
     $ci = & get_instance();
     $data['view_name'] = $view_name . ".php";
-    $ci->load->view('partials/index', $data);
+    $ci->load->view('../views/layouts/index', $data);
 }
 
 function load_home_view($view_name, $data) {

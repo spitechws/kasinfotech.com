@@ -3,7 +3,7 @@
         <div class="panel panel-default">
             <div class="panel-heading panel-heading-btn">
                 <div class="col-md-6"><?php echo $title; ?> : Listing</div>
-                <div class="col-md-6 text-right"><a class="btn btn-primary btn-sm" href="<?php echo config_item('module_url') ?>category/">Category Management</a></div>
+                <div class="col-md-6 text-right"><a class="btn btn-primary btn-xs" href="<?php echo config_item('module_url') ?>category/">Category Management</a></div>
             </div>
             <div class="panel-body">
                 <?php show_message(); ?>                    
@@ -34,9 +34,9 @@
                                         <td><?php echo $row->author_name ?></td>                                        
                                         <td><?php echo config_datetime($row->edited_date); ?></td>
                                         <td class="text-center">
-                                            <a class="edit" href="<?php echo $moduleUrl; ?>add/<?php echo $row->post_id ?>">Edit</a>
-                                            &nbsp;|&nbsp;
-                                            <a onclick="return confirm('Are you sure want to delete post #<?php echo $i; ?>')" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->post_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->post_id ?>">Edit</a>
+                                          
+                                            <a class="btn btn-xs btn-danger" onclick="return confirm('Are you sure want to delete post #<?php echo $i; ?>')" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->post_id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php

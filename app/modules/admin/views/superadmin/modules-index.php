@@ -39,7 +39,7 @@
                                         <td><?php echo $status ?></td>
                                         <td><a href="<?php echo $url;?>" target="_blank"><?php echo $row->url ?></a></td>                                        
                                         <td class="text-center">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>modules_add/<?php echo $row->module_id ?>">Edit</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>modules_add/<?php echo $row->module_id ?>">Edit</a>
                                         </td>
                                     </tr>
                                     <?php

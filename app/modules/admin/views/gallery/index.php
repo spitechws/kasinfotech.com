@@ -43,9 +43,9 @@
                                             ?>
                                         </td>										
                                         <td class="text-center">
-                                            <a class="btn btn-success btn-sm" href="<?php echo $moduleUrl; ?>add_image/<?php echo $row->gallery_id; ?>">+ Add Images</a>
-                                            <a class="btn btn-primary btn-sm" href="<?php echo $moduleUrl; ?>add/<?php echo $row->gallery_id ?>">Edit</a>
-                                            <a onclick="return confirm('Are you sure want to delete this gallery #<?php echo $i; ?>')" class="btn btn-danger btn-sm" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->gallery_id ?>">Delete</a>
+                                            <a class="btn btn-success btn-xs" href="<?php echo $moduleUrl; ?>add_image/<?php echo $row->gallery_id; ?>">+ Add Images</a>
+                                            <a class="btn btn-primary btn-xs" href="<?php echo $moduleUrl; ?>add/<?php echo $row->gallery_id ?>">Edit</a>
+                                            <a onclick="return confirm('Are you sure want to delete this gallery #<?php echo $i; ?>')" class="btn btn-danger btn-xs" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->gallery_id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php

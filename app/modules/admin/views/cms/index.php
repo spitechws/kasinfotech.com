@@ -33,7 +33,7 @@
                                         <td><a href="<?php echo $preview_url; ?>" class="btn btn-xs btn-success" target="_blank">Preview</a></td>
                                         <td class="text-center">
                                             <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->cms_id ?>">Edit</a>
-                                            &nbsp;|&nbsp;
+                                          
                                             <a onclick="return confirm('Are you sure want to delete cms #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->cms_id ?>">Delete</a>
                                         </td>
                                     </tr>

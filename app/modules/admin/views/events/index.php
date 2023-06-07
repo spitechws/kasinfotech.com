@@ -31,8 +31,8 @@
                                         <td align="center"><a href="<?php echo media_download_url($row->attachment, 'events'); ?>" class="btn btn-xs btn-success"><i class="fa fa-download"></i> Download</a></td>
                                        
                                         <td class="text-center">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->event_id ?>">Edit</a>
-                                            <a onclick="return confirm('Are you sure want to delete this attachment #<?php $row->title;?>?');" class="btn btn-sm btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->event_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->event_id ?>">Edit</a>
+                                            <a onclick="return confirm('Are you sure want to delete this attachment #<?php $row->title;?>?');" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->event_id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php

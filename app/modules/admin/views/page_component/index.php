@@ -36,7 +36,7 @@
                                         <td><?php echo $row->section ?></td>	
                                         <td><?php echo $row->name ?></td>                                        
                                         <td class="text-center">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
                                         </td>
                                     </tr>
                                     <?php

@@ -36,9 +36,9 @@
                                         <td><?php echo $row->mobile; ?></td>
                                         <td class="status-<?php echo strtolower($status); ?>"><?php echo $status; ?></td>
                                         <td class="action">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>permission/<?php echo $row->user_id ?>">Permission</a>
-                                            <a class="btn btn-sm btn-success" href="<?php echo $moduleUrl; ?>add/<?php echo $row->user_id ?>">Edit</a>
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>send_password/?email=<?php echo $row->email ?>">Send Password</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>permission/<?php echo $row->user_id ?>">Permission</a>
+                                            <a class="btn btn-xs btn-success" href="<?php echo $moduleUrl; ?>add/<?php echo $row->user_id ?>">Edit</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>send_password/?email=<?php echo $row->email ?>">Send Password</a>
                                         </td>
                                     </tr>
                                 <?php

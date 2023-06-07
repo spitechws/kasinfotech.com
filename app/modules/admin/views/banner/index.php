@@ -35,8 +35,8 @@
                                         <td><?php echo $row->short_description ?></td>
                                         <td><?php echo $status ?></td>
                                         <td class="text-center">
-                                            <a class="btn btn-sm btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->banner_id ?>">Edit</a>
-                                            <a onclick="return confirm('Are you sure want to delete this banner #<?php echo $i; ?>')" class="btn btn-sm btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->banner_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->banner_id ?>">Edit</a>
+                                            <a onclick="return confirm('Are you sure want to delete this banner #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->banner_id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php
