@@ -3,7 +3,7 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class HomeModel extends MY_Model {
+class Home_model extends MY_Model {
 
     function __construct() {
         parent::__construct();
@@ -239,34 +239,7 @@ class HomeModel extends MY_Model {
         return $res;
     }
 
-    function event_gallery_list($aWhere = array()) {
-        $str_select = 't1.*';
-        $this->db->select($str_select);
-        $this->db->from(tbl_prefix() . 'event_gallery as t1');
-        $this->db->where($aWhere);
-        //$this->db->order_by('title','asc');	
-        $this->db->order_by('gallery_id', 'desc');
-        $res = $this->db->get()->result();
-        foreach ($res as $key => $value) {
-            $this->db->select('image_id,image,title');
-            $this->db->from(tbl_prefix() . 'event_gallery_image');
-            $this->db->where('gallery_id', $value->gallery_id);
-            $this->db->order_by('image_id', 'desc');
-            $res[$key]->aImage = $this->db->get()->result();
-        }
-        return $res;
-    }
-
-    function notification_list($aWhere = array()) {
-        $str_select = 't1.*';
-        $this->db->select($str_select);
-        $this->db->from(tbl_prefix() . 'notification as t1');
-        $this->db->where($aWhere);
-        $this->db->order_by("notification_id", 'desc');
-        $aResponse = $this->db->get()->result();
-        return $aResponse;
-    }
-
+   
     function course_list(){
         $str_select = 't1.*';
         $this->db->select($str_select);
@@ -281,28 +254,12 @@ class HomeModel extends MY_Model {
         $this->db->from(tbl_prefix().'testimonial as t1');
         $res=$this->db->get()->result();
         return $res;
-    }
+    }    
 
-    function topper_list(){
+    function service_list(){
         $str_select = 't1.*';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'topper as t1');
-        $res=$this->db->get()->result();
-        return $res;
-    }
-
-    function faculty_list(){
-        $str_select = 't1.*';
-        $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'faculty as t1');
-        $res=$this->db->get()->result();
-        return $res;
-    }
-
-    function facility_list(){
-        $str_select = 't1.*';
-        $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'facility as t1');
+        $this->db->from(tbl_prefix().'services as t1');
         $res=$this->db->get()->result();
         return $res;
     }
@@ -356,18 +313,7 @@ class HomeModel extends MY_Model {
         }
         return $res;
     }
-
-    function get_tc() {
-        $this->db->select('t1.*');
-        $this->db->from(tbl_prefix() . 'tc as t1');
-        if (isset($_GET['search'])) {
-            $this->db->where('t1.admission_no', $_GET['admission_no']);
-            $this->db->or_where('t1.tc_no', $_GET['tc_no']);
-        }
-        $this->db->order_by('t1.tc_id', 'desc');
-        $results = $this->db->get()->result();
-        return $results;
-    }
+  
 
     function save_subscriber() {
         $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');

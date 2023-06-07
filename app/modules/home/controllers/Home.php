@@ -10,7 +10,7 @@
         {
             parent::__construct();
             parent::setModuleUrl('home');
-            $this->load->model('HomeModel', 'oMainModel');
+            $this->load->model('Home_model', 'oMainModel');
         }
 
         function _remap($method = "index")
@@ -20,15 +20,17 @@
             foreach ($rows as $row) {
                 $pages[] = $row->page_name;
             }
+            //check theme folder
             $this->checkTheme();
+
             if (config_item('is_suspended') == "1") {
-                suspended();
+                suspended(); // check suspended
             } else if (config_item('is_underconstruction') == "1") {
-                underconstruction();
+                underconstruction(); // check underconstruction
             } else if (in_array($method, $pages)) {
-                $this->cms_page($method);
+                $this->cms_page($method); // load pages
             } else {
-                page_not_found();
+                page_not_found(); // page not found
             }
         }
 
@@ -38,7 +40,7 @@
             $data['cms'] = $cms;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
-            $data['aFacilityMenu'] = $this->oMainModel->facility_list();
+            $data['aServices'] = $this->oMainModel->service_list();
             return $data;
         }
 
@@ -50,37 +52,7 @@
                 case "index":
                     $data['aBanner'] = get_rows('banner');
                     $data['aGalleryImages'] = $this->oMainModel->gallery_image_list();
-                    $data['aTestimonial'] = $this->oMainModel->testimonial_list();
-                    $data['aToppers'] = $this->oMainModel->topper_list();
-                    $data['aCourse'] = $this->oMainModel->course_list();
-                    $data['aFaculty'] = $this->oMainModel->faculty_list();
-                    break;
-
-                case "facility-details":
-                    $facility_id = 0;
-                    if (isset($_GET['id']) && $_GET['id'] != "") {
-                        $facility_id = base64_decode($_GET['id']);
-                    }
-                    $aFacility = get_row('facility', array("facility_id" => $facility_id));
-                    if (isset($aFacility->facility_id)) {
-                        $data['aFacility'] = $aFacility;
-                        $data['cms']->page_title = $aFacility->title;
-                        $data['cms']->page_content = $aFacility->description;
-                    } else {
-                        page_not_found();
-                    }
-                    break;
-
-                case "tc":
-                    $data['aTc'] = $this->oMainModel->get_tc();
-                    break;
-
-                case "kids-gallery":
-                    $data['aGallery'] = $this->oMainModel->gallery_list();
-                    break;
-
-                case "event-gallery":
-                    $data['aEventGallery'] = $this->oMainModel->event_gallery_list();
+                    $data['aTestimonial'] = $this->oMainModel->testimonial_list();                  
                     break;
 
                 case "video-gallery":
@@ -98,20 +70,8 @@
                     $data = $this->blog_details($data);
                     break;
 
-                case "academic-calendar":
-                    $data['aCalendar'] = $this->oMainModel->academic_calendar_list();
-                    break;
-
-                case "notification":
-                    $data['aNotification'] = $this->oMainModel->latest_notification_list();
-                    break;
-
                 case "contact":
                     $this->save_enquiry('contact');
-                    break;
-
-                case "oppening":
-                    $data['aCareer'] = get_rows('career', array("status" => "1"));
                     break;
 
                 case "career":
@@ -134,30 +94,9 @@
                         }
                         redirect(base_url() . "career-apply?career_id=" . base64_encode($career_id));
                     }
-                    break;
+                    break;             
 
-                case "admission-notification":
-                    $data['aAdmissionNotification'] = $this->oMainModel->admission_notification_list();
-                    break;
-
-                case "sports-department":
-                    $data['aSports'] = $this->oMainModel->sports_dept_list();
-                    break;
-
-                case "courses":
-                    $data['aCourse'] = $this->oMainModel->course_list();
-                    break;
-
-                case "alumni":
-                    if (isset($_POST['submitform']) && $_POST['submitform'] != "") {
-                        $res = $this->oMainModel->alumni_register();
-                        if ($res['status'] == "1") {
-                            set_message($res['message']);
-                        } else {
-                            set_message($res['message'], 'e');
-                        }
-                        redirect(base_url() . "alumni");
-                    }
+                case "services":                    
                     break;
 
                 case "blog":
@@ -170,79 +109,11 @@
                         }
                     }
                     $data['aBlogCategory'] = $this->oMainModel->blog_category_list();
-                    break;
-
-                case "recognition":
-                    break;
-
-                case "admission":
-                    $res = array('status' => 0, 'message' => '');
-                    $data['aCourse'] = $this->oMainModel->course_list();
-                    if (isset($_POST['submitform']) && $_POST['submitform'] != "") {
-                        $res = $this->oMainModel->admission();
-                        if ($res['status'] == "1") {
-                            set_message($res['message']);
-                            redirect(base_url() . "admission/");
-                        } else {
-                            set_message($res['message'], 'e');
-                            redirect(base_url() . "admission/");
-                        }
-                    }
-                    $data['msg_status'] = $res['status'];
-                    $data['msg'] = $res['message'];
-                    break;
-
-                case "meritlist":
-                    $data['aMerit'] = $this->oMainModel->merit_list();
-                    break;
-
-                case "college-ssr":
-                    $data['aSsr'] = $this->oMainModel->ssr_list();
-                    break;
-
-                case "admission-lists":
-                    $data['aAdmissionList'] = $this->oMainModel->admission_list();
-                    break;
-
-                case "download":
-                    $data['aDownload'] = $this->oMainModel->download_list();
-                    break;
-
-                case "news":
-                    $data['aNews'] = $this->oMainModel->news_list();
-                    break;
-
-                case "important-links":
-                    $data['aLinks'] = $this->oMainModel->links_list();
-                    break;
-
-                case "feedback":
-                    if (isset($_POST['submitform']) && $_POST['submitform'] != "") {
-                        $res = $this->oMainModel->feedback();
-                        if ($res['status'] == "1") {
-                            set_message($res['message']);
-                        } else {
-                            set_message($res['message'], 'e');
-                        }
-                        redirect(base_url() . "feedback/");
-                    }
-                    break;
-
-                case "events-notification":
-                    $data['aEvents'] = $this->oMainModel->events_list();
-                    break;
+                    break;              
 
                 case "about":
-
                     break;
-
-                case "teachers":
-                    $data['aFaculty'] = $this->oMainModel->faculty_list();
-                    break;
-
-                case "syllabus":
-                    break;
-
+              
                 default:
                     $view_name = 'cms';
                     break;

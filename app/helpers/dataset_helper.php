@@ -28,7 +28,7 @@ function db_tables_to_clean() {
     $aDbTables = array(
         "banner", "career", "download", "enquiry", "gallery","facility",
         "gallery_image", "job_application","subscriber", "post_category", "post",
-        "page_component", "course", "topper","faculty", "testimonial", "user_permission"
+        "page_component", "services", "topper","faculty", "testimonial", "user_permission"
     );
     return $aDbTables;
 }
@@ -37,7 +37,7 @@ function media_folders_to_clean() {
     $data = array(
         "banner", "job_application", "site_settings",
         "press_release", "gallery", "news", "customer",
-        "course", "faculty", "toppers","facility"
+        "services", "faculty", "toppers","facility"
     );
     return $data;
 }

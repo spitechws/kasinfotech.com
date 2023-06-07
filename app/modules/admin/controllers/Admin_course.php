@@ -21,7 +21,7 @@ class Admin_course extends MY_Controller {
         $data['menu'] = 'modules';
         $data['moduleId'] = $this->moduleId;
         $data['breadcrumb'] = array('' => 'Course');
-        load_admin_view('course/index', $data);
+        load_admin_view('services/index', $data);
         hide_message();
     }
 
