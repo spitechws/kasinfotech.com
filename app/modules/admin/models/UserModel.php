@@ -266,7 +266,7 @@ class UserModel extends MY_Model
     function insert_permission($user_id)
     {
 
-        $this->db->select('group_id,module_id');
+        $this->db->select('id,module_id');
         $this->db->from(tbl_prefix() . "modules");
         $res = $this->db->get()->result();
 
@@ -292,7 +292,7 @@ class UserModel extends MY_Model
         foreach ($results as $key => $value) {
             $this->db->select('*');
             $this->db->from(tbl_prefix() . 'modules');
-            $this->db->where('group_id', $value->group_id);
+            $this->db->where('id', $value->id);
             $this->db->where('status', '1');
             $qry = $this->db->get();
             $results[$key]->aModules = $qry->result();

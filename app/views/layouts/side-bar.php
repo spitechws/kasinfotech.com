@@ -12,9 +12,7 @@
     <li class="<?php get_active("media", $menu) ?>">
         <a href="<?php echo base_url() ?>admin_media/"><span class="glyphicon glyphicon-camera"></span>Media</a>
     </li>
-    <li class="<?php get_active("page_component", $menu) ?>">
-        <a href="<?php echo base_url() ?>admin_component/"><span class="glyphicon glyphicon-dashboard"></span>Page Components</a>
-    </li>  
+    
     <?php
     $aMenu = get_menu();
     if (isset($aMenu) && is_array($aMenu) && !empty($aMenu)) {

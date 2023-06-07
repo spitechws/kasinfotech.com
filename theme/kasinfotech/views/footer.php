@@ -3,9 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-lg-4">
-                <div class="logo " > <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"> </div>
+                <div class="logo "> <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"> </div>
                 <!-- end logo -->
-                <div class="footer-info " >
+                <div class="footer-info ">
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
 
                     </p>
@@ -13,7 +13,7 @@
                     <p><i class="flaticon-email iconpfooter3 "></i>&nbsp;&nbsp;&nbsp;<?php echo config_item('site_email') ?></p><br>
                 </div>
                 <!-- end footer-info -->
-                <ul class="footer-social " >
+                <ul class="footer-social ">
                     <li><a href="#"><i class="flaticon-facebook-1 iconsociaf"></i></a></li>
 
                     <li><a href="#"><i class="flaticon-instagram-1 iconsociaf"></i></a></li>
@@ -33,8 +33,8 @@
                         <p role="status" aria-live="polite" aria-atomic="true"></p>
                         <ul></ul>
                     </div>
-                    <form  method="post">
-                                              
+                    <form method="post">
+
                         <div class="form__grup wow fadeInLeft" data-wow-delay="0.7s">
                             <span class="wpcf7-form-control-wrap" data-name="email-217"><input type="email" name="email-217" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-popup__input" aria-required="true" aria-invalid="false" placeholder="Your Email Address"></span>
                         </div>
@@ -52,12 +52,16 @@
                 <div class="footer-menu">
                     <div class="menu-services-container">
                         <ul id="menu-services" class="menu">
-                            <li><a href="data-strategy/index.htm">Data Strategy</a></li>
-                            <li><a href="machine-learning/index.htm">Machine Learning</a></li>
-                            <li><a href="software-solutions/index.htm">Software Solutions</a></li>
-                            <li><a href="business-mind/index.htm">Business Mind</a></li>
-                            <li><a href="financial-services/index.htm">Financial Services</a></li>
-                            <li><a href="data-security/index.htm">Data Security</a></li>
+                            <?php
+                            if (!empty($aServices) && is_array($aServices)) {
+                                foreach ($aServices as $row) {
+                                    $url = base_url() . 'service/' . $row->slug;
+                            ?>
+                                    <li><a href="<?php echo $url; ?>"><?php echo $title; ?></a></li>
+                            <?php
+                                }
+                            }
+                            ?>
                         </ul>
                     </div>
                 </div>
@@ -112,4 +116,5 @@
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/custom.js?ver=1' id='custom-js'></script>
 
 </body>
+
 </html>
