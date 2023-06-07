@@ -24,11 +24,11 @@ function status() {
     return $status;
 }
 
-function db_tables_to_clean() {
+function factory_reset_tables() {
     $aDbTables = array(
-        "banner", "career", "download", "enquiry", "gallery","facility",
+        "banner", "career", "service", "enquiry", "gallery",
         "gallery_image", "job_application","subscriber", "post_category", "post",
-        "page_component", "services", "topper","faculty", "testimonial", "user_permission"
+        "page_component", "testimonial", "user_permission"
     );
     return $aDbTables;
 }
@@ -36,8 +36,8 @@ function db_tables_to_clean() {
 function media_folders_to_clean() {
     $data = array(
         "banner", "job_application", "site_settings",
-        "press_release", "gallery", "news", "customer",
-        "services", "faculty", "toppers","facility"
+        "press_release", "gallery",
+        "service", "faculty", "toppers","facility"
     );
     return $data;
 }

@@ -71,7 +71,7 @@ function clean_media() {
 
 function db_scan() {
     $aData = array();
-    $aDbTables = db_tables_to_clean();
+    $aDbTables = factory_reset_tables();
     foreach ($aDbTables as $table) {
         $temp = new stdClass();
         $temp->table_name = $table;

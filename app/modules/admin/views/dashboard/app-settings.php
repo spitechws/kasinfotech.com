@@ -163,54 +163,7 @@
                                         <div id="error_site_address" class="error"><?php echo form_error('site_address') ?></div>
                                     </div>
                                 </div>
-
-                                <div class="form-group">
-                                    <label class="col-md-4 ">Recognition (.pdf)</label>
-                                    <div class="col-md-8">
-                                        <?php
-                                        $cbsc_mandate = '';
-                                        if (isset($_POST['cbsc_mandate'])) {
-                                            $cbsc_mandate = $_POST['cbsc_mandate'];
-                                        } else if (isset($aContentInfo->cbsc_mandate)) {
-                                            $cbsc_mandate = $aContentInfo->cbsc_mandate;
-                                        }                                        
-                                        ?>
-                                        <input id="cbsc_mandate" name="cbsc_mandate" type="file" accept=".pdf">
-                                        <input type="hidden" name="old_cbsc_mandate" id="old_cbsc_mandate" value="<?php echo $cbsc_mandate;?>"/>
-                                        <?php
-                                        if ($cbsc_mandate != "") {
-                                            $url = media_url($cbsc_mandate, 'site_settings');
-                                            ?>
-                                            <a target="_blank" href="<?php echo $url ?>">Download</a>
-                                            <?php
-                                        }
-                                        ?>                                        
-                                    </div>
-                                </div>
-
-                                <div class="form-group">
-                                    <label class="col-md-4 ">Committees (.pdf)</label>
-                                    <div class="col-md-8">
-                                        <?php
-                                        $committee = '';
-                                        if (isset($_POST['committee'])) {
-                                            $committee = $_POST['committee'];
-                                        } else if (isset($aContentInfo->committee)) {
-                                            $committee = $aContentInfo->committee;
-                                        }                                        
-                                        ?>
-                                        <input id="committee" name="committee" type="file" accept=".pdf">
-                                        <input type="hidden" name="old_committee" id="old_committee" value="<?php echo $committee;?>"/>
-                                        <?php
-                                        if ($committee != "") {
-                                            $url = media_url($committee, 'site_settings');
-                                            ?>
-                                            <a target="_blank" href="<?php echo $url ?>">Download</a>
-                                            <?php
-                                        }
-                                        ?>                                        
-                                    </div>
-                                </div>
+                               
 
                                 <div class="form-group">
                                     <label class="col-md-4">Date Format<span class="required">*</span></label>

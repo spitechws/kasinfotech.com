@@ -12,7 +12,7 @@ class Dashboard_model extends MY_Model {
 
     function dashboard_counters() {
         $temp = new stdClass();
-        $count = get_count('services');
+        $count = get_count('service');
         $temp->course_count = $count;
         $count = get_count('enquiry');
         $temp->enquiry_count = $count;
@@ -119,45 +119,9 @@ class Dashboard_model extends MY_Model {
             }
         } else {
             $site_favicon = $_POST['old_site_favicon'];
-        }
-
-        $cbsc_mandate = '';
-        if (isset($_FILES['cbsc_mandate']['name']) && $_FILES['cbsc_mandate']['name'] != "") {
-            $cbsc_mandate = upload_media('cbsc_mandate', 'pdf', 'site_settings');
-            if (isset($cbsc_mandate['error'])) {
-                $response['is_error'] = 1;
-                $response['msg'] = $cbsc_mandate['error'];
-                $cbsc_mandate = '';
-            } else {
-                $cbsc_mandate = $cbsc_mandate['file_name'];
-            }
-            //======(Checking Image)========================
-            if (isset($_POST['old_cbsc_mandate']) && $_POST['old_cbsc_mandate'] != '') {
-                remove_media($_POST['old_cbsc_mandate'], 'site_settings');
-            }
-        } else {
-            $cbsc_mandate = $_POST['old_site_favicon'];
-        }
-        $committee = '';
-        if (isset($_FILES['committee']['name']) && $_FILES['committee']['name'] != "") {
-            $committee = upload_media('committee', 'pdf', 'site_settings');
-            if (isset($committee['error'])) {
-                $response['is_error'] = 1;
-                $response['msg'] = $committee['error'];
-                $committee = '';
-            } else {
-                $committee = $committee['file_name'];
-            }
-            //======(Checking Image)========================
-            if (isset($_POST['old_committee']) && $_POST['old_committee'] != '') {
-                remove_media($_POST['old_committee'], 'site_settings');
-            }
-        } else {
-            $committee = $_POST['old_committee'];
-        }
-        $aInput = array(
-            "cbsc_mandate" => $cbsc_mandate,
-            "committee" => $committee,
+        }       
+       
+        $aInput = array(           
             "logo_width" => $_POST['logo_width'],
             "logo_height" => $_POST['logo_height'],
             "datetime_format" => $_POST['datetime_format'],
