@@ -38,7 +38,7 @@ class Superadmin_model extends MY_Model
         }
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'modules as t1');
-        $this->db->join(tbl_prefix() . 'module_group as t2', 't1.group_id=t2.id', 'LEFT');
+        $this->db->join(tbl_prefix() . 'module_group as t2', 't1.group_id=t2.group_id', 'LEFT');
         $this->db->where($aWhere);
         $res = $this->db->get()->row();
         return $res;
@@ -51,7 +51,7 @@ class Superadmin_model extends MY_Model
         }
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'modules as t1');
-        $this->db->join(tbl_prefix() . 'module_group as t2', 't1.group_id=t2.id', 'LEFT');
+        $this->db->join(tbl_prefix() . 'module_group as t2', 't1.group_id=t2.group_id', 'LEFT');
         $this->db->where($aWhere);
         if (isset($_GET['search'])) {
             if (isset($_GET['from_date']) && $_GET['from_date'] != '') {
@@ -69,7 +69,7 @@ class Superadmin_model extends MY_Model
         if ($this->uri->segment(3)) {
             $offset = $this->uri->segment(3);
         }
-        $this->db->order_by("id", 'desc');
+        $this->db->order_by("group_id", 'desc');
         $this->db->limit($limit, $offset);
         $res = $this->db->get()->result();
         $res = parent::customPagination($res);
@@ -80,12 +80,12 @@ class Superadmin_model extends MY_Model
     {
         $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
         $editId = $this->input->post('module_id');
-        $this->form_validation->set_rules('id', 'Module Group', 'required');
+        $this->form_validation->set_rules('group_id', 'Module Group', 'required');
         $this->form_validation->set_rules('title', 'Module title', 'required');
         $this->form_validation->set_rules('url', 'Module URL', 'required');
         $this->form_validation->set_rules('icon', 'Module Icon', 'required');
         if ($this->form_validation->run() == TRUE) {
-            $id = $this->input->post('id', TRUE);
+            $group_id = $this->input->post('group_id', TRUE);
             $title = $this->input->post('title', TRUE);
             $url = $this->input->post('url', TRUE);
             $icon = $this->input->post('icon', TRUE);
@@ -95,7 +95,7 @@ class Superadmin_model extends MY_Model
             $module_table_pk = $this->input->post('module_table_pk', TRUE);
             $aInput = array(
                 "icon" => filterValue($icon),
-                "id" => filterValue($id),
+                "group_id" => filterValue($group_id),
                 "title" => filterValue($title),
                 "status" => filterValue($status),
                 "url" => filterValue($url),
@@ -114,7 +114,16 @@ class Superadmin_model extends MY_Model
         return $response;
     }
 
-   
+    /* -----------Language---------------- */
+
+    function get_language_list()
+    {
+        $this->db->select('t1.*');
+        $this->db->from(tbl_prefix() . 'language as t1');
+        $this->db->where('status', '1');
+        $res = $this->db->get()->result();
+        return $res;
+    }
 
     /* ----------------Message Template------------ */
 

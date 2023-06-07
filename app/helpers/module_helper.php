@@ -150,18 +150,18 @@ function get_menu() {
     $ci = & get_instance();
     $ci->db->select('*');
     $ci->db->from(tbl_prefix() . 'module_group');
-    $ci->db->order_by('id', 'asc');
+    $ci->db->order_by('group_id', 'asc');
     $qry = $ci->db->get();
     $results = $qry->result();
     foreach ($results as $key => $value) {
         $ci->db->select('t1.*');
         $ci->db->from(tbl_prefix() . 'modules as t1');
-        if (isset($_SESSION['aUser']->id) && $_SESSION['aUser']->id > 1) {
-            $ci->db->join(tbl_prefix() . 'user_permission as t2', 't1.id=t2.module_id', 'LEFT');
-            $ci->db->where('t2.user_id', $_SESSION['aUser']->id);
+        if (isset($_SESSION['aUser']->role_id) && $_SESSION['aUser']->role_id > 1) {
+            $ci->db->join(tbl_prefix() . 'user_permission as t2', 't1.module_id=t2.module_id', 'LEFT');
+            $ci->db->where('t2.user_id', $_SESSION['aUser']->user_id);
             $ci->db->where('t2.view_permission', '1');
         }
-        $ci->db->where('t1.id', $value->id);
+        $ci->db->where('t1.group_id', $value->group_id);
         $ci->db->where('t1.status', '1');
         $ci->db->where('t1.is_module', '1');
         $ci->db->order_by('t1.sequence_no', 'asc');

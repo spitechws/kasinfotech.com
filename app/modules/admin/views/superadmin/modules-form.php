@@ -18,22 +18,22 @@
                         <label class="col-md-3 control-label"><?php echo lang('Module Group'); ?><span class="required">*</span></label>
                         <div class="col-md-3">
                             <?php
-                            $id = '';
-                            if (isset($_POST['id'])) {
-                                $id = $_POST['id'];
-                            } else if (isset($aContentInfo->id)) {
-                                $id = $aContentInfo->id;
+                            $group_id = '';
+                            if (isset($_POST['group_id'])) {
+                                $group_id = $_POST['group_id'];
+                            } else if (isset($aContentInfo->group_id)) {
+                                $group_id = $aContentInfo->group_id;
                             }
                             $aOption = array('' => 'Select Module Group');
                             if (isset($aModuleGroup) && is_array($aModuleGroup) && !empty($aModuleGroup)) {
                                 foreach ($aModuleGroup as $key => $value) {
-                                    $aOption[$value->id] = $value->title;
+                                    $aOption[$value->group_id] = $value->title;
                                 }
                             }
-                            $attribute = 'id="id" class="form-control" validate="Required" ';
-                            echo form_dropdown('id', $aOption, $id, $attribute);
+                            $attribute = 'id="group_id" class="form-control" validate="Required" ';
+                            echo form_dropdown('group_id', $aOption, $group_id, $attribute);
                             ?>
-                            <div class="error" id="error_id"></div>
+                            <div class="error" id="error_group_id"></div>
                         </div>								
                     </div>
 
