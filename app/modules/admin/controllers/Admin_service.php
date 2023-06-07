@@ -3,14 +3,14 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Admin_course extends MY_Controller {
+class Admin_service extends MY_Controller {
 
     function __construct() {
         parent::__construct();
         checkAdminLogin();
-        parent::setModuleUrl('admin_course');
+        parent::setModuleUrl('admin_service');
         parent::setModuleId(24);
-        $this->load->model('Course_model', 'oMainModel');
+        $this->load->model('Service_model', 'oMainModel');
     }
 
     function index() {

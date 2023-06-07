@@ -15,14 +15,9 @@ $aAdmin = array(
     "admin_job_application",
     "admin_media","admin_component",
     "admin_notification","admin_testimonial",
-    "admin_topper", "admin_course",'admin_subscriber',
-    "admin_facility", "admin_download", "admin_academic_calendar",
-    "admin_admission_notification", "admin_sports",
-    "admin_alumni", "admin_merit", "admin_ssr",
-    "admin_admission_list", "admin_news",
-    "admin_links", "admin_events", "admin_feedback",
-    "admin_admission", "admin_event_gallery", "admin_video",
-    "admin_tc"
+    "admin_topper", "admin_service",'admin_subscriber',
+    "admin_video",
+    "admin_services"
 );
 
 foreach ($aAdmin as $controller) {
