@@ -5,7 +5,9 @@
 <aside class="side-widget">
     <div class="inner">
         <!-- Logo Menu Mobile -->
-        <div class="logo"> <a href="<?php echo $site_url; ?>"><img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"></a> </div>
+        <div class="logo"> <a href="<?php echo $site_url; ?>">
+                <img src="<?php echo $site_theme; ?>images/logo.png"></a>
+        </div>
         <div class="hide-mobile">
             <div class="or">
                 <h2 class="h2-baslik-hizmetler-21"> Contact Information </h2>
@@ -83,7 +85,7 @@
     <div class="container">
         <!-- Logo Menu Desktop -->
         <div class="logo"> <a href="<?php echo $site_url; ?>">
-                <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image">
+                <img src="<?php echo $site_theme; ?>images/logo.png">
 
             </a>
         </div>

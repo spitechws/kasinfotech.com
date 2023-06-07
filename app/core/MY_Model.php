@@ -8,7 +8,7 @@ class MY_Model extends CI_Model {
     public $response = array('status' => '-1', 'message' => '');
     public $tbl_name = '';
     private $aJoin = array(); // array("sTableName","sCondition","sType");
-    public SpiTechApi $spitechApi;
+    public $spitechApi;
 
     function __construct() {
         parent::__construct();
