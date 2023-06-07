@@ -465,7 +465,7 @@ body {
   width: 0;
   height: 0;
   padding: 1.5rem;
-  border: 0.2rem solid #f1f1f1;
+  /* border: 0.2rem solid #f1f1f1; */
   position: fixed;
   border-radius: 10rem;
   pointer-events: none;

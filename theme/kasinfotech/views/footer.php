@@ -94,9 +94,9 @@
         <div class="bosluk3"></div>
     </div>
 </footer>
-<script src='wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
-<script src='wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
-<script src='wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='<?php echo $site_theme; ?>wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='<?php echo $site_theme; ?>wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='<?php echo $site_theme; ?>wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
 
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/team.js?ver=1' id='team-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/jquery.min.js?ver=1' id='jquery-js'></script>
@@ -106,7 +106,7 @@
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/wow.min.js?ver=1' id='wow-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/scripts.js?ver=1' id='scripts-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/3d.jquery.js?ver=1' id='3d-js'></script>
-<script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/pointer.js?ver=1' id='pointer-js'></script>
+<!-- <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/pointer.js?ver=1' id='pointer-js'></script> -->
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/yukari-cik.js?ver=1' id='yukari-cik-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/tabs.js?ver=1' id='tabs-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/custom.js?ver=1' id='custom-js'></script>

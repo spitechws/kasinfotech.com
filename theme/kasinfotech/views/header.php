@@ -12,11 +12,6 @@ $site_theme = site_assets();
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $site_theme; ?>images/favicon.png">
     <meta name="description" content="Bring the Value of Artificial Intelligence to Life Faster to Achieve Breakthrough Innovations.">
 
-
-    <link href="../../css?family=Poppins:100,300,400,700,900" rel="stylesheet">
-
-    <meta name='robots' content='max-image-preview:large'>
-
     <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'>
     <link rel='stylesheet' id='classic-theme-styles-css' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'>
     <link rel="stylesheet" href="<?php echo $site_theme; ?>assets/header.css">
@@ -40,15 +35,15 @@ $site_theme = site_assets();
     <link rel="alternate" type="text/xml+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F&#038;format=xml">
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <script>
-        // window._wpemojiSettings = {
-        //     "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
-        //     "ext": ".png",
-        //     "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
-        //     "svgExt": ".svg",
-        //     "source": {
-        //         "concatemoji": "https:\/\/garantiwebtasarim.com\/wordpress\/datax\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"
-        //     }
-        // };
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https:\/\/garantiwebtasarim.com\/wordpress\/datax\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"
+            }
+        };
         /*! This file is auto-generated */
         ! function(e, a, t) {
             var n, r, o, i = a.createElement("canvas"),
