@@ -12,7 +12,7 @@ class Dashboard_model extends MY_Model {
 
     function dashboard_counters() {
         $temp = new stdClass();
-        $count = get_count('course');
+        $count = get_count('services');
         $temp->course_count = $count;
         $count = get_count('enquiry');
         $temp->enquiry_count = $count;

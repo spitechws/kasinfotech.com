@@ -161,49 +161,7 @@
                                         <input validate="Required" id="version" name="version"  type="text" class="form-control" placeholder="<?php echo lang('App Version') ?>" value="<?php echo $version ?>">
                                         <div id="error_version" class="error"><?php echo form_error('version') ?></div>
                                     </div>
-                                </div>
-
-
-                                <div class="form-group">
-                                    <label class="col-md-4 ">Is Multilingual?<span class="required">*</span></label>
-                                    <div class="col-md-8">
-                                        <?php
-                                        $is_multilingual = '';
-                                        if (isset($_POST['is_multilingual'])) {
-                                            $is_multilingual = $_POST['is_multilingual'];
-                                        } else if (isset($aContentInfo->is_multilingual)) {
-                                            $is_multilingual = $aContentInfo->is_multilingual;
-                                        }
-                                        $aOption = array('0' => "No", "1" => "Yes");
-                                        $attribute = 'validate="Required" id="is_multilingual" class="form-control"';
-                                        echo form_dropdown('is_multilingual', $aOption, $is_multilingual, $attribute);
-                                        ?>												
-                                        <div id="error_is_multilingual" class="error"><?php echo form_error('is_multilingual') ?></div>
-                                    </div>
-                                </div>
-
-                                <div class="form-group">
-                                    <label class="col-md-4 ">Default Language<span class="required">*</span></label>
-                                    <div class="col-md-8">
-                                        <?php
-                                        $language = 'english';
-                                        if (isset($_POST['language'])) {
-                                            $language = $_POST['language'];
-                                        } else if (isset($aContentInfo->language)) {
-                                            $language = $aContentInfo->language;
-                                        }
-                                        $aOption = array();
-                                        if (isset($aLangugae) && is_array($aLangugae) && !empty($aLangugae)) {
-                                            foreach ($aLangugae as $row) {
-                                                $aOption[$row->language] = strtoupper($row->language);
-                                            }
-                                        }
-                                        $attribute = 'validate="Required" id="language" class="form-control"';
-                                        echo form_dropdown('language', $aOption, $language, $attribute);
-                                        ?>												
-                                        <div id="error_language" class="error"><?php echo form_error('language') ?></div>
-                                    </div>
-                                </div>                              
+                                </div>                                                              
                             </div>
                         </div>
 

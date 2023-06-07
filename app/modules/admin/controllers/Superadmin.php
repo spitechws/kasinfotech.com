@@ -22,8 +22,7 @@ class Superadmin extends MY_Controller {
                 set_message($reesponse['msg'], 'e');
             }
             redirect($this->moduleUrl);
-        }
-        $data['aLangugae'] = $this->oMainModel->get_language_list();
+        }        
         $data['aContentInfo'] = (object) get_config();      
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = lang("Application Settings");
@@ -52,59 +51,7 @@ class Superadmin extends MY_Controller {
         hide_message();
     }
 
-    //-------language and label------------
-    function update_label() {
-        $label_id = $_POST['label_id'];
-        $label = $_POST['label'];
-        $this->db->update(tbl_prefix() . 'label', array('label' => $label), array('label_id' => $label_id));
-    }
-
-    function set_default_language() {
-        $language = $_POST['language'];
-        update_config(array('language' => $language));
-        hide_message();
-    }
-
-    function label() {
-        if (isset($_POST['submitform'])) {
-            $response = $this->oMainModel->add_label();
-            if ($response['is_error'] == 0) {
-                set_message('Language saved successfully');
-                redirect($this->moduleUrl);
-            } else {
-                set_message($response['msg'], 'e');
-            }
-        }
-        parent::setTable('label');
-        $data['aGrid'] = $this->oMainModel->get_label_list();
-        $data['moduleUrl'] = $this->moduleUrl;
-        $data['title'] = lang("Label");
-        $data['menu'] = 'config';
-        $data['breadcrumb'] = array('admin_language' => 'Language', '' => 'Label');
-        load_admin_view('superadmin/label-form', $data);
-        hide_message();
-    }
-
-    function label_add($language_id) {
-        if (isset($_POST['submitform'])) {
-            $response = $this->oMainModel->add();
-            if ($response['is_error'] == 0) {
-                set_message('Language saved successfully');
-                redirect($this->moduleUrl . 'add/' . $language_id);
-            } else {
-                set_message($response['msg'], 'e');
-            }
-        }
-        $data['aGrid'] = $this->oMainModel->get_list(array("language_id" => $language_id));
-        $data['language_id'] = $language_id;
-        $data['moduleUrl'] = $this->moduleUrl;
-        $data['title'] = lang("Label Value");
-        $data['menu'] = 'config';
-        $data['breadcrumb'] = array('admin_language' => 'Language', '' => 'Label Value');
-        load_admin_view('superadmin/label-value-form', $data);
-        hide_message();
-    }
-
+   
     /* -------------Modules-------------- */
 
     function modules() {
