@@ -60,7 +60,7 @@
     <div class="h-yazi-ortalama h-yazi-margin-orta-3">
         <h2 class="h2-baslik-hizmetler-2 wow fadeInUp" data-wow-delay="0.4s"> Best Data Analytics Solutions </h2>
     </div>
-    <p class="h2-baslik-hizmetler-3__paragraf wow fadeInUp" data-wow-delay="0.5s">
+    <p class="h2-baslik-hizmetler-3__paragraf wow fadeInUp" >
         Let's analyze data science with the right strategies. </p>
     <div class="bosluk3"></div>
     <div class="tabloozellik">
@@ -136,7 +136,7 @@
     </div>
     <div class="tablo">
         <div class="tablo--1-ve-2 wow fade">
-            <div class="galeri1 wow zoomIn" data-wow-delay="0.5s">
+            <div class="galeri1 wow zoomIn" >
                 <img class="imagerotate" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/technology.png" alt="">
             </div>
             <div class="galeri wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms" data-tilt="">
@@ -144,7 +144,7 @@
             </div>
         </div>
         <!--Galeri Görsel Alanı-->
-        <div class="tablo--1-ve-3 wow fadeInUp" data-wow-delay="0.5s">
+        <div class="tablo--1-ve-3 wow fadeInUp" >
             <h2 class="h2-baslik-anasayfa-ozel wow fadeInUp" data-wow-delay="0.6s"> We are on a road from data to knowledge </h2>
             <div class="bosluk333"></div>
             <p class="paragraf wow fadeInRight" data-wow-delay="0.6s">
@@ -253,7 +253,7 @@
     <div class="tabloozellik">
         <div class="tablo--1-ve-2">
             <div class="">
-                <h2 class="h2-baslik-hizmetler-2-s wow fadeInUp" data-wow-delay="0.5s"> Our Data Analysis Services Directing the Digital Age </h2>
+                <h2 class="h2-baslik-hizmetler-2-s wow fadeInUp" > Our Data Analysis Services Directing the Digital Age </h2>
             </div>
             <div class="bosluk333"></div>
             <p class="paragraf-sol-s wow fadeInUp" data-wow-delay="0.6s">
@@ -444,7 +444,7 @@
                     <div class="tabloozellik">
 
                         <div class="tablo--1-ve-3">
-                            <div class="card wow zoomIn" data-wow-delay="0.5s" onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
+                            <div class="card wow zoomIn"  onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
                                 <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/project1.jpg" alt="Project">
                                 <div class="cardContent">
                                     <h2>Data Science</h2>
@@ -720,7 +720,7 @@
 
 
 <section class="markalar">
-    <div class="h-yazi-ortalama h-yazi-margin-orta-3 wow animated fadeInUp animated" data-wow-delay="0.5s">
+    <div class="h-yazi-ortalama h-yazi-margin-orta-3 " >
         <div class="iconw wow fadeInUp" data-wow-delay="0.6s"><i class="flaticon-badge"></i></div>
         <h2 class="h2-baslik-hizmetler-21 wow fadeInUp" data-wow-delay="0.6s"> Our Customers Who Make Us </h2>
     </div>
@@ -733,73 +733,73 @@
 
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client1.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client2.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client3.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client4.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client5.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client6.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client7.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client8.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client9.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client10.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client2.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 wow animated fadeInUp animated" data-wow-delay="0.5s">
+                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
                     <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client7.png" alt="Marka 1" class="marka">
                 </div>
             </div>
@@ -817,12 +817,12 @@
 <section class="yorumlar-alani-sayfa">
     <div class="container">
         <div class="row">
-            <div class="col-12 wow animated fadeIn animated" data-wow-delay="0.5s">
+            <div class="col-12 wow animated fadeIn animated" >
                 <div class="h-yazi-ortalama h-yazi-margin-orta-3">
-                    <div class="icon wow fadeInUp" data-wow-delay="0.5s"><i class="flaticon-review"></i></div>
-                    <h2 class="h2-baslik-hizmetler-yorum wow fadeInUp" data-wow-delay="0.5s"> What Are Our Customers Saying ? </h2>
+                    <div class="icon wow fadeInUp" ><i class="flaticon-review"></i></div>
+                    <h2 class="h2-baslik-hizmetler-yorum wow fadeInUp" > What Are Our Customers Saying ? </h2>
                 </div>
-                <p class="h2-baslik-hizmetler-yorum__yorum wow fadeInUp" data-wow-delay="0.5s">
+                <p class="h2-baslik-hizmetler-yorum__yorum wow fadeInUp" >
                     Every customer is valuable to us. Here are the reviews of some of our customers who chose us. </p>
                 <div class="bosluk3a"></div>
             </div>
@@ -832,7 +832,7 @@
 
 
 
-                        <div class="swiper-slide wow animated fadeInLeft animated" data-wow-delay="0.5s">
+                        <div class="swiper-slide wow animated fadeInLeft animated" >
                             <div class="class-box">
                                 <div class="testimonial-card">
                                     <div class="testimon-text">
@@ -849,7 +849,7 @@
                         </div>
 
 
-                        <div class="swiper-slide wow animated fadeInLeft animated" data-wow-delay="0.5s">
+                        <div class="swiper-slide wow animated fadeInLeft animated" >
                             <div class="class-box">
                                 <div class="testimonial-card">
                                     <div class="testimon-text">
@@ -866,7 +866,7 @@
                         </div>
 
 
-                        <div class="swiper-slide wow animated fadeInLeft animated" data-wow-delay="0.5s">
+                        <div class="swiper-slide wow animated fadeInLeft animated" >
                             <div class="class-box">
                                 <div class="testimonial-card">
                                     <div class="testimon-text">
@@ -883,7 +883,7 @@
                         </div>
 
 
-                        <div class="swiper-slide wow animated fadeInLeft animated" data-wow-delay="0.5s">
+                        <div class="swiper-slide wow animated fadeInLeft animated" >
                             <div class="class-box">
                                 <div class="testimonial-card">
                                     <div class="testimon-text">
@@ -920,7 +920,7 @@
                     <div class="icon wow fadeInUp" data-wow-delay="0.3s"><i class="flaticon-recommended"></i></div>
                     <h2 class="h2-baslik-hizmetler-yorum wow fadeInUp" data-wow-delay="0.4s"> Resent New & Articles </h2>
                 </div>
-                <p class="h2-baslik-hizmetler-yorum__yorum wow fadeInUp" data-wow-delay="0.5s">
+                <p class="h2-baslik-hizmetler-yorum__yorum wow fadeInUp" >
                     Be aware of developments in the digital world. </p>
                 <div class="bosluksv5"></div>
             </div>
@@ -934,7 +934,7 @@
                     <div class="swiper-wrapper">
 
 
-                        <div class="swiper-slide wow fadeInLeft" data-wow-delay="0.5s" data-tilt="">
+                        <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
                                 <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/3.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/3.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
@@ -952,7 +952,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide wow fadeInLeft" data-wow-delay="0.5s" data-tilt="">
+                        <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
                                 <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/1.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/1.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
@@ -970,7 +970,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide wow fadeInLeft" data-wow-delay="0.5s" data-tilt="">
+                        <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
                                 <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/2.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/2.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
@@ -988,7 +988,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide wow fadeInLeft" data-wow-delay="0.5s" data-tilt="">
+                        <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
                                 <img width="396" height="223" src="wp-content/uploads/2022/05/6.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2022/05/6.jpg 1920w, wp-content/uploads/2022/05/6-300x169.jpg 300w, wp-content/uploads/2022/05/6-1024x576.jpg 1024w, wp-content/uploads/2022/05/6-768x432.jpg 768w, wp-content/uploads/2022/05/6-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
@@ -1006,7 +1006,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide wow fadeInLeft" data-wow-delay="0.5s" data-tilt="">
+                        <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
                                 <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/7.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/7.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
