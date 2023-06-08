@@ -3,9 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-lg-4">
-                <div class="logo " > <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"> </div>
+                <div class="logo "> <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"> </div>
                 <!-- end logo -->
-                <div class="footer-info " >
+                <div class="footer-info ">
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
 
                     </p>
@@ -13,35 +13,36 @@
                     <p><i class="flaticon-email iconpfooter3 "></i>&nbsp;&nbsp;&nbsp;<?php echo config_item('site_email') ?></p><br>
                 </div>
                 <!-- end footer-info -->
-                <ul class="footer-social " >
-                    <li><a href="#"><i class="flaticon-facebook-1 iconsociaf"></i></a></li>
+                <ul class="footer-social ">
+                    <li><a target="_blank" href="<?php echo config_item('facebook'); ?>"><i class="flaticon-facebook-1 iconsociaf"></i></a></li>
 
-                    <li><a href="#"><i class="flaticon-instagram-1 iconsociaf"></i></a></li>
+                    <li><a target="_blank" href="<?php echo config_item('instagram'); ?>"><i class="flaticon-instagram-1 iconsociaf"></i></a></li>
 
-                    <li><a href="#"><i class="flaticon-twitter-1 iconsociaf"></i></a></li>
+                    <li><a target="_blank" href="<?php echo config_item('twitter'); ?>"><i class="flaticon-twitter-1 iconsociaf"></i></a></li>
 
                 </ul>
             </div>
             <!-- end col-3 -->
-            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-lg-4">
                 <h6 class="widget-title">Join Our Newsletter</h6>
                 <p class="footerp">
                     Be informed about our services and products. </p>
                 <div class="bosluk333"></div>
-                <div role="form" class="wpcf7" id="wpcf7-f766-o4" lang="en-US" dir="ltr">
+                <div role="form">
                     <div class="screen-reader-response">
                         <p role="status" aria-live="polite" aria-atomic="true"></p>
                         <ul></ul>
                     </div>
-                    <form  method="post">
-                                              
-                        <div class="form__grup wow fadeInLeft" data-wow-delay="0.7s">
-                            <span class="wpcf7-form-control-wrap" data-name="email-217"><input type="email" name="email-217" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-popup__input" aria-required="true" aria-invalid="false" placeholder="Your Email Address"></span>
+                    <form id="subscriber_now">
+
+                        <div class="form__grup">
+                            <span class="wpcf7-form-control-wrap">
+                                <input type="email" name="email" size="40" class="form-popup__input" aria-required="true" aria-invalid="false" placeholder="Your Email Address"></span>
                         </div>
-                        <div class="form__grup wow fadeInUp" data-wow-delay="0.9s">
-                            <input type="submit" value="Subscribe →" class="wpcf7-form-control has-spinner wpcf7-submit custom-buttonw1">
+                        <div class="form__grup">
+                            <input type="submit" value="Subscribe →" class="custom-buttonw1" onclick="subscriberNow()">
                         </div>
-                        <div class="wpcf7-response-output" aria-hidden="true"></div>
+                        <div id="subscriber_now_message" aria-hidden="true"></div>
                     </form>
                 </div>
             </div>
@@ -52,12 +53,16 @@
                 <div class="footer-menu">
                     <div class="menu-services-container">
                         <ul id="menu-services" class="menu">
-                            <li><a href="data-strategy/index.htm">Data Strategy</a></li>
-                            <li><a href="machine-learning/index.htm">Machine Learning</a></li>
-                            <li><a href="software-solutions/index.htm">Software Solutions</a></li>
-                            <li><a href="business-mind/index.htm">Business Mind</a></li>
-                            <li><a href="financial-services/index.htm">Financial Services</a></li>
-                            <li><a href="data-security/index.htm">Data Security</a></li>
+                            <?php
+                            if (!empty($aService) && is_array($aService)) {
+                                foreach ($aService as $row) {
+                                    $url = base_url() . $row->slug;
+                            ?>
+                                    <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
+                            <?php
+                                }
+                            }
+                            ?>
                         </ul>
                     </div>
                 </div>
@@ -68,12 +73,11 @@
                 <div class="footer-menu">
                     <div class="menu-quick-links-container">
                         <ul id="menu-quick-links" class="menu">
-                            <li><a href="about-us/index.htm">About Us</a></li>
-                            <li><a href="projects/index.htm">Projects</a></li>
-                            <li><a href="packages/index.htm">Packages</a></li>
-                            <li><a href="clients/index.htm">Clients</a></li>
-                            <li><a href="blog/index.htm">Blog</a></li>
-                            <li><a href="contact/index.htm">Contact</a></li>
+                            <li><a href="<?php echo base_url() ?>about-us">About Us</a></li>
+                            <li><a href="<?php echo base_url() ?>contact-us">Contact</a></li>
+                            <li><a href="<?php echo base_url() ?>contact-us">Privacy Policy</a></li>
+                            <li><a href="<?php echo base_url() ?>terms-and-conidtions">Terms and Conditions</a></li>
+
                         </ul>
                     </div>
                 </div>
@@ -112,4 +116,5 @@
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/custom.js?ver=1' id='custom-js'></script>
 
 </body>
+
 </html>

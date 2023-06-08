@@ -259,7 +259,7 @@ class Home_model extends MY_Model {
     function service_list(){
         $str_select = 't1.*';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'services as t1');
+        $this->db->from(tbl_prefix().'service as t1');
         $res=$this->db->get()->result();
         return $res;
     }
