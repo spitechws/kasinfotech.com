@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.0
+-- version 5.1.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Jun 07, 2023 at 02:54 PM
--- Server version: 8.0.31
--- PHP Version: 7.4.33
+-- Generation Time: Jun 08, 2023 at 06:44 AM
+-- Server version: 10.5.19-MariaDB-cll-lve
+-- PHP Version: 7.2.34
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `kasinfotech`
+-- Database: `u440197273_kasinfotech`
 --
 
 -- --------------------------------------------------------
@@ -27,19 +27,17 @@ SET time_zone = "+00:00";
 -- Table structure for table `banner`
 --
 
-DROP TABLE IF EXISTS `banner`;
-CREATE TABLE IF NOT EXISTS `banner` (
-  `banner_id` int NOT NULL AUTO_INCREMENT,
-  `image` mediumtext COLLATE utf8mb4_general_ci,
-  `caption` varchar(300) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `short_description` mediumtext COLLATE utf8mb4_general_ci,
-  `status` enum('1','0') COLLATE utf8mb4_general_ci NOT NULL DEFAULT '1',
+CREATE TABLE `banner` (
+  `banner_id` int(11) NOT NULL,
+  `image` mediumtext DEFAULT NULL,
+  `caption` varchar(300) DEFAULT NULL,
+  `short_description` mediumtext DEFAULT NULL,
+  `status` enum('1','0') NOT NULL DEFAULT '1',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `created_by` int DEFAULT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`banner_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) DEFAULT NULL,
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `banner`
@@ -56,25 +54,23 @@ INSERT INTO `banner` (`banner_id`, `image`, `caption`, `short_description`, `sta
 -- Table structure for table `career`
 --
 
-DROP TABLE IF EXISTS `career`;
-CREATE TABLE IF NOT EXISTS `career` (
-  `career_id` int NOT NULL AUTO_INCREMENT,
-  `job_title` varchar(300) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `job_description` mediumtext COLLATE utf8mb4_general_ci,
-  `posts` int DEFAULT NULL,
-  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
-  `salary` int NOT NULL DEFAULT '0',
-  `location` varchar(100) COLLATE utf8mb4_general_ci NOT NULL DEFAULT '',
-  `sequence_no` int NOT NULL DEFAULT '1',
+CREATE TABLE `career` (
+  `career_id` int(11) NOT NULL,
+  `job_title` varchar(300) DEFAULT NULL,
+  `job_description` mediumtext DEFAULT NULL,
+  `posts` int(11) DEFAULT NULL,
+  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
+  `salary` int(11) NOT NULL DEFAULT 0,
+  `location` varchar(100) NOT NULL DEFAULT '',
+  `sequence_no` int(11) NOT NULL DEFAULT 1,
   `created_date` datetime NOT NULL,
-  `created_by` int DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
   `edited_date` datetime NOT NULL,
-  `edited_by` int DEFAULT NULL,
-  `job_type` int DEFAULT '0',
-  `work_mode` int DEFAULT '0',
-  `hr_contact` varchar(100) COLLATE utf8mb4_general_ci DEFAULT '',
-  PRIMARY KEY (`career_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `edited_by` int(11) DEFAULT NULL,
+  `job_type` int(11) DEFAULT 0,
+  `work_mode` int(11) DEFAULT 0,
+  `hr_contact` varchar(100) DEFAULT ''
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `career`
@@ -89,23 +85,32 @@ INSERT INTO `career` (`career_id`, `job_title`, `job_description`, `posts`, `sta
 -- Table structure for table `cms`
 --
 
-DROP TABLE IF EXISTS `cms`;
-CREATE TABLE IF NOT EXISTS `cms` (
-  `cms_id` int NOT NULL AUTO_INCREMENT,
-  `page_name` varchar(100) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `page_title` mediumtext COLLATE utf8mb4_general_ci,
-  `page_content` mediumtext COLLATE utf8mb4_general_ci,
+CREATE TABLE `cms` (
+  `cms_id` int(11) NOT NULL,
+  `page_name` varchar(100) DEFAULT NULL,
+  `page_title` mediumtext DEFAULT NULL,
+  `page_content` mediumtext DEFAULT NULL,
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int NOT NULL,
+  `created_by` int(11) NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `meta_keywords` mediumtext COLLATE utf8mb4_general_ci,
-  `meta_description` mediumtext COLLATE utf8mb4_general_ci,
-  `meta_robots` varchar(100) COLLATE utf8mb4_general_ci NOT NULL DEFAULT 'index,follow',
-  `sequence_no` int NOT NULL DEFAULT '1',
-  `menu` varchar(100) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  PRIMARY KEY (`cms_id`)
+  `meta_keywords` mediumtext DEFAULT NULL,
+  `meta_description` mediumtext DEFAULT NULL,
+  `meta_robots` varchar(100) NOT NULL DEFAULT 'index,follow',
+  `sequence_no` int(11) NOT NULL DEFAULT 1,
+  `menu` varchar(100) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+
+--
+-- Dumping data for table `cms`
+--
+
+INSERT INTO `cms` (`cms_id`, `page_name`, `page_title`, `page_content`, `created_date`, `edited_date`, `created_by`, `edited_by`, `meta_keywords`, `meta_description`, `meta_robots`, `sequence_no`, `menu`) VALUES
+(1, 'index', 'KAS INFO TECH', '', '2023-06-07 15:01:37', '2023-06-07 15:01:37', 1, NULL, 'KAS INFO TECH', 'KAS INFO TECH', 'index,follow', 1, ''),
+(2, 'about-us', 'About Us', '', '2023-06-08 05:43:38', '2023-06-08 05:43:38', 1, NULL, 'KAS INFO TECH', 'KAS INFO TECH', 'index,follow', 1, 'about-us'),
+(3, 'contact-us', 'KAS INFO TECH', '', '2023-06-08 05:43:51', '2023-06-08 06:34:18', 1, '0000-00-00 00:00:00', 'KAS INFO TECH', 'KAS INFO TECH', 'index,follow', 1, 'contact-us'),
+(4, 'privacy-policy', 'KAS INFO TECH', '<h1>Privacy Policy</h1>\r\n\r\n<p>Last updated: June 08, 2023</p>\r\n\r\n<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>\r\n\r\n<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>\r\n\r\n<h1>Interpretation and Definitions</h1>\r\n\r\n<h2>Interpretation</h2>\r\n\r\n<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>\r\n\r\n<h2>Definitions</h2>\r\n\r\n<p>For the purposes of this Privacy Policy:</p>\r\n\r\n<ul>\r\n <li>\r\n <p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>\r\n </li>\r\n <li>\r\n <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where \"control\" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>\r\n </li>\r\n <li>\r\n <p><strong>Company</strong> (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to KAS InfoTech Pvt. Ltd., HNo 3-6-54/3 Vivekananda Nagar, Kukatpally. Hyderabad, Telangana ,India 500072.</p>\r\n </li>\r\n <li>\r\n <p><strong>Cookies</strong> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.</p>\r\n </li>\r\n <li>\r\n <p><strong>Country</strong> refers to: Telangana, India</p>\r\n </li>\r\n <li>\r\n <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>\r\n </li>\r\n <li>\r\n <p><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</p>\r\n </li>\r\n <li>\r\n <p><strong>Service</strong> refers to the Website.</p>\r\n </li>\r\n <li>\r\n <p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.</p>\r\n </li>\r\n <li>\r\n <p><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p>\r\n </li>\r\n <li>\r\n <p><strong>Website</strong> refers to KAS InfoTech, accessible from <a href=\"https://kasinfotech.com/\" rel=\"external nofollow noopener\" target=\"_blank\">https://kasinfotech.com/</a></p>\r\n </li>\r\n <li>\r\n <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>\r\n </li>\r\n</ul>\r\n\r\n<h1>Collecting and Using Your Personal Data</h1>\r\n\r\n<h2>Types of Data Collected</h2>\r\n\r\n<h3>Personal Data</h3>\r\n\r\n<p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>\r\n\r\n<ul>\r\n <li>\r\n <p>Email address</p>\r\n </li>\r\n <li>\r\n <p>First name and last name</p>\r\n </li>\r\n <li>\r\n <p>Phone number</p>\r\n </li>\r\n <li>\r\n <p>Usage Data</p>\r\n </li>\r\n</ul>\r\n\r\n<h3>Usage Data</h3>\r\n\r\n<p>Usage Data is collected automatically when using the Service.</p>\r\n\r\n<p>Usage Data may include information such as Your Device&#39;s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>\r\n\r\n<p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>\r\n\r\n<p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>\r\n\r\n<h3>Tracking Technologies and Cookies</h3>\r\n\r\n<p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:</p>\r\n\r\n<ul>\r\n <li><strong>Cookies or Browser Cookies.</strong> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.</li>\r\n <li><strong>Web Beacons.</strong> Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).</li>\r\n</ul>\r\n\r\n<p>Cookies can be \"Persistent\" or \"Session\" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. Learn more about cookies on the <a href=\"https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/#Use_Of_Cookies_And_Tracking\" target=\"_blank\">Free Privacy Policy website</a> article.</p>\r\n\r\n<p>We use both Session and Persistent Cookies for the purposes set out below:</p>\r\n\r\n<ul>\r\n <li>\r\n <p><strong>Necessary / Essential Cookies</strong></p>\r\n\r\n <p>Type: Session Cookies</p>\r\n\r\n <p>Administered by: Us</p>\r\n\r\n <p>Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</p>\r\n </li>\r\n <li>\r\n <p><strong>Cookies Policy / Notice Acceptance Cookies</strong></p>\r\n\r\n <p>Type: Persistent Cookies</p>\r\n\r\n <p>Administered by: Us</p>\r\n\r\n <p>Purpose: These Cookies identify if users have accepted the use of cookies on the Website.</p>\r\n </li>\r\n <li>\r\n <p><strong>Functionality Cookies</strong></p>\r\n\r\n <p>Type: Persistent Cookies</p>\r\n\r\n <p>Administered by: Us</p>\r\n\r\n <p>Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</p>\r\n </li>\r\n</ul>\r\n\r\n<p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.</p>\r\n\r\n<h2>Use of Your Personal Data</h2>\r\n\r\n<p>The Company may use Personal Data for the following purposes:</p>\r\n\r\n<ul>\r\n <li>\r\n <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>\r\n </li>\r\n <li>\r\n <p><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</p>\r\n </li>\r\n <li>\r\n <p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>\r\n </li>\r\n <li>\r\n <p><strong>To contact You:</strong> To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application&#39;s push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.</p>\r\n </li>\r\n <li>\r\n <p><strong>To provide You</strong> with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.</p>\r\n </li>\r\n <li>\r\n <p><strong>To manage Your requests:</strong> To attend and manage Your requests to Us.</p>\r\n </li>\r\n <li>\r\n <p><strong>For business transfers:</strong> We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.</p>\r\n </li>\r\n <li>\r\n <p><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>\r\n </li>\r\n</ul>\r\n\r\n<p>We may share Your personal information in the following situations:</p>\r\n\r\n<ul>\r\n <li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>\r\n <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>\r\n <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>\r\n <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>\r\n <li><strong>With other users:</strong> when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.</li>\r\n <li><strong>With Your consent</strong>: We may disclose Your personal information for any other purpose with Your consent.</li>\r\n</ul>\r\n\r\n<h2>Retention of Your Personal Data</h2>\r\n\r\n<p>The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>\r\n\r\n<p>The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.</p>\r\n\r\n<h2>Transfer of Your Personal Data</h2>\r\n\r\n<p>Your information, including Personal Data, is processed at the Company&#39;s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>\r\n\r\n<p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>\r\n\r\n<p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>\r\n\r\n<h2>Delete Your Personal Data</h2>\r\n\r\n<p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>\r\n\r\n<p>Our Service may give You the ability to delete certain information about You from within the Service.</p>\r\n\r\n<p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>\r\n\r\n<p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>\r\n\r\n<h2>Disclosure of Your Personal Data</h2>\r\n\r\n<h3>Business Transactions</h3>\r\n\r\n<p>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>\r\n\r\n<h3>Law enforcement</h3>\r\n\r\n<p>Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>\r\n\r\n<h3>Other legal requirements</h3>\r\n\r\n<p>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>\r\n\r\n<ul>\r\n <li>Comply with a legal obligation</li>\r\n <li>Protect and defend the rights or property of the Company</li>\r\n <li>Prevent or investigate possible wrongdoing in connection with the Service</li>\r\n <li>Protect the personal safety of Users of the Service or the public</li>\r\n <li>Protect against legal liability</li>\r\n</ul>\r\n\r\n<h2>Security of Your Personal Data</h2>\r\n\r\n<p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>\r\n\r\n<h1>Children&#39;s Privacy</h1>\r\n\r\n<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>\r\n\r\n<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent&#39;s consent before We collect and use that information.</p>\r\n\r\n<h1>Links to Other Websites</h1>\r\n\r\n<p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party&#39;s site. We strongly advise You to review the Privacy Policy of every site You visit.</p>\r\n\r\n<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>\r\n\r\n<h1>Changes to this Privacy Policy</h1>\r\n\r\n<p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>\r\n\r\n<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the \"Last updated\" date at the top of this Privacy Policy.</p>\r\n\r\n<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>\r\n\r\n<h1>Contact Us</h1>\r\n\r\n<p>If you have any questions about this Privacy Policy, You can contact us:</p>\r\n\r\n<ul>\r\n <li>\r\n <p>By email: info@kasinfotech.com</p>\r\n </li>\r\n <li>\r\n <p>By visiting this page on our website: <a href=\"https://kasinfotech.com/contact-us\" rel=\"external nofollow noopener\" target=\"_blank\">https://kasinfotech.com/contact-us</a></p>\r\n </li>\r\n <li>\r\n <p>By phone number: 6300873412</p>\r\n </li>\r\n <li>\r\n <p>By mail: no-reply@kasinfotech.com</p>\r\n </li>\r\n</ul>', '2023-06-08 05:44:06', '2023-06-08 06:34:32', 1, '0000-00-00 00:00:00', 'KAS INFO TECH', 'KAS INFO TECH', 'index,follow', 1, 'privacy-policy'),
+(5, 'terms-and-conidtions', 'Terms and Conidtions', '', '2023-06-08 05:44:40', '2023-06-08 05:44:40', 1, NULL, 'KAS INFO TECH', 'KAS INFO TECH', 'index,follow', 1, 'terms-and-conidtions');
 
 -- --------------------------------------------------------
 
@@ -113,18 +118,16 @@ CREATE TABLE IF NOT EXISTS `cms` (
 -- Table structure for table `comments`
 --
 
-DROP TABLE IF EXISTS `comments`;
-CREATE TABLE IF NOT EXISTS `comments` (
-  `comment_id` int NOT NULL AUTO_INCREMENT,
-  `title` text COLLATE utf8mb4_general_ci NOT NULL,
-  `post_id` int NOT NULL,
-  `content` text COLLATE utf8mb4_general_ci NOT NULL,
-  `web_user_id` int NOT NULL COMMENT 'pk of web user table',
+CREATE TABLE `comments` (
+  `comment_id` int(11) NOT NULL,
+  `title` text NOT NULL,
+  `post_id` int(11) NOT NULL,
+  `content` text NOT NULL,
+  `web_user_id` int(11) NOT NULL COMMENT 'pk of web user table',
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int NOT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`comment_id`)
+  `created_by` int(11) NOT NULL,
+  `edited_by` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 -- --------------------------------------------------------
@@ -133,14 +136,11 @@ CREATE TABLE IF NOT EXISTS `comments` (
 -- Table structure for table `config`
 --
 
-DROP TABLE IF EXISTS `config`;
-CREATE TABLE IF NOT EXISTS `config` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `name` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `value` mediumtext COLLATE utf8mb4_general_ci,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `name` (`name`)
-) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+CREATE TABLE `config` (
+  `id` int(11) NOT NULL,
+  `name` varchar(300) NOT NULL,
+  `value` mediumtext DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `config`
@@ -151,8 +151,8 @@ INSERT INTO `config` (`id`, `name`, `value`) VALUES
 (2, 'site_url', 'http://aareality.in/'),
 (3, 'site_email', 'info@kasinfotech.com'),
 (7, 'date_format', 'm/d/Y'),
-(8, 'site_logo', 'logo.png'),
-(9, 'site_favicon', 'sonkar_college1.png'),
+(8, 'site_logo', 'MicrosoftTeams-image_(3).png'),
+(9, 'site_favicon', 'MicrosoftTeams-image_(1).png'),
 (10, 'google_analytics_code', ''),
 (11, 'bulk_sms_url', ''),
 (12, 'bulk_sms_sender_id', ''),
@@ -166,12 +166,12 @@ INSERT INTO `config` (`id`, `name`, `value`) VALUES
 (20, 'bulk_sms_param6', 'fdsfds'),
 (21, 'site_assets', 'assets-site'),
 (27, 'version', '1.0.1'),
-(28, 'language', 'english'),
-(29, 'facebook', 'https://www.facebook.com/Sonkar.495334'),
-(30, 'twitter', 'http://facebook.com'),
-(31, 'instagram', 'http://facebook.com'),
-(32, 'linkedin', 'http://facebook.com'),
-(33, 'youtube', 'http://facebook.com'),
+(28, 'language', NULL),
+(29, 'facebook', 'https://www.facebook.com/KASPvtLtd/'),
+(30, 'twitter', 'https://twitter.com/kas_ltd98324'),
+(31, 'instagram', 'https://www.instagram.com/kas_pvtltd/ '),
+(32, 'linkedin', 'https://www.linkedin.com/in/krishnaarjun-sankalp-pvt-ltd-16731927a/'),
+(33, 'youtube', ''),
 (38, 'record_limit', '100'),
 (39, 'bulk_sms_param_value1', ''),
 (40, 'bulk_sms_param_value2', ''),
@@ -179,16 +179,16 @@ INSERT INTO `config` (`id`, `name`, `value`) VALUES
 (42, 'bulk_sms_param_value4', ''),
 (43, 'bulk_sms_param_value5', 'dsfds'),
 (44, 'bulk_sms_param_value6', 'dsfdsfds'),
-(45, 'site_contact', '9754676700'),
-(46, 'site_address', 'TELANGANA'),
-(47, 'is_multilingual', '0'),
+(45, 'site_contact', '6300873412'),
+(46, 'site_address', 'HNo 3-6-54/3 Vivekananda Nagar, \r\nKukatpally. Hyderabad, \r\nTelangana, India-500072'),
+(47, 'is_multilingual', NULL),
 (48, 'is_suspended', '0'),
 (49, 'is_underconstruction', '0'),
 (50, 'site_theme', 'kasinfotech'),
 (51, 'datetime_format', 'd/M/Y g:i A'),
 (52, 'logo_height', '80'),
 (53, 'logo_width', '150'),
-(54, 'copyright_text', '@copyright'),
+(54, 'copyright_text', '@KAS Infotech - All Rights Reserved'),
 (55, 'developed_by_url', 'http://spitech.in'),
 (56, 'developed_by', 'SpiTech Web Services Pvt. Ltd.'),
 (57, 'google_map', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3701.9613965130698!2d81.96507711403304!3d21.897562262928624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a286ee195555555%3A0x257d458504bc612a!2sTrimurty%20Public%20School!5e0!3m2!1sen!2sin!4v1628143646091!5m2!1sen!2sin'),
@@ -203,23 +203,21 @@ INSERT INTO `config` (`id`, `name`, `value`) VALUES
 -- Table structure for table `enquiry`
 --
 
-DROP TABLE IF EXISTS `enquiry`;
-CREATE TABLE IF NOT EXISTS `enquiry` (
-  `enquiry_id` int NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `mobile` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `email` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `purpose` varchar(200) COLLATE utf8mb4_general_ci NOT NULL,
-  `subject` varchar(200) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `message` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
+CREATE TABLE `enquiry` (
+  `enquiry_id` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `mobile` varchar(100) NOT NULL,
+  `email` varchar(300) NOT NULL,
+  `purpose` varchar(200) NOT NULL,
+  `subject` varchar(200) DEFAULT NULL,
+  `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `sequence_no` int DEFAULT '1',
-  `created_by` int NOT NULL,
+  `sequence_no` int(11) DEFAULT 1,
+  `created_by` int(11) NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `service_name` mediumtext COLLATE utf8mb4_general_ci,
-  PRIMARY KEY (`enquiry_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `service_name` mediumtext DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `enquiry`
@@ -235,18 +233,16 @@ INSERT INTO `enquiry` (`enquiry_id`, `name`, `mobile`, `email`, `purpose`, `subj
 -- Table structure for table `gallery`
 --
 
-DROP TABLE IF EXISTS `gallery`;
-CREATE TABLE IF NOT EXISTS `gallery` (
-  `gallery_id` int NOT NULL AUTO_INCREMENT,
-  `title` varchar(300) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `sequence_no` int DEFAULT NULL,
+CREATE TABLE `gallery` (
+  `gallery_id` int(11) NOT NULL,
+  `title` varchar(300) DEFAULT NULL,
+  `sequence_no` int(11) DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `status` int NOT NULL,
+  `status` int(11) NOT NULL,
   `edited_date` date DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL,
-  PRIMARY KEY (`gallery_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `gallery`
@@ -261,19 +257,17 @@ INSERT INTO `gallery` (`gallery_id`, `title`, `sequence_no`, `created_date`, `st
 -- Table structure for table `gallery_image`
 --
 
-DROP TABLE IF EXISTS `gallery_image`;
-CREATE TABLE IF NOT EXISTS `gallery_image` (
-  `image_id` int NOT NULL AUTO_INCREMENT,
-  `gallery_id` int NOT NULL,
-  `image` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
-  `sequence_no` int DEFAULT NULL,
+CREATE TABLE `gallery_image` (
+  `image_id` int(11) NOT NULL,
+  `gallery_id` int(11) NOT NULL,
+  `image` mediumtext NOT NULL,
+  `sequence_no` int(11) DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
   `edited_by` datetime DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `title` mediumtext COLLATE utf8mb4_general_ci,
-  PRIMARY KEY (`image_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `title` mediumtext DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `gallery_image`
@@ -289,17 +283,15 @@ INSERT INTO `gallery_image` (`image_id`, `gallery_id`, `image`, `sequence_no`, `
 -- Table structure for table `job_application`
 --
 
-DROP TABLE IF EXISTS `job_application`;
-CREATE TABLE IF NOT EXISTS `job_application` (
-  `application_id` int NOT NULL AUTO_INCREMENT,
-  `career_id` int DEFAULT NULL,
-  `name` varchar(250) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `mobile` varchar(100) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `email` varchar(250) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `resume` mediumtext COLLATE utf8mb4_general_ci,
-  `created_date` datetime DEFAULT NULL,
-  PRIMARY KEY (`application_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+CREATE TABLE `job_application` (
+  `application_id` int(11) NOT NULL,
+  `career_id` int(11) DEFAULT NULL,
+  `name` varchar(250) DEFAULT NULL,
+  `mobile` varchar(100) DEFAULT NULL,
+  `email` varchar(250) DEFAULT NULL,
+  `resume` mediumtext DEFAULT NULL,
+  `created_date` datetime DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `job_application`
@@ -315,24 +307,22 @@ INSERT INTO `job_application` (`application_id`, `career_id`, `name`, `mobile`, 
 -- Table structure for table `message_templates`
 --
 
-DROP TABLE IF EXISTS `message_templates`;
-CREATE TABLE IF NOT EXISTS `message_templates` (
-  `template_id` int NOT NULL AUTO_INCREMENT,
-  `template` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `subject` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
-  `from_name` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `from_email` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `bcc` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `cc` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `message` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
-  `type` enum('sms','email') COLLATE utf8mb4_general_ci NOT NULL DEFAULT 'sms',
-  `sequence_id` int DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
+CREATE TABLE `message_templates` (
+  `template_id` int(11) NOT NULL,
+  `template` varchar(300) NOT NULL,
+  `subject` mediumtext NOT NULL,
+  `from_name` varchar(300) NOT NULL,
+  `from_email` varchar(100) NOT NULL,
+  `bcc` varchar(100) NOT NULL,
+  `cc` varchar(100) NOT NULL,
+  `message` mediumtext NOT NULL,
+  `type` enum('sms','email') NOT NULL DEFAULT 'sms',
+  `sequence_id` int(11) DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
   `created_date` date DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`template_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `message_templates`
@@ -347,24 +337,22 @@ INSERT INTO `message_templates` (`template_id`, `template`, `subject`, `from_nam
 -- Table structure for table `modules`
 --
 
-DROP TABLE IF EXISTS `modules`;
-CREATE TABLE IF NOT EXISTS `modules` (
-  `title` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL,
-  `module_id` int NOT NULL AUTO_INCREMENT,
-  `is_module` int NOT NULL DEFAULT '1',
-  `group_id` int NOT NULL,
-  `sequence_no` int NOT NULL DEFAULT '0',
-  `url` text COLLATE utf8mb4_general_ci NOT NULL,
-  `icon` varchar(200) COLLATE utf8mb4_general_ci NOT NULL,
-  `status` enum('0','1') COLLATE utf8mb4_general_ci NOT NULL DEFAULT '1',
+CREATE TABLE `modules` (
+  `title` varchar(200) NOT NULL,
+  `module_id` int(11) NOT NULL,
+  `is_module` int(11) NOT NULL DEFAULT 1,
+  `group_id` int(11) NOT NULL,
+  `sequence_no` int(11) NOT NULL DEFAULT 0,
+  `url` text NOT NULL,
+  `icon` varchar(200) NOT NULL,
+  `status` enum('0','1') NOT NULL DEFAULT '1',
   `edited_date` date DEFAULT NULL,
   `created_date` date DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
-  `edited_by` int DEFAULT NULL,
-  `module_table` varchar(250) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `module_table_pk` varchar(250) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  PRIMARY KEY (`module_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=34 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) DEFAULT NULL,
+  `edited_by` int(11) DEFAULT NULL,
+  `module_table` varchar(250) DEFAULT NULL,
+  `module_table_pk` varchar(250) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `modules`
@@ -390,19 +378,17 @@ INSERT INTO `modules` (`title`, `module_id`, `is_module`, `group_id`, `sequence_
 -- Table structure for table `module_group`
 --
 
-DROP TABLE IF EXISTS `module_group`;
-CREATE TABLE IF NOT EXISTS `module_group` (
-  `group_id` int NOT NULL AUTO_INCREMENT,
-  `title` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `selected_id` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `icon` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `sequence_no` int NOT NULL DEFAULT '1',
+CREATE TABLE `module_group` (
+  `group_id` int(11) NOT NULL,
+  `title` varchar(100) NOT NULL,
+  `selected_id` varchar(100) NOT NULL,
+  `icon` varchar(100) NOT NULL,
+  `sequence_no` int(11) NOT NULL DEFAULT 1,
   `created_date` datetime DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`group_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `module_group`
@@ -417,19 +403,17 @@ INSERT INTO `module_group` (`group_id`, `title`, `selected_id`, `icon`, `sequenc
 -- Table structure for table `page_component`
 --
 
-DROP TABLE IF EXISTS `page_component`;
-CREATE TABLE IF NOT EXISTS `page_component` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `section` enum('header','body','sidebar','footer') COLLATE utf8mb4_general_ci NOT NULL DEFAULT 'body',
-  `name` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `content` text COLLATE utf8mb4_general_ci NOT NULL,
-  `status` enum('1','0') COLLATE utf8mb4_general_ci NOT NULL DEFAULT '1',
+CREATE TABLE `page_component` (
+  `id` int(11) NOT NULL,
+  `section` enum('header','body','sidebar','footer') NOT NULL DEFAULT 'body',
+  `name` varchar(100) NOT NULL,
+  `content` text NOT NULL,
+  `status` enum('1','0') NOT NULL DEFAULT '1',
   `created_date` date DEFAULT NULL,
-  `created_by` int DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `page_component`
@@ -444,23 +428,21 @@ INSERT INTO `page_component` (`id`, `section`, `name`, `content`, `status`, `cre
 -- Table structure for table `post`
 --
 
-DROP TABLE IF EXISTS `post`;
-CREATE TABLE IF NOT EXISTS `post` (
-  `post_id` int NOT NULL AUTO_INCREMENT,
-  `title` text COLLATE utf8mb4_general_ci NOT NULL,
-  `slug` varchar(150) COLLATE utf8mb4_general_ci NOT NULL,
-  `featured_image` text COLLATE utf8mb4_general_ci NOT NULL,
-  `content` text COLLATE utf8mb4_general_ci NOT NULL,
-  `short_description` varchar(150) COLLATE utf8mb4_general_ci NOT NULL,
-  `tag` text COLLATE utf8mb4_general_ci NOT NULL,
-  `view_count` int NOT NULL,
-  `category_id` int NOT NULL,
+CREATE TABLE `post` (
+  `post_id` int(11) NOT NULL,
+  `title` text NOT NULL,
+  `slug` varchar(150) NOT NULL,
+  `featured_image` text NOT NULL,
+  `content` text NOT NULL,
+  `short_description` varchar(150) NOT NULL,
+  `tag` text NOT NULL,
+  `view_count` int(11) NOT NULL,
+  `category_id` int(11) NOT NULL,
   `created_date` datetime NOT NULL,
   `edited_date` datetime NOT NULL,
-  `created_by` int NOT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`post_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) NOT NULL,
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `post`
@@ -476,16 +458,14 @@ INSERT INTO `post` (`post_id`, `title`, `slug`, `featured_image`, `content`, `sh
 -- Table structure for table `post_category`
 --
 
-DROP TABLE IF EXISTS `post_category`;
-CREATE TABLE IF NOT EXISTS `post_category` (
-  `category_id` int NOT NULL AUTO_INCREMENT,
-  `title` varchar(50) COLLATE utf8mb4_general_ci DEFAULT NULL,
+CREATE TABLE `post_category` (
+  `category_id` int(11) NOT NULL,
+  `title` varchar(50) DEFAULT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int NOT NULL,
-  `edited_by` int DEFAULT NULL,
-  PRIMARY KEY (`category_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) NOT NULL,
+  `edited_by` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `post_category`
@@ -501,23 +481,21 @@ INSERT INTO `post_category` (`category_id`, `title`, `created_date`, `edited_dat
 -- Table structure for table `service`
 --
 
-DROP TABLE IF EXISTS `service`;
-CREATE TABLE IF NOT EXISTS `service` (
-  `course_id` int NOT NULL AUTO_INCREMENT,
-  `image` mediumtext COLLATE utf8mb4_general_ci,
-  `title` varchar(250) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `demo_url` mediumtext COLLATE utf8mb4_general_ci,
-  `username` varchar(120) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `password` varchar(120) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `description` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
-  `status` enum('1','0') COLLATE utf8mb4_general_ci NOT NULL DEFAULT '1',
+CREATE TABLE `service` (
+  `course_id` int(11) NOT NULL,
+  `image` mediumtext DEFAULT NULL,
+  `title` varchar(250) DEFAULT NULL,
+  `demo_url` mediumtext DEFAULT NULL,
+  `username` varchar(120) DEFAULT NULL,
+  `password` varchar(120) DEFAULT NULL,
+  `description` mediumtext NOT NULL,
+  `status` enum('1','0') NOT NULL DEFAULT '1',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int NOT NULL DEFAULT '1',
-  `created_by` int DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL,
-  PRIMARY KEY (`course_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `sequence_no` int(11) NOT NULL DEFAULT 1,
+  `created_by` int(11) DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `service`
@@ -533,14 +511,12 @@ INSERT INTO `service` (`course_id`, `image`, `title`, `demo_url`, `username`, `p
 -- Table structure for table `subscriber`
 --
 
-DROP TABLE IF EXISTS `subscriber`;
-CREATE TABLE IF NOT EXISTS `subscriber` (
-  `subscriber_id` int NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `email` varchar(50) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `created_date` datetime NOT NULL,
-  PRIMARY KEY (`subscriber_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+CREATE TABLE `subscriber` (
+  `subscriber_id` int(11) NOT NULL,
+  `name` varchar(50) DEFAULT NULL,
+  `email` varchar(50) DEFAULT NULL,
+  `created_date` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `subscriber`
@@ -559,20 +535,18 @@ INSERT INTO `subscriber` (`subscriber_id`, `name`, `email`, `created_date`) VALU
 -- Table structure for table `testimonial`
 --
 
-DROP TABLE IF EXISTS `testimonial`;
-CREATE TABLE IF NOT EXISTS `testimonial` (
-  `testimonial_id` int NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
-  `video_url` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `message` mediumtext COLLATE utf8mb4_general_ci NOT NULL,
+CREATE TABLE `testimonial` (
+  `testimonial_id` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `video_url` varchar(300) NOT NULL,
+  `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int NOT NULL,
-  `edited_by` int NOT NULL,
-  `sequence_no` int NOT NULL,
-  `image` mediumtext COLLATE utf8mb4_general_ci,
-  PRIMARY KEY (`testimonial_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) NOT NULL,
+  `edited_by` int(11) NOT NULL,
+  `sequence_no` int(11) NOT NULL,
+  `image` mediumtext DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `testimonial`
@@ -588,23 +562,21 @@ INSERT INTO `testimonial` (`testimonial_id`, `name`, `video_url`, `message`, `cr
 -- Table structure for table `user`
 --
 
-DROP TABLE IF EXISTS `user`;
-CREATE TABLE IF NOT EXISTS `user` (
-  `user_id` int NOT NULL AUTO_INCREMENT,
-  `role_id` int NOT NULL COMMENT 'User role id',
-  `name` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `mobile` varchar(20) COLLATE utf8mb4_general_ci NOT NULL,
-  `email` varchar(300) COLLATE utf8mb4_general_ci NOT NULL,
-  `status` int NOT NULL DEFAULT '1',
-  `photo` text COLLATE utf8mb4_general_ci NOT NULL,
-  `quote` varchar(200) COLLATE utf8mb4_general_ci NOT NULL,
+CREATE TABLE `user` (
+  `user_id` int(11) NOT NULL,
+  `role_id` int(11) NOT NULL COMMENT 'User role id',
+  `name` varchar(300) NOT NULL,
+  `mobile` varchar(20) NOT NULL,
+  `email` varchar(300) NOT NULL,
+  `status` int(11) NOT NULL DEFAULT 1,
+  `photo` text NOT NULL,
+  `quote` varchar(200) NOT NULL,
   `created_date` date DEFAULT NULL,
   `edited_date` date DEFAULT NULL,
-  `created_by` int NOT NULL,
+  `created_by` int(11) NOT NULL,
   `edited_by` datetime DEFAULT NULL,
-  `sequence_no` int NOT NULL DEFAULT '1',
-  PRIMARY KEY (`user_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `sequence_no` int(11) NOT NULL DEFAULT 1
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user`
@@ -623,19 +595,17 @@ INSERT INTO `user` (`user_id`, `role_id`, `name`, `mobile`, `email`, `status`, `
 -- Table structure for table `user_permission`
 --
 
-DROP TABLE IF EXISTS `user_permission`;
-CREATE TABLE IF NOT EXISTS `user_permission` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `user_id` int NOT NULL,
-  `module_id` int NOT NULL,
-  `add_permission` int NOT NULL DEFAULT '0',
-  `edit_permission` int NOT NULL DEFAULT '0',
-  `delete_permission` int NOT NULL DEFAULT '0',
-  `company_id` int NOT NULL DEFAULT '1',
-  `view_permission` int NOT NULL DEFAULT '0',
-  `export_permission` int NOT NULL DEFAULT '0',
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=67 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+CREATE TABLE `user_permission` (
+  `id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `module_id` int(11) NOT NULL,
+  `add_permission` int(11) NOT NULL DEFAULT 0,
+  `edit_permission` int(11) NOT NULL DEFAULT 0,
+  `delete_permission` int(11) NOT NULL DEFAULT 0,
+  `company_id` int(11) NOT NULL DEFAULT 1,
+  `view_permission` int(11) NOT NULL DEFAULT 0,
+  `export_permission` int(11) NOT NULL DEFAULT 0
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user_permission`
@@ -715,16 +685,14 @@ INSERT INTO `user_permission` (`id`, `user_id`, `module_id`, `add_permission`, `
 -- Table structure for table `user_role`
 --
 
-DROP TABLE IF EXISTS `user_role`;
-CREATE TABLE IF NOT EXISTS `user_role` (
-  `role_id` int NOT NULL AUTO_INCREMENT,
-  `role` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
+CREATE TABLE `user_role` (
+  `role_id` int(11) NOT NULL,
+  `role` varchar(100) NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
-  `created_by` int NOT NULL DEFAULT '0',
-  `edited_by` datetime DEFAULT NULL,
-  PRIMARY KEY (`role_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `created_by` int(11) NOT NULL DEFAULT 0,
+  `edited_by` datetime DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `user_role`
@@ -741,19 +709,17 @@ INSERT INTO `user_role` (`role_id`, `role`, `created_date`, `edited_date`, `crea
 -- Table structure for table `video`
 --
 
-DROP TABLE IF EXISTS `video`;
-CREATE TABLE IF NOT EXISTS `video` (
-  `video_id` int NOT NULL AUTO_INCREMENT,
-  `title` varchar(300) COLLATE utf8mb4_general_ci DEFAULT NULL,
-  `link` text COLLATE utf8mb4_general_ci,
-  `status` int NOT NULL DEFAULT '1' COMMENT '0=Inactive,1=Active',
+CREATE TABLE `video` (
+  `video_id` int(11) NOT NULL,
+  `title` varchar(300) DEFAULT NULL,
+  `link` text DEFAULT NULL,
+  `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
   `created_date` datetime NOT NULL,
-  `sequence_no` int NOT NULL DEFAULT '1',
-  `created_by` int DEFAULT NULL,
-  `edited_by` datetime DEFAULT NULL,
-  PRIMARY KEY (`video_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
+  `sequence_no` int(11) NOT NULL DEFAULT 1,
+  `created_by` int(11) DEFAULT NULL,
+  `edited_by` datetime DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
 --
 -- Dumping data for table `video`
@@ -763,6 +729,279 @@ INSERT INTO `video` (`video_id`, `title`, `link`, `status`, `edited_date`, `crea
 (1, 'New Video', 'tbbveDpUZv4', 1, '2022-06-03 15:59:10', '2022-06-03 15:59:10', 1, 1, NULL),
 (2, 'vd', '5Eqb_-j3FDA', 1, '2022-06-03 16:13:17', '2022-06-03 16:13:17', 1, 1, NULL),
 (3, 'ee', '5Eqb_-j3FDA', 1, '2022-06-03 16:14:28', '2022-06-03 16:14:28', 1, 1, NULL);
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `banner`
+--
+ALTER TABLE `banner`
+  ADD PRIMARY KEY (`banner_id`);
+
+--
+-- Indexes for table `career`
+--
+ALTER TABLE `career`
+  ADD PRIMARY KEY (`career_id`);
+
+--
+-- Indexes for table `cms`
+--
+ALTER TABLE `cms`
+  ADD PRIMARY KEY (`cms_id`);
+
+--
+-- Indexes for table `comments`
+--
+ALTER TABLE `comments`
+  ADD PRIMARY KEY (`comment_id`);
+
+--
+-- Indexes for table `config`
+--
+ALTER TABLE `config`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `name` (`name`);
+
+--
+-- Indexes for table `enquiry`
+--
+ALTER TABLE `enquiry`
+  ADD PRIMARY KEY (`enquiry_id`);
+
+--
+-- Indexes for table `gallery`
+--
+ALTER TABLE `gallery`
+  ADD PRIMARY KEY (`gallery_id`);
+
+--
+-- Indexes for table `gallery_image`
+--
+ALTER TABLE `gallery_image`
+  ADD PRIMARY KEY (`image_id`);
+
+--
+-- Indexes for table `job_application`
+--
+ALTER TABLE `job_application`
+  ADD PRIMARY KEY (`application_id`);
+
+--
+-- Indexes for table `message_templates`
+--
+ALTER TABLE `message_templates`
+  ADD PRIMARY KEY (`template_id`);
+
+--
+-- Indexes for table `modules`
+--
+ALTER TABLE `modules`
+  ADD PRIMARY KEY (`module_id`);
+
+--
+-- Indexes for table `module_group`
+--
+ALTER TABLE `module_group`
+  ADD PRIMARY KEY (`group_id`);
+
+--
+-- Indexes for table `page_component`
+--
+ALTER TABLE `page_component`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `post`
+--
+ALTER TABLE `post`
+  ADD PRIMARY KEY (`post_id`);
+
+--
+-- Indexes for table `post_category`
+--
+ALTER TABLE `post_category`
+  ADD PRIMARY KEY (`category_id`);
+
+--
+-- Indexes for table `service`
+--
+ALTER TABLE `service`
+  ADD PRIMARY KEY (`course_id`);
+
+--
+-- Indexes for table `subscriber`
+--
+ALTER TABLE `subscriber`
+  ADD PRIMARY KEY (`subscriber_id`);
+
+--
+-- Indexes for table `testimonial`
+--
+ALTER TABLE `testimonial`
+  ADD PRIMARY KEY (`testimonial_id`);
+
+--
+-- Indexes for table `user`
+--
+ALTER TABLE `user`
+  ADD PRIMARY KEY (`user_id`);
+
+--
+-- Indexes for table `user_permission`
+--
+ALTER TABLE `user_permission`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `user_role`
+--
+ALTER TABLE `user_role`
+  ADD PRIMARY KEY (`role_id`);
+
+--
+-- Indexes for table `video`
+--
+ALTER TABLE `video`
+  ADD PRIMARY KEY (`video_id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `banner`
+--
+ALTER TABLE `banner`
+  MODIFY `banner_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
+--
+-- AUTO_INCREMENT for table `career`
+--
+ALTER TABLE `career`
+  MODIFY `career_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
+-- AUTO_INCREMENT for table `cms`
+--
+ALTER TABLE `cms`
+  MODIFY `cms_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+
+--
+-- AUTO_INCREMENT for table `comments`
+--
+ALTER TABLE `comments`
+  MODIFY `comment_id` int(11) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `config`
+--
+ALTER TABLE `config`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=64;
+
+--
+-- AUTO_INCREMENT for table `enquiry`
+--
+ALTER TABLE `enquiry`
+  MODIFY `enquiry_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
+--
+-- AUTO_INCREMENT for table `gallery`
+--
+ALTER TABLE `gallery`
+  MODIFY `gallery_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+
+--
+-- AUTO_INCREMENT for table `gallery_image`
+--
+ALTER TABLE `gallery_image`
+  MODIFY `image_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+
+--
+-- AUTO_INCREMENT for table `job_application`
+--
+ALTER TABLE `job_application`
+  MODIFY `application_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `message_templates`
+--
+ALTER TABLE `message_templates`
+  MODIFY `template_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
+-- AUTO_INCREMENT for table `modules`
+--
+ALTER TABLE `modules`
+  MODIFY `module_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=34;
+
+--
+-- AUTO_INCREMENT for table `module_group`
+--
+ALTER TABLE `module_group`
+  MODIFY `group_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+
+--
+-- AUTO_INCREMENT for table `page_component`
+--
+ALTER TABLE `page_component`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
+-- AUTO_INCREMENT for table `post`
+--
+ALTER TABLE `post`
+  MODIFY `post_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `post_category`
+--
+ALTER TABLE `post_category`
+  MODIFY `category_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+
+--
+-- AUTO_INCREMENT for table `service`
+--
+ALTER TABLE `service`
+  MODIFY `course_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
+--
+-- AUTO_INCREMENT for table `subscriber`
+--
+ALTER TABLE `subscriber`
+  MODIFY `subscriber_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+
+--
+-- AUTO_INCREMENT for table `testimonial`
+--
+ALTER TABLE `testimonial`
+  MODIFY `testimonial_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `user`
+--
+ALTER TABLE `user`
+  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+
+--
+-- AUTO_INCREMENT for table `user_permission`
+--
+ALTER TABLE `user_permission`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=67;
+
+--
+-- AUTO_INCREMENT for table `user_role`
+--
+ALTER TABLE `user_role`
+  MODIFY `role_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT for table `video`
+--
+ALTER TABLE `video`
+  MODIFY `video_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
