@@ -75,7 +75,7 @@
                         <ul id="menu-quick-links" class="menu">
                             <li><a href="<?php echo base_url() ?>about-us">About Us</a></li>
                             <li><a href="<?php echo base_url() ?>contact-us">Contact</a></li>
-                            <li><a href="<?php echo base_url() ?>contact-us">Privacy Policy</a></li>
+                            <li><a href="<?php echo base_url() ?>privacy-policy">Privacy Policy</a></li>
                             <li><a href="<?php echo base_url() ?>terms-and-conidtions">Terms and Conditions</a></li>
 
                         </ul>
