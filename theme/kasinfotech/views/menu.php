@@ -95,18 +95,22 @@
                         <li><a href="<?php echo $site_url; ?>about-us" class="nav-link"><span itemprop="name">About Us<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                         <li class="dropdown nav-item"><a href="#" data-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-980"><span itemprop="name">Services<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a>
                             <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-980">
-                                <li><a href="<?php echo $site_url; ?>data-strategy" class="dropdown-item"><span itemprop="name">Data Strategy<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>machine-learning" class="dropdown-item"><span itemprop="name">Machine Learning<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>software-solutions" class="dropdown-item"><span itemprop="name">Software Solutions<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>business-mind" class="dropdown-item"><span itemprop="name">Business Mind<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>financial-services" class="dropdown-item"><span itemprop="name">Financial Services<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>data-security" class="dropdown-item"><span itemprop="name">Data Security<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                                <li><a href="<?php echo $site_url; ?>all-services" class="dropdown-item"><span itemprop="name">All Services<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                                <?php
+                                if (!empty($aService) && is_array($aService)) {
+                                    foreach ($aService as $row) {
+                                        $url = base_url() . $row->slug;
+                                ?>
+
+                                        <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->title;?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                                <?php
+                                    }
+                                }
+                                ?>
                             </ul>
                         </li>
 
                         <li><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                        <li><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                        <li><a href="<?php echo $site_url; ?>contact-us" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                     </ul>
                 </div>
             </div>

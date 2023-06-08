@@ -40,7 +40,7 @@
             $data['cms'] = $cms;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
-            $data['aServices'] = $this->oMainModel->service_list();
+            $data['aService'] = $this->oMainModel->service_list();
             return $data;
         }
 
@@ -52,7 +52,7 @@
                 case "index":
                     $data['aBanner'] = get_rows('banner');
                     $data['aGalleryImages'] = $this->oMainModel->gallery_image_list();
-                    $data['aTestimonial'] = $this->oMainModel->testimonial_list();                  
+                    $data['aTestimonial'] = $this->oMainModel->testimonial_list();
                     break;
 
                 case "video-gallery":
@@ -66,11 +66,14 @@
                     $data['aCategoryDetails'] = get_row('category', array("category_id" => $category_id));
                     break;
 
+                case "blog":
+                    break;
+
                 case "blog-details":
                     $data = $this->blog_details($data);
                     break;
 
-                case "contact":
+                case "contact-us":
                     $this->save_enquiry('contact');
                     break;
 
@@ -94,9 +97,9 @@
                         }
                         redirect(base_url() . "career-apply?career_id=" . base64_encode($career_id));
                     }
-                    break;             
+                    break;
 
-                case "services":                    
+                case "services":
                     break;
 
                 case "blog":
@@ -109,11 +112,11 @@
                         }
                     }
                     $data['aBlogCategory'] = $this->oMainModel->blog_category_list();
-                    break;              
-
-                case "about":
                     break;
-              
+
+                case "about-us":
+                    break;
+
                 default:
                     $view_name = 'cms';
                     break;
