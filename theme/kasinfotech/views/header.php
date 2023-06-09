@@ -1,6 +1,6 @@
 <?php
 $site_url = base_url();
-$site_theme = site_assets();
+$site_theme = site_assets()
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,8 +11,8 @@ $site_theme = site_assets();
     <title>Datax - Data Science & Machine Learning WordPress Theme</title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $site_theme; ?>images/favicon.png">
     <meta name="description" content="Bring the Value of Artificial Intelligence to Life Faster to Achieve Breakthrough Innovations.">
-
     <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'>
+
     <link rel='stylesheet' id='classic-theme-styles-css' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'>
     <link rel="stylesheet" href="<?php echo $site_theme; ?>assets/header.css">
     <link rel='stylesheet' id='contact-form-7-css' href='<?php echo $site_theme; ?>wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6' media='all'>
@@ -28,12 +28,12 @@ $site_theme = site_assets();
     <link rel="alternate" type="application/json" href="<?php echo $site_theme; ?>wp-json/wp/v2/pages/5">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="<?php echo $site_theme; ?>xmlrpc.php?rsd">
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?php echo $site_theme; ?>wp-includes/wlwmanifest.xml">
-
     <link rel="canonical" href="<?php echo $site_theme; ?>index.htm">
     <link rel='shortlink' href='<?php echo $site_theme; ?>index.htm'>
     <link rel="alternate" type="application/json+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F">
     <link rel="alternate" type="text/xml+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F&#038;format=xml">
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
