@@ -21,7 +21,7 @@
                         <tbody>
                             <?php
                             $columns = 6;
-                            if (isset($aGrid->rows) && is_array($aGrid->rows) && !empty($aGrid->rows)) {
+                            if (!empty($aGrid->rows)  && is_array($aGrid->rows)) {
                                 $i = get_grid_sn();
                                 foreach ($aGrid->rows as $row) {
                                     ?>

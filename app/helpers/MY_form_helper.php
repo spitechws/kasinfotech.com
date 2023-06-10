@@ -55,16 +55,16 @@ function get_breadcrumb($breadcrumb = array()) {
 	<span class="glyphicon glyphicon-home"></span>
 	</a>
 	</li>';
-    if (isset($breadcrumb) && is_array($breadcrumb) && !empty($breadcrumb)) {
+    if (!empty($breadcrumb) && is_array($breadcrumb)) {
         foreach ($breadcrumb as $link => $label) {
             if ($link != '') {
                 $link = base_url() . $link;
                 $link = '<a href="' . $link . '">
-				<span class="glyphicon glyphicon-arrow"></span>' . lang($label) . '
+				<span class="glyphicon glyphicon-arrow"></span>' . $label . '
 				</a>';
             } else {
                 $link = '
-				<span class="glyphicon glyphicon-arrow"></span>' . lang($label) . '
+				<span class="glyphicon glyphicon-arrow"></span>' . $label . '
 				';
             }
             $html .= '<li>' . $link . '</li>';

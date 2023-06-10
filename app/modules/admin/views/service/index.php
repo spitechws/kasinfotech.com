@@ -1,40 +1,40 @@
 <div class="row">
     <div class="col-lg-12">
         <div class="panel panel-default">
-            <div class="panel-heading"><?php echo $title; ?> : Listing</div>
+            <div class="panel-heading"><?php echo $title; ?> : <?php echo lang('Listing') ?></div>
             <div class="panel-body">
                 <?php show_message(); ?>
-                <?php get_search_form('', $moduleUrl, 'Title, Page Name'); ?>
+                <?php get_search_form('', $moduleUrl, 'Search By Caption'); ?>
+                <!--GRID START-->
                 <div class="table-container">
                     <table class="table table-bordered table-responsive">
                         <thead>
                             <tr>
                                 <th width="5%">#</th>
-                                <th width="15%">Page Name</th>
-                                <th width="20%">Page Title</th>
-                                <th width="*">Meta Keywords</th>
-                                <th width="5%">Preview</th>
+                                <th width="5%">Image</th>
+                                <th width="*">Service Name</th>
+                                <th width="10%">Demo URL</th>
                                 <th width="15%">Action</th>
                             </tr>
                         </thead>
                         <tbody>
                             <?php
-                            $columns = 6;
+                            $columns = 5;
                             if (!empty($aGrid->rows)  && is_array($aGrid->rows)) {
                                 $i = get_grid_sn();
                                 foreach ($aGrid->rows as $row) {
-                                    $preview_url = base_url() . $row->page_name;
                             ?>
                                     <tr>
-                                        <td><?php echo $i; ?></td>
-                                        <td><?php echo $row->page_name ?></td>
-                                        <td><?php echo $row->page_title ?></td>
-                                        <td><?php echo $row->meta_keywords ?></td>
-                                        <td><a href="<?php echo $preview_url; ?>" class="btn btn-xs btn-success" target="_blank">Preview</a></td>
+                                        <td><?php echo $i ?></td>
+                                        <td><?php
+                                            show_image($row->image, array("width" => "100", "height" => "50"), 'service');
+                                            ?></td>
+                                        <td><?php echo $row->title ?></td>
+                                        <td><a target="_blank" href="<?php echo $row->demo_url ?>">Preview</a></td>
+
                                         <td class="text-center">
-                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->cms_id ?>">Edit</a>
-                                          
-                                            <a onclick="return confirm('Are you sure want to delete cms #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->cms_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
+                                            <a onclick="return confirm('Are you sure want to delete this service #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->id ?>">Delete</a>
                                         </td>
                                     </tr>
                                 <?php
@@ -56,6 +56,7 @@
                     }
                     ?>
                 </div>
+                <!--GRID STOP-->
             </div>
         </div>
     </div>
