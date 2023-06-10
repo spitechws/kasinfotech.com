@@ -24,14 +24,6 @@ $site_theme = site_assets()
     <link rel='stylesheet' id='odometer-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/odometer.min.css?ver=1' media='all'>
     <link rel='stylesheet' id='flaticon-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/flaticon.css?ver=1' media='all'>
     <link rel='stylesheet' id='custom-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/custom.css?ver=1' media='all'>
-    <link rel="https://api.w.org/" href="<?php echo $site_theme; ?>wp-json/index.htm">
-    <link rel="alternate" type="application/json" href="<?php echo $site_theme; ?>wp-json/wp/v2/pages/5">
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="<?php echo $site_theme; ?>xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?php echo $site_theme; ?>wp-includes/wlwmanifest.xml">
-    <link rel="canonical" href="<?php echo $site_theme; ?>index.htm">
-    <link rel='shortlink' href='<?php echo $site_theme; ?>index.htm'>
-    <link rel="alternate" type="application/json+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F">
-    <link rel="alternate" type="text/xml+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F&#038;format=xml">
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/spitech.css'>

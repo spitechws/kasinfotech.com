@@ -14,7 +14,7 @@
                                 <th width="15%" class="text-center">Created On</th>
                                 <th width="15%">Name</th>
                                 <th width="10%">Mobile/Email</th>                                
-                                <th width="25%">Message</th>
+                                <th width="25%">Service Name</th>
                                 <th width="5%" class="text-center">Action</th>
                             </tr>
                         </thead>
@@ -24,15 +24,16 @@
                             if (!empty($aGrid->rows)  && is_array($aGrid->rows)) {
                                 $i = get_grid_sn();
                                 foreach ($aGrid->rows as $row) {
+                                    $delete_url=$moduleUrl.'delete/'.$row->id;
                                     ?>
                                     <tr>
                                         <td><?php echo $i; ?></td>
                                         <td class="table-date"><?php echo config_datetime($row->created_date); ?></td>
                                         <td class="name"><?php echo $row->name ?></td>
                                         <td class="email"><?php echo $row->mobile ?><br/><?php echo $row->email ?></td>                                      
-                                        <td><?php echo $row->message ?></td>
+                                        <td><?php echo $row->service_name ?></td>
                                         <td class="action">
-                                            <a onclick="return confirm('Are you sure want to delete enquiry #<?php echo $i; ?>')"  class="delete" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->enquiry_id ?>"><i class="glyphicon glyphicon-remove" title="<?php echo lang('Delete') ?>"><?php echo lang('Delete') ?></i></a>
+                                            <a onclick="return confirm('Are you sure want to delete enquiry #<?php echo $i; ?>')"  class="btn btn-xs btn-danger" href="<?php echo $delete_url; ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php
