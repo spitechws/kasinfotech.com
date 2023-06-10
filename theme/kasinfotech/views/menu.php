@@ -1,6 +1,3 @@
-<!-- <div class="preloader">
-    <figure> <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/loader-datax.png" alt="Image"> </figure>
-</div> -->
 <div class="page-transition"></div>
 <aside class="side-widget">
     <div class="inner">
@@ -71,8 +68,8 @@
                                     ?>
                                 </ul>
                             </li>
-                            <li id="menu-item-1161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1161 nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
-                            <li id="menu-item-1162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1162 nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
+                            <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
+                            <li id="menu-item-1162" class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -115,7 +112,7 @@
                         </li>
 
                         <li><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                        <li><a href="<?php echo $site_url; ?>contact-us" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                        <li><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                     </ul>
                 </div>
             </div>
@@ -128,3 +125,5 @@
 
     </div>
 </nav>
+
+<?php require_once('page-header.php') ?>

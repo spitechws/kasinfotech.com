@@ -34,6 +34,7 @@
                 debug("There is no CMS page entry, please do entry for page name : " . $page_name);
             }
             $data['cms'] = $cms;
+            $data['title'] = $cms->page_title;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
             $data['aService'] = $this->oMainModel->service_list();
@@ -67,7 +68,14 @@
             load_home_view($view_name, $data);
         }
 
-        private function blog($params)
+        function contact($params)
+        {
+            $view_name = 'contact';
+            $data = $this->load_common_data($view_name);          
+            load_home_view($view_name, $data);
+        }
+
+        function blog($params)
         {
             $view_name = 'blog';
             $data = $this->load_common_data($view_name);           

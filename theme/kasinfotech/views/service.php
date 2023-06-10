@@ -1,10 +1,9 @@
 ﻿<?php require_once('header.php') ?>
 <?php require_once('menu.php') ?>
-<?php require_once('page-header.php') ?>
+
 <section id="contact" class="contact" style="margin-top: 20px; margin-bottom:20px">
     <div class="container aos-init aos-animate" data-aos="fade-up">
         <div class="row">
-
             <section class="hizmetlerr-bolumu">
                 <div class="h-yazi-ozel h-yazi-margin-ozel">
                 </div>
@@ -73,10 +72,6 @@
                                 </form>
                             </div>
                         </div>
-
-
-
-
                         <div class="col-lg-8">
                             <div class="bosluk333"></div>
                             <div class="galeri" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInRight;">
