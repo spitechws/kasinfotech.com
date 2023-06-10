@@ -69,12 +69,11 @@
 
         private function blog($params)
         {
-            $post_id = 0;
-            if (isset($_GET['post_id']) && $_GET['post_id'] != "") {
-                $post_id = base64_decode($_GET['post_id']);
-            }
-            $aBlogDetails = $this->oMainModel->blog_details(array("t1.post_id" => $post_id));
+            $view_name = 'blog';
+            $data = $this->load_common_data($view_name);           
+            $aBlogDetails = $this->oMainModel->blog_details(array("t1.slug" => $params[1]));
             if (isset($aBlogDetails->post_id)) {
+                $view_name = 'blog-details';
                 $data['aPopularBlog'] = $this->oMainModel->popular_blog_list();
                 $data['aBlogCategory'] = $this->oMainModel->blog_category_list();
                 $data['aBlogDetails'] = $this->oMainModel->blog_details(array("t1.post_id" => $post_id));
@@ -86,10 +85,8 @@
                     "image" => media_url($aBlogDetails->featured_image, 'post')
                 );
                 update_post_view($post_id);
-            } else {
-                redirect(base_url() . 'blog');
             }
-            return $data;
+            load_home_view($view_name, $data);
         }
 
         function save_enquiry($url)
