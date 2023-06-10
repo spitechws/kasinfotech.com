@@ -13,7 +13,7 @@ class Media_model extends MY_Model {
         if (isset($_FILES['image']['name']) && $_FILES['image']['name'] != "") {
             $image = upload_media('image', 'jpg|jpeg|png|gif|bmp', 'ckediter');
             if (isset($image['error'])) {
-                $response['message'] = $image['error'];
+                $this->response['message'] = $image['error'];
                 $image = '';
             } else {
                 $image = $image['file_name'];

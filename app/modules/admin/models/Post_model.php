@@ -28,8 +28,8 @@ class Post_model extends MY_Model {
             if (isset($_FILES['featured_image']['name']) && $_FILES['featured_image']['name'] != "") {
                 $featured_image = upload_media('featured_image', 'jpg|jpeg|png', 'post');
                 if (isset($featured_image['error'])) {
-                    $response['is_error'] = 1;
-                    $response['msg'] = $featured_image['error'];
+                    $this->response['is_error'] = 1;
+                    $this->response['msg'] = $featured_image['error'];
                     $featured_image = '';
                 } else {
                     $featured_image = $featured_image['file_name'];
@@ -44,7 +44,7 @@ class Post_model extends MY_Model {
                 }
             }
 
-            if ($response['is_error'] == 0) {
+            if ($this->response['is_error'] == 0) {
                 $aInput = array(
                     "featured_image" => $featured_image,
                     "slug" => filterValue($slug),
@@ -56,11 +56,11 @@ class Post_model extends MY_Model {
                 );
                 $_POST['rowId'] = $editId;
                 $lastId = parent::save('post', $aInput, 'post_id');
-                $response['msg'] = $lastId;
+                $this->response['msg'] = $lastId;
             }
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }
@@ -108,10 +108,10 @@ class Post_model extends MY_Model {
             );
             $_POST['rowId'] = $editId;
             $lastId = parent::save('post_category', $aInput, 'category_id');
-            $response['msg'] = $lastId;
+            $this->response['msg'] = $lastId;
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

@@ -82,14 +82,14 @@ class UserModel extends MY_Model
             $row = parent::getRecord('email', array("user_id" => $editId));
             if (!empty($row)) {
                 $res = $this->spitechApi->changePassword($password, $new_password);
-                $response['msg'] = $res->msg;
+                $this->response['msg'] = $res->msg;
             } else {
-                $response['is_error'] = 1;
-                $response['msg'] = "Please enter correct old passowrd.";
+                $this->response['is_error'] = 1;
+                $this->response['msg'] = "Please enter correct old passowrd.";
             }
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }
@@ -191,10 +191,10 @@ class UserModel extends MY_Model
             } else {
                 $this->spitechApi->updateUser($name, $email);
             }
-            $response['msg'] = $lastId;
+            $this->response['msg'] = $lastId;
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

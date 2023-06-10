@@ -45,6 +45,7 @@
         {
             $view_name = 'index';
             $data = $this->load_common_data($view_name);
+            $data['aTestimonial'] = get_rows('testimonial');
             load_home_view($view_name, $data);
         }
 

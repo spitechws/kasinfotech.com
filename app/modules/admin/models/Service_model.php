@@ -29,8 +29,8 @@ class Service_model extends MY_Model
             if (isset($_FILES['image']['name']) && $_FILES['image']['name'] != "") {
                 $image = upload_media('image', '*', 'service');
                 if (isset($image['error'])) {
-                    $response['is_error'] = 1;
-                    $response['msg'] = $image['error'];
+                    $this->response['is_error'] = 1;
+                    $this->response['msg'] = $image['error'];
                     $image = '';
                 } else {
                     $image = $image['file_name'];
@@ -45,7 +45,7 @@ class Service_model extends MY_Model
                 }
             }
 
-            if ($response['is_error'] == 0) {
+            if ($this->response['is_error'] == 0) {
                 $aInput = array(
                     "title" => filterValue($title),
                     "slug" => filterValue($slug),
@@ -57,11 +57,11 @@ class Service_model extends MY_Model
                 );
                 $_POST['rowId'] = $editId;
                 $lastId = parent::save($this->tbl_name, $aInput, 'id');
-                $response['msg'] = $lastId;
+                $this->response['msg'] = $lastId;
             }
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

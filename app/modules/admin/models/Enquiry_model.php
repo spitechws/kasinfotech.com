@@ -36,10 +36,10 @@ class Enquiry_model extends MY_Model
 			);
 			$_POST['rowId'] = $editId;
 			$lastId = parent::save($this->tbl_name, $aInput, 'id');
-			$response['msg'] = $lastId;
+			$this->response['msg'] = $lastId;
 		} else {
-			$response['is_error'] = 1;
-			$response['msg'] = validation_errors();
+			$this->response['is_error'] = 1;
+			$this->response['msg'] = validation_errors();
 		}
 		return $response;
 	}

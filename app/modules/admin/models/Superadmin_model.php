@@ -106,10 +106,10 @@ class Superadmin_model extends MY_Model
             $_POST['rowId'] = $editId;
             parent::setTable('modules');
             $lastId = parent::save($this->tbl_name, $aInput, 'module_id');
-            $response['msg'] = $lastId;
+            $this->response['msg'] = $lastId;
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }
@@ -189,10 +189,10 @@ class Superadmin_model extends MY_Model
             $_POST['rowId'] = $editId;
             parent::setTable('message_templates');
             $lastId = parent::save($this->tbl_name, $aInput, 'template_id');
-            $response['msg'] = $lastId;
+            $this->response['msg'] = $lastId;
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

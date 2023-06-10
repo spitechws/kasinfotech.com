@@ -24,8 +24,8 @@ class Banner_model extends MY_Model {
             if (isset($_FILES['image']['name']) && $_FILES['image']['name'] != "") {
                 $image = upload_media('image', 'jpg|jpeg|png|gif|bmp', 'banner');
                 if (isset($image['error'])) {
-                    $response['is_error'] = 1;
-                    $response['msg'] = $image['error'];
+                    $this->response['is_error'] = 1;
+                    $this->response['msg'] = $image['error'];
                     $image = '';
                 } else {
                     $image = $image['file_name'];
@@ -47,14 +47,14 @@ class Banner_model extends MY_Model {
                 );
                 $_POST['rowId'] = $editId;
                 $lastId = parent::save($this->tbl_name, $aInput, 'banner_id');
-                $response['msg'] = $lastId;
+                $this->response['msg'] = $lastId;
             } else {
-                $response['is_error'] = 1;
-                $response['msg'] = 'Banner Image is required';
+                $this->response['is_error'] = 1;
+                $this->response['msg'] = 'Banner Image is required';
             }
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

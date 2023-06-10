@@ -6,13 +6,13 @@
                 <?php
                 $edit_id = 0;
                 $activeClass = '';
-                if (isset($aContentInfo->testimonial_id)) {
-                    $edit_id = $aContentInfo->testimonial_id;
+                if (isset($aContentInfo->id)) {
+                    $edit_id = $aContentInfo->id;
                     $activeClass = 'hide';
                 }
                 $attribute = array("id" => "form1", "method" => "post", "class" => "form-horizontal");
                 echo form_open_multipart('', $attribute);
-                echo form_hidden('testimonial_id', $edit_id);
+                echo form_hidden('id', $edit_id);
                 ?>
                 <fieldset>	
                     <div class="text-center">
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="form-group">
-                        <label class="col-md-3 control-label">Video URL<span class="required">*</span></label>
+                        <label class="col-md-3 control-label">Video URL</label>
                         <div class="col-md-6">
                             <?php
                             $video_url = '';

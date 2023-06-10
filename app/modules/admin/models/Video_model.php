@@ -18,18 +18,18 @@ class Video_model extends MY_Model {
         if ($this->form_validation->run() == TRUE) {
             $title = $this->input->post('title', TRUE);
             $link = $this->input->post('link', TRUE);
-            if ($response['is_error'] == '0') {
+            if ($this->response['is_error'] == '0') {
                 $aInput = array(
                         "link" => $link,
                         "title" => filterValue($title)
                     );
                     $_POST['rowId'] = $editId;
                     $lastId = parent::save($this->tbl_name, $aInput, 'video_id');
-                    $response['msg'] = $lastId;
+                    $this->response['msg'] = $lastId;
             }
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

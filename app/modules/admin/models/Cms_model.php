@@ -40,10 +40,10 @@ class Cms_model extends MY_Model
             );
             $_POST['rowId'] = $editId;
             $lastId = parent::save('cms', $aInput, 'cms_id');
-            $response['msg'] = $lastId;
+            $this->response['msg'] = $lastId;
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }

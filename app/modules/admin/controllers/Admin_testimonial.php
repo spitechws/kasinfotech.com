@@ -16,7 +16,7 @@ class Admin_testimonial extends MY_Controller {
         $str_select = 't1.*';
         $data['aGrid'] = $this->oMainModel->get_list($str_select);
         $data['moduleUrl'] = $this->moduleUrl;
-        $data['title'] = lang("Testimonial");
+        $data['title'] = 'Testimonial';
         $data['menu'] = 'modules';
         $data['breadcrumb'] = array('' => 'Testimonial');
         load_admin_view('testimonials/index', $data);
@@ -34,22 +34,26 @@ class Admin_testimonial extends MY_Controller {
                 $data['msg'] = $response['msg'];
             }
         }
-        $aContentInfo = $this->oMainModel->getRecord('t1.*', array("testimonial_id" => $editId));
+        $aContentInfo = $this->oMainModel->getRecord('t1.*', array("id" => $editId));
         $data['aContentInfo'] = $aContentInfo;
 
         $data['moduleUrl'] = $this->moduleUrl;
-        $data['title'] = lang("Testimonial");
+        $data['title'] = 'Testimonial';
         $data['menu'] = 'modules';
         $data['breadcrumb'] = array('admin_testimonial' => 'Testimonial', '' => 'Manage Testimonial');
         load_admin_view('testimonials/form', $data);
-    }
+    }    
 
-    function delete($delete_id) {
-        if ($delete_id > 0) {
-            $this->oMainModel->delete('testimonial', array("testimonial_id" => $delete_id));
-            set_message('Testimonial deleted successfully');
+    function delete($delete_id = 0) {
+        $aWhere = array("id" => $delete_id);
+        $row = get_row('testimonial', $aWhere);
+        if (isset($row->id)) {
+            $file_path = config_item('media_path') . 'testimonial/' . $row->image;
+            @unlink($file_path);
+            $this->db->delete(tbl_prefix() . 'testimonial', $aWhere);
+            set_message("Testimonial deleted succesffully");
+            redirect($this->moduleUrl);
         }
-        redirect($this->moduleUrl);
     }
 
 }

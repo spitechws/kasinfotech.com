@@ -35,8 +35,8 @@ class Dashboard_model extends MY_Model {
             $_POST['rowId'] = $editId;
             $lastId = parent::save($this->tbl_name, $aInput, 'user_id', 1);
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }
@@ -69,11 +69,11 @@ class Dashboard_model extends MY_Model {
 
             $lastId = parent::save('company_details', $aInput, 'company_details_id', 0, 0);
             /*
-              $response['msg']=$lastId;
+              $this->response['msg']=$lastId;
               //debug('qry'); */
         } else {
-            $response['is_error'] = 1;
-            $response['msg'] = validation_errors();
+            $this->response['is_error'] = 1;
+            $this->response['msg'] = validation_errors();
         }
         return $response;
     }
@@ -89,8 +89,8 @@ class Dashboard_model extends MY_Model {
         if (isset($_FILES['site_logo']['name']) && $_FILES['site_logo']['name'] != "") {
             $site_logo = upload_media('site_logo', 'jpg|jpeg|png|gif|bmp', 'site_settings');
             if (isset($site_logo['error'])) {
-                $response['is_error'] = 1;
-                $response['msg'] = $site_logo['error'];
+                $this->response['is_error'] = 1;
+                $this->response['msg'] = $site_logo['error'];
                 $site_logo = '';
             } else {
                 $site_logo = $site_logo['file_name'];
@@ -107,8 +107,8 @@ class Dashboard_model extends MY_Model {
         if (isset($_FILES['site_favicon']['name']) && $_FILES['site_favicon']['name'] != "") {
             $site_favicon = upload_media('site_favicon', 'jpg|jpeg|png|gif|bmp', 'site_settings');
             if (isset($site_favicon['error'])) {
-                $response['is_error'] = 1;
-                $response['msg'] = $site_favicon['error'];
+                $this->response['is_error'] = 1;
+                $this->response['msg'] = $site_favicon['error'];
                 $site_favicon = '';
             } else {
                 $site_favicon = $site_favicon['file_name'];
