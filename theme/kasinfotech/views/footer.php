@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-lg-4">
-                <div class="logo "> <img src="<?php echo $site_theme; ?>wp-content/uploads/2022/05/logo-datax.png" alt="Image"> </div>
+                <div class="logo "> <img src="<?php echo $site_theme; ?>images/logo-datax.png" alt="Image"> </div>
                 <!-- end logo -->
                 <div class="footer-info ">
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>

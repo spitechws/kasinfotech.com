@@ -1097,11 +1097,11 @@ time:hover {
 
 /* service background */
 .services1 {
-    background: transparent url(wp-content/uploads/2022/05/service-bg.jpg) center center/cover no-repeat scroll;
+    background: transparent url(images/service-bg.jpg) center center/cover no-repeat scroll;
 }
 
 .projeler-sayfa-alani {
-    background: transparent url(wp-content/uploads/2022/05/projects-bg.png) center center/cover no-repeat scroll;
+    background: transparent url(images/projects-bg.png) center center/cover no-repeat scroll;
 }
 
 

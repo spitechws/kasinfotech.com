@@ -23,33 +23,33 @@
         <!--Slider Image Alanı-->
         <div class="tablo--1-ve-2">
             <div class="hero1 wow fadeInRight" data-wow-delay="0.2s">
-                <img class="imagerotate1" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-1.png" alt="">
+                <img class="imagerotate1" src="<?php echo site_assets() ?>images/hero-1.png" alt="">
             </div>
             <div class="hero2 wow slideInUp" data-wow-delay="0.6s">
-                <img class="imagerotate2" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-2.png" alt="">
+                <img class="imagerotate2" src="<?php echo site_assets() ?>images/hero-2.png" alt="">
             </div>
             <div class="hero3 wow fadeInRight" data-wow-delay="0.7s">
-                <img class="imagerotate1" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-3.png" alt="">
+                <img class="imagerotate1" src="<?php echo site_assets() ?>images/hero-3.png" alt="">
             </div>
             <div class="hero4 wow fadeInUp" data-wow-delay="0.8s">
-                <img class="imagerotate4" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-4.png" alt="">
+                <img class="imagerotate4" src="<?php echo site_assets() ?>images/hero-4.png" alt="">
             </div>
             <div class="hero5 wow fadeInRight" data-wow-delay="0.9s">
-                <img class="imagerotate5" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-5.png" alt="">
+                <img class="imagerotate5" src="<?php echo site_assets() ?>images/hero-5.png" alt="">
             </div>
             <div class="hero6 wow fadeInRight" data-wow-delay="1s">
-                <img class="imagerotate6" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-6.png" alt="">
+                <img class="imagerotate6" src="<?php echo site_assets() ?>images/hero-6.png" alt="">
             </div>
             <div class="hero7 wow fadeInRight" data-wow-delay="1.1s">
-                <img class="imagerotate7" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-7.png" alt="">
+                <img class="imagerotate7" src="<?php echo site_assets() ?>images/hero-7.png" alt="">
             </div>
             <div class="hero8 wow fadeInRight" data-wow-delay="1.2s">
-                <img class="imagerotate8" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-8.png" alt="">
+                <img class="imagerotate8" src="<?php echo site_assets() ?>images/hero-8.png" alt="">
             </div>
             <div class="infobg1 wow fadeInUp" data-wow-delay="1.3s">
-                <img class="infobgrotate1" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/hero-9.png" alt="">
+                <img class="infobgrotate1" src="<?php echo site_assets() ?>images/hero-9.png" alt="">
             </div>
-            <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/slider-bg.png" class="absoluteimg" alt="">
+            <img src="<?php echo site_assets() ?>images/slider-bg.png" class="absoluteimg" alt="">
             <div class="boslukhm"></div>
         </div>
     </div>
@@ -137,10 +137,10 @@
     <div class="tablo">
         <div class="tablo--1-ve-2 wow fade">
             <div class="galeri1 wow zoomIn" >
-                <img class="imagerotate" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/technology.png" alt="">
+                <img class="imagerotate" src="<?php echo site_assets() ?>images/technology.png" alt="">
             </div>
             <div class="galeri wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms" data-tilt="">
-                <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/datax-about.png" alt="Webone About" class="galeri__gorsel galeri__gorsel--3 zimage">
+                <img src="<?php echo site_assets() ?>images/datax-about.png" alt="Webone About" class="galeri__gorsel galeri__gorsel--3 zimage">
             </div>
         </div>
         <!--Galeri Görsel Alanı-->
@@ -150,7 +150,7 @@
             <p class="paragraf wow fadeInRight" data-wow-delay="0.6s">
             <p>We provide well planned data-based projects and the continuity of these projects. We are at your service to grow with our technology enthusiast team and to create success stories as data experts in the technology world.</p>
             <div class="bosluk333"></div>
-            <img class="divider" width="120" height="15" title="divider" alt="divider" src="wp-content/uploads/2022/05/divider.jpg">
+            <img class="divider" width="120" height="15" title="divider" alt="divider" src="images/divider.jpg">
             <div class="bosluk333"></div>
             <div class="row">
                 <div class="col-sm-2 wow  fadeInRight" data-wow-delay="0.7s">
@@ -261,7 +261,7 @@
             <div class="bosluk333"></div>
             <a href="all-services/index.htm" class="custom-buttonw fadeInUp" data-wow-delay="0.7s">All Services</a>
             <div class="galeri1">
-                <img class="imagerotate" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/technology2.png" alt="">
+                <img class="imagerotate" src="<?php echo site_assets() ?>images/technology2.png" alt="">
             </div>
         </div>
         <!--Services 1-->
@@ -445,7 +445,7 @@
 
                         <div class="tablo--1-ve-3">
                             <div class="card wow zoomIn"  onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/project1.jpg" alt="Project">
+                                <img src="<?php echo site_assets() ?>images/project1.jpg" alt="Project">
                                 <div class="cardContent">
                                     <h2>Data Science</h2>
                                     <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
@@ -454,7 +454,7 @@
                         </div>
                         <div class="tablo--1-ve-3">
                             <div class="card wow zoomIn" data-wow-delay="0.6s" onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/project2.jpg" alt="Project">
+                                <img src="<?php echo site_assets() ?>images/project2.jpg" alt="Project">
                                 <div class="cardContent">
                                     <h2>Software Solutions</h2>
                                     <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
@@ -463,7 +463,7 @@
                         </div>
                         <div class="tablo--1-ve-3">
                             <div class="card wow zoomIn" data-wow-delay="0.7s" onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/project3.jpg" alt="Project">
+                                <img src="<?php echo site_assets() ?>images/project3.jpg" alt="Project">
                                 <div class="cardContent">
                                     <h2>Data Security</h2>
                                     <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
@@ -734,73 +734,73 @@
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client1.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client1.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client2.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client2.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client3.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client3.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client4.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client4.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client5.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client5.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client6.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client6.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client7.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client7.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client8.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client8.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client9.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client9.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client10.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client10.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client2.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client2.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
             <div class="col-lg-2">
                 <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 " >
-                    <img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/client7.png" alt="Marka 1" class="marka">
+                    <img src="<?php echo site_assets() ?>images/client7.png" alt="Marka 1" class="marka">
                 </div>
             </div>
 
@@ -839,7 +839,7 @@
                                         We needed data science services for our company. I have never seen such a professional and committed company. Thank you for everything. <i class="fas fa-quote-right quote"></i>
                                     </div>
                                     <div class="testimonialimg">
-                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/testimonial1.png" alt="">
+                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>images/testimonial1.png" alt="">
                                         </div>
                                         <h3 class='person'>Jane</h3>
                                     </div>
@@ -856,7 +856,7 @@
                                         We worked for the virtualization of the servers in our office. They provided very fast and professional service. Thanks. <i class="fas fa-quote-right quote"></i>
                                     </div>
                                     <div class="testimonialimg">
-                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/testimonial2.png" alt="">
+                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>images/testimonial2.png" alt="">
                                         </div>
                                         <h3 class='person'>Adam</h3>
                                     </div>
@@ -873,7 +873,7 @@
                                         They quickly completed the network security of our institution. After-service support continued. Thank you very much. <i class="fas fa-quote-right quote"></i>
                                     </div>
                                     <div class="testimonialimg">
-                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/testimonial5.png" alt="">
+                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>images/testimonial5.png" alt="">
                                         </div>
                                         <h3 class='person'>Robert</h3>
                                     </div>
@@ -890,7 +890,7 @@
                                         Thanks to data science technologies, they contributed to all business processes of our company. Thank you very much. We recommend it to everyone. <i class="fas fa-quote-right quote"></i>
                                     </div>
                                     <div class="testimonialimg">
-                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>wp-content/uploads/2022/05/testimonial3.png" alt="">
+                                        <div class="testimonimg"><img src="<?php echo site_assets() ?>images/testimonial3.png" alt="">
                                         </div>
                                         <h3 class='person'>Michael</h3>
                                     </div>
@@ -936,7 +936,7 @@
 
                         <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
-                                <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/3.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/3.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/3-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
+                                <img width="396" height="223" src="<?php echo site_assets() ?>images/3.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>images/3.jpg 1920w, <?php echo site_assets() ?>images/3-300x169.jpg 300w, <?php echo site_assets() ?>images/3-1024x576.jpg 1024w, <?php echo site_assets() ?>images/3-768x432.jpg 768w, <?php echo site_assets() ?>images/3-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
                                         15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
                                         <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
@@ -954,7 +954,7 @@
 
                         <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
-                                <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/1.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/1.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/1-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
+                                <img width="396" height="223" src="<?php echo site_assets() ?>images/1.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>images/1.jpg 1920w, <?php echo site_assets() ?>images/1-300x169.jpg 300w, <?php echo site_assets() ?>images/1-1024x576.jpg 1024w, <?php echo site_assets() ?>images/1-768x432.jpg 768w, <?php echo site_assets() ?>images/1-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
                                         15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
                                         <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
@@ -972,7 +972,7 @@
 
                         <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
-                                <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/2.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/2.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/2-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
+                                <img width="396" height="223" src="<?php echo site_assets() ?>images/2.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>images/2.jpg 1920w, <?php echo site_assets() ?>images/2-300x169.jpg 300w, <?php echo site_assets() ?>images/2-1024x576.jpg 1024w, <?php echo site_assets() ?>images/2-768x432.jpg 768w, <?php echo site_assets() ?>images/2-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
                                         15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
                                         <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
@@ -990,7 +990,7 @@
 
                         <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
-                                <img width="396" height="223" src="wp-content/uploads/2022/05/6.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2022/05/6.jpg 1920w, wp-content/uploads/2022/05/6-300x169.jpg 300w, wp-content/uploads/2022/05/6-1024x576.jpg 1024w, wp-content/uploads/2022/05/6-768x432.jpg 768w, wp-content/uploads/2022/05/6-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
+                                <img width="396" height="223" src="images/6.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="images/6.jpg 1920w, images/6-300x169.jpg 300w, images/6-1024x576.jpg 1024w, images/6-768x432.jpg 768w, images/6-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
                                         15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
                                         <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
@@ -1008,7 +1008,7 @@
 
                         <div class="swiper-slide wow fadeInLeft"  data-tilt="">
                             <div class="post-kutu" style="cursor:pointer;">
-                                <img width="396" height="223" src="<?php echo site_assets() ?>wp-content/uploads/2022/05/7.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>wp-content/uploads/2022/05/7.jpg 1920w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-300x169.jpg 300w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-1024x576.jpg 1024w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-768x432.jpg 768w, <?php echo site_assets() ?>wp-content/uploads/2022/05/7-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
+                                <img width="396" height="223" src="<?php echo site_assets() ?>images/7.jpg" class="attachment-custom-size size-custom-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="<?php echo site_assets() ?>images/7.jpg 1920w, <?php echo site_assets() ?>images/7-300x169.jpg 300w, <?php echo site_assets() ?>images/7-1024x576.jpg 1024w, <?php echo site_assets() ?>images/7-768x432.jpg 768w, <?php echo site_assets() ?>images/7-1536x864.jpg 1536w" sizes="(max-width: 396px) 100vw, 396px">
                                 <div class="datesection"><span class="date">
                                         15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
                                         <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
