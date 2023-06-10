@@ -15,29 +15,24 @@
 
         function _remap($method = 'index', ...$params)
         {
-            $rows = get_rows('cms', array(), 'page_name');
-            $pages = [];
-            foreach ($rows as $row) {
-                $pages[] = $row->page_name;
-            }
-            //check theme folder
             $this->checkTheme();
-
             if (config_item('is_suspended') == "1") {
                 suspended();
             } else if (config_item('is_underconstruction') == "1") {
                 underconstruction();
-            } else if (method_exists($this, $method)) {    
-                call_user_func_array(array($this, $method), $params);  
-            } else {              
-               // page_not_found();
-               debug('Method '.$method.' not found on Home Controller.');
+            } else if (method_exists($this, $method)) {
+                call_user_func_array(array($this, $method), $params);
+            } else {
+                debug('Method ' . $method . ' not found on Home Controller.');
             }
         }
 
         function load_common_data($page_name)
         {
             $cms = get_row('cms', array('page_name' => $page_name));
+            if (empty($cms)) {
+                debug("There is no CMS page entry, please do entry for page name : " . $page_name);
+            }
             $data['cms'] = $cms;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
@@ -49,14 +44,14 @@
         function index($params)
         {
             $view_name = 'index';
-            $data = $this->load_common_data($view_name);                   
+            $data = $this->load_common_data($view_name);
             load_home_view($view_name, $data);
         }
 
         function page($params)
         {
             $view_name = 'page';
-            $data = $this->load_common_data($params[0]);                          
+            $data = $this->load_common_data($params[0]);
             load_home_view($view_name, $data);
         }
 
@@ -64,12 +59,12 @@
         {
             $view_name = 'service';
             $data = $this->load_common_data($view_name);
-            $data['aContentInfo'] = get_row('service', ['slug' => $params[0]]);  
-            if(empty($data['aContentInfo'])){
+            $data['aContentInfo'] = get_row('service', ['slug' => $params[0]]);
+            if (empty($data['aContentInfo'])) {
                 redirect(base_url());
-            }          
+            }
             load_home_view($view_name, $data);
-        } 
+        }
 
         private function blog($params)
         {
