@@ -8,9 +8,9 @@ $site_theme = site_assets()
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Datax - Data Science & Machine Learning WordPress Theme</title>
+    <title><?php echo $title;?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $site_theme; ?>images/favicon.png">
-    <meta name="description" content="Bring the Value of Artificial Intelligence to Life Faster to Achieve Breakthrough Innovations.">
+    <?php meta_tags($cms);?>
     <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'>
 
     <link rel='stylesheet' id='classic-theme-styles-css' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'>
@@ -34,6 +34,7 @@ $site_theme = site_assets()
     <link rel="alternate" type="text/xml+oembed" href="<?php echo $site_theme; ?>wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fgarantiwebtasarim.com%2Fwordpress%2Fdatax%2F&#038;format=xml">
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/spitech.css'>
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",

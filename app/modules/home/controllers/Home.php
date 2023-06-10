@@ -56,7 +56,7 @@
         function page($params)
         {
             $view_name = 'page';
-            $data = $this->load_common_data($params[0]);                   
+            $data = $this->load_common_data($params[0]);                          
             load_home_view($view_name, $data);
         }
 
