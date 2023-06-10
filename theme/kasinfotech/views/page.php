@@ -2,7 +2,7 @@
 <?php include_once('menu.php') ?>
 
 
-<div class="page">
+<div class="page container">
    <div class="page-title">
       <h1><?php echo $cms->page_title; ?></h1>
    </div>

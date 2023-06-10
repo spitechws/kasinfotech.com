@@ -40,7 +40,6 @@
             return $data;
         }
 
-
         function index($params)
         {
             $view_name = 'index';
@@ -54,6 +53,8 @@
             $data = $this->load_common_data($params[0]);
             load_home_view($view_name, $data);
         }
+
+        //--------DEV CHANGES NEEDED BELOW ONLY ---------------
 
         function service($params)
         {
