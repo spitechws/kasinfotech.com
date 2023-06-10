@@ -6,15 +6,15 @@
                 <?php
                 $edit_id = 0;
                 $activeClass = '';
-                if (isset($aContentInfo->course_id)) {
-                    $edit_id = $aContentInfo->course_id;
+                if (isset($aContentInfo->id)) {
+                    $edit_id = $aContentInfo->id;
                     $activeClass = 'hide';
                 }
                 $attribute = array("id" => "form1", "method" => "post", "class" => "form-horizontal");
                 echo form_open_multipart('', $attribute);
-                echo form_hidden('course_id', $edit_id);
+                echo form_hidden('id', $edit_id);
                 ?>
-                <fieldset>	
+                <fieldset>
                     <div class="form-group">
                         <div class="col-md-6 col-md-offset-3"><?php show_message() ?></div>
                     </div>
@@ -35,13 +35,13 @@
                             <label for="image">
                                 <?php
                                 $attribute = array('id' => 'image_preview', 'class' => 'img-responsive', 'alt' => $title);
-                                show_image($image, $attribute,'service');
+                                show_image($image, $attribute, 'service');
                                 ?>
-                            </label>                                    
+                            </label>
                             <input id="image" name="image" onchange="previewImg(this, 'image_preview')" <?php echo $validate_image ?> type="file">
                             <div class="text-hint">Click on image to browse image</div>
                             <div class="error" id="error_image"></div>
-                        </div>                                                              
+                        </div>
                     </div>
 
                     <div class="form-group">
@@ -55,7 +55,7 @@
                                 $title = $aContentInfo->title;
                             }
                             ?>
-                            <input maxlength="150" id="title" name="title" validate="Required" type="text" placeholder="<?php echo lang('Course Name') ?>" class="form-control" value="<?php echo $title ?>">
+                            <input onblur="generateSlug('title','slug')" maxlength="150" id="title" name="title" validate="Required" type="text" placeholder="<?php echo lang('Course Name') ?>" class="form-control" value="<?php echo $title ?>">
                             <div class="error" id="error_title"></div>
                         </div>
                     </div>
@@ -70,12 +70,12 @@
                                 $slug = $aContentInfo->slug;
                             }
                             ?>
-                            <input id="slug" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
+                            <input id="slug" onblur="generateSlug('title','slug')" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
                             <div class="error" id="error_slug"></div>
                         </div>
                     </div>
-                    
-                    
+
+
                     <div class="form-group">
                         <label class="col-md-3 control-label">Description</label>
                         <div class="col-md-6">
@@ -90,7 +90,7 @@
                             <textarea rows="5" maxlength="150" id="description" name="description" placeholder="<?php echo lang('Short Description') ?>" class="form-control"><?php echo $description ?></textarea>
                             <div class="error" id="error_description"></div>
                         </div>
-                    </div>    
+                    </div>
                     <div class="form-group">
                         <label class="col-md-3 control-label">Demo URL</label>
                         <div class="col-md-6">
@@ -143,14 +143,14 @@
 
                     <div class="form-group">
                         <div class="col-md-6 col-md-offset-3">
-                            <input type="hidden" name="submitform" id="submitform" value="submit">	
+                            <input type="hidden" name="submitform" id="submitform" value="submit">
                             <button type="button" onclick="formValidate('form1')" class="btn btn-primary btn-md"><?php echo lang('Save') ?></button>
                             &nbsp;&nbsp;&nbsp;
                             <button type="button" class="btn btn-danger btn-md" onclick="history.go(-1)"><?php echo lang('Cancel') ?></button>
                         </div>
                     </div>
                 </fieldset>
-                <?php echo form_close(); ?>		
+                <?php echo form_close(); ?>
             </div>
         </div>
     </div>

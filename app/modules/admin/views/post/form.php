@@ -27,7 +27,7 @@
                                 $title = $aContentInfo->title;
                             }
                             ?>
-                            <input validate="Required" id="title" name="title"  type="text" class="form-control" value="<?php echo $title ?>">
+                            <input validate="Required" onblur="generateSlug('title','slug')" id="title" name="title"  type="text" class="form-control" value="<?php echo $title ?>">
                             <div id="error_title" class="error"><?php echo form_error('title') ?></div>
                         </div>
                     </div>  
@@ -42,7 +42,7 @@
                                 $slug = $aContentInfo->slug;
                             }
                             ?>
-                            <input id="slug" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
+                            <input id="slug" onblur="generateSlug('title','slug')" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
                             <div class="error" id="error_slug"></div>
                         </div>
                     </div>

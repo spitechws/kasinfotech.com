@@ -56,7 +56,7 @@
                             <?php
                             if (!empty($aService) && is_array($aService)) {
                                 foreach ($aService as $row) {
-                                    $url = base_url() . $row->slug;
+                                    $url = base_url() .'service/' . $row->slug;
                             ?>
                                     <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
                             <?php

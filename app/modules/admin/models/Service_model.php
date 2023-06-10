@@ -14,7 +14,6 @@ class Service_model extends MY_Model
 
     function add()
     {
-
         $editId = $this->input->post('id');
         $this->form_validation->set_rules('title', 'Service Name', "required");
         if ($this->form_validation->run() == TRUE) {

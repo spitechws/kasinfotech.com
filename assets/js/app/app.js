@@ -102,14 +102,22 @@ function loadSubcategory() {
     });
 }
 
-function changeModuleStatus(module_id) {   
+function changeModuleStatus(module_id) {
     $.ajax({
         url: BASE_URL + 'common/change_module_status',
         type: 'POST',
-        data: { module_id: module_id},
+        data: { module_id: module_id },
         dataType: 'json',
         success: function (response) {
             console.log(response);
         }
     });
+}
+
+function generateSlug(source_id,target_id) {
+    var a = document.getElementById(source_id).value;
+    var b = a.toLowerCase().replace(/ /g, '-')
+        .replace(/[^\w-]+/g, '');
+    document.getElementById(source_id).value = b;
+    document.getElementById(target_id).value = b;
 }

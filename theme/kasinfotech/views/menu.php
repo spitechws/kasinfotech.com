@@ -98,7 +98,7 @@
                                 <?php
                                 if (!empty($aService) && is_array($aService)) {
                                     foreach ($aService as $row) {
-                                        $url = base_url() . $row->slug;
+                                        $url = base_url().'service/' . $row->slug;
                                 ?>
 
                                         <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->title; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>

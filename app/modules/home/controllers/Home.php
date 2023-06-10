@@ -13,7 +13,7 @@
             $this->load->model('Home_model', 'oMainModel');
         }
 
-        function _remap($method = "index")
+        function _remap($method = 'index', $params = array())
         {
             $rows = get_rows('cms', array(), 'page_name');
             $pages = [];
@@ -28,7 +28,11 @@
             } else if (config_item('is_underconstruction') == "1") {
                 underconstruction(); // check underconstruction
             } else if (in_array($method, $pages)) {
-                $this->cms_page($method); // load pages
+                if (method_exists($this, $method)) {
+                    call_user_func_array(array($this, $method), $params);
+                } else {
+                    debug('Method ' . $method . ' not defined');
+                }
             } else {
                 page_not_found(); // page not found
             }
@@ -44,85 +48,96 @@
             return $data;
         }
 
-        function cms_page($page_name)
+        function service($slug)
         {
-            $data = $this->load_common_data($page_name);
-            $view_name = $page_name;
-            switch ($page_name) {
-                case "index":
-                    $data['aBanner'] = get_rows('banner');
-                    $data['aGalleryImages'] = $this->oMainModel->gallery_image_list();
-                    $data['aTestimonial'] = $this->oMainModel->testimonial_list();
-                    break;
-
-                case "video-gallery":
-                    $data['aVideoGallery'] = get_rows(tbl_prefix() . 'video');
-                    break;
-
-                case "category":
-                    if (isset($_GET['category'])) {
-                        $category_id = base64_decode($_GET['category']);
-                    }
-                    $data['aCategoryDetails'] = get_row('category', array("category_id" => $category_id));
-                    break;
-
-                case "blog":
-                    break;
-
-                case "blog-details":
-                    $data = $this->blog_details($data);
-                    break;
-
-                case "contact-us":
-                    $this->save_enquiry('contact');
-                    break;
-
-                case "career":
-                    $data['aCareer'] = get_rows('career', array("status" => "1"));
-                    break;
-
-                case "career-apply":
-                    $career_id = 0;
-                    if (isset($_GET['career_id']) && $_GET['career_id'] != "") {
-                        $career_id = base64_decode($_GET['career_id']);
-                    }
-                    $data['aCareer'] = get_row('career', array("career_id" => $career_id));
-                    $data['cms']->page_title = $data['aCareer']->job_title;
-                    if (isset($_POST['submitform']) && $_POST['submitform'] != "") {
-                        $res = $this->oMainModel->job_apply();
-                        if ($res['status'] == "1") {
-                            set_message($res['message']);
-                        } else {
-                            set_message($res['message'], 'e');
-                        }
-                        redirect(base_url() . "career-apply?career_id=" . base64_encode($career_id));
-                    }
-                    break;
-
-                case "services":
-                    break;
-
-                case "blog":
-                    if (isset($_GET['cat_id']) && $_GET['cat_id'] != "") {
-                        $category_id = base64_decode($_GET['cat_id']);
-                        $aCategory = get_row('post_category', array('category_id' => $category_id));
-                        $data['aCategory'] = $aCategory;
-                        if (isset($aCategory->title)) {
-                            $data['cms']->page_title = $aCategory->title;
-                        }
-                    }
-                    $data['aBlogCategory'] = $this->oMainModel->blog_category_list();
-                    break;
-
-                case "about-us":
-                    break;
-
-                default:
-                    $view_name = 'cms';
-                    break;
-            }
+            $view_name = 'service';
+            $data = $this->load_common_data($view_name);
+            $data['aService'] = get_row('service', ['slug' => $slug]);
             load_home_view($view_name, $data);
         }
+
+        // function cms_page($page_name, $arguments)
+        // {
+        //     $data = $this->load_common_data($page_name);
+        //     $view_name = $page_name;
+        //     switch ($page_name) {
+        //         case "index":
+        //             $data['aBanner'] = get_rows('banner');
+        //             $data['aGalleryImages'] = $this->oMainModel->gallery_image_list();
+        //             $data['aTestimonial'] = $this->oMainModel->testimonial_list();
+        //             break;
+
+        //         case "video-gallery":
+        //             $data['aVideoGallery'] = get_rows(tbl_prefix() . 'video');
+        //             break;
+
+        //         case "category":
+        //             if (isset($_GET['category'])) {
+        //                 $category_id = base64_decode($_GET['category']);
+        //             }
+        //             $data['aCategoryDetails'] = get_row('category', array("category_id" => $category_id));
+        //             break;
+
+        //         case "blog":
+        //             break;
+
+        //         case "blog-details":
+        //             $data = $this->blog_details($data);
+        //             break;
+
+        //         case "contact-us":
+        //             $this->save_enquiry('contact');
+        //             break;
+
+        //         case "career":
+        //             $data['aCareer'] = get_rows('career', array("status" => "1"));
+        //             break;
+
+        //         case "career-apply":
+        //             $career_id = 0;
+        //             if (isset($_GET['career_id']) && $_GET['career_id'] != "") {
+        //                 $career_id = base64_decode($_GET['career_id']);
+        //             }
+        //             $data['aCareer'] = get_row('career', array("career_id" => $career_id));
+        //             $data['cms']->page_title = $data['aCareer']->job_title;
+        //             if (isset($_POST['submitform']) && $_POST['submitform'] != "") {
+        //                 $res = $this->oMainModel->job_apply();
+        //                 if ($res['status'] == "1") {
+        //                     set_message($res['message']);
+        //                 } else {
+        //                     set_message($res['message'], 'e');
+        //                 }
+        //                 redirect(base_url() . "career-apply?career_id=" . base64_encode($career_id));
+        //             }
+        //             break;
+
+        //         case "service":
+        //             $this->service($arguments);
+        //             break;
+
+        //         case "blog":
+        //             if (isset($_GET['cat_id']) && $_GET['cat_id'] != "") {
+        //                 $category_id = base64_decode($_GET['cat_id']);
+        //                 $aCategory = get_row('post_category', array('category_id' => $category_id));
+        //                 $data['aCategory'] = $aCategory;
+        //                 if (isset($aCategory->title)) {
+        //                     $data['cms']->page_title = $aCategory->title;
+        //                 }
+        //             }
+        //             $data['aBlogCategory'] = $this->oMainModel->blog_category_list();
+        //             break;
+
+        //         case "about-us":
+        //             break;
+
+        //         default:
+        //             $view_name = 'cms';
+        //             break;
+        //     }
+        //     load_home_view($view_name, $data);
+        // }
+
+
 
         private function blog_details($data)
         {
