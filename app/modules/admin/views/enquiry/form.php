@@ -104,7 +104,7 @@
                         </div>
                     </fieldset>
                     <?php echo form_close(); ?>
-                    <?php //include_once('role-modal.php'); ?>
+                    <?php //require_once('role-modal.php'); ?>
                 </div>
             </div>	
             <div class="panel-footer"></div>							

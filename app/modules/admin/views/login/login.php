@@ -1,4 +1,4 @@
-<?php include_once(APPPATH.'/views/layouts/header.php'); ?>
+<?php require_once(APPPATH.'/views/layouts/header.php'); ?>
 <div class="row">
     <div class="col-xs-12 col-sm-4 col-sm-offset-4">
         <div class="login-panel panel panel-default login-box">
@@ -60,4 +60,4 @@
         </div>
     </div><!-- /.col-->
 </div><!-- /.row -->		
-<?php include_once(APPPATH.'/views/layouts/footer.php'); ?>
+<?php require_once(APPPATH.'/views/layouts/footer.php'); ?>

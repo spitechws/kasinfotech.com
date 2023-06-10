@@ -112,7 +112,7 @@ class Modules
 		{
 			if (is_file($location = dirname(__FILE__).'/'.substr($class, 3).EXT)) 
 			{
-				include_once $location;
+				require_once $location;
 				return;
 			}
 			show_error('Failed to load MX core class: '.$class);
@@ -121,14 +121,14 @@ class Modules
 		/* autoload core classes */
 		if(is_file($location = APPPATH.'core/'.ucfirst($class).EXT)) 
 		{
-			include_once $location;
+			require_once $location;
 			return;
 		}		
 		
 		/* autoload library classes */
 		if(is_file($location = APPPATH.'libraries/'.ucfirst($class).EXT)) 
 		{
-			include_once $location;
+			require_once $location;
 			return;
 		}		
 	}
@@ -145,7 +145,7 @@ class Modules
 				log_message('debug', "File already loaded: {$location}");				
 				return $result;
 			}	
-			include_once $location;
+			require_once $location;
 		} 
 		else 
 		{

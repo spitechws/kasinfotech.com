@@ -310,7 +310,7 @@ class MX_Loader extends CI_Loader
 			/* module constants file */
 			if ($path != FALSE)
 			{
-				include_once $path.$file.EXT;
+				require_once $path.$file.EXT;
 			}
 			list($path, $file) = Modules::find('autoload', $this->_module, 'config/');
 			/* module autoload file */
