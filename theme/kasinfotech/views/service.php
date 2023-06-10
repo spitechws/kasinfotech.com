@@ -1,7 +1,7 @@
 ﻿<?php include_once('header.php') ?>
 <?php include_once('menu.php') ?>
 
-<header class="page-header wow fadeInUp" data-wow-delay="0.5s" data-background="https://garantiwebtasarim.com/wordpress/datax/wp-content/uploads/2022/05/page-header-datax.jpg" style="background: url(&quot;https://garantiwebtasarim.com/wordpress/datax/wp-content/uploads/2022/05/page-header-datax.jpg&quot;); visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+<header class="page-header">
     <div class="container">
         <h2>Contact</h2>
         <div class="bosluk3"></div>
