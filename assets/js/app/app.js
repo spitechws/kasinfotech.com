@@ -121,3 +121,24 @@ function generateSlug(source_id,target_id) {
     document.getElementById(source_id).value = b;
     document.getElementById(target_id).value = b;
 }
+
+function submitEnquiry(form_id){
+    if(formValidateOnly(form_id)){
+        var formData=$('#'+form_id).serialize();
+        $.ajax({
+            url:BASE_URL+'client/ajaxAdd/',
+            type:'POST',
+            data:formData,
+            success:function(response){
+                if(response>0){	
+                    clearForm('form1');					
+                    $('#'+form_id+' #errorMessages').html('');
+                    $('#clientModal').modal('hide');
+                    getClients();
+                }else{
+                    $('#'+form_id+' #errorMessages').html(response);
+                }    
+            }
+        });
+    }
+}	

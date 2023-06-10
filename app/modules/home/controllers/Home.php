@@ -59,6 +59,10 @@
 
         function service($params)
         {
+            if (isset($_POST['submit'])) {
+                $res = $this->oMainModel->save_enquiry();
+                set_message($res['msg']);
+            }
             $view_name = 'service';
             $data = $this->load_common_data($view_name);
             $data['aContentInfo'] = get_row('service', ['slug' => $params[0]]);
@@ -66,19 +70,20 @@
                 redirect(base_url());
             }
             load_home_view($view_name, $data);
+            hide_message();
         }
 
         function contact($params)
         {
             $view_name = 'contact';
-            $data = $this->load_common_data($view_name);          
+            $data = $this->load_common_data($view_name);
             load_home_view($view_name, $data);
         }
 
         function blog($params)
         {
             $view_name = 'blog';
-            $data = $this->load_common_data($view_name);           
+            $data = $this->load_common_data($view_name);
             $aBlogDetails = $this->oMainModel->blog_details(array("t1.slug" => $params[1]));
             if (isset($aBlogDetails->post_id)) {
                 $view_name = 'blog-details';

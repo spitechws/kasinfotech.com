@@ -3,13 +3,16 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Home_model extends MY_Model {
+class Home_model extends MY_Model
+{
 
-    function __construct() {
+    function __construct()
+    {
         parent::__construct();
     }
 
-    function academic_calendar_list($aWhere = array()) {
+    function academic_calendar_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'academic_calendar as t1');
@@ -19,7 +22,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function admission_notification_list($aWhere = array()) {
+    function admission_notification_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'admission_notification as t1');
@@ -29,7 +33,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function sports_dept_list($aWhere = array()) {
+    function sports_dept_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'sports as t1');
@@ -39,7 +44,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function alumni_register() {
+    function alumni_register()
+    {
         $response = array('status' => '1', 'message' => 'Success');
         $this->form_validation->set_rules('name', 'Name', 'required');
         $this->form_validation->set_rules('contact', 'Mobile', "required|numeric|min_length[10]");
@@ -81,7 +87,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function latest_notification_list($aWhere = array()) {
+    function latest_notification_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'notification as t1');
@@ -91,7 +98,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function admission() {
+    function admission()
+    {
         $response = array('status' => '1', 'message' => 'Success');
         $this->form_validation->set_rules('name', 'Name', 'required');
         $this->form_validation->set_rules('mobile', 'Mobile', "required|numeric|min_length[10]");
@@ -121,7 +129,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function merit_list($aWhere = array()) {
+    function merit_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'merit as t1');
@@ -131,7 +140,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function ssr_list($aWhere = array()) {
+    function ssr_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'ssr as t1');
@@ -141,7 +151,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function admission_list($aWhere = array()) {
+    function admission_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'admission_list as t1');
@@ -151,7 +162,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function events_list($aWhere = array()) {
+    function events_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'events as t1');
@@ -161,7 +173,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function feedback() {
+    function feedback()
+    {
         $response = array('status' => '1', 'message' => 'Success');
         $this->form_validation->set_rules('name', 'Name', 'required');
         $this->form_validation->set_rules('contact', 'Mobile', "required|numeric|min_length[10]");
@@ -191,7 +204,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function links_list($aWhere = array()) {
+    function links_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'links as t1');
@@ -201,7 +215,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function download_list($aWhere = array()) {
+    function download_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'download as t1');
@@ -211,7 +226,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function news_list($aWhere = array()) {
+    function news_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'news as t1');
@@ -221,7 +237,8 @@ class Home_model extends MY_Model {
         return $aResponse;
     }
 
-    function gallery_list($aWhere = array()) {
+    function gallery_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'gallery as t1');
@@ -239,83 +256,91 @@ class Home_model extends MY_Model {
         return $res;
     }
 
-   
-    function course_list(){
+
+    function course_list()
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'course as t1');
-        $res=$this->db->get()->result();
+        $this->db->from(tbl_prefix() . 'course as t1');
+        $res = $this->db->get()->result();
         return $res;
     }
 
-    function testimonial_list(){
+    function testimonial_list()
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'testimonial as t1');
-        $res=$this->db->get()->result();
-        return $res;
-    }    
-
-    function service_list(){
-        $str_select = 't1.*';
-        $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'service as t1');
-        $res=$this->db->get()->result();
+        $this->db->from(tbl_prefix() . 'testimonial as t1');
+        $res = $this->db->get()->result();
         return $res;
     }
 
-    function blog_list(){
-        $aWhere=array();
-        if(isset($_GET['cat_id']) && $_GET['cat_id']!=""){
-           $aWhere['t1.category_id']=base64_decode($_GET['cat_id']);
+    function service_list()
+    {
+        $str_select = 't1.*';
+        $this->db->select($str_select);
+        $this->db->from(tbl_prefix() . 'service as t1');
+        $res = $this->db->get()->result();
+        return $res;
+    }
+
+    function blog_list()
+    {
+        $aWhere = array();
+        if (isset($_GET['cat_id']) && $_GET['cat_id'] != "") {
+            $aWhere['t1.category_id'] = base64_decode($_GET['cat_id']);
         }
         $str_select = 't1.*,t2.title as category,t3.name as author_name,t3.photo as author_image,t3.quote';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'post as t1');
-        $this->db->join(tbl_prefix().'post_category as t2','t1.category_id=t2.category_id');
-        $this->db->join(tbl_prefix().'user as t3','t1.created_by=t3.user_id');
+        $this->db->from(tbl_prefix() . 'post as t1');
+        $this->db->join(tbl_prefix() . 'post_category as t2', 't1.category_id=t2.category_id');
+        $this->db->join(tbl_prefix() . 'user as t3', 't1.created_by=t3.user_id');
         $this->db->where($aWhere);
-        $res=$this->db->get()->result();
+        $res = $this->db->get()->result();
         return $res;
     }
 
-    function blog_details($aWhere=array()){
+    function blog_details($aWhere = array())
+    {
         $str_select = 't1.*,t2.title as category,t3.name as author_name,t3.photo as author_image,t3.quote';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'post as t1');
-        $this->db->join(tbl_prefix().'post_category as t2','t1.category_id=t2.category_id');
-        $this->db->join(tbl_prefix().'user as t3','t1.created_by=t3.user_id');
+        $this->db->from(tbl_prefix() . 'post as t1');
+        $this->db->join(tbl_prefix() . 'post_category as t2', 't1.category_id=t2.category_id');
+        $this->db->join(tbl_prefix() . 'user as t3', 't1.created_by=t3.user_id');
         $this->db->where($aWhere);
-        $res=$this->db->get()->row();
+        $res = $this->db->get()->row();
         return $res;
     }
 
-    function popular_blog_list(){
+    function popular_blog_list()
+    {
         $str_select = 't1.*,t2.title as category,t3.name as author_name,t3.photo as author_image,t3.quote';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'post as t1');
-        $this->db->join(tbl_prefix().'post_category as t2','t1.category_id=t2.category_id');
-        $this->db->join(tbl_prefix().'user as t3','t1.created_by=t3.user_id');
-        $this->db->order_by('t1.view_count','desc');
-//        $this->db->limit(0,5);
-        $res=$this->db->get()->result();
+        $this->db->from(tbl_prefix() . 'post as t1');
+        $this->db->join(tbl_prefix() . 'post_category as t2', 't1.category_id=t2.category_id');
+        $this->db->join(tbl_prefix() . 'user as t3', 't1.created_by=t3.user_id');
+        $this->db->order_by('t1.view_count', 'desc');
+        //        $this->db->limit(0,5);
+        $res = $this->db->get()->result();
         return $res;
     }
 
-    function blog_category_list(){
+    function blog_category_list()
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
-        $this->db->from(tbl_prefix().'post_category as t1');
-        $res=$this->db->get()->result();
-        foreach ($res as $key=>$value) {
-            $count=get_count('post',array('category_id'=>$value->category_id));
-            $res[$key]->count=$count;
+        $this->db->from(tbl_prefix() . 'post_category as t1');
+        $res = $this->db->get()->result();
+        foreach ($res as $key => $value) {
+            $count = get_count('post', array('category_id' => $value->category_id));
+            $res[$key]->count = $count;
         }
         return $res;
     }
-  
 
-    function save_subscriber() {
+
+    function save_subscriber()
+    {
         $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
         if ($this->form_validation->run() == TRUE) {
@@ -333,7 +358,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function save_enquiry() {
+    function save_enquiry()
+    {
         $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
         $this->form_validation->set_rules('name', 'Name', 'required');
         $this->form_validation->set_rules('mobile', 'Mobile Number', 'required');
@@ -342,16 +368,16 @@ class Home_model extends MY_Model {
             $name = $this->input->post('name', TRUE);
             $mobile = $this->input->post('mobile', TRUE);
             $email = $this->input->post('email', TRUE);
-            $message = $this->input->post('message', TRUE);
+            $service_id = $this->input->post('service_id', TRUE);
             $aInput = array(
                 "name" => filterValue($name),
                 "mobile" => filterValue($mobile),
                 "email" => filterValue($email),
-                "message" => filterValue($message),
+                "service_id" => filterValue($service_id),
                 'created_date' => date('Y-m-d H:i:s')
             );
             $this->db->insert(tbl_prefix() . 'enquiry', $aInput);
-            $response['msg'] = $this->db->insert_id();
+            $response['msg'] = "Enqyiry submitted successfully";
         } else {
             $response['is_error'] = 1;
             $response['msg'] = validation_errors();
@@ -359,7 +385,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function job_apply() {
+    function job_apply()
+    {
         $response = array('status' => '1', 'message' => 'Success');
         $this->form_validation->set_rules('name', 'Name', 'required');
         $this->form_validation->set_rules('mobile', 'Mobile', "required");
@@ -403,7 +430,8 @@ class Home_model extends MY_Model {
         return $response;
     }
 
-    function gallery_image_list($aWhere = array()) {
+    function gallery_image_list($aWhere = array())
+    {
         $this->db->select('t1.*,t2.title,t2.status');
         $this->db->from(tbl_prefix() . 'gallery_image as t1');
         $this->db->join(tbl_prefix() . 'gallery as t2', 't1.gallery_id=t2.gallery_id');
@@ -412,5 +440,4 @@ class Home_model extends MY_Model {
         $results = $this->db->get()->result();
         return $results;
     }
-
 }
