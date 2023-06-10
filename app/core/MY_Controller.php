@@ -35,10 +35,7 @@ class MY_Controller extends CI_Controller
     {
         return $this->moduleId;
     }
-
-    function index()
-    {
-    }
+    
 
     function setTable($tbl_name)
     {

@@ -124,8 +124,8 @@ function suspended() {
 
 function page_not_found() {
     $ci = & get_instance();
-    $data['title'] = "Page Not Found";
-    $data['menu'] = "home";
+    $data['title'] = "CMS entry not found."; 
+    $data['menu'] = "home";    
     load_home_view('404', $data);
 }
 

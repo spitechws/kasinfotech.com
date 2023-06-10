@@ -9,13 +9,13 @@
     </div>
 </header>
 <section id="contact" class="contact" style="margin-top: 20px; margin-bottom:20px">
-    <div class="container aos-init aos-animate" data-aos="fade-up">      
+    <div class="container aos-init aos-animate" data-aos="fade-up">
 
         <div class="row">
 
             <div class="col-lg-12 d-flex align-items-stretch">
-               <?php debug($aService);?>
-            </div>          
+                <?php show_image($aContentInfo->image, ['class' => 'img-fluid'], 'service'); ?>
+            </div>
 
         </div>
 
