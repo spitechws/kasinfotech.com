@@ -36,12 +36,7 @@ if (!empty($aPost) && is_array($aPost)) {
                                         ];
                                         show_image($row->featured_image, $attribute, 'post');
                                         ?>
-                                        <div class="datesection">
-                                            <span class="date">
-                                                15.05.2022 </span>&nbsp;<span class="tt">-</span>&nbsp;<ul class="post-categories">
-                                                <li><a href="category/data/index.htm" rel="category tag">Data</a></li>
-                                            </ul>
-                                        </div>
+                                       
                                         <h3 class="baslik-3 h-yazi-margin-kucuk"><?php echo get_substring($row->title,30)?></h3>
                                         <p class="post-kutu--yazi">
                                         <?php echo get_substring($row->short_description,100)?>
