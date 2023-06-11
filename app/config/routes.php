@@ -1,21 +1,21 @@
 <?php
 
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $aAdmin = array(
-      "admin", "admin_dashboard", "common",
+    "admin", "admin_dashboard", "common",
     "admin_post", "admin_career",
     "admin_faculty", "superadmin", "admin_user", "admin_enquiry",
     "admin_cms", "admin_gallery",
-    "admin_banner", "admin_language",
+    "admin_banner", "admin_client",
     "admin_job_application",
-    "admin_media","admin_component",
-    "admin_notification","admin_testimonial",
-    "admin_topper", "admin_service",'admin_subscriber',
+    "admin_media", "admin_component",
+    "admin_notification", "admin_testimonial",
+    "admin_project", "admin_service", 'admin_subscriber',
     "admin_video",
     "admin_services"
 );

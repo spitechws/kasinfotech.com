@@ -111,7 +111,7 @@ class Superadmin_model extends MY_Model
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();
         }
-        return $response;
+        return $this->response;
     }
 
     /* -----------Language---------------- */
@@ -194,7 +194,7 @@ class Superadmin_model extends MY_Model
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();
         }
-        return $response;
+        return $this->response;
     }
 
     /* ------------System Settings--------------- */
@@ -238,6 +238,6 @@ class Superadmin_model extends MY_Model
         foreach ($aInput as $key => $value) {
             $this->db->update(tbl_prefix() . 'config', array("value" => $value), array("name" => $key));
         }
-        return $response;
+        return $this->response;
     }
 }

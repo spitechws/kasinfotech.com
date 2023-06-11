@@ -23,7 +23,7 @@ class Media_model extends MY_Model {
         } else {
             $this->response['message'] = "File is requried";
         }
-        return $response;
+        return $this->response;
     }
 
 }

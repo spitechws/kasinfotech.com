@@ -27,7 +27,7 @@ class Gallery_model extends MY_Model {
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();
         }
-        return $response;
+        return $this->response;
     }
 
     function get_list($str_select = '*', $aWhere = array()) {

@@ -91,7 +91,7 @@ class UserModel extends MY_Model
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();
         }
-        return $response;
+        return $this->response;
     }
 
     function profile()
@@ -196,7 +196,7 @@ class UserModel extends MY_Model
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();
         }
-        return $response;
+        return $this->response;
     }
 
     function getList($str_select = '*', $sort = 'user_id', $order = 'desc')
