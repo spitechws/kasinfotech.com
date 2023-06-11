@@ -7,7 +7,7 @@
     <div class="tablo">
         <div class="tablo--1-ve-2 wow fadeInUp" data-wow-delay="0.2s">
             <div class="bosluk333"></div>
-            <h2 class="h2-baslik-anasayfa-ozel1 " > Real-time technology data management systems with data analysis </h2>
+            <h2 class="h2-baslik-anasayfa-ozel1 "> Real-time technology data management systems with data analysis </h2>
             <div class="bosluk333"></div>
             <div class="bosluk9"></div>
             <p class="paragraf-slider " data-wow-delay="0.7s">
@@ -25,7 +25,7 @@
             <div class="hero1 wow fadeInRight" data-wow-delay="0.2s">
                 <img class="imagerotate1" src="<?php echo site_assets() ?>images/hero-1.png" alt="">
             </div>
-            <div class="hero2 wow slideInUp" >
+            <div class="hero2 wow slideInUp">
                 <img class="imagerotate2" src="<?php echo site_assets() ?>images/hero-2.png" alt="">
             </div>
             <div class="hero3 wow fadeInRight" data-wow-delay="0.7s">
@@ -80,7 +80,7 @@
             </div>
         </div>
         <div class="tablo--1-ve-4">
-            <div class="paketler wow flipInY"  onclick="location.href='https://garantiwebtasarim.com/wordpress/datax/software-solutions/';" style="cursor:pointer;">
+            <div class="paketler wow flipInY" onclick="location.href='https://garantiwebtasarim.com/wordpress/datax/software-solutions/';" style="cursor:pointer;">
                 <div class="hizmet-kutu">
                     <div class="kutu-duzen">
                         <h3><a href="software-solutions/index.htm">Artificial Intelligence</a></h3>
@@ -145,9 +145,9 @@
         </div>
         <!--Galeri Görsel Alanı-->
         <div class="tablo--1-ve-3 wow fadeInUp">
-            <h2 class="h2-baslik-anasayfa-ozel wow fadeInUp" > We are on a road from data to knowledge </h2>
+            <h2 class="h2-baslik-anasayfa-ozel wow fadeInUp"> We are on a road from data to knowledge </h2>
             <div class="bosluk333"></div>
-            <p class="paragraf wow fadeInRight" >
+            <p class="paragraf wow fadeInRight">
             <p>We provide well planned data-based projects and the continuity of these projects. We are at your service to grow with our technology enthusiast team and to create success stories as data experts in the technology world.</p>
             <div class="bosluk333"></div>
             <img class="divider" width="120" height="15" title="divider" alt="divider" src="images/divider.jpg">
@@ -192,9 +192,9 @@
 <!-- Analysis -->
 <section class="analysis-section">
     <div class="h-yazi-ortalama h-yazi-margin-orta-3">
-        <h2 class="h2-baslik-hizmetler-2 wow fadeInUp" >Analysis Starts With Understanding</h2>
+        <h2 class="h2-baslik-hizmetler-2 wow fadeInUp">Analysis Starts With Understanding</h2>
     </div>
-    <p class="h2-baslik-hizmetler-3__paragraf wow fadeInUp" >
+    <p class="h2-baslik-hizmetler-3__paragraf wow fadeInUp">
         Our working methodology starts with analysis. </p>
     <div class="bosluk3"></div>
     <div class="tabloozellik">
@@ -259,12 +259,12 @@
             <p class="paragraf-sol-s">
                 Manage your business and business processes efficiently with solutions specific to data, analytics-modelling-decision support systems, big data and data mining that the data world needs. </p>
             <div class="bosluk333"></div>
-            <a href="<?php echo base_url() . 'service/'?>" class="custom-buttonw">All Services</a>
+            <a href="<?php echo base_url() . 'service/' ?>" class="custom-buttonw">All Services</a>
             <div class="galeri1">
                 <img class="imagerotate" src="<?php echo site_assets() ?>images/technology2.png" alt="">
             </div>
         </div>
-        
+
         <?php
         if (!empty($aService) && is_array($aService)) {
             foreach ($aService as $row) {
@@ -304,7 +304,6 @@
     <div class="container">
         <div class="row justify-content-center">
 
-
             <div class="col-lg-3 col-md-6">
                 <div class="icon"><i class="flaticon-handshake"></i></div>
                 <div class="counter-box">
@@ -336,10 +335,7 @@
                     <h6>Our Awards</h6>
                 </div>
             </div>
-
-
         </div>
-
     </div>
 </section>
 
@@ -357,370 +353,61 @@
             <div id="tab-1" data-tab-title="Datax Project" class="tab-content current">
                 <div class="cards">
                     <div class="tabloozellik">
-
-                        <div class="tablo--1-ve-3">
-                            <div class="card wow zoomIn" onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>images/project1.jpg" alt="Project">
-                                <div class="cardContent">
-                                    <h2>Data Science</h2>
-                                    <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
+                        <?php
+                        if (!empty($aProject) && is_array($aProject)) {
+                            foreach ($aProject as $row) {
+                                $url = base_url() . 'project/' . $row->slug;
+                        ?>
+                                <div class="tablo--1-ve-3">
+                                    <div class="card wow zoomIn" onclick="window.location.href='<?php echo $url; ?>'">
+                                        <?php show_image($row->image, [], 'project') ?>
+                                        <div class="cardContent">
+                                            <h2><?php echo $row->name; ?></h2>
+                                            <button onclick="window.location.href='<?php echo $url; ?>'">View</button>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="tablo--1-ve-3">
-                            <div class="card wow zoomIn"  onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>images/project2.jpg" alt="Project">
-                                <div class="cardContent">
-                                    <h2>Software Solutions</h2>
-                                    <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tablo--1-ve-3">
-                            <div class="card wow zoomIn" data-wow-delay="0.7s" onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">
-                                <img src="<?php echo site_assets() ?>images/project3.jpg" alt="Project">
-                                <div class="cardContent">
-                                    <h2>Data Security</h2>
-                                    <button onclick="window.location.href='https://garantiwebtasarim.com/wordpress/datax/project-detail/'">View</button>
-                                </div>
-                            </div>
-                        </div>
+                        <?php
+                            }
+                        }
+                        ?>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="h-yazi-ortalama h-yazi-margin">
-        <a href="projects/index.htm" class="custom-button">All Projects</a>
+        <a href="<?php echo base_url() . 'project/'; ?>" class="custom-button">All Projects</a>
     </div>
 </section>
 
-<!--IT Pack Alanı-->
-<!--pack 1-->
-<section class="special-paket-alani" id="#special-paket-alani">
-    <div class="h-yazi-ortalama h-yazi-margin-orta-3">
-        <div class="icon wow fadeInUp" data-wow-delay="0.3s"><i class="flaticon-medal"></i></div>
-        <h2 class="h2-baslik-hizmetler-2 wow fadeInUp" data-wow-delay="0.4s"> Special Packs </h2>
-    </div>
-    <p class="h2-baslik-hizmetler-2__paragraf wow fadeInUp " >
-        Select pricing plan to get more
-    </p>
-    <div class="bosluk3"></div>
-    <div class="tablo">
-
-        <div class="tablo--1-ve-3">
-            <div class="paketler3 wow flipInY"  data-tilt="">
-                <div class="paketler3__on paketler3__on--onyazi">
-                    <div class="paketler3__gorsel paketler3__gorsel--1">
-                        <div class="iconw"><i class="h-flaticon-039-servers-5"></i></div>
-                        <h3 class="baslik-sol h-yazi-margin-kucuk">IT Support</h3>
-                        <p class="services-kutu2--yazi wow fade">
-                            These are the management services we provide the IT support and maintenance. </p>
-                    </div>
-                    <div class="paketler3__icerik">
-                        <ul>
-                            <li>✓ Phone Support Service</li>
-                            <li>✓ Remote Connection Service</li>
-                            <li>✓ Onsite Support Service</li>
-                            <li>✗ Consultancy Service</li>
-                            <li>✗ Network Security Service</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="paketler3__on paketler3__on--arkayazi paketler3__on--arkayazi-1">
-                    <div class="paketler3__pr">
-                        <div class="paketler3__pr-kutu">
-                            <p class="paketler3__pr-yazi">IT Support</p>
-                            <p class="paketler3__pr-degeri">$1800</p>
-                        </div>
-                        <a href="#popup-it-support" class="custom-buttonw">Send Request!</a>
-                    </div>
-                </div>
-            </div>
-            <!-- POPUP FORMS -->
-            <div role="form" class="wpcf7" id="wpcf7-f768-o1" lang="en-US" dir="ltr">
-                <div class="screen-reader-response">
-                    <p role="status" aria-live="polite" aria-atomic="true"></p>
-                    <ul></ul>
-                </div>
-                <form action="/wordpress/datax/#wpcf7-f768-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                    <div style="display: none;">
-                        <input type="hidden" name="_wpcf7" value="768">
-                        <input type="hidden" name="_wpcf7_version" value="5.6">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US">
-                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f768-o1">
-                        <input type="hidden" name="_wpcf7_container_post" value="0">
-                        <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                    </div>
-                    <div class="popup" id="popup-it-support">
-                        <div class="popup__content">
-                            <p><a href="#special-paket-alani" class="popup__kapat">&times;</a></p>
-                            <h2 class="h2-baslik-popup h-yazi-margin-kucuk"> IT Support Pack </h2>
-                            <p class="paragraf-popup">
-                                Application Form
-                            </p>
-                            <div class="form-popup">
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-667"><input type="text" name="text-667" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Full Name"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="email-217"><input type="email" name="email-217" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-popup__input" aria-required="true" aria-invalid="false" placeholder="Email Address"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-661"><input type="text" name="text-661" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Phone Number"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <div class="or">
-                                        <input type="submit" value="Submit Form →" class="wpcf7-form-control has-spinner wpcf7-submit custom-button12">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpcf7-response-output" aria-hidden="true"></div>
-                </form>
-            </div>
-        </div>
-        <div class="tablo--1-ve-3">
-            <div class="paketler3 wow flipInY" data-wow-delay="0.7s" data-tilt="">
-                <div class="paketler3__on paketler3__on--onyazi">
-                    <div class="paketler3__gorsel paketler3__gorsel--1">
-                        <div class="iconw"><i class="h-flaticon-042-servers-4"></i></div>
-                        <h3 class="baslik-sol h-yazi-margin-kucuk"> Cloud Service</h3>
-                        <p class="services-kutu2--yazi wow fade">
-                            It is the process of configuring virtual cloud systems that businesses need. </p>
-                    </div>
-                    <div class="paketler3__icerik">
-                        <ul>
-                            <li>✓ Phone Support Service</li>
-                            <li>✓ Remote Connection Service</li>
-                            <li>✓ Onsite Support Service</li>
-                            <li>✓ Consultancy Service</li>
-                            <li>✗ Network Security Service</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="paketler3__on paketler3__on--arkayazi paketler3__on--arkayazi-1">
-                    <div class="paketler3__pr">
-                        <div class="paketler3__pr-kutu">
-                            <p class="paketler3__pr-yazi">Cloud Service</p>
-                            <p class="paketler3__pr-degeri">$2500</p>
-                        </div>
-                        <a href="#popup-cloud-service" class="custom-buttonw">Send Request!</a>
-                    </div>
-                </div>
-            </div>
-            <!-- POPUP FORMS -->
-            <div role="form" class="wpcf7" id="wpcf7-f770-o2" lang="en-US" dir="ltr">
-                <div class="screen-reader-response">
-                    <p role="status" aria-live="polite" aria-atomic="true"></p>
-                    <ul></ul>
-                </div>
-                <form action="/wordpress/datax/#wpcf7-f770-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                    <div style="display: none;">
-                        <input type="hidden" name="_wpcf7" value="770">
-                        <input type="hidden" name="_wpcf7_version" value="5.6">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US">
-                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f770-o2">
-                        <input type="hidden" name="_wpcf7_container_post" value="0">
-                        <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                    </div>
-                    <div class="popup" id="popup-cloud-service">
-                        <div class="popup__content">
-                            <p><a href="#special-paket-alani" class="popup__kapat">&times;</a></p>
-                            <h2 class="h2-baslik-popup h-yazi-margin-kucuk"> Cloud Service Pack </h2>
-                            <p class="paragraf-popup">
-                                Application Form
-                            </p>
-                            <div class="form-popup">
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-667"><input type="text" name="text-667" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Full Name"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="email-217"><input type="email" name="email-217" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-popup__input" aria-required="true" aria-invalid="false" placeholder="Email Address"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-661"><input type="text" name="text-661" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Phone Number"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <div class="or">
-                                        <input type="submit" value="Submit Form →" class="wpcf7-form-control has-spinner wpcf7-submit custom-button12">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpcf7-response-output" aria-hidden="true"></div>
-                </form>
-            </div>
-        </div>
-        <div class="tablo--1-ve-3">
-            <div class="paketler3 wow flipInY" data-wow-delay="0.8s" data-tilt="">
-                <div class="paketler3__on paketler3__on--onyazi">
-                    <div class="paketler3__gorsel paketler3__gorsel--1">
-                        <div class="iconw"><i class="h-flaticon-040-server"></i></div>
-                        <h3 class="baslik-sol h-yazi-margin-kucuk">Server Virtualization</h3>
-                        <p class="services-kutu2--yazi wow fade">
-                            It is the process of configuring virtual servers that businesses need. </p>
-                    </div>
-                    <div class="paketler3__icerik">
-                        <ul>
-                            <li>✓ Phone Support Service</li>
-                            <li>✓ Remote Connection Service</li>
-                            <li>✓ Onsite Support Service</li>
-                            <li>✓ Consultancy Service</li>
-                            <li>✓ Network Security Service</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="paketler3__on paketler3__on--arkayazi paketler3__on--arkayazi-1">
-                    <div class="paketler3__pr">
-                        <div class="paketler3__pr-kutu">
-                            <p class="paketler3__pr-yazi">Server Virtualization</p>
-                            <p class="paketler3__pr-degeri">$5000</p>
-                        </div>
-                        <a href="#popup-server-virtual" class="custom-buttonw">Send Request!</a>
-                    </div>
-                </div>
-            </div>
-            <!-- POPUP FORMS -->
-            <div role="form" class="wpcf7" id="wpcf7-f772-o3" lang="en-US" dir="ltr">
-                <div class="screen-reader-response">
-                    <p role="status" aria-live="polite" aria-atomic="true"></p>
-                    <ul></ul>
-                </div>
-                <form action="/wordpress/datax/#wpcf7-f772-o3" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                    <div style="display: none;">
-                        <input type="hidden" name="_wpcf7" value="772">
-                        <input type="hidden" name="_wpcf7_version" value="5.6">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US">
-                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f772-o3">
-                        <input type="hidden" name="_wpcf7_container_post" value="0">
-                        <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                    </div>
-                    <div class="popup" id="popup-server-virtual">
-                        <div class="popup__content">
-                            <p><a href="#special-paket-alani" class="popup__kapat">&times;</a></p>
-                            <h2 class="h2-baslik-popup h-yazi-margin-kucuk"> Server Virtualization Pack </h2>
-                            <p class="paragraf-popup">
-                                Application Form
-                            </p>
-                            <div class="form-popup">
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-667"><input type="text" name="text-667" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Full Name"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="email-217"><input type="email" name="email-217" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-popup__input" aria-required="true" aria-invalid="false" placeholder="Email Address"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <span class="wpcf7-form-control-wrap" data-name="text-661"><input type="text" name="text-661" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-popup__input" aria-required="true" aria-invalid="false" placeholder="Phone Number"></span>
-                                </div>
-                                <div class="form-popup__grup">
-                                    <div class="or">
-                                        <input type="submit" value="Submit Form →" class="wpcf7-form-control has-spinner wpcf7-submit custom-button12">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpcf7-response-output" aria-hidden="true"></div>
-                </form>
-            </div>
-        </div>
-
-    </div>
-
-</section>
-<!--Markalar Alanı-->
+<?php require_once('digital-marketing-services.php'); ?>
 
 
 <section class="markalar">
     <div class="h-yazi-ortalama h-yazi-margin-orta-3 ">
-        <div class="iconw wow fadeInUp" ><i class="flaticon-badge"></i></div>
-        <h2 class="h2-baslik-hizmetler-21 wow fadeInUp" > Our Customers Who Make Us </h2>
+        <div class="iconw wow fadeInUp"><i class="flaticon-badge"></i></div>
+        <h2 class="h2-baslik-hizmetler-21 wow fadeInUp"> Our Customers Who Make Us </h2>
     </div>
-    <p class="h2-baslik-hizmetler-21__paragraf wow fadeInUp" >
+    <p class="h2-baslik-hizmetler-21__paragraf wow fadeInUp">
         We work day and night for our customers and speed up their business processes. </p>
     <div class="bosluk3"></div>
 
     <div class="container">
         <div class="row">
-
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client1.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client2.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client3.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client4.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client5.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client6.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client7.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client8.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client9.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client10.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client2.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-            <div class="col-lg-2">
-                <div class="h-yazi-ortalama h-yazi-margin-kucuk-21 ">
-                    <img src="<?php echo site_assets() ?>images/client7.png" alt="Marka 1" class="marka">
-                </div>
-            </div>
-
-
-
+            <?php
+            if (!empty($aClient) && is_array($aClient)) {
+                foreach ($aClient as $row) {
+            ?>
+                    <div class="col-lg-2">
+                        <div class="h-yazi-ortalama h-yazi-margin-kucuk-21">
+                            <?php show_image($row->image, ['class' => 'marka'], 'client') ?>
+                        </div>
+                    </div>
+            <?php
+                }
+            }
+            ?>
         </div>
     </div>
 

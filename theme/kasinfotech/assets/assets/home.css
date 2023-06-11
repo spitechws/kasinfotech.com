@@ -978,6 +978,7 @@ h3 {
 }
 
 .counter-box h6 {
+    margin-top:5px;
     color: #1c437f;
     font-family: Satoshi Black;
 }
