@@ -165,11 +165,11 @@ if (!function_exists('show_image')) {
                 $src .= $dir . '/';
             }
         }
-        $path .= $img_name;
+        $path .= $img_name;       
         if(file_exists($path)){
             $src .= $img_name;
         }else{
-            $src .= 'default/no-image.jpg';
+            $src =  config_item('media_url').'default/no-image.jpg';
         }
       
         if ($show_path == 1) {

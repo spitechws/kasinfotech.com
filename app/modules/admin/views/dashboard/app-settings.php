@@ -133,7 +133,7 @@
                                 </div>
 
                                 <div class="form-group">
-                                    <label class="col-md-4 "><?php echo lang('Site Contact') ?><span class="required">*</span></label>
+                                    <label class="col-md-4 ">Site Contact<span class="required">*</span></label>
                                     <div class="col-md-8">
                                         <?php
                                         $site_contact = '';
@@ -145,6 +145,22 @@
                                         ?>
                                         <input validate="Required|Phone" id="site_contact" name="site_contact"  type="text" class="form-control" placeholder="<?php echo lang('Site Contact') ?>" value="<?php echo $site_contact ?>">
                                         <div id="error_site_contact" class="error"><?php echo form_error('site_contact') ?></div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-4 ">WhatsApp</label>
+                                    <div class="col-md-8">
+                                        <?php
+                                        $whatsapp = '';
+                                        if (isset($_POST['whatsapp'])) {
+                                            $whatsapp = $_POST['whatsapp'];
+                                        } else if (isset($aContentInfo->whatsapp)) {
+                                            $whatsapp = $aContentInfo->whatsapp;
+                                        }
+                                        ?>
+                                        <input id="whatsapp" name="whatsapp"  type="text" class="form-control" value="<?php echo $whatsapp ?>">
+                                        <div id="error_site_contact" class="error"><?php echo form_error('whatsapp') ?></div>
                                     </div>
                                 </div>
 
@@ -298,7 +314,74 @@
                                 </div>
 
                             </div>
-                        </div>                        
+                        </div>   
+                        
+                        <!-- Home Page Counters -->
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">Home Page Counts</div>
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <label class="col-md-4 ">Experience Years Count</label>
+                                    <div class="col-md-8">
+                                        <?php
+                                        $experience_year_count = '';
+                                        if (isset($_POST['experience_year_count'])) {
+                                            $experience_year_count = $_POST['experience_year_count'];
+                                        } else if (isset($aContentInfo->experience_year_count)) {
+                                            $experience_year_count = $aContentInfo->experience_year_count;
+                                        }
+                                        ?>
+                                        <input  id="experience_year_count" name="experience_year_count"  type="text" class="form-control" value="<?php echo $experience_year_count ?>">	
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-4 ">Clients Count</label>
+                                    <div class="col-md-8">
+                                        <?php
+                                        $clients_count = '';
+                                        if (isset($_POST['clients_count'])) {
+                                            $clients_count = $_POST['clients_count'];
+                                        } else if (isset($aContentInfo->clients_count)) {
+                                            $clients_count = $aContentInfo->clients_count;
+                                        }
+                                        ?>
+                                        <input id="clients_count" name="clients_count"  type="text" class="form-control" value="<?php echo $clients_count ?>">	
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-4 ">Projects Count</label>
+                                    <div class="col-md-8">
+                                        <?php
+                                        $projects_count = '';
+                                        if (isset($_POST['projects_count'])) {
+                                            $projects_count = $_POST['projects_count'];
+                                        } else if (isset($aContentInfo->projects_count)) {
+                                            $projects_count = $aContentInfo->projects_count;
+                                        }
+                                        ?>
+                                        <input  id="projects_count" name="projects_count"  type="text" class="form-control"  value="<?php echo $projects_count ?>">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-4 ">Awards Count</label>
+                                    <div class="col-md-8">
+                                        <?php
+                                        $awards_count = '';
+                                        if (isset($_POST['awards_count'])) {
+                                            $awards_count = $_POST['awards_count'];
+                                        } else if (isset($aContentInfo->awards_count)) {
+                                            $awards_count = $aContentInfo->awards_count;
+                                        }
+                                        ?>
+                                        <input  id="awards_count" name="awards_count"  type="text" class="form-control" value="<?php echo $awards_count ?>">	
+                                    </div>
+                                </div>                              
+
+                            </div>
+                        </div>    
                     </div>
                     <div class="form-group">
                         <div class="col-md-8 col-md-offset-3">

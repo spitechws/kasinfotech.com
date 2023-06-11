@@ -86,8 +86,8 @@
                                 $short_description = $aContentInfo->short_description;
                             }
                             ?>
-                            <textarea rows="5" maxlength="150" id="short_description" name="short_description" placeholder="<?php echo lang('Short Description') ?>" class="form-control"><?php echo $description ?></textarea>
-                            <div class="error" id="error_description"></div>
+                            <textarea rows="5" maxlength="150" id="short_description" name="short_description" class="form-control"><?php echo $short_description ?></textarea>
+                            <div class="error" id="error_short_description"></div>
                         </div>
                     </div>
 
@@ -103,7 +103,7 @@
                                 $description = $aContentInfo->description;
                             }
                             ?>
-                            <textarea rows="5" maxlength="150" id="description" name="description" placeholder="<?php echo lang('Short Description') ?>" class="form-control"><?php echo $description ?></textarea>
+                            <textarea rows="5" maxlength="150" id="description" name="description"  class="form-control"><?php echo $description ?></textarea>
                             <?php full_ckeditor('description', '700px', '700px'); ?>
                         </div>
                     </div>

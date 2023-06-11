@@ -137,7 +137,12 @@ class Dashboard_model extends MY_Model {
             "twitter" => $_POST['twitter'],
             "instagram" => $_POST['instagram'],
             "linkedin" => $_POST['linkedin'],
-            "youtube" => $_POST['youtube']
+            "youtube" => $_POST['youtube'],
+            "experience_year_count" => $_POST['experience_year_count'],
+            "clients_count" => $_POST['clients_count'],
+            "projects_count" => $_POST['projects_count'],
+            "awards_count" => $_POST['awards_count'],
+            "whatsapp" => $_POST['whatsapp'],
         );
         foreach ($aInput as $key => $value) {
             $this->db->update(tbl_prefix() . 'config', array("value" => $value), array("name" => $key));
