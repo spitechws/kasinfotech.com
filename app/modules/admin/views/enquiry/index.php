@@ -10,11 +10,11 @@
                     <table class="table table-bordered table-responsive">
                         <thead>
                             <tr>
-                                <th width="3%" >#</th>
-                                <th width="15%" class="text-center">Created On</th>
+                                <th width="3%">#</th>
+                                <th width="*">Service Name</th>
                                 <th width="15%">Name</th>
-                                <th width="10%">Mobile/Email</th>                                
-                                <th width="25%">Service Name</th>
+                                <th width="10%">Mobile/Email</th>                             
+                                <th width="15%" class="text-center">Created On</th>
                                 <th width="5%" class="text-center">Action</th>
                             </tr>
                         </thead>
@@ -24,19 +24,20 @@
                             if (!empty($aGrid->rows)  && is_array($aGrid->rows)) {
                                 $i = get_grid_sn();
                                 foreach ($aGrid->rows as $row) {
-                                    $delete_url=$moduleUrl.'delete/'.$row->id;
-                                    ?>
+                                    $delete_url = $moduleUrl . 'delete/' . $row->id;
+                            ?>
                                     <tr>
                                         <td><?php echo $i; ?></td>
+                                        <td><?php echo $row->service_name ?></td>
                                         <td class="table-date"><?php echo config_datetime($row->created_date); ?></td>
                                         <td class="name"><?php echo $row->name ?></td>
-                                        <td class="email"><?php echo $row->mobile ?><br/><?php echo $row->email ?></td>                                      
-                                        <td><?php echo $row->service_name ?></td>
+                                        <td class="email"><?php echo $row->mobile ?><br /><?php echo $row->email ?></td>
+                                     
                                         <td class="action">
-                                            <a onclick="return confirm('Are you sure want to delete enquiry #<?php echo $i; ?>')"  class="btn btn-xs btn-danger" href="<?php echo $delete_url; ?>">Delete</a>
+                                            <a onclick="return confirm('Are you sure want to delete enquiry #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $delete_url; ?>">Delete</a>
                                         </td>
                                     </tr>
-                                    <?php
+                                <?php
                                     $i++;
                                 }
                             } else {
@@ -44,7 +45,7 @@
                                 <tr>
                                     <td colspan="<?php echo $columns ?>" class="text-center">No Records Found</td>
                                 </tr>
-                                <?php
+                            <?php
                             }
                             ?>
                         </tbody>
@@ -55,7 +56,7 @@
                     }
                     ?>
                 </div>
-                <!--GRID STOP--> 
+                <!--GRID STOP-->
             </div>
         </div>
     </div>

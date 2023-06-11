@@ -12,9 +12,8 @@ class Admin_enquiry extends MY_Controller {
         $this->load->model('Enquiry_model', 'oMainModel');
     }
 
-    function index() {
-        $str_select = 't1.*,t2.*';
-        $data['aGrid'] = $this->oMainModel->get_list($str_select);
+    function index() {       
+        $data['aGrid'] = $this->oMainModel->get_list();
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = 'Enquiry';
         $data['menu'] = 'modules';
@@ -33,7 +32,7 @@ class Admin_enquiry extends MY_Controller {
                 set_message($response['msg'], 'e');
             }
         }
-        $data['aContentInfo'] = $this->oMainModel->getRecord('*', array("id" => $editId));
+        $data['aContentInfo'] = get_row('enquiry', array("id" => $editId));
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = 'Enquiry';
         $data['menu'] = 'modules';
@@ -43,7 +42,7 @@ class Admin_enquiry extends MY_Controller {
 
     function delete($delete_id) {
         if ($delete_id > 0) {
-            $this->oMainModel->delete('enquiry', array("id" => $delete_id));
+            $this->db->delete('enquiry',['id'=>$delete_id]);
             set_message('Enquiry deleted successfully');
         }
         redirect($this->moduleUrl);

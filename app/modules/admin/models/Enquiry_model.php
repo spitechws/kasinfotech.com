@@ -44,7 +44,7 @@ class Enquiry_model extends MY_Model
 		return $this->response;
 	}
 
-	function get_list($str_select = '*', $aWhere = array())
+	function get_list($str_select = '', $aWhere = array())
 	{
 
 		if ($str_select == '') {
@@ -53,6 +53,7 @@ class Enquiry_model extends MY_Model
 		$this->db->select($str_select);
 		$this->db->from(tbl_prefix() . 'enquiry as t1');
 		$this->db->join(tbl_prefix() . 'service as t2', 't1.service_id=t2.id', 'LEFT');
+		$this->db->where($aWhere);
 		if (isset($_GET['search_key']) && $_GET['search_key'] != '') {
 			$this->db->like('t1.name', $_GET['search_key']);
 			$this->db->or_like('t1.mobile', $_GET['search_key']);

@@ -3,7 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-lg-4">
-                <div class="logo "> <img src="<?php echo $site_theme; ?>images/logo-datax.png" alt="Image"> </div>
+                <div class="logo ">
+                    <img src="<?php echo $site_theme; ?>images/logo.png">
+                </div>
                 <!-- end logo -->
                 <div class="footer-info ">
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
@@ -56,7 +58,7 @@
                             <?php
                             if (!empty($aService) && is_array($aService)) {
                                 foreach ($aService as $row) {
-                                    $url = base_url() .'service/' . $row->slug;
+                                    $url = base_url() . 'service/' . $row->slug;
                             ?>
                                     <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
                             <?php
