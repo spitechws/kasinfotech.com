@@ -32,7 +32,7 @@ class Admin_post extends MY_Controller {
                 set_message($response['msg'], 'e');
             }
         }
-        $data['aContentInfo'] = get_row('post', array("post_id" => $editId));
+        $data['aContentInfo'] = get_row('post', array("id" => $editId));
         $data['aCategory'] = get_rows('post_category');
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = "Post Manage";
@@ -43,7 +43,7 @@ class Admin_post extends MY_Controller {
     }
 
     function delete($delete_id = 0) {
-        $this->db->delete(tbl_prefix() . 'post', array('post_id' => $delete_id));
+        $this->db->delete(tbl_prefix() . 'post', array('id' => $delete_id));
         set_message('Post deleted successfully');
         redirect($this->moduleUrl);
     }

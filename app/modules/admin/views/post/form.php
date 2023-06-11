@@ -7,13 +7,13 @@
                 <?php
                 $edit_id = 0;
                 $activeClass = '';
-                if (isset($aContentInfo->post_id)) {
-                    $edit_id = $aContentInfo->post_id;
+                if (isset($aContentInfo->id)) {
+                    $edit_id = $aContentInfo->id;
                     $activeClass = 'hide';
                 }
                 $attribute = array("id" => "form1", "method" => "post", "class" => "form-horizontal", "enctype" => "multipart/form-data");
                 echo form_open('', $attribute);
-                echo form_hidden('post_id', $edit_id);
+                echo form_hidden('id', $edit_id);
                 ?>
                 <fieldset>
                     <div class="form-group">

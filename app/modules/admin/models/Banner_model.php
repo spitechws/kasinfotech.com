@@ -10,9 +10,7 @@ class Banner_model extends MY_Model {
         parent::setTable('banner');
     }
 
-    function add() {
-        //debug($_FILES);
-        $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
+    function add() {             
         $editId = $this->input->post('banner_id');
         $this->form_validation->set_rules('caption', lang('Image Caption'), "required");
         if ($this->form_validation->run() == TRUE) {
@@ -66,6 +64,7 @@ class Banner_model extends MY_Model {
         if (isset($_GET['search_key']) && $_GET['search_key'] != '') {
             $this->db->like('caption', $_GET['search_key']);
         }
+        $this->db->where($aWhere);
         $offset = 0;
         $limit = config_item('record_limit');
         if ($this->uri->segment(3)) {

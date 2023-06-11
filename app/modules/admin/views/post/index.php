@@ -34,9 +34,9 @@
                                         <td><?php echo $row->author_name ?></td>                                        
                                         <td><?php echo config_datetime($row->edited_date); ?></td>
                                         <td class="text-center">
-                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->post_id ?>">Edit</a>
+                                            <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
                                           
-                                            <a class="btn btn-xs btn-danger" onclick="return confirm('Are you sure want to delete post #<?php echo $i; ?>')" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->post_id ?>">Delete</a>
+                                            <a class="btn btn-xs btn-danger" onclick="return confirm('Are you sure want to delete post #<?php echo $i; ?>')" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->id ?>">Delete</a>
                                         </td>
                                     </tr>
                                     <?php
