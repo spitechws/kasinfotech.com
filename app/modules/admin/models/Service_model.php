@@ -16,6 +16,7 @@ class Service_model extends MY_Model
     {
         $editId = $this->input->post('id');
         $this->form_validation->set_rules('title', 'Service Name', "required");
+        $this->form_validation->set_rules('short_description', 'Short Description', "required");
         if ($this->form_validation->run() == TRUE) {
             $title = $this->input->post('title', TRUE);
             $demo_url = $this->input->post('demo_url', TRUE);
@@ -23,9 +24,10 @@ class Service_model extends MY_Model
             $password = $this->input->post('password', TRUE);
             $description = $this->input->post('description', TRUE);
             $slug = $this->input->post('slug', TRUE);
+            $short_description = $this->input->post('short_description', TRUE);
 
             $image = '';
-            $row = parent::getRecord('*', array("id" => $editId));
+            $row = get_row($this->tbl_name, array("id" => $editId));
             if (isset($_FILES['image']['name']) && $_FILES['image']['name'] != "") {
                 $image = upload_media('image', '*', 'service');
                 if (isset($image['error'])) {
@@ -53,7 +55,8 @@ class Service_model extends MY_Model
                     "username" => filterValue($username),
                     "password" => filterValue($password),
                     "description" => filterValue($description),
-                    "image" => $image
+                    "image" => $image,
+                    'short_description'=> filterValue($short_description),
                 );
                 $_POST['rowId'] = $editId;
                 $lastId = parent::save($this->tbl_name, $aInput, 'id');

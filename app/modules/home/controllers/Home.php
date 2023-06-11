@@ -39,13 +39,17 @@
             $data['aBlog'] = $this->oMainModel->blog_list();
             $data['aService'] = $this->oMainModel->service_list();
             return $data;
-        }
+        }      
+
+        //--------DEV CHANGES NEEDED BELOW ONLY ---------------
 
         function index($params)
         {
             $view_name = 'index';
             $data = $this->load_common_data($view_name);
             $data['aTestimonial'] = get_rows('testimonial');
+            $data['aClient'] = get_rows('client');
+            $data['aProject'] = get_rows('project');
             $data['aPost'] = get_rows('post');
             load_home_view($view_name, $data);
         }
@@ -56,8 +60,6 @@
             $data = $this->load_common_data($params[0]);
             load_home_view($view_name, $data);
         }
-
-        //--------DEV CHANGES NEEDED BELOW ONLY ---------------
 
         function service($params)
         {
@@ -103,18 +105,5 @@
             }
             load_home_view($view_name, $data);
         }
-
-        function save_enquiry($url)
-        {
-            if (!empty($_POST['submit'])) {
-                echo "Hello";
-                $res = $this->oMainModel->save_enquiry();
-                if ($res['is_error'] == 0) {
-                    set_message('Thanks for submitting enquiry, we will contact you soon.');
-                } else {
-                    set_message($response['msg'], 'e');
-                }
-                redirect(base_url() . $url);
-            }
-        }
+       
     }

@@ -117,8 +117,7 @@ function changeModuleStatus(module_id) {
 function generateSlug(source_id,target_id) {
     var a = document.getElementById(source_id).value;
     var b = a.toLowerCase().replace(/ /g, '-')
-        .replace(/[^\w-]+/g, '');
-    document.getElementById(source_id).value = b;
+        .replace(/[^\w-]+/g, '');   
     document.getElementById(target_id).value = b;
 }
 

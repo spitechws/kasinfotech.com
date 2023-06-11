@@ -166,7 +166,12 @@ if (!function_exists('show_image')) {
             }
         }
         $path .= $img_name;
-        $src .= $img_name;
+        if(file_exists($path)){
+            $src .= $img_name;
+        }else{
+            $src .= 'default/no-image.jpg';
+        }
+      
         if ($show_path == 1) {
             echo $path;
         }

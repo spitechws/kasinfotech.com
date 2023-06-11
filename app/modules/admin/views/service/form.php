@@ -75,6 +75,22 @@
                         </div>
                     </div>
 
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">Short Description <span class="required">*</span></label>
+                        <div class="col-md-6">
+                            <?php
+                            $short_description = '';
+                            if (isset($_POST['short_description'])) {
+                                $short_description = $_POST['short_description'];
+                            } else if (isset($aContentInfo->short_description)) {
+                                $short_description = $aContentInfo->short_description;
+                            }
+                            ?>
+                            <textarea rows="5" maxlength="150" id="short_description" name="short_description" placeholder="<?php echo lang('Short Description') ?>" class="form-control"><?php echo $description ?></textarea>
+                            <div class="error" id="error_description"></div>
+                        </div>
+                    </div>
+
 
                     <div class="form-group">
                         <label class="col-md-3 control-label">Description</label>
@@ -88,7 +104,7 @@
                             }
                             ?>
                             <textarea rows="5" maxlength="150" id="description" name="description" placeholder="<?php echo lang('Short Description') ?>" class="form-control"><?php echo $description ?></textarea>
-                            <div class="error" id="error_description"></div>
+                            <?php full_ckeditor('description', '700px', '700px'); ?>
                         </div>
                     </div>
                     <div class="form-group">
