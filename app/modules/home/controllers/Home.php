@@ -105,5 +105,12 @@
             }
             load_home_view($view_name, $data);
         }
+
+        function projects($params)
+        {
+            $view_name = 'projects';
+            $data = $this->load_common_data($view_name);
+            load_home_view($view_name, $data);
+        }       
        
     }
