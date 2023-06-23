@@ -8,9 +8,9 @@ $site_theme = site_assets()
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $title;?></title>
+    <title><?php echo $title; ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $site_theme; ?>images/favicon.png">
-    <?php meta_tags($cms);?>
+    <?php meta_tags($cms); ?>
     <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'>
 
     <link rel='stylesheet' id='classic-theme-styles-css' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'>
@@ -27,6 +27,10 @@ $site_theme = site_assets()
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/spitech.css'>
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="<?php echo $site_theme; ?>engine1/style.css" />
+    <script type="text/javascript" src="<?php echo $site_theme; ?>engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",

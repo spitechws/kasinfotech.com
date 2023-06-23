@@ -1,5 +1,30 @@
 ﻿<?php include_once('header.php') ?>
 <?php include_once('menu.php') ?>
+
+
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1" style="    margin-top: 71px;">
+    <div class="ws_images">
+        <ul>
+            <li><img src="<?php echo $site_theme; ?>data1/images/1.png" alt="1" title="1" id="wows1_0" /></li>
+            <li><a href="#" target="_blank"><img src="<?php echo $site_theme; ?>data1/images/2.png" alt="slideshow html code" title="kas infotech" id="wows1_1" /></a></li>
+            <li><img src="<?php echo $site_theme; ?>data1/images/1_0.jpg" alt="1" title="1" id="wows1_2" /></li>
+        </ul>
+    </div>
+    <div class="ws_bullets">
+        <div>
+            <a href="#" title="1"><span><img src="<?php echo $site_theme; ?>data1/tooltips/1.png" alt="1" />1</span></a>
+            <a href="#" title="kas infotech"><span><img src="<?php echo $site_theme; ?>data1/tooltips/2.png" alt="kas infotech" />2</span></a>
+            <a href="#" title="1"><span><img src="<?php echo $site_theme; ?>data1/tooltips/1_0.jpg" alt="1" />3</span></a>
+        </div>
+    </div>
+    <div class="ws_script" style="position:absolute;left:-99%"><a href="#">slideshow html code</a> by WOWSlider.com v9.0</div>
+    <div class="ws_shadow"></div>
+</div>
+<script type="text/javascript" src="<?php echo $site_theme; ?>engine1/wowslider.js"></script>
+<script type="text/javascript" src="<?php echo $site_theme; ?>engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
 <!--Hero Slider Section-->
 <section class="banner-sc">
     <div class="h-yazi-ozel h-yazi-margin-ozel">

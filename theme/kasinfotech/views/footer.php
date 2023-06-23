@@ -11,8 +11,8 @@
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
 
                     </p>
-                    <p class="fic"><i class="flaticon-call iconpfooter2 "></i>&nbsp;&nbsp;&nbsp;<?php echo config_item('site_contact') ?></p><br>
-                    <p><i class="flaticon-email iconpfooter3 "></i>&nbsp;&nbsp;&nbsp;<?php echo config_item('site_email') ?></p><br>
+                    <p class="fic"><i class="flaticon-call iconpfooter2 "></i> <a style="color: white;  text-decoration: none;" href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a></p><br>
+                    <p><i class="flaticon-email iconpfooter3 "></i> <a style="color: white; text-decoration: none;" href=" mailto:<?php echo config_item('site_email') ?>"><?php echo config_item('site_email') ?></a></p><br>
                 </div>
                 <!-- end footer-info -->
                 <ul class="footer-social ">
@@ -117,6 +117,43 @@
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/js/tabs.js?ver=1' id='tabs-js'></script>
 <script src='<?php echo $site_theme; ?>wp-content/themes/datax/custom.js?ver=1' id='custom-js'></script>
 
+<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?95951';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#4dc247",
+            "ctaText": "",
+            "borderRadius": "25",
+            "marginLeft": "0",
+            "marginBottom": "20",
+            "marginRight": "20",
+            "position": "left"
+        },
+        "brandSetting": {
+            "brandName": "KAS INFO TECH",
+            "brandSubTitle": "Typically replies within a day",
+            "brandImg": "view-source:",
+            "welcomeText": "Hi there!\nHow can I help you?",
+            "messageText": "Hello, I have a question about",
+            "backgroundColor": " #502900",
+            "ctaText": "Start Chat",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "+919754676700"
+        },
+
+    };
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
 </body>
 
 </html>

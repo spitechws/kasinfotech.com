@@ -22426,7 +22426,9 @@ p {
 
 p.fic {
   margin-top: 20px;
+
 }
+
 
 .iconpfooter1 {
   font-size: 30px;
@@ -22714,5 +22716,7 @@ input#wp-block-search__input-1 {
     padding: 0 7px;
   }
 }
-
+.wa-widget-send-button {
+  margin: 0 0 20px 20px;
+}
 /*# sourceMappingURL=style.css.map */

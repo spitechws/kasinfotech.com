@@ -3,7 +3,7 @@
     <div class="inner">
         <!-- Logo Menu Mobile -->
         <div class="logo"> <a href="<?php echo $site_url; ?>">
-                <img src="<?php echo $site_theme; ?>images/logo.png"></a>
+                <img style=" border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png"></a>
         </div>
         <div class="hide-mobile">
             <div class="or">
@@ -12,14 +12,14 @@
             <div class="bosluksv"></div>
             <div class="iconsv"><i class="flaticon-headphones"></i></div>
             <address class="address">
-                <a href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a>
+                <a style="color: white;" href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a>
                 <div class="bosluksv"></div>
 
 
                 <div class="iconsv"><i class="flaticon-email"></i></div>
 
 
-                <?php echo config_item('site_email') ?>
+                <a style="color: white;" href="mailto:<?php echo config_item('site_email') ?>"><?php echo config_item('site_email') ?></a>
 
                 <div class="bosluksv"></div>
                 <div class="iconsv"><i class="flaticon-location"></i></div>
@@ -82,7 +82,7 @@
     <div class="container">
         <!-- Logo Menu Desktop -->
         <div class="logo"> <a href="<?php echo $site_url; ?>">
-                <img src="<?php echo $site_theme; ?>images/logo.png">
+                <img style="    border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png">
 
             </a>
         </div>
