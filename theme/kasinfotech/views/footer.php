@@ -11,11 +11,11 @@
                     <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
 
                     </p>
-                    <p class="fic"><i class="flaticon-call iconpfooter2 "></i> <a style="color: white;  text-decoration: none;" href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a></p><br>
-                    <p><i class="flaticon-email iconpfooter3 "></i> <a style="color: white; text-decoration: none;" href=" mailto:<?php echo config_item('site_email') ?>"><?php echo config_item('site_email') ?></a></p><br>
+                    <p class="fic"><i class="flaticon-call iconpfooter2 "></i> <a style="color: white; margin-left: 10px; text-decoration: none;" href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a></p><br>
+                    <p><i class="flaticon-email iconpfooter3 "></i> <a style="color: white;margin-left: 10px; text-decoration: none;" href=" mailto:<?php echo config_item('site_email') ?>"><?php echo config_item('site_email') ?></a></p><br>
                 </div>
                 <!-- end footer-info -->
-                <ul class="footer-social ">
+                <ul class="footer-social " style="    margin-top: -20px;">
                     <li><a target="_blank" href="<?php echo config_item('facebook'); ?>"><i class="flaticon-facebook-1 iconsociaf"></i></a></li>
 
                     <li><a target="_blank" href="<?php echo config_item('instagram'); ?>"><i class="flaticon-instagram-1 iconsociaf"></i></a></li>
