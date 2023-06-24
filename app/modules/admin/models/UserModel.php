@@ -11,7 +11,7 @@ class UserModel extends MY_Model
     {
         parent::__construct();
         parent::setTable('user');
-        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
+        $this->spitechApi = new SpiTechApi();
     }
 
     function user_list($aWhere = array())
