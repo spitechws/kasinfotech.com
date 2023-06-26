@@ -34,23 +34,32 @@
             </div>
             <!-- end col-3 -->
             <div class="col-lg-3">
-                <h6 class="widget-title">Services</h6>
-                <div class="footer-menu">
-                    <div class="menu-services-container">
-                        <ul id="menu-services" class="menu">
-                            <?php
-                            if (!empty($aService) && is_array($aService)) {
-                                foreach ($aService as $row) {
-                                    $url = base_url() . 'service/' . $row->slug;
-                            ?>
-                                    <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
-                            <?php
-                                }
-                            }
-                            ?>
-                        </ul>
+                <div class="row">
+                    <h6 class="widget-title">Services</h6>
+                    <div class="col-md-2">
+
+                    </div>
+                    <div class="col-md-10">
+                        <div class="footer-menu">
+                            <div class="menu-services-container">
+                                <ul id="menu-services" class="menu">
+                                    <?php
+                                    if (!empty($aService) && is_array($aService)) {
+                                        foreach ($aService as $row) {
+                                            $url = base_url() . 'service/' . $row->slug;
+                                    ?>
+                                            <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
+                                    <?php
+                                        }
+                                    }
+                                    ?>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
+
+
                 <!-- <div class="bosluk333"></div>
                 <div role="form">
                     <div class="screen-reader-response">
