@@ -1,4 +1,7 @@
-.page{
-    margin-top:150px !important;
-    min-height:500px !important;
+.page {
+  margin-top: 150px !important;
+  min-height: 500px !important;
+}
+.footer .footer-social li a {
+  padding: 7px;
 }

@@ -27,6 +27,7 @@ $site_theme = site_assets()
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/spitech.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
     <!-- Start WOWSlider.com HEAD section -->
     <link rel="stylesheet" type="text/css" href="<?php echo $site_theme; ?>engine1/style.css" />
     <script type="text/javascript" src="<?php echo $site_theme; ?>engine1/jquery.js"></script>

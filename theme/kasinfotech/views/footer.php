@@ -4,11 +4,22 @@
         <div class="row">
             <div class="col-xl-3 col-lg-4">
                 <div class="logo ">
-                    <img src="<?php echo $site_theme; ?>images/logo.png">
+                    <img style="border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png">
                 </div>
                 <!-- end logo -->
                 <div class="footer-info ">
-                    <p><i class="flaticon-pin iconpfooter1 "></i><?php echo config_item('site_address') ?>
+                    <div class="location">
+                        <div class="row">
+                            <div class="col-md-1">
+                                <i class="flaticon-pin iconpfooter1 "></i>
+                            </div>
+                            <div class="col-md-11">
+
+                                <p style="margin-right: 10px;"><?php echo config_item('site_address') ?>
+                            </div>
+                        </div>
+
+                    </div>
 
                     </p>
                     <p class="fic"><i class="flaticon-call iconpfooter2 "></i> <a style="color: white; margin-left: 10px; text-decoration: none;" href="tel:<?php echo config_item('site_contact') ?>"> <?php echo config_item('site_contact') ?></a></p><br>
@@ -17,19 +28,39 @@
                 <!-- end footer-info -->
                 <ul class="footer-social " style="    margin-top: -20px;">
                     <li><a target="_blank" href="<?php echo config_item('facebook'); ?>"><i class="flaticon-facebook-1 iconsociaf"></i></a></li>
-
                     <li><a target="_blank" href="<?php echo config_item('instagram'); ?>"><i class="flaticon-instagram-1 iconsociaf"></i></a></li>
-
                     <li><a target="_blank" href="<?php echo config_item('twitter'); ?>"><i class="flaticon-twitter-1 iconsociaf"></i></a></li>
-
                 </ul>
             </div>
             <!-- end col-3 -->
-            <div class="col-lg-4">
-                <h6 class="widget-title">Join Our Newsletter</h6>
-                <p class="footerp">
-                    Be informed about our services and products. </p>
-                <div class="bosluk333"></div>
+            <div class="col-lg-3">
+                <div class="row">
+                    <h6 class="widget-title">Services</h6>
+                    <div class="col-md-2">
+
+                    </div>
+                    <div class="col-md-10">
+                        <div class="footer-menu">
+                            <div class="menu-services-container">
+                                <ul id="menu-services" class="menu">
+                                    <?php
+                                    if (!empty($aService) && is_array($aService)) {
+                                        foreach ($aService as $row) {
+                                            $url = base_url() . 'service/' . $row->slug;
+                                    ?>
+                                            <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
+                                    <?php
+                                        }
+                                    }
+                                    ?>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- <div class="bosluk333"></div>
                 <div role="form">
                     <div class="screen-reader-response">
                         <p role="status" aria-live="polite" aria-atomic="true"></p>
@@ -46,12 +77,11 @@
                         </div>
                         <div id="subscriber_now_message" aria-hidden="true"></div>
                     </form>
-                </div>
+                </div> -->
             </div>
             <!-- end col-4 -->
-            <div class="col-lg-2 offset-xl-1 col-sm-6">
+            <div class="col-lg-3  col-sm-6">
                 <h6 class="widget-title">Services</h6>
-
                 <div class="footer-menu">
                     <div class="menu-services-container">
                         <ul id="menu-services" class="menu">
@@ -70,7 +100,7 @@
                 </div>
             </div>
             <!-- end col-2 -->
-            <div class="col-lg-2 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                 <h6 class="widget-title">Quick Links</h6>
                 <div class="footer-menu">
                     <div class="menu-quick-links-container">
@@ -144,7 +174,7 @@
             "ctaText": "Start Chat",
             "borderRadius": "25",
             "autoShow": false,
-            "phoneNumber": "+919754676700"
+            "phoneNumber": "+916300873412"
         },
 
     };
