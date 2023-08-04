@@ -11,19 +11,19 @@ $site_theme = site_assets()
     <title><?php echo $title; ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $site_theme; ?>images/favicon.png">
     <?php meta_tags($cms); ?>
-    <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all'>
+    <link rel='stylesheet' id='wp-block-library-css' href='<?php echo $site_theme; ?>wp-includes/css/dist/block-library/style.min.css'>
 
-    <link rel='stylesheet' id='classic-theme-styles-css' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-includes/css/classic-themes.min.css'>
     <link rel="stylesheet" href="<?php echo $site_theme; ?>assets/header.css">
-    <link rel='stylesheet' id='contact-form-7-css' href='<?php echo $site_theme; ?>wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6' media='all'>
-    <link rel='stylesheet' id='font-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/icon-font.css?ver=1' media='all'>
-    <link rel='stylesheet' id='style-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/style.css?ver=1' media='all'>
-    <link rel='stylesheet' id='fancybox-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/fancybox.min.css?ver=1' media='all'>
-    <link rel='stylesheet' id='swiper-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/swiper.min.css?ver=1' media='all'>
-    <link rel='stylesheet' id='bootstrap-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/bootstrap.min.css?ver=1' media='all'>
-    <link rel='stylesheet' id='odometer-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/odometer.min.css?ver=1' media='all'>
-    <link rel='stylesheet' id='flaticon-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/flaticon.css?ver=1' media='all'>
-    <link rel='stylesheet' id='custom-css' href='<?php echo $site_theme; ?>wp-content/themes/datax/custom.css?ver=1' media='all'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/plugins/contact-form-7/includes/css/styles.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/icon-font.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/style.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/fancybox.min.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/swiper.min.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>bootstrap-4.5.3/css/bootstrap.min.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/odometer.min.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/css/flaticon.css'>
+    <link rel='stylesheet' href='<?php echo $site_theme; ?>wp-content/themes/datax/custom.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/home.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/contact.css'>
     <link rel='stylesheet' href='<?php echo $site_theme; ?>assets/spitech.css'>

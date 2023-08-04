@@ -15,14 +15,15 @@
 
         function _remap($method = 'index', ...$params)
         {
+          
             $this->checkTheme();
             if (config_item('is_suspended') == "1") {
                 suspended();
             } else if (config_item('is_underconstruction') == "1") {
                 underconstruction();
-            } else if (method_exists($this, $method)) {
+            } else if (method_exists($this, $method)) {              
                 call_user_func_array(array($this, $method), $params);
-            } else {
+            } else {             
                 debug('Method ' . $method . ' not found on Home Controller.');
             }
         }
@@ -38,8 +39,9 @@
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
             $data['aService'] = $this->oMainModel->service_list();
+            $data['aProductList'] = get_rows('product');
             return $data;
-        }      
+        }
 
         //--------DEV CHANGES NEEDED BELOW ONLY ---------------
 
@@ -48,8 +50,7 @@
             $view_name = 'index';
             $data = $this->load_common_data($view_name);
             $data['aTestimonial'] = get_rows('testimonial');
-            $data['aClient'] = get_rows('client');
-            $data['aProject'] = get_rows('project');
+            $data['aClient'] = get_rows('client');         
             $data['aPost'] = get_rows('post');
             load_home_view($view_name, $data);
         }
@@ -106,11 +107,12 @@
             load_home_view($view_name, $data);
         }
 
-        function projects($params)
+        function products($params)
         {
-            $view_name = 'projects';
+            $slug = $params[0];
+            $view_name = 'products';
             $data = $this->load_common_data($view_name);
+            $data['aProduct'] = get_row('product', ['slug' => $slug]);
             load_home_view($view_name, $data);
-        }       
-       
+        }
     }

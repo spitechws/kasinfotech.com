@@ -15,7 +15,7 @@ $aAdmin = array(
     "admin_job_application",
     "admin_media", "admin_component",
     "admin_notification", "admin_testimonial",
-    "admin_project", "admin_service", 'admin_subscriber',
+    "admin_product", "admin_service", 'admin_subscriber',
     "admin_video",
     "admin_services"
 );

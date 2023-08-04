@@ -10,9 +10,9 @@
                     <table class="table table-bordered table-responsive">
                         <thead>
                             <tr>								
-                                <th width="5%">#</th>
-                                <th width="10%">Image</th>
-                                <th width="20%">Project Name</th>                               
+                                <th width="5%">#</th>                             
+                                <th width="20%">Product Name</th>  
+                                <th width="*">Demo URL</th>                              
                                 <th width="15%">Action</th>
                             </tr>
                         </thead>
@@ -25,11 +25,9 @@
                                     $status = status()[$row->status];
                                     ?>
                                     <tr>
-                                        <td><?php echo $i ?></td>
-                                        <td><?php
-                                            show_image($row->image, array("width" => "100", "height" => "50"), 'project');
-                                            ?></td>
-                                        <td><?php echo $row->name ?></td>	                                     
+                                        <td><?php echo $i ?></td>                                      
+                                        <td><?php echo $row->name ?></td>
+                                        <td><?php echo $row->demo_url?></td>	                                     
                                         <td class="text-center">
                                             <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
                                             <a onclick="return confirm('Are you sure want to delete this project #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->id ?>">Delete</a>

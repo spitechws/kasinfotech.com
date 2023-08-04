@@ -25,13 +25,7 @@
             }
         });
     }
-    $('.clockpicker').clockpicker();
-    $('select').select2({
-        minimumResultsForSearch: -1,
-        placeholder: function () {
-            $(this).data('placeholder');
-        }
-    });
+   
     $('.date').datepicker({
         format: "dd-M-yyyy",
         //todayBtn: true,

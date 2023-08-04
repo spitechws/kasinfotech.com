@@ -65,7 +65,7 @@
                                     ?>
                                 </ul>
                             </li>
-                            <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>projects" class="nav-link"><span itemprop="name">Projects</span></a></li>
+                            <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>products" class="nav-link"><span itemprop="name">Products</span></a></li>
                             <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
                             <li id="menu-item-1162" class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
                         </ul>
@@ -93,7 +93,8 @@
                     <ul id="menu-main-menu" class="nav navbar-nav">
                         <li><a href="<?php echo $site_url; ?>" class="nav-link" aria-current="page"><span itemprop="name">Home<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                         <li><a href="<?php echo $site_url; ?>page/about-us" class="nav-link"><span itemprop="name">About Us<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
-                        <li class="dropdown nav-item"><a href="#" data-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-980"><span itemprop="name">Services<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a>
+                        <li class="dropdown nav-item">
+                            <a href="#" data-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link"><span itemprop="name">Services<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a>
                             <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-980">
                                 <?php
                                 if (!empty($aService) && is_array($aService)) {
@@ -108,7 +109,22 @@
                                 ?>
                             </ul>
                         </li>
-                        <li><a href="<?php echo $site_url; ?>projects" class="nav-link"><span itemprop="name">Projects<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                        <li class="dropdown nav-item">
+                            <a href="#" data-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link"><span itemprop="name">Products<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a>
+                            <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-980">
+                                <?php
+                                if (!empty($aProductList) && is_array($aProductList)) {
+                                    foreach ($aProductList as $row) {
+                                        $url = base_url() . 'product/' . $row->slug;
+                                ?>
+
+                                        <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                                <?php
+                                    }
+                                }
+                                ?>
+                            </ul>
+                        </li>
                         <li><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                         <li><a href="tel:<?php echo config_item('site_contact') ?>contact" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                     </ul>
