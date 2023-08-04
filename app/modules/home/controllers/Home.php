@@ -13,21 +13,6 @@
             $this->load->model('Home_model', 'oMainModel');
         }
 
-        function _remap($method = 'index', ...$params)
-        {
-          
-            $this->checkTheme();
-            if (config_item('is_suspended') == "1") {
-                suspended();
-            } else if (config_item('is_underconstruction') == "1") {
-                underconstruction();
-            } else if (method_exists($this, $method)) {              
-                call_user_func_array(array($this, $method), $params);
-            } else {             
-                debug('Method ' . $method . ' not found on Home Controller.');
-            }
-        }
-
         function load_common_data($page_name)
         {
             $cms = get_row('cms', array('page_name' => $page_name));
@@ -45,24 +30,23 @@
 
         //--------DEV CHANGES NEEDED BELOW ONLY ---------------
 
-        function index($params)
+        function index()
         {
             $view_name = 'index';
             $data = $this->load_common_data($view_name);
             $data['aTestimonial'] = get_rows('testimonial');
-            $data['aClient'] = get_rows('client');         
+            $data['aClient'] = get_rows('client');
             $data['aPost'] = get_rows('post');
             load_home_view($view_name, $data);
         }
 
-        function page($params)
+        function cms($page_name)
         {
-            $view_name = 'page';
-            $data = $this->load_common_data($params[0]);
-            load_home_view($view_name, $data);
+            $data = $this->load_common_data($page_name);
+            load_home_view('cms', $data);
         }
 
-        function service($params)
+        function services($slug='')
         {
             if (isset($_POST['submit'])) {
                 $res = $this->oMainModel->save_enquiry();
@@ -70,7 +54,7 @@
             }
             $view_name = 'service';
             $data = $this->load_common_data($view_name);
-            $data['aContentInfo'] = get_row('service', ['slug' => $params[0]]);
+            $data['aContentInfo'] = get_row('service', ['slug' => $slug]);
             if (empty($data['aContentInfo'])) {
                 redirect(base_url());
             }
@@ -78,18 +62,18 @@
             hide_message();
         }
 
-        function contact($params)
+        function contact()
         {
             $view_name = 'contact';
             $data = $this->load_common_data($view_name);
             load_home_view($view_name, $data);
         }
 
-        function blog($params)
+        function blog($slug='')
         {
             $view_name = 'blog';
             $data = $this->load_common_data($view_name);
-            $aBlogDetails = $this->oMainModel->blog_details(array("t1.slug" => $params[1]));
+            $aBlogDetails = $this->oMainModel->blog_details(array("t1.slug" => $slug));
             if (isset($aBlogDetails->post_id)) {
                 $view_name = 'blog-details';
                 $data['aPopularBlog'] = $this->oMainModel->popular_blog_list();
@@ -107,9 +91,8 @@
             load_home_view($view_name, $data);
         }
 
-        function products($params)
+        function products($slug = '')
         {
-            $slug = $params[0];
             $view_name = 'products';
             $data = $this->load_common_data($view_name);
             $data['aProduct'] = get_row('product', ['slug' => $slug]);

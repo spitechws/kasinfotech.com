@@ -65,9 +65,24 @@
                                     ?>
                                 </ul>
                             </li>
-                            <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>products" class="nav-link"><span itemprop="name">Products</span></a></li>
-                            <li id="menu-item-1161" class="nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
-                            <li id="menu-item-1162" class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
+                            <li class="nav-item">
+                                <a href="#" data-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link"><span itemprop="name">Products<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a>
+                                <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-980">
+                                    <?php
+                                    if (!empty($aProductList) && is_array($aProductList)) {
+                                        foreach ($aProductList as $row) {
+                                            $url = base_url() . 'products/' . $row->slug;
+                                    ?>
+
+                                            <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                                    <?php
+                                        }
+                                    }
+                                    ?>
+                                </ul>
+                            </li>                           
+                            <li class="nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
+                            <li class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -115,7 +130,7 @@
                                 <?php
                                 if (!empty($aProductList) && is_array($aProductList)) {
                                     foreach ($aProductList as $row) {
-                                        $url = base_url() . 'product/' . $row->slug;
+                                        $url = base_url() . 'products/' . $row->slug;
                                 ?>
 
                                         <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>

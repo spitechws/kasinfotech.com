@@ -33,53 +33,6 @@
                 </ul>
             </div>
             <!-- end col-3 -->
-            <div class="col-lg-3">
-                <div class="row">
-                    <h6 class="widget-title">Services</h6>
-                    <div class="col-md-2">
-
-                    </div>
-                    <div class="col-md-10">
-                        <div class="footer-menu">
-                            <div class="menu-services-container">
-                                <ul id="menu-services" class="menu">
-                                    <?php
-                                    if (!empty($aService) && is_array($aService)) {
-                                        foreach ($aService as $row) {
-                                            $url = base_url() . 'service/' . $row->slug;
-                                    ?>
-                                            <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
-                                    <?php
-                                        }
-                                    }
-                                    ?>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <!-- <div class="bosluk333"></div>
-                <div role="form">
-                    <div class="screen-reader-response">
-                        <p role="status" aria-live="polite" aria-atomic="true"></p>
-                        <ul></ul>
-                    </div>
-                    <form id="subscriber_now">
-
-                        <div class="form__grup">
-                            <span class="wpcf7-form-control-wrap">
-                                <input type="email" name="email" size="40" class="form-popup__input" aria-required="true" aria-invalid="false" placeholder="Your Email Address"></span>
-                        </div>
-                        <div class="form__grup">
-                            <input type="submit" value="Subscribe →" class="custom-buttonw1" onclick="subscriberNow()">
-                        </div>
-                        <div id="subscriber_now_message" aria-hidden="true"></div>
-                    </form>
-                </div> -->
-            </div>
-            <!-- end col-4 -->
             <div class="col-lg-3  col-sm-6">
                 <h6 class="widget-title">Services</h6>
                 <div class="footer-menu">
@@ -91,6 +44,26 @@
                                     $url = base_url() . 'service/' . $row->slug;
                             ?>
                                     <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
+                            <?php
+                                }
+                            }
+                            ?>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- end col-4 -->
+            <div class="col-lg-3  col-sm-6">
+                <h6 class="widget-title">Products</h6>
+                <div class="footer-menu">
+                    <div class="menu-services-container">
+                        <ul id="menu-services" class="menu">
+                            <?php
+                            if (!empty($aProductList) && is_array($aProductList)) {
+                                foreach ($aProductList as $row) {
+                                    $url = base_url() . 'products/' . $row->slug;
+                            ?>
+                                    <li><a href="<?php echo $url ?>"><?php echo $row->name ?></a></li>
                             <?php
                                 }
                             }

@@ -30,5 +30,22 @@ foreach ($aAdmin as $controller) {
 $route["home_ajax/(:any)"] = "home/Home_ajax/$1";
 $route["home_ajax"] = "home/Home_ajax/index/";
 
+//Home CMS
+$aHome = [
+    'about-us','privacy-policy','terms-and-conidtions'
+];
+foreach ($aHome as $method) {
+    $route[$method] = "home/cms/" . $method;
+}
+
+//Home Methods
+$route['contact-us'] = "home/contact";
+$route["products/(:any)"] = "home/products/$1";
+$route["services/(:any)"] = "home/services/$1";
+$route["blog"] = "home/blog";
+$route["blog/(:any)"] = "home/blog/$1";
+
+
+
 $str_admin = implode("|", $aAdmin);
 $route['^(?!' . $str_admin . ').*'] = "home/$0";

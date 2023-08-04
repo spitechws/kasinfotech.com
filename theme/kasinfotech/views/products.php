@@ -4,7 +4,25 @@
 <section style="margin-top: 20px; margin-bottom:20px;min-height:1000px;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-12">
+            <div class="col-lg-12">
+             <table>
+                <tr>
+                    <th>Product Name: </th>
+                    <td><?php echo $aProduct->name;?></td>
+                </tr>
+                <tr>
+                    <th>Demo URL: </th>
+                    <td><?php echo $aProduct->demo_url;?></td>
+                </tr>
+                <tr>
+                    <th>Features/Details:</th>
+                    <td><?php echo $aProduct->name;?></td>
+                </tr>
+             </table>   
+
+            </div>
+
+            <div class="col-lg-12">
                 <div id="product-carousel" class="product-carousel slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
@@ -42,10 +60,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-6 col-12">
 
-
-            </div>
         </div>
     </div>
 </section>
