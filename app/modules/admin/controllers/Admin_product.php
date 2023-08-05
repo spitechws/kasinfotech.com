@@ -28,8 +28,7 @@ class Admin_product extends MY_Controller {
         if (isset($_POST['submitform'])) {
             $response = $this->oMainModel->add();
             if ($response['is_error'] == 0) {
-                set_message('Product saved successfully');
-                redirect($this->moduleUrl);
+                set_message('Product saved successfully');               
             } else {
                 set_message($response['msg'], 'e');
             }
@@ -40,7 +39,7 @@ class Admin_product extends MY_Controller {
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = 'Product';
         $data['menu'] = 'modules';
-        $data['breadcrumb'] = array('' => 'Product');
+        $data['breadcrumb'] = array('admin_product'=>'Product List','' => 'Product');
         load_admin_view('product/form', $data);
     }   
 
