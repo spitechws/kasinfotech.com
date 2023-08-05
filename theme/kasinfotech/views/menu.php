@@ -1,3 +1,10 @@
+<style>
+    #bs-example-navbar-collapse-2 ul li a {
+        background: #1c437f;
+        color: white;
+    }
+</style>
+
 <div class="page-transition"></div>
 <aside class="side-widget">
     <div class="inner">
@@ -80,7 +87,8 @@
                                     }
                                     ?>
                                 </ul>
-                            </li>                                                     
+
+                            </li>
                             <li class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
                         </ul>
                     </div>
@@ -92,7 +100,7 @@
         </small>
     </div>
 </aside>
-<nav class="navbar navbar-expand-md navbar-light bg-light">
+<nav class="navbar navbar-expand-md " style="background: #1c437f ;    margin-top: -24px;">
     <div class="container">
         <!-- Logo Menu Desktop -->
         <div class="logo"> <a href="<?php echo $site_url; ?>">

@@ -1,13 +1,20 @@
 ﻿<?php require_once('header.php') ?>
 <?php require_once('menu.php') ?>
 
-<section style="margin-top: 20px; margin-bottom:20px;min-height:1000px;">
+<header class="page-header">
+    <div class="container">
+        <h2><?php echo $title; ?></h2>
+        <div class="bosluk3"></div>
+        <p><a href="<?php echo $site_url; ?>" class="headerbreadcrumb">Home</a> <i class="flaticon-right-chevron"></i><?php echo $title; ?></p>
+    </div>
+</header>
+<section class="pt-5 mb-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <table class="table">
                     <tr>
-                        <th>Product Name: </th>
+                        <th style="width:20%">Product Name: </th>
                         <td><?php echo $aProduct->name; ?></td>
                     </tr>
                     <tr>
