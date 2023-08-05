@@ -2,7 +2,7 @@
 
 # Techstack 
 - Codeigniter-v3 : https://www.codeigniter.com/userguide3/
-- Bootstrap v3.3.7 :  https://getbootstrap.com/docs/3.4/
+- Bootstrap v4.5.3 :  https://getbootstrap.com/docs/4.5/getting-started/introduction/
 - Font Awesome 4.7.0 : https://fontawesome.com/v4/icons/ 
 
 ## Project Setup 
