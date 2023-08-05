@@ -3,7 +3,7 @@
 
 
 <!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container1" style="    margin-top: 71px;">
+<div id="wowslider-container1">
     <div class="ws_images">
         <ul>
             <li><img src="<?php echo $site_theme; ?>data1/images/1.png" alt="1" title="1" id="wows1_0" /></li>
