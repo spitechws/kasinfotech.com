@@ -87,8 +87,8 @@
                                     }
                                     ?>
                                 </ul>
+
                             </li>
-                            <li class="nav-item"><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog</span></a></li>
                             <li class="nav-item"><a href="<?php echo $site_url; ?>contact" class="nav-link"><span itemprop="name">Contact</span></a></li>
                         </ul>
                     </div>
@@ -146,8 +146,7 @@
                                 }
                                 ?>
                             </ul>
-                        </li>
-                        <li><a href="<?php echo $site_url; ?>blog" class="nav-link"><span itemprop="name">Blog<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                        </li>                      
                         <li><a href="tel:<?php echo config_item('site_contact') ?>contact" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                     </ul>
                 </div>
