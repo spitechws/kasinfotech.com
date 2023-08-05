@@ -16,7 +16,7 @@
         function load_common_data($page_name)
         {
             $cms = get_row('cms', array('page_name' => $page_name));
-            if (empty($cms)) {
+            if (empty($cms->page_title)) {
                 debug("There is no CMS page entry, please do entry for page name : " . $page_name);
             }
             $data['cms'] = $cms;
