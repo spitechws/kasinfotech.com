@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <table>
+                <table class="table">
                     <tr>
                         <th>Product Name: </th>
                         <td><?php echo $aProduct->name; ?></td>
@@ -15,8 +15,8 @@
                         <td><?php echo $aProduct->demo_url; ?></td>
                     </tr>
                 </table>
-                <h3>Features/Details</h3>
-                <div><?php echo $aProduct->details; ?></div>
+                <h3 style="margin-top:10px; margin-bottom: 10px;">Features/Details</h3>
+                <div class="product-details"><?php echo $aProduct->details; ?></div>
             </div>
 
             <div class="col-lg-12">
