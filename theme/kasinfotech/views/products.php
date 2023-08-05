@@ -5,21 +5,18 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-             <table>
-                <tr>
-                    <th>Product Name: </th>
-                    <td><?php echo $aProduct->name;?></td>
-                </tr>
-                <tr>
-                    <th>Demo URL: </th>
-                    <td><?php echo $aProduct->demo_url;?></td>
-                </tr>
-                <tr>
-                    <th>Features/Details:</th>
-                    <td><?php echo $aProduct->name;?></td>
-                </tr>
-             </table>   
-
+                <table>
+                    <tr>
+                        <th>Product Name: </th>
+                        <td><?php echo $aProduct->name; ?></td>
+                    </tr>
+                    <tr>
+                        <th>Demo URL: </th>
+                        <td><?php echo $aProduct->demo_url; ?></td>
+                    </tr>
+                </table>
+                <h3>Features/Details</h3>
+                <div><?php echo $aProduct->details; ?></div>
             </div>
 
             <div class="col-lg-12">
