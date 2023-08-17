@@ -366,47 +366,10 @@
 
 <!--Projects Alanı-->
 <div class="bosluk3"></div>
-<section class="projeler-sayfa-alani">
-    <div class="h-yazi-ortalama h-yazi-margin-orta-4">
-        <h2 class="h2-baslik-hizmetler-2"> Our Latest Projects </h2>
-    </div>
-    <p class="h2-baslik-hizmetler-3__paragraf">
-        We always try to implement our creative ideas at the highest level. </p>
-    <div class="component-systemTabs">
-        <div class="tabs-container">
-            <!--Projects Tab1-->
-            <div id="tab-1" data-tab-title="Datax Project" class="tab-content current">
-                <div class="cards">
-                    <div class="tabloozellik">
-                        <?php
-                        if (!empty($aProject) && is_array($aProject)) {
-                            foreach ($aProject as $row) {
-                                $url = base_url() . 'project/' . $row->slug;
-                        ?>
-                                <div class="tablo--1-ve-3">
-                                    <div class="card wow zoomIn" onclick="window.location.href='<?php echo $url; ?>'">
-                                        <?php show_image($row->image, [], 'project') ?>
-                                        <div class="cardContent">
-                                            <h2><?php echo $row->name; ?></h2>
-                                            <button onclick="window.location.href='<?php echo $url; ?>'">View</button>
-                                        </div>
-                                    </div>
-                                </div>
-                        <?php
-                            }
-                        }
-                        ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="h-yazi-ortalama h-yazi-margin">
-        <a href="<?php echo base_url() . 'project/'; ?>" class="custom-button">All Projects</a>
-    </div>
-</section>
 
-<?php require_once('digital-marketing-services.php'); ?>
+<?php require_once('home/products.php'); ?>
+
+<?php require_once('home/digital-marketing-services.php'); ?>
 
 
 <section class="markalar">
