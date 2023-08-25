@@ -15,10 +15,10 @@ class Service_model extends MY_Model
     function add()
     {
         $editId = $this->input->post('id');
-        $this->form_validation->set_rules('title', 'Service Name', "required");
+        $this->form_validation->set_rules('name', 'Service Name', "required");
         $this->form_validation->set_rules('short_description', 'Short Description', "required");
         if ($this->form_validation->run() == TRUE) {
-            $title = $this->input->post('title', TRUE);           
+            $name = $this->input->post('name', TRUE);           
             $description = $this->input->post('description', TRUE);
             $slug = $this->input->post('slug', TRUE);
             $short_description = $this->input->post('short_description', TRUE);
@@ -46,7 +46,7 @@ class Service_model extends MY_Model
 
             if ($this->response['is_error'] == 0) {
                 $aInput = array(
-                    "title" => filterValue($title),
+                    "name" => filterValue($name),
                     "slug" => filterValue($slug),                  
                     "description" => filterValue($description),
                     "image" => $image,
@@ -69,7 +69,7 @@ class Service_model extends MY_Model
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . $this->tbl_name . ' as t1');
         if (isset($_GET['search_key']) && $_GET['search_key'] != '') {
-            $this->db->like('title', $_GET['search_key']);
+            $this->db->like('t1.name', $_GET['search_key']);
         }
         $offset = 0;
         $limit = config_item('record_limit');

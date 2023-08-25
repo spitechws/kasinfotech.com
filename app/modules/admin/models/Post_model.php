@@ -3,14 +3,17 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Post_model extends MY_Model {
+class Post_model extends MY_Model
+{
 
-    function __construct() {
+    function __construct()
+    {
         parent::__construct();
         parent::setTable('post');
     }
 
-    function add() {               
+    function add()
+    {
         $editId = $this->input->post('id');
         $this->form_validation->set_rules('slug', 'Post Slug', 'required');
         $this->form_validation->set_rules('title', 'Post Title', 'required');
@@ -64,7 +67,8 @@ class Post_model extends MY_Model {
         return $this->response;
     }
 
-    function post_list($aWhere = array()) {
+    function post_list($aWhere = array())
+    {
         $str_select = 't1.*,t2.name as author_name';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'post as t1');
@@ -77,27 +81,33 @@ class Post_model extends MY_Model {
         if ($this->uri->segment(3)) {
             $offset = $this->uri->segment(3);
         }
+        $this->db->where($aWhere);
         $this->db->order_by("t1.id", 'desc');
         $this->db->limit($limit, $offset);
-        $res = $this->db->get()->result();          
-        $res = parent::customPagination($res);
+        $res = $this->db->get();
+        if ($res) {
+            $res->result();
+            $res = parent::customPagination($res);
+        }
         return $res;
     }
 
-    function category_list($aWhere = array()) {
+    function category_list($aWhere = array())
+    {
         $str_select = 't1.*';
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'post_category as t1');
         $this->db->where($aWhere);
         if (isset($_GET['search_key']) && $_GET['search_key'] != '') {
             $this->db->like('t1.title', $_GET['search_key']);
-        }        
+        }
         $this->db->order_by("t1.category_id", 'desc');
         $res = $this->db->get()->result();
         return $res;
     }
 
-    function category_add() {
+    function category_add()
+    {
         $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
         $editId = $this->input->post('category_id');
         $this->form_validation->set_rules('title', 'Post Title', 'required');
@@ -115,5 +125,4 @@ class Post_model extends MY_Model {
         }
         return $this->response;
     }
-
 }

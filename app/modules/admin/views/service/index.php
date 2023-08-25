@@ -28,7 +28,7 @@
                                         <td><?php
                                             show_image($row->image, array("width" => "100", "height" => "50"), 'service');
                                             ?></td>
-                                        <td><?php echo $row->title ?></td>
+                                        <td><?php echo $row->name ?></td>
                                         <td class="text-center">
                                             <a class="btn btn-xs btn-success" target="_blank" href="<?php echo base_url() ?>service/<?php echo $row->slug ?>">Preview</a>
                                             <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>

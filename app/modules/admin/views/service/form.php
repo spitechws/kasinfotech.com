@@ -34,7 +34,7 @@
                             ?>
                             <label for="image">
                                 <?php
-                                $attribute = array('id' => 'image_preview', 'class' => 'img-responsive', 'alt' => $title);
+                                $attribute = array('id' => 'image_preview', 'class' => 'img-responsive');
                                 show_image($image, $attribute, 'service');
                                 ?>
                             </label>
@@ -48,15 +48,15 @@
                         <label class="col-lg-3 control-label">Service Name<span class="required">*</span></label>
                         <div class="col-lg-8">
                             <?php
-                            $title = '';
-                            if (isset($_POST['title'])) {
-                                $title = $_POST['title'];
-                            } else if (isset($aContentInfo->title)) {
-                                $title = $aContentInfo->title;
+                            $name = '';
+                            if (isset($_POST['name'])) {
+                                $name = $_POST['name'];
+                            } else if (isset($aContentInfo->name)) {
+                                $name = $aContentInfo->name;
                             }
                             ?>
-                            <input onblur="generateSlug('title','slug')" maxlength="150" id="title" name="title" validate="Required" type="text" placeholder="<?php echo lang('Course Name') ?>" class="form-control" value="<?php echo $title ?>">
-                            <div class="error" id="error_title"></div>
+                            <input onblur="generateSlug('name','slug')" maxlength="150" id="name" name="name" validate="Required" type="text"  class="form-control" value="<?php echo $name ?>">
+                            <div class="error" id="error_name"></div>
                         </div>
                     </div>
                     <div class="form-group">
@@ -70,7 +70,7 @@
                                 $slug = $aContentInfo->slug;
                             }
                             ?>
-                            <input id="slug" onblur="generateSlug('title','slug')" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
+                            <input id="slug" onblur="generateSlug('name','slug')" name="slug" validate="Required" type="text" class="form-control" value="<?php echo $slug ?>">
                             <div class="error" id="error_slug"></div>
                         </div>
                     </div>
@@ -112,9 +112,9 @@
                     <div class="form-group">
                         <div class="col-lg-8 col-lg-offset-3">
                             <input type="hidden" name="submitform" id="submitform" value="submit">
-                            <button type="button" onclick="formValidate('form1')" class="btn btn-primary btn-md"><?php echo lang('Save') ?></button>
+                            <button type="button" onclick="formValidate('form1')" class="btn btn-primary btn-md">Save</button>
                             &nbsp;&nbsp;&nbsp;
-                            <button type="button" class="btn btn-danger btn-md" onclick="history.go(-1)"><?php echo lang('Cancel') ?></button>
+                            <button type="button" class="btn btn-danger btn-md" onclick="history.go(-1)">Cancel</button>
                         </div>
                     </div>
                 </fieldset>
