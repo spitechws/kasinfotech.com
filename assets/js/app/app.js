@@ -102,6 +102,26 @@ function loadSubcategory() {
     });
 }
 
+
+function selectBannerItem(banner_type,container_id) {
+    $.ajax({
+        url: BASE_URL + 'common/get_services_products',
+        type: 'POST',
+        data: { banner_type: banner_type },
+        dataType: 'json',
+        success: function (response) {
+            var strHtml = '';
+            if (response.length > 0) {
+                $.each(response, function (index, value) {
+                    strHtml += '<option value="' + value.id + '">' + value.name + '</option>';
+                });
+            }
+            $('#'+container_id).html(strHtml);
+        }
+    });
+}
+
+
 function changeModuleStatus(module_id) {
     $.ajax({
         url: BASE_URL + 'common/change_module_status',
@@ -114,29 +134,29 @@ function changeModuleStatus(module_id) {
     });
 }
 
-function generateSlug(source_id,target_id) {
+function generateSlug(source_id, target_id) {
     var a = document.getElementById(source_id).value;
     var b = a.toLowerCase().replace(/ /g, '-')
-        .replace(/[^\w-]+/g, '');   
+        .replace(/[^\w-]+/g, '');
     document.getElementById(target_id).value = b;
 }
 
-function submitEnquiry(form_id){
-    if(formValidateOnly(form_id)){
-        var formData=$('#'+form_id).serialize();
+function submitEnquiry(form_id) {
+    if (formValidateOnly(form_id)) {
+        var formData = $('#' + form_id).serialize();
         $.ajax({
-            url:BASE_URL+'client/ajaxAdd/',
-            type:'POST',
-            data:formData,
-            success:function(response){
-                if(response>0){	
-                    clearForm('form1');					
-                    $('#'+form_id+' #errorMessages').html('');
+            url: BASE_URL + 'client/ajaxAdd/',
+            type: 'POST',
+            data: formData,
+            success: function (response) {
+                if (response > 0) {
+                    clearForm('form1');
+                    $('#' + form_id + ' #errorMessages').html('');
                     $('#clientModal').modal('hide');
                     getClients();
-                }else{
-                    $('#'+form_id+' #errorMessages').html(response);
-                }    
+                } else {
+                    $('#' + form_id + ' #errorMessages').html(response);
+                }
             }
         });
     }

@@ -15,7 +15,8 @@ class Banner_model extends MY_Model {
         $this->form_validation->set_rules('caption', lang('Image Caption'), "required");
         if ($this->form_validation->run() == TRUE) {
             $caption = $this->input->post('caption', TRUE);
-            $short_description = $this->input->post('short_description', TRUE);
+            $type = $this->input->post('type', TRUE);
+            $pk = $this->input->post('pk', TRUE);
             
             $image = '';
             $row = parent::getRecord('*', array("banner_id" => $editId));
@@ -41,7 +42,8 @@ class Banner_model extends MY_Model {
                 $aInput = array(
                     "image" => $image,
                     "caption" => filterValue($caption),
-                    "short_description" => filterValue($short_description)
+                    "type" => filterValue($type),
+                    "pk" => filterValue($pk)
                 );
                 $_POST['rowId'] = $editId;
                 $lastId = parent::save($this->tbl_name, $aInput, 'banner_id');

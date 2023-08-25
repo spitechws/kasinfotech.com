@@ -16,8 +16,8 @@ class Common extends MY_Controller
         $module_id = $_POST['module_id'];
         $sql = "UPDATE  modules SET  status= CASE WHEN status='1' THEN '0' ELSE '1' END WHERE module_id = $module_id";
         $this->db->query($sql);
-       echo "Module status updarted";
-       //echo $sql;
+        echo "Module status updarted";
+        //echo $sql;
     }
 
     function load_subcategory()
@@ -26,6 +26,15 @@ class Common extends MY_Controller
         $this->oMainModel->setTable('sub_category');
         $aData = $this->oMainModel->getRecords('sub_category_id,title', array("category_id" => $category_id), array("sort" => "title", "order" => "asc"));
         echo json_encode($aData);
+    }
+
+    function get_services_products()
+    {       
+        if(!empty($_POST['banner_type'])){
+            $aData = get_rows($_POST['banner_type'],[],'id,name');
+            echo json_encode($aData);
+        }
+      
     }
 
 
