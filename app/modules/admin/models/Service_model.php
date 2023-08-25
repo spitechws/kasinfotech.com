@@ -18,10 +18,7 @@ class Service_model extends MY_Model
         $this->form_validation->set_rules('title', 'Service Name', "required");
         $this->form_validation->set_rules('short_description', 'Short Description', "required");
         if ($this->form_validation->run() == TRUE) {
-            $title = $this->input->post('title', TRUE);
-            $demo_url = $this->input->post('demo_url', TRUE);
-            $username = $this->input->post('username', TRUE);
-            $password = $this->input->post('password', TRUE);
+            $title = $this->input->post('title', TRUE);           
             $description = $this->input->post('description', TRUE);
             $slug = $this->input->post('slug', TRUE);
             $short_description = $this->input->post('short_description', TRUE);
@@ -50,10 +47,7 @@ class Service_model extends MY_Model
             if ($this->response['is_error'] == 0) {
                 $aInput = array(
                     "title" => filterValue($title),
-                    "slug" => filterValue($slug),
-                    "demo_url" => filterValue($demo_url),
-                    "username" => filterValue($username),
-                    "password" => filterValue($password),
+                    "slug" => filterValue($slug),                  
                     "description" => filterValue($description),
                     "image" => $image,
                     'short_description'=> filterValue($short_description),

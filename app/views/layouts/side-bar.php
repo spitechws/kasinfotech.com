@@ -9,10 +9,10 @@
     <li class="<?php get_active("cms", $menu) ?>">
         <a href="<?php echo base_url() ?>admin_cms/"><span class="glyphicon glyphicon-globe"></span>CMS Pages</a>
     </li>   
-    <li class="<?php get_active("media", $menu) ?>">
+    <li class="<?php get_active("media", $menu) ?> hide">
         <a href="<?php echo base_url() ?>admin_media/"><span class="glyphicon glyphicon-camera"></span>Media</a>
     </li>
-    <li class="<?php get_active("page_component", $menu) ?>">
+    <li class="<?php get_active("page_component", $menu) ?> hide">
         <a href="<?php echo base_url() ?>admin_component/"><span class="glyphicon glyphicon-dashboard"></span>Page Components</a>
     </li>  
     <?php

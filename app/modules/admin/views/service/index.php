@@ -13,13 +13,12 @@
                                 <th width="5%">#</th>
                                 <th width="5%">Image</th>
                                 <th width="*">Service Name</th>
-                                <th width="10%">Demo URL</th>
                                 <th width="20%">Action</th>
                             </tr>
                         </thead>
                         <tbody>
                             <?php
-                            $columns = 5;
+                            $columns = 4;
                             if (!empty($aGrid->rows)  && is_array($aGrid->rows)) {
                                 $i = get_grid_sn();
                                 foreach ($aGrid->rows as $row) {
@@ -30,8 +29,6 @@
                                             show_image($row->image, array("width" => "100", "height" => "50"), 'service');
                                             ?></td>
                                         <td><?php echo $row->title ?></td>
-                                        <td><?php echo $row->demo_url ?></td>
-
                                         <td class="text-center">
                                             <a class="btn btn-xs btn-success" target="_blank" href="<?php echo base_url() ?>service/<?php echo $row->slug ?>">Preview</a>
                                             <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
