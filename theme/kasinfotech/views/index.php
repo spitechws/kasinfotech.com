@@ -283,7 +283,7 @@
                                     <!-- <i class="h-flaticon-015-shield"></i> -->
                                     <?php show_image($row->image, ['width' => 70], 'service'); ?>
                                 </div>
-                                <h3 class="h3-baslik-hizmet"> <?php echo get_substring($row->title, 20); ?></h3>
+                                <h3 class="h3-baslik-hizmet"> <?php echo get_substring($row->name, 20); ?></h3>
                                     <p><?php echo get_substring($row->short_description, 100); ?></p>
                                     <a href="<?php echo $url; ?>" class="custom-button">Read More</a>
                             </div>

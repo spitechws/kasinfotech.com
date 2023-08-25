@@ -65,7 +65,7 @@
                                             $url = base_url() . 'service/' . $row->slug;
                                     ?>
 
-                                            <li class="nav-item"><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->title ?></span></a></li>
+                                            <li class="nav-item"><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name ?></span></a></li>
                                     <?php
                                         }
                                     }
@@ -125,7 +125,7 @@
                                         $url = base_url('services/' . $row->slug);
                                 ?>
 
-                                        <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->title; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                                        <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                                 <?php
                                     }
                                 }

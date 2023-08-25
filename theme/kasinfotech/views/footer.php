@@ -43,7 +43,7 @@
                                 foreach ($aService as $row) {
                                     $url = base_url() . 'service/' . $row->slug;
                             ?>
-                                    <li><a href="<?php echo $url ?>"><?php echo $row->title ?></a></li>
+                                    <li><a href="<?php echo $url ?>"><?php echo $row->name ?></a></li>
                             <?php
                                 }
                             }

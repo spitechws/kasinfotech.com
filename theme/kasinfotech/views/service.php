@@ -17,7 +17,7 @@
                                     foreach ($aService as $row) {
                                         $url = base_url() . 'service/' . $row->slug;
                                 ?>
-                                        <span class="menu-service menuactive" onclick="location.href='<?php echo $url; ?>';"><a href="<?php echo $url; ?>"><i class="flaticon-right-chevron"></i><?php echo $row->title; ?></a></span>
+                                        <span class="menu-service menuactive" onclick="location.href='<?php echo $url; ?>';"><a href="<?php echo $url; ?>"><i class="flaticon-right-chevron"></i><?php echo $row->name; ?></a></span>
 
                                 <?php
                                     }
