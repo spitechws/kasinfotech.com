@@ -1,31 +1,7 @@
 ﻿<?php include_once('header.php') ?>
 <?php include_once('menu.php') ?>
+<?php include_once('banner.php') ?>
 
-
-<!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container1">
-    <div class="ws_images">
-        <ul>
-            <li><img src="<?php echo $site_theme; ?>data1/images/1.png" alt="1" title="1" id="wows1_0" /></li>
-            <li><a href="#" target="_blank"><img src="<?php echo $site_theme; ?>data1/images/2.png" alt="slideshow html code" title="kas infotech" id="wows1_1" /></a></li>
-            <li><img src="<?php echo $site_theme; ?>data1/images/1_0.jpg" alt="1" title="1" id="wows1_2" /></li>
-        </ul>
-    </div>
-    <div class="ws_bullets">
-        <div>
-            <a href="#" title="1"><span><img src="<?php echo $site_theme; ?>data1/tooltips/1.png" alt="1" />1</span></a>
-            <a href="#" title="kas infotech"><span><img src="<?php echo $site_theme; ?>data1/tooltips/2.png" alt="kas infotech" />2</span></a>
-            <a href="#" title="1"><span><img src="<?php echo $site_theme; ?>data1/tooltips/1_0.jpg" alt="1" />3</span></a>
-        </div>
-    </div>
-    <div class="ws_script" style="position:absolute;left:-99%"><a href="#">slideshow html code</a> by WOWSlider.com v9.0</div>
-    <div class="ws_shadow"></div>
-</div>
-<script type="text/javascript" src="<?php echo $site_theme; ?>engine1/wowslider.js"></script>
-<script type="text/javascript" src="<?php echo $site_theme; ?>engine1/script.js"></script>
-<!-- End WOWSlider.com BODY section -->
-
-<!--Hero Slider Section-->
 <section class="banner-sc">
     <div class="h-yazi-ozel h-yazi-margin-ozel">
     </div>
@@ -79,7 +55,6 @@
         </div>
     </div>
 </section>
-<!--Services Top-->
 <!--Services 1-->
 <section class="services-top">
     <div class="h-yazi-ortalama h-yazi-margin-orta-3">
@@ -105,7 +80,7 @@
             </div>
         </div>
         <div class="tablo--1-ve-4">
-            <div class="paketler wow flipInY" onclick="location.href='https://garantiwebtasarim.com/wordpress/datax/software-solutions/';" style="cursor:pointer;">
+            <div class="paketler wow flipInY" onclick="location.href='#';" style="cursor:pointer;">
                 <div class="hizmet-kutu">
                     <div class="kutu-duzen">
                         <h3><a href="software-solutions/index.htm">Artificial Intelligence</a></h3>
@@ -120,7 +95,7 @@
             </div>
         </div>
         <div class="tablo--1-ve-4">
-            <div class="paketler wow flipInY" data-wow-delay="0.7s" onclick="location.href='https://garantiwebtasarim.com/wordpress/datax/machine-learning/';" style="cursor:pointer;">
+            <div class="paketler wow flipInY" data-wow-delay="0.7s" onclick="location.href='#';" style="cursor:pointer;">
                 <div class="hizmet-kutu">
                     <div class="kutu-duzen">
                         <h3><a href="machine-learning/index.htm">Machine Learning</a></h3>
@@ -135,7 +110,7 @@
             </div>
         </div>
         <div class="tablo--1-ve-4">
-            <div class="paketler wow flipInY" data-wow-delay="0.8s" onclick="location.href='https://garantiwebtasarim.com/wordpress/datax/data-security/';" style="cursor:pointer;">
+            <div class="paketler wow flipInY" data-wow-delay="0.8s" onclick="location.href='#';" style="cursor:pointer;">
                 <div class="hizmet-kutu">
                     <div class="kutu-duzen">
                         <h3><a href="data-security/index.htm">Data Security</a></h3>
@@ -162,20 +137,20 @@
     <div class="tablo">
         <div class="tablo--1-ve-2 wow fade">
             <div class="galeri1 wow zoomIn">
-                <img class="imagerotate" src="<?php echo site_assets() ?>images/technology.png" alt="">
+                <img class="imagerotate" src="<?php echo site_assets('images/technology.png') ?>" alt="">
             </div>
             <div class="galeri wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms" data-tilt="">
                 <img src="<?php echo site_assets() ?>images/datax-about.png" alt="Webone About" class="galeri__gorsel galeri__gorsel--3 zimage">
             </div>
         </div>
-        <!--Galeri Görsel Alanı-->
+       
         <div class="tablo--1-ve-3 wow fadeInUp">
             <h2 class="h2-baslik-anasayfa-ozel wow fadeInUp"> We are on a road from data to knowledge </h2>
             <div class="bosluk333"></div>
             <p class="paragraf wow fadeInRight">
             <p>We provide well planned data-based projects and the continuity of these projects. We are at your service to grow with our technology enthusiast team and to create success stories as data experts in the technology world.</p>
             <div class="bosluk333"></div>
-            <img class="divider" width="120" height="15" title="divider" alt="divider" src="images/divider.jpg">
+            <img class="divider" width="120" height="15" title="divider" alt="divider" src="<?php echo site_assets('images/divider.jpg') ?>">
             <div class="bosluk333"></div>
             <div class="row">
                 <div class="col-sm-2 wow  fadeInRight" data-wow-delay="0.7s">

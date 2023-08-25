@@ -35,7 +35,7 @@
             $view_name = 'index';
             $data = $this->load_common_data($view_name);
             $data['aTestimonial'] = get_rows('testimonial');
-            $data['aClient'] = get_rows('client');
+            $data['aBanner'] = get_rows('banner');
             $data['aPost'] = get_rows('post');
             load_home_view($view_name, $data);
         }
@@ -46,7 +46,7 @@
             load_home_view('cms', $data);
         }
 
-        function services($slug='')
+        function services($slug = '')
         {
             if (isset($_POST['submit'])) {
                 $res = $this->oMainModel->save_enquiry();
@@ -69,7 +69,7 @@
             load_home_view($view_name, $data);
         }
 
-        function blog($slug='')
+        function blog($slug = '')
         {
             $view_name = 'blog';
             $data = $this->load_common_data($view_name);

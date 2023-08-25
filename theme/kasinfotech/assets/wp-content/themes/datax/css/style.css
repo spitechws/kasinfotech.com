@@ -16,56 +16,7 @@
 1000 ve üzeri: Büyük masaüstü
 1200 - 1800  : Normal stiller için
 */
-@import url("../../../../../../css2");
-@import url("../../../../../../css2-1");
-@import url("../../../../../../css2-2");
-@import url("../../../../../../css2-3");
-@import url("../../../../../../css2-4");
-@import url("../../../../../../css2-5");
-@import url("../../../../../../css2-6");
-@import url("../../../../../../css2-7");
-@import url("../../../../../../css2-8");
-@import url("../../../../../../css2-9");
-@import url("../../../../../../css2-10");
-@import url("../../../../../../css2-11");
-@import url("../../../../../../css2-12");
-@import url("../../../../../../css2-13");
-@import url("../../../../../../css2-14");
-@import url("../../../../../../css2-15");
-@import url("../../../../../../css2-16");
-@import url("../../../../../../css2-17");
-@import url("../../../../../../css2-18");
-@import url("../../../../../../css2-19");
-@import url("../../../../../../css2-20");
-@import url("../../../../../../css2-21");
-@import url("../../../../../../css2-22");
-@import url("../../../../../../css2-23");
-@import url("../../../../../../css2-24");
-@import url("../../../../../../css2-25");
-@import url("../../../../../../css2-26");
-@import url("../../../../../../css2-27");
-@import url("../../../../../../css2-28");
-@import url("../../../../../../css2-29");
-@import url("../../../../../../css2-30");
-@import url("../../../../../../css2-31");
-@import url("../../../../../../css2-32");
-@import url("../../../../../../css2-33");
-@import url("../../../../../../css2-34");
-@import url("../../../../../../css2-35");
-@import url("../../../../../../css2-36");
-@import url("../../../../../../css2-37");
-@import url("../../../../../../css2-38");
-@import url("../../../../../../css2-39");
-@import url("../../../../../../css2-40");
-@import url("../../../../../../css2-41");
-@import url("../../../../../../css2-42");
-@import url("../../../../../../css2-43");
-@import url("../../../../../../css2-44");
-@import url("../../../../../../css2-45");
-@import url("../../../../../../css2-46");
-@import url("../../../../../../css2-47");
-@import url("../../../../../../css2-48");
-@import url("../../../../../../css2-49");
+
 
 .h-yazi-ortalama {
   text-align: center;
@@ -14857,7 +14808,7 @@ button[type="submit"] i {
   filter: Alpha(Opacity=50);
   /*IE7 fix*/
   zoom: 1;
-  *display: inline;
+  display: inline;
   /*IE7 life-saver */
 }
 
@@ -14874,7 +14825,7 @@ button[type="submit"] i {
 .owl-theme .owl-controls .owl-page {
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   /*IE7 life-saver */
 }
 
