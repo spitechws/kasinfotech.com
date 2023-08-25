@@ -284,7 +284,7 @@
             <p class="paragraf-sol-s">
                 Manage your business and business processes efficiently with solutions specific to data, analytics-modelling-decision support systems, big data and data mining that the data world needs. </p>
             <div class="bosluk333"></div>
-            <a href="<?php echo base_url() . 'service/' ?>" class="custom-buttonw">All Services</a>
+            <a href="<?php echo base_url('services')?>" class="custom-buttonw">All Services</a>
             <div class="galeri1">
                 <img class="imagerotate" src="<?php echo site_assets() ?>images/technology2.png" alt="">
             </div>
@@ -293,7 +293,7 @@
         <?php
         if (!empty($aService) && is_array($aService)) {
             foreach ($aService as $row) {
-                $url = base_url() . 'service/' . $row->slug;
+                $url = base_url('services/' . $row->slug);
         ?>
                 <div class="tablo--1-ve-4 ssw">
                     <div class="paketler" onclick="location.href='<?php echo $url; ?>';" style="cursor:pointer;">
@@ -308,9 +308,9 @@
                                     <!-- <i class="h-flaticon-015-shield"></i> -->
                                     <?php show_image($row->image, ['width' => 70], 'service'); ?>
                                 </div>
-                                <h3 class="h3-baslik-hizmet" <?php echo get_substring($row->title, 20); ?></h3>
+                                <h3 class="h3-baslik-hizmet"> <?php echo get_substring($row->title, 20); ?></h3>
                                     <p><?php echo get_substring($row->short_description, 100); ?></p>
-                                    <a href="<?php echo $url; ?>" class="custom-button">Learn More</a>
+                                    <a href="<?php echo $url; ?>" class="custom-button">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -332,7 +332,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="icon"><i class="flaticon-handshake"></i></div>
                 <div class="counter-box">
-                    <span class="odometer" data-count="<?php echo config_item('experience_year_count') ?>" data-status="yes">0</span>
+                    <span class="odometer" data-count="<?php echo config_item('experience_year_count') ?>" data-status="yes"><?php echo config_item('experience_year_count') ?></span>
                     <h6>Years of Experience</h6>
                 </div>
             </div>
@@ -340,7 +340,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="icon"><i class="flaticon-group"></i></div>
                 <div class="counter-box">
-                    <span class="odometer" data-count="<?php echo config_item('clients_count') ?>" data-status="yes">0</span>
+                    <span class="odometer" data-count="<?php echo config_item('clients_count') ?>" data-status="yes"><?php echo config_item('clients_count') ?></span>
                     <h6>Happy Clients</h6>
                 </div>
             </div>
@@ -348,7 +348,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="icon"><i class="flaticon-insurance"></i></div>
                 <div class="counter-box">
-                    <span class="odometer" data-count="<?php echo config_item('projects_count') ?>" data-status="yes">0</span>
+                    <span class="odometer" data-count="<?php echo config_item('projects_count') ?>" data-status="yes"><?php echo config_item('projects_count') ?></span>
                     <h6>Finished Projects</h6>
                 </div>
             </div>
@@ -356,7 +356,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="icon"><i class="flaticon-review"></i></div>
                 <div class="counter-box wow fade">
-                    <span class="odometer" data-count="<?php echo config_item('awards_count') ?>" data-status="yes">0</span>
+                    <span class="odometer" data-count="<?php echo config_item('awards_count') ?>" data-status="yes"><?php echo config_item('awards_count') ?></span>
                     <h6>Our Awards</h6>
                 </div>
             </div>

@@ -10,7 +10,7 @@
     <div class="inner">
         <!-- Logo Menu Mobile -->
         <div class="logo"> <a href="<?php echo $site_url; ?>">
-                <img style=" border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png"></a>
+                <img style="border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png"></a>
         </div>
         <div class="hide-mobile">
             <div class="or">
@@ -103,8 +103,9 @@
 <nav class="navbar navbar-expand-md " style="background: #1c437f ;    margin-top: -24px;">
     <div class="container">
         <!-- Logo Menu Desktop -->
-        <div class="logo"> <a href="<?php echo $site_url; ?>">
-                <img style="    border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png">
+        <div class="logo">
+            <a href="<?php echo $site_url; ?>">
+                <img style="border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png">
 
             </a>
         </div>
@@ -121,7 +122,7 @@
                                 <?php
                                 if (!empty($aService) && is_array($aService)) {
                                     foreach ($aService as $row) {
-                                        $url = base_url() . 'service/' . $row->slug;
+                                        $url = base_url('services/' . $row->slug);
                                 ?>
 
                                         <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->title; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
@@ -137,7 +138,7 @@
                                 <?php
                                 if (!empty($aProductList) && is_array($aProductList)) {
                                     foreach ($aProductList as $row) {
-                                        $url = base_url() . 'products/' . $row->slug;
+                                        $url = base_url('products/' . $row->slug);
                                 ?>
 
                                         <li><a href="<?php echo $url; ?>" class="dropdown-item"><span itemprop="name"><?php echo $row->name; ?><span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
@@ -146,8 +147,8 @@
                                 }
                                 ?>
                             </ul>
-                        </li>                      
-                        <li><a href="tel:<?php echo config_item('site_contact') ?>contact" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
+                        </li>
+                        <li><a href="<?php echo base_url('contact') ?>" class="nav-link"><span itemprop="name">Contact<span class="border border-top"></span><span class="border border-right"></span><span class="border border-bottom"></span><span class="border border-left"></span></span></a></li>
                     </ul>
                 </div>
             </div>
