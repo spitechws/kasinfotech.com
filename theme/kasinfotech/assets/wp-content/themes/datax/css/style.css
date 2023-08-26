@@ -17,7 +17,6 @@
 1200 - 1800  : Normal stiller için
 */
 
-
 .h-yazi-ortalama {
   text-align: center;
 }
@@ -12866,7 +12865,7 @@ img {
 }
 
 /* FORM ELEMENTS */
-input[type="text"] {
+/* input[type="text"] {
   max-width: 100%;
   height: 70px;
   padding: 0 30px;
@@ -12887,7 +12886,7 @@ input[type="search"] {
 input[type="password"] {
   max-width: 100%;
   height: 70px;
-  padding: 0 30px;
+  padding: 0 30px; */
 }
 
 input[type="radio"] {
@@ -15958,9 +15957,9 @@ img {
 }
 
 /* FORM ELEMENTS */
-input[type="text"] {
+/* input[type="text"] {
   max-width: 100%;
-  height: 70px;
+  height: 40px;
   padding: 0 30px;
   background: #fff;
   border-radius: 0.3rem;
@@ -15968,7 +15967,7 @@ input[type="text"] {
 
 input[type="email"] {
   max-width: 100%;
-  height: 70px;
+  height: 40px;
   padding: 0 30px;
   background: #fff;
   border-radius: 0.3rem;
@@ -15976,15 +15975,15 @@ input[type="email"] {
 
 input[type="search"] {
   max-width: 100%;
-  height: 70px;
+  height: 40px;
   padding: 0 30px;
 }
 
 input[type="password"] {
   max-width: 100%;
-  height: 70px;
+  height: 40px;
   padding: 0 30px;
-}
+} */
 
 input[type="radio"] {
   width: 18px;
@@ -20774,7 +20773,7 @@ p.countb {
   margin: 0;
   font-size: 16px;
   text-align: center;
-  background: #053b7d;
+  /* background: #053b7d; */
   padding: 10px;
 }
 
