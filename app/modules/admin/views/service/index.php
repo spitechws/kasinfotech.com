@@ -30,7 +30,7 @@
                                             ?></td>
                                         <td><?php echo $row->name ?></td>
                                         <td class="text-center">
-                                            <a class="btn btn-xs btn-success" target="_blank" href="<?php echo base_url() ?>service/<?php echo $row->slug ?>">Preview</a>
+                                            <a class="btn btn-xs btn-success" target="_blank" href="<?php echo base_url() ?>services/<?php echo $row->slug ?>">Preview</a>
                                             <a class="btn btn-xs btn-primary" href="<?php echo $moduleUrl; ?>add/<?php echo $row->id ?>">Edit</a>
                                             <a onclick="return confirm('Are you sure want to delete this service #<?php echo $i; ?>')" class="btn btn-xs btn-danger" href="<?php echo $moduleUrl; ?>delete/<?php echo $row->id ?>">Delete</a>
                                         </td>

@@ -2,9 +2,9 @@
 <?php require_once('menu.php') ?>
 <header class="page-header">
     <div class="container">
-        <h2>KAS INFO TECH</h2>
+        <h2><?php echo $title;?></h2>
         <div class="bosluk3"></div>
-        <p><a href="http://localhost/spitech_project/static_project/kasinfotech.com/" class="headerbreadcrumb">Home</a> <i class="flaticon-right-chevron"></i>KAS INFO TECH</p>
+        <p><a href="<?php echo base_url('/')?>" class="headerbreadcrumb">Home</a> <i class="flaticon-right-chevron"></i>Contact Us</p>
     </div>
 </header>
 
@@ -37,32 +37,28 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Enquiry heare</h5>
-
-                        <!-- Vertical Form -->
-                        <form class="row g-3">
+                        <h5 class="card-title">Share your requrements with us</h5>
+                        <form class="row g-3" method="post" id="form1">
                             <div class="col-12">
-                                <label for="name" class="form-label">Your Name</label>
-                                <input style="height: 40px;" type="text" class="form-control" id="name">
+                                <label for="name" class="form-label">Full Name <span class="required">*</span></label>
+                                <input type="text" class="form-control" id="name" name="name">
                             </div>
                             <div class="col-12">
-                                <label for="mobile" class="form-label">Email</label>
-                                <input style="height: 40px;" type="email" class="form-control" id="mobile">
+                                <label for="email" class="form-label">Email <span class="required">*</span></label>
+                                <input type="email" class="form-control" id="email" name="email">
                             </div>
                             <div class="col-12">
-                                <label for="mobile" class="form-label">Mobile</label>
-                                <input style="height: 40px;" type="text" class="form-control" id="mobile">
+                                <label for="mobile" class="form-label">Mobile <span class="required">*</span></label>
+                                <input type="text" class="form-control" id="mobile">
                             </div>
                             <div class="col-12">
-                                <label for="message" class="form-label">Message</label>
-                                <input style="height: 100px;" type="text" class="form-control" id="message">
+                                <label for="message" class="form-label">Message <span class="required">*</span></label>
+                                <textarea class="form-control" rows="5" id="message" name="message"></textarea>
                             </div>
                             <div class="text-center mt-4">
-                                <button type="submit" class="btn btn-primary">Submit</button>
-
+                                <button type="submit" class="btn btn-primary" name="submit">Submit</button>
                             </div>
-                        </form><!-- Vertical Form -->
-
+                        </form>
                     </div>
                 </div>
             </div>
