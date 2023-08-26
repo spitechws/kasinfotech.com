@@ -11,7 +11,7 @@
                     <div class="location">
                         <div class="row">
                             <div class="col-md-1">
-                                <i class="flaticon-pin iconpfooter1 "></i>
+                                <!-- <i class="flaticon-pin iconpfooter1 "></i> -->
                             </div>
                             <div class="col-md-11">
 
