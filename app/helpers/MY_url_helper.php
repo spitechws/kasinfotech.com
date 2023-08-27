@@ -40,9 +40,9 @@ if (!function_exists('admin_url')) {
         return base_url() . 'admin/';
     }
 }
-if (!function_exists('site_assets')) {
+if (!function_exists('asset')) {
 
-    function site_assets($file_url = '')
+    function asset($file_url = '')
     {
         $url = 'theme/' . config_item('site_theme') . '/assets/';
         if (!empty($file_url)) {
