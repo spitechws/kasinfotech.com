@@ -12,10 +12,9 @@ class Admin extends MY_Controller
     }
 
     function auth()
-    {
-        $spitechApi = new SpiTechApi(ENVIRONMENT);
-        $response = $spitechApi->getAuth('spitechtesting@gmail.com', 'Meta@190712');
-        debug($response);
+    {       
+        $apiResponse = $this->spitechApi->getAuth('spitechtesting@gmail.com', 'Meta@190712');
+        debug($apiResponse);
     }
 
     function index()
@@ -29,12 +28,6 @@ class Admin extends MY_Controller
                 $_SESSION['aUser'] = $lastId;
                 update_config(array('language' => $language));
                 redirect(base_url() . 'admin_dashboard/');
-            } else if ($lastId == "Invalid") {
-                set_message('Invalid login details', 'e');
-                redirect(admin_url());
-            } else if ($lastId == "Inactive") {
-                set_message(lang('Your account is not active. Please contact administrator'), 'e');
-                redirect(admin_url());
             } else {
                 set_message($lastId, 'e');
                 redirect(admin_url());
@@ -57,8 +50,8 @@ class Admin extends MY_Controller
             redirect(base_url() . 'admin_dashboard/');
         }
         if (isset($_POST['submitform'])) {
-            $lastId = $this->oMainModel->forgot_password();
-            set_message($lastId);
+            $apiResponse = $this->spitechApi->sendPassword($_POST['email']);
+            set_message($apiResponse->message[0]);
             redirect(admin_url());
         }
         $data['title'] = lang('Password Reset');

@@ -7,10 +7,9 @@ class SpiTechApi
 
     function __construct($env = 'production')
     {
-        $this->project_key = '87adca93cc846c1b696c0f54f0316624';
-        if ($env == 'production') {
-            $this->apiBaseUrl = 'http://billing.pronero.in/api/';
-        } else {
+        $this->project_key = '709b5bb8c40dcf98512fb159ae95af8c';
+        $this->apiBaseUrl = 'http://billing.pronero.in/api/';
+        if ($env != 'production') {
             $this->apiBaseUrl = 'http://127.0.0.1:8000/api/';
         }
     }
@@ -50,5 +49,32 @@ class SpiTechApi
             "password" => $password
         ];
         return $this->apiCall('project/login', $param);
+    }
+
+    public function userAdd($email, $password)
+    {
+        $param = [
+            "email" => $email,
+            "password" => $password
+        ];
+        return $this->apiCall('project/user-add', $param);
+    }
+
+    public function userUpdate($email, $status)
+    {
+        $status = ($status == 1) ? 'Active' : 'Inactive';
+        $param = [
+            "email" => $email,
+            "status" => $status,
+        ];
+        return $this->apiCall('project/user-update', $param);
+    }
+
+    public function sendPassword($email)
+    {
+        $param = [
+            "email" => $email
+        ];
+        return $this->apiCall('project/send-password', $param);
     }
 }

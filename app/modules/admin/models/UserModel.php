@@ -6,12 +6,10 @@ if (!defined('BASEPATH'))
 class UserModel extends MY_Model
 {
 
-
     function __construct()
     {
         parent::__construct();
-        parent::setTable('user');
-        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
+        parent::setTable('user');       
     }
 
     function user_list($aWhere = array())
@@ -46,16 +44,16 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $email = $this->input->post('email');
             $password = $this->input->post('password');
-            $apiResponse = $this->spitechApi->getAuth($email, $password);           
+            $apiResponse = $this->spitechApi->getAuth($email, $password);
             if (!empty($apiResponse->data->id)) {
                 $row = get_row('user', array('email' => $email));
                 $lastId = $row;
             } else {
-                $lastId = 'Invalid';
+                $lastId = $apiResponse->message[0];
             }
         } else {
             $lastId = validation_errors();
-        }     
+        }
         return $lastId;
     }
 
@@ -102,23 +100,7 @@ class UserModel extends MY_Model
         return $lastId;
     }
 
-    function forgot_password()
-    {
-        $this->form_validation->set_rules('email', 'Email Id', 'required|valid_email');
-        if ($this->form_validation->run() == TRUE) {
-            $email = $this->input->post('email', true);
-            $row = get_row('user', array("email" => filterValue($email)));
-            if (!empty($row)) {
-                $res = $this->spitechApi->forgotPassword($email);
-                $lastId = $res->msg;
-            } else {
-                $lastId = "This email id is not registered with us.";
-            }
-        } else {
-            $lastId = validation_errors();
-        }
-        return $lastId;
-    }
+    
 
     function changePass()
     {
@@ -149,7 +131,6 @@ class UserModel extends MY_Model
 
     function add()
     {
-        $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
         $editId = $this->input->post('user_id');
         if ($editId == 0) {
             $this->form_validation->set_rules('password', 'Password', 'required');
@@ -164,6 +145,7 @@ class UserModel extends MY_Model
             $mobile = $this->input->post('mobile', TRUE);
             $email = $this->input->post('email', TRUE);
             $status = $this->input->post('status', TRUE);
+
             if ($role_id == '1') {
                 $role_id = '2'; // default role id Secondary Admin
             }
@@ -175,14 +157,19 @@ class UserModel extends MY_Model
                 "status" => filterValue($status)
             );
             $_POST['rowId'] = $editId;
-            $lastId = parent::save($this->tbl_name, $aInput, 'user_id');
             if ($editId == 0) {
                 $password = $this->input->post('password', TRUE);
-                $this->spitechApi->createUser($name, $email, $password);
+                $apiResponse = $this->spitechApi->userAdd($email, $password);
             } else {
-                $this->spitechApi->updateUser($name, $email);
+                $apiResponse = $this->spitechApi->userUpdate($email, $status);
             }
-            $this->response['msg'] = $lastId;
+            if (!empty($apiResponse->data->id)) {
+                $lastId = parent::save($this->tbl_name, $aInput, 'user_id');
+                $this->response['msg'] = $lastId;
+            } else {
+                $this->response['is_error'] = 1;
+                $this->response['msg'] = $apiResponse->message;
+            }
         } else {
             $this->response['is_error'] = 1;
             $this->response['msg'] = validation_errors();

@@ -75,15 +75,14 @@ class Admin_user extends MY_Controller
 
     function send_password()
     {
-        if(!empty($_GET['email'])){
-            $res = $this->spitechApi->sendPassword($_GET['email']);
-            set_message($res->msg);
+        if (!empty($_GET['email'])) {
+            $apiResponse = $this->spitechApi->sendPassword($_GET['email']);
+            set_message($apiResponse->message[0]);
             redirect($this->moduleUrl);
-        }else{
+        } else {
             set_message("Email is empty for the selected user");
             redirect($this->moduleUrl);
         }
-      
     }
 
     //------------Ajax Methods----------
