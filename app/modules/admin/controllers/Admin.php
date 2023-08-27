@@ -13,7 +13,7 @@ class Admin extends MY_Controller
 
     function auth()
     {       
-        $apiResponse = $this->spitechApi->getAuth('spitechtesting@gmail.com', 'Meta@190712');
+        $apiResponse = $this->spitechApi->getAuth('superadmin@pronero.in', 'Meta@190712');
         debug($apiResponse);
     }
 

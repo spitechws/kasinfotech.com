@@ -18,6 +18,7 @@ class UserModel extends MY_Model
         $this->db->select($str_select);
         $this->db->from(tbl_prefix() . 'user as t1');
         $this->db->join(tbl_prefix() . 'user_role as t2', 't1.role_id=t2.role_id');
+        $this->db->where($aWhere);
         if (isset($_GET['search_key']) && $_GET['search_key'] != '') {
             $this->db->like('t1.name', $_GET['search_key']);
             $this->db->or_like('t1.mobile', $_GET['search_key']);
@@ -44,7 +45,7 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $email = $this->input->post('email');
             $password = $this->input->post('password');
-            $apiResponse = $this->spitechApi->getAuth($email, $password);
+            $apiResponse = $this->spitechApi->getAuth($email, $password);           
             if (!empty($apiResponse->data->id)) {
                 $row = get_row('user', array('email' => $email));
                 $lastId = $row;

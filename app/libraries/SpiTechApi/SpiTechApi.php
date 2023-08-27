@@ -5,13 +5,10 @@ class SpiTechApi
     private $project_key;
     private $apiBaseUrl;
 
-    function __construct($env = 'production')
+    function __construct()
     {
         $this->project_key = '709b5bb8c40dcf98512fb159ae95af8c';
-        $this->apiBaseUrl = 'http://billing.pronero.in/api/';
-        if ($env != 'production') {
-            $this->apiBaseUrl = 'http://127.0.0.1:8000/api/';
-        }
+        $this->apiBaseUrl = 'https://billing.pronero.in/api/';     
     }
 
     private function apiCall($end_point, $param, $method = 'POST')

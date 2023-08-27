@@ -12,7 +12,7 @@ class MY_Model extends CI_Model {
 
     function __construct() {
         parent::__construct();
-        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
+        $this->spitechApi = new SpiTechApi();
     }
 
     function setJoin($aJoinArray) {

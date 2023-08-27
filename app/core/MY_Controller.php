@@ -12,7 +12,7 @@ class MY_Controller extends CI_Controller
         if (session_status() == PHP_SESSION_NONE) {
             session_start();
         }
-        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
+        $this->spitechApi = new SpiTechApi();
         //$this->load->model('MY_Model','oMyModel');
     }
 
