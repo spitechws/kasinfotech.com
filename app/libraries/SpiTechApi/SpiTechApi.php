@@ -77,4 +77,15 @@ class SpiTechApi
         ];
         return $this->apiCall('project/send-password', $param);
     }
+
+    public function changePassword($email, $old_password, $password, $password_confirmation)
+    {
+        $param = [
+            "email" => $email,
+            "old_password" => $old_password,
+            "password" => $password,
+            "password_confirmation" => $password_confirmation
+        ];
+        return $this->apiCall('project/change-password', $param);
+    }
 }

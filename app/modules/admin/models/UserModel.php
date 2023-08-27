@@ -9,7 +9,7 @@ class UserModel extends MY_Model
     function __construct()
     {
         parent::__construct();
-        parent::setTable('user');       
+        parent::setTable('user');
     }
 
     function user_list($aWhere = array())
@@ -67,11 +67,15 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $password = $this->input->post('password', TRUE);
             $new_password = $this->input->post('new_password', TRUE);
+            $re_password = $this->input->post('re_password', TRUE);
             parent::setTable('user');
             $row = parent::getRecord('email', array("user_id" => $editId));
             if (!empty($row)) {
-                $res = $this->spitechApi->changePassword($password, $new_password);
-                $this->response['msg'] = $res->msg;
+                $apiResponse = $this->spitechApi->changePassword($row->email, $password, $new_password, $re_password);
+                if (empty($apiResponse->data->id)) {
+                    $this->response['is_error'] = 1;
+                }
+                $this->response['msg'] = $apiResponse->message[0];
             } else {
                 $this->response['is_error'] = 1;
                 $this->response['msg'] = "Please enter correct old passowrd.";
@@ -100,7 +104,7 @@ class UserModel extends MY_Model
         return $lastId;
     }
 
-    
+
 
     function changePass()
     {
