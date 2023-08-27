@@ -11,7 +11,7 @@ class UserModel extends MY_Model
     {
         parent::__construct();
         parent::setTable('user');
-        $this->spitechApi = new SpiTechApi();
+        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
     }
 
     function user_list($aWhere = array())
@@ -46,25 +46,16 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $email = $this->input->post('email');
             $password = $this->input->post('password');
-            $row = parent::getRecord('*', array('email' => $email));
-            if (!empty($row)) {
-                $apiResponse = $this->spitechApi->getAuth($email, $password);
-                if (!empty($apiResponse->data->id)) {
-                    if ($row->status == '1') {
-                        $lastId = $row;
-                    } else {
-                        $lastId = 'Inactive';
-                    }
-                } else {
-                    $lastId = 'Invalid';
-                }
+            $apiResponse = $this->spitechApi->getAuth($email, $password);           
+            if (!empty($apiResponse->data->id)) {
+                $row = get_row('user', array('email' => $email));
+                $lastId = $row;
             } else {
                 $lastId = 'Invalid';
             }
         } else {
             $lastId = validation_errors();
-        }
-        //debug('qry');     
+        }     
         return $lastId;
     }
 

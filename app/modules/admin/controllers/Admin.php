@@ -13,7 +13,7 @@ class Admin extends MY_Controller
 
     function auth()
     {
-        $spitechApi = new SpiTechApi();
+        $spitechApi = new SpiTechApi(ENVIRONMENT);
         $response = $spitechApi->getAuth('spitechtesting@gmail.com', 'Meta@190712');
         debug($response);
     }
