@@ -31,7 +31,7 @@ switch (ENVIRONMENT) {
     case 'testing':
         break;
     case 'production':
-        ini_set('display_errors', 1);       
+        ini_set('display_errors', 1);
         break;
     default:
         header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
