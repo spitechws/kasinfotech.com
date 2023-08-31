@@ -34,8 +34,9 @@
                 <div class="d-none d-xl-flex row align-items-center gx-0">
                     <div class="col-xl-2">
                         <picture>
-                            <source srcset="images/small-gptw.webp" type="image/webp">
-                            <source srcset="images/small-gptw.png" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/header/xsmall-gptw.png,qv-3.pagespeed.ic.Idc6gB3rBa.png" src="images/xsmall-gptw.png%2Cqv-3.pagespeed.ic.Idc6gB3rBa.png" alt="KAS PVT LTDGreat Place to Work" title="KAS PVT LTDGreat Place to Work">
+                            <source srcset="<?php echo asset('images/small-gptw.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/small-gptw.webp'); ?>" type="image/jpeg">
+                            <img data-src="<?php echo asset('images/small-gptw.webp'); ?>" src="<?php echo asset('images/small-gptw.webp'); ?>" alt="KAS PVT LTDGreat Place to Work" title="KAS PVT LTDGreat Place to Work">
                         </picture>
                     </div>
                     <div class="col-xl-10">
@@ -136,7 +137,6 @@
         </div>
         <div class="sidebar_right_outer">
             <ul class="d-xl-none">
-
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">Customers</a>
                     <ul class="sub-side">
@@ -486,8 +486,9 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-one.webp" type="image/webp">
-                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
+                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/home-cards-one.webp'); ?>" src="<?php echo asset('images/home-cards-one.webp'); ?>" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
@@ -501,8 +502,9 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-two.webp" type="image/webp">
-                                <source srcset="images/home-cards-two.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/home-cards-two.jpg?v-3" src="images/home-cards-two.jpg" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
+                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/home-cards-two.webp'); ?>" src="<?php echo asset('images/home-cards-two.webp'); ?>" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
@@ -516,8 +518,9 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-three.webp" type="image/webp">
-                                <source srcset="images/home-cards-three.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-three.jpg,qv-3.pagespeed.ic.lJ7xcE3866.webp" src="images/xhome-cards-three.jpg%2Cqv-3.pagespeed.ic.lJ7xcE3866.webp" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
+                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/home-cards-three.webp'); ?>" src="<?php echo asset('images/home-cards-three.webp'); ?>" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">We’re Hiring! Come Join Our Team!</h3>
@@ -531,8 +534,8 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-four.webp" type="image/webp">
-                                <source srcset="images/home-cards-four.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-four.jpg,qv-3.pagespeed.ic.r4jJC-e4pI.webp" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
+                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/home-cards-four.webp'); ?>" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
                                 Agility" title="The Keys to Organizational Agility: From Agile to
                                 Agility" class="lazy">
                             </picture>
@@ -549,8 +552,9 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-five.webp" type="image/webp">
-                                <source srcset="images/home-cards-five.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-five.jpg,qv-3.pagespeed.ic.WccGZqii7G.webp" src="images/xhome-cards-five.jpg%2Cqv-3.pagespeed.ic.WccGZqii7G.webp" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
+                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/home-cards-five.webp'); ?>" src="<?php echo asset('images/home-cards-five.webp'); ?>" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">Outsourcing: The Good,The Bad and The Honest Truth</h4>
@@ -564,8 +568,9 @@
                     <div class="card-image-primary banner-post">
                         <figure class="banner-post-img">
                             <picture>
-                                <source srcset="images/home-cards-six.webp" type="image/webp">
-                                <source srcset="images/home-cards-six.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-six.jpg,qv-3.pagespeed.ic.QxVKA118Hd.webp" src="images/xhome-cards-six.jpg%2Cqv-3.pagespeed.ic.QxVKA118Hd.webp" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
+                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/home-cards-six.webp'); ?>" src="<?php echo asset('images/home-cards-six.webp'); ?>" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
@@ -697,26 +702,30 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <picture>
-                                    <source srcset="images/gptw_1.webp" type="image/webp">
-                                    <source srcset="images/gptw.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xgptw.jpg,qv-1.pagespeed.ic.NTbGQMfle7.webp" src="images/xgptw.jpg%2Cqv-1.pagespeed.ic.NTbGQMfle7.webp" alt="Great Place to Work" title="Great Place to Work" class="lazy d-block w-100">
+                                    <source srcset="<?php echo asset('images/gptw_1.webp'); ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/gptw_1.webp'); ?>" type="image/jpeg">
+                                    <img data-src="<?php echo asset('images/gptw_1.webp'); ?>" src="<?php echo asset('images/gptw_1.webp'); ?>" alt="Great Place to Work" title="Great Place to Work" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item ">
                                 <picture>
-                                    <source srcset="images/abt-1.webp" type="image/webp">
-                                    <source srcset="images/abt-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" src="images/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="<?php echo asset('images/abt-1.webp'); ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/abt-1.webp'); ?>" type="image/jpeg">
+                                    <img data-src="<?php echo asset('images/abt-1.webp'); ?>" src="<?php echo asset('images/abt-1.webp'); ?>" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item">
                                 <picture>
-                                    <source srcset="images/abt-3.webp" type="image/webp">
-                                    <source srcset="images/abt-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/abt-3.jpg" src="images/abt-3.jpg" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/jpeg">
+                                    <img data-src="<?php echo asset('images/abt-3.webp'); ?>" src="images/abt-3.jpg" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item">
                                 <picture>
-                                    <source srcset="images/abt-4.webp" type="image/webp">
-                                    <source srcset="images/abt-4.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" src="images/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>images/abt-4.webp" type="image/webp">
+                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/jpeg">
+                                    <img data-src="<?php echo asset('images/abt-3.webp'); ?>" src="images/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                         </div>
@@ -775,19 +784,22 @@
                             <div class=" bg-white row flex-md-row-reverse gx-0">
                                 <div class="col-md-5 position-relative">
                                     <picture>
-                                        <source srcset="images/cs-1.webp" type="image/webp">
-                                        <source srcset="images/cs-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-1.jpg" src="images/cs-1.jpg" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
+                                        <source srcset="<?php echo asset('images/cs-1.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/cs-1.webp'); ?>">
+                                        <img data-src="<?php echo asset('images/cs-1.webp'); ?>" src="<?php echo asset('images/cs-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
-                                        <source srcset="images/cs-logo-1.webp" type="image/webp">
-                                        <source srcset="images/cs-logo-1.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" src="images/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo">
+                                        <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/png">
+                                        <img data-src="<?php echo asset('images/cs-logo-1.webp'); ?>" src="<?php echo asset('images/cs-logo-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo">
                                     </picture>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="boxed pt-lg-0">
                                         <picture>
-                                            <source srcset="images/cs-logo-1-new.webp" type="image/webp">
-                                            <source srcset="images/cs-logo-1-new.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" src="images/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" alt="reactjs" class="d-none d-lg-block">
+                                            <source srcset="<?php echo asset('images/cs-logo-1-new.webp'); ?>" type="image/webp">
+                                            <source srcset="<?php echo asset('images/cs-logo-1-new.webp'); ?>" type="image/jpeg">
+                                            <img data-src="<?php echo asset('images/cs-logo-1-new.webp'); ?>" src="<?php echo asset('images/cs-logo-1-new.webp'); ?>" alt=" reactjs" class="d-none d-lg-block">
                                         </picture>
                                         <p class="text-primary font-bold text-uppercase mb-2 mt-lg-2">E-COMMERCE</p>
                                         <h2 class="mb-2">Verizon Express Store</h2>
@@ -804,12 +816,14 @@
                             <div class=" bg-white row  gx-0">
                                 <div class="col-md-5 position-relative">
                                     <picture>
-                                        <source srcset="images/cs-2.webp" type="image/webp">
-                                        <source srcset="images/cs-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-2.jpg" src="images/cs-2.jpg" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" h-100 ob-cover">
+                                        <source srcset="<?php echo asset('images/cs-2.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/cs-2.webp'); ?>" type="image/jpeg">
+                                        <img data-src="<?php echo asset('images/cs-2.webp'); ?>" src="<?php echo asset('images/cs-2.webp'); ?>" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
-                                        <source srcset="images/cs-logo-2.webp" type="image/webp">
-                                        <source srcset="images/cs-logo-2.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" src="images/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" cs-logo">
+                                        <source srcset="<?php echo asset('images/cs-logo-2.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/cs-logo-2.webp'); ?>" type="image/png">
+                                        <img data-src="<?php echo asset('images/cs-logo-2.webp'); ?>" src="<?php echo asset('images/cs-logo-2.webp'); ?>" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" cs-logo">
                                     </picture>
                                 </div>
                                 <div class="col-md-7">
@@ -823,8 +837,9 @@
                                         </a>
                                         <div class="text-right d-none d-lg-block">
                                             <picture>
-                                                <source srcset="images/react-native-icon.webp" type="image/webp">
-                                                <source srcset="images/react-native-icon.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/react-native-icon.jpg" src="images/react-native-icon.jpg" alt="react native" class=" ">
+                                                <source srcset="<?php echo asset('images/react-native-icon.webp'); ?>" type="image/webp">
+                                                <source srcset="<?php echo asset('images/react-native-icon.webp'); ?>" type="image/jpeg">
+                                                <img data-src="<?php echo asset('images/react-native-icon.webp'); ?>" src="<?php echo asset('images/react-native-icon.webp'); ?>" alt="react native" class=" ">
                                             </picture>
                                         </div>
                                     </div>
@@ -837,20 +852,23 @@
                     <div class=" bg-white row flex-md-row-reverse flex-lg-column-reverse h-100 justify-content-between  gx-0">
                         <div class="col-md-5 col-lg-12 position-relative">
                             <picture>
-                                <source srcset="images/cs-3.webp" type="image/webp">
-                                <source srcset="images/cs-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-3.jpg" src="images/cs-3.jpg" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" h-100 ob-cover">
+                                <source srcset="<?php echo asset('images/cs-3.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/cs-3.webp'); ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/cs-3.webp'); ?>" src="<?php echo asset('images/cs-3.webp'); ?>" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" h-100 ob-cover">
                             </picture>
                             <picture>
-                                <source srcset="images/cs-logo-3.webp" type="image/webp">
-                                <source srcset="images/cs-logo-3.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-logo-3.png" src="images/cs-logo-3.png" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" cs-logo">
+                                <source srcset="<?php echo asset('images/cs-logo-3.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/cs-logo-3.webp'); ?>" type="image/png">
+                                <img data-src="<?php echo asset('images/cs-logo-3.webp'); ?>" src="<?php echo asset('images/cs-logo-3.webp'); ?>" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" cs-logo">
                             </picture>
                         </div>
                         <div class="col-md-7 col-lg-12">
                             <div class="boxed pt-lg-0">
                                 <div class="text-right mb-3 d-none d-lg-block">
                                     <picture>
-                                        <source srcset="images/node-icon.webp" type="image/webp">
-                                        <source srcset="images/node-icon.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xnode-icon.jpg,qv-4.pagespeed.ic._pI35Ah7y3.webp" src="images/xnode-icon.jpg%2Cqv-4.pagespeed.ic._pI35Ah7y3.webp" alt="nodejs">
+                                        <source srcset="<?php echo asset('images/node-icon.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/node-icon.webp'); ?>" type="image/jpeg">
+                                        <img data-src="<?php echo asset('images/node-icon.webp'); ?>" src="<?php echo asset('images/node-icon.webp'); ?>" alt="nodejs">
                                     </picture>
                                 </div>
                                 <p class="text-primary font-bold text-uppercase mb-2">Fintech</p>
@@ -940,8 +958,9 @@
     <section class="fortune-clients-section section-padding section-padding-bottom banner-post">
         <figure class="banner-post-img">
             <picture>
-                <source srcset="images/fortune-client-bg.webp" type="image/webp">
-                <source srcset="images/fortune-client-bg.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" src="images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
+                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/webp">
+                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/jpeg">
+                <img data-src="<?php echo asset('images/fortune-client-bg.webp'); ?>" src="<?php echo asset('images/fortune-client-bg.webp'); ?>" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
             </picture>
         </figure>
         <div class="container section-padding pt-0">
@@ -970,33 +989,38 @@
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-icon-1.webp" type="image/webp">
-                                    <source srcset="images/client-icon-1.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" src="images/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" alt="Franklin Templetion Investments" title="Franklin Templetion Investments" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-1.webp') ?>" src="<?php echo asset('images/client-icon-1.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-icon-2.webp" type="image/webp">
-                                    <source srcset="images/client-icon-2.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" src="images/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" alt="KPMG" title="KPMG" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-2.webp') ?>" src="<?php echo asset('images/client-icon-2.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-3.webp" type="image/webp">
-                                    <source srcset="images/client-icon-3.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" src="images/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" alt="Verizon" title="Verizon" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-3.webp') ?>" src="<?php echo asset('images/client-icon-3.webp') ?>" alt="Verizon" title="Verizon" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-4.webp" type="image/webp">
-                                    <source srcset="images/client-icon-4.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" src="images/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" alt="Academy sports+outdoors" title="Academy sports+outdoors" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-4.webp') ?>" src="<?php echo asset('images/client-icon-4.webp') ?>" class="lazy">
                                 </picture>
                             </div>
 
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-6.webp" type="image/webp">
-                                    <source srcset="images/client-icon-6.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-6.png" src="images/client-icon-6.png" alt="ups" title="ups" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-6.webp') ?>" src="<?php echo asset('images/client-icon-6.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -1008,38 +1032,44 @@
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-6.webp" type="image/webp">
-                                    <source srcset="images/client-6.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/client-6.png" src="images/client-6.png" alt="3m" title="3m" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/png">
+                                    <img src="<?php echo asset('images/client-6.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-5.webp" type="image/webp">
-                                    <source srcset="images/client-5.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/client-5.png" src="images/client-5.png" alt="Renault" title="Renault" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-5.webp') ?>" src="<?php echo asset('images/client-5.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-7.webp" type="image/webp">
-                                    <source srcset="images/client-icon-7.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" src="images/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" alt="Disney" title="Disney" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-7.webp') ?>" src="<?php echo asset('images/client-icon-7.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-8.webp" type="image/webp">
-                                    <source srcset="images/client-icon-8.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-8.png" src="images/client-icon-8.png" alt="Warner Bros" title="Warner Bros" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-8.webp') ?>" src="<?php echo asset('images/client-icon-8.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-9.webp" type="image/webp">
-                                    <source srcset="images/client-icon-9.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" src="images/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" alt="Scotch" title="Scotch" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-9.webp') ?>" src="<?php echo asset('images/client-icon-9.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-10.webp" type="image/webp">
-                                    <source srcset="images/client-icon-10.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-10.png" src="images/client-icon-10.png" alt="volkswagen" title="volkswagen" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-10.webp') ?>" src="images/client-icon-10.png" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -1051,38 +1081,45 @@
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-icon-11.webp" type="image/webp">
-                                    <source srcset="images/client-icon-11.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-11.png" src="images/client-icon-11.png" alt="Publicis Sapient" title="Publicis Sapient" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-11.webp') ?>" src="<?php echo asset('images/client-icon-11.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
-                                    <source srcset="images/client-icon-12.webp" type="image/webp">
-                                    <source srcset="images/client-icon-12.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" src="images/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" alt="Infosys" title="Infosys" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-12.webp') ?>" src="<?php echo asset('images/client-icon-12.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-13.webp" type="image/webp">
-                                    <source srcset="images/client-icon-13.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" src="images/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" alt="Bangkok bank" title="Bangkok bank" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-13.webp') ?>" src="<?php echo asset('images/client-icon-13.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-14.webp" type="image/webp">
-                                    <source srcset="images/client-icon-14.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-14.png" src="images/client-icon-14.png" alt="Shell" title="Shell" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-14.webp') ?>" src="<?php echo asset('images/client-icon-14.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-15.webp" type="image/webp">
-                                    <source srcset="images/client-icon-15.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-15.png" src="images/client-icon-15.png" alt="Swiggy" title="Swiggy" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/png">
+                                    <img data-src="<?php echo asset('images/client-icon-15.webp') ?>" src="<?php echo asset('images/client-icon-15.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
-                                    <source srcset="images/client-icon-16.webp" type="image/webp">
-                                    <source srcset="images/client-icon-16.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-16.png" src="images/client-icon-16.png" alt="Wipro" title="Wipro" class="lazy">
+                                    <source srcset="<?php echo asset('images/client-icon-16.webp') ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/client-icon-16.webp') ?>">
+                                    <img data-src="<?php echo asset('images/client-icon-16.webp') ?>" src="<?php echo asset('images/client-icon-16.webp') ?>" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -1114,8 +1151,9 @@
                     <div class="owl-carousel owl-theme home-slider-system">
                         <div class="item">
                             <picture>
-                                <source srcset="images/slider-6.webp" type="image/webp">
-                                <source srcset="images/slider-6.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/slider-6.jpg?v-2" src="images/slider-6.jpg" alt="AC Charge Controller" title="AC Charge Controller" class="lazy system-slider-img">
+                                <source srcset="<?php echo asset('images/slider-6.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/slider-6.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/slider-6.webp') ?>" src="<?php echo asset('images/slider-6.webp') ?>" alt="AC Charge Controller" title="AC Charge Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1126,8 +1164,8 @@
                         </div>
                         <div class="item">
                             <picture>
-                                <source srcset="images/dc-charge.webp" type="image/webp">
-                                <source srcset="images/dc-charge.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/dc-charge.jpg?v-2" src="images/dc-charge.jpg" alt="DC Fast Charger" title="DC Fast Charger" class="lazy system-slider-img">
+                                <source srcset="<?php echo asset('images/dc-charge.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/dc-charge.webp') ?>" type="image/jpeg"><img data-src="<?php echo asset('images/dc-charge.webp') ?>" src="<?php echo asset('images/dc-charge.webp') ?>" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1138,8 +1176,9 @@
                         </div>
                         <div class="item">
                             <picture>
-                                <source srcset="images/bms.webp" type="image/webp">
-                                <source srcset="images/bms.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/bms.jpg" src="images/bms.jpg" alt="Battery Management System - BMS" title="Battery Management System - BMS" class="lazy system-slider-img">
+                                <source srcset="<?php echo asset('images/bms.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/bms.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/bms.webp') ?>" src="images/bms.jpg" alt="Battery Management System - BMS" title="Battery Management System - BMS" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1150,8 +1189,9 @@
                         </div>
                         <div class="item">
                             <picture>
-                                <source srcset="images/motor-control.webp" type="image/webp">
-                                <source srcset="images/motor-control.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/motor-control.jpg" src="images/motor-control.jpg" alt="Motor Controller" title="Motor Controller" class="lazy system-slider-img">
+                                <source srcset="<?php echo asset('images/motor-control.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/motor-control.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/motor-control.webp') ?>" src="<?php echo asset('images/motor-control.webp') ?>" alt="Motor Controller" title="Motor Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1162,8 +1202,9 @@
                         </div>
                         <div class="item">
                             <picture>
-                                <source srcset="images/slider-3.webp" type="image/webp">
-                                <source srcset="images/slider-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" src="images/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" alt="CCS2 Controller" title="CCS2 Controller" class="lazy system-slider-img">
+                                <source srcset="<?php echo asset('images/slider-3.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/slider-3.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/slider-3.webp') ?>" src="<?php echo asset('images/slider-3.webp') ?>" alt="CCS2 Controller" title="CCS2 Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1197,8 +1238,9 @@
                     <div class="insight-box">
                         <div class="img-box">
                             <picture>
-                                <source srcset="images/insight-box-1.webp" type="image/webp">
-                                <source srcset="images/insight-box-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" src="images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" alt="White Paper" title="White Paper" class="lazy ob-cover ">
+                                <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/insight-box-1.webp') ?>" src="<?php echo asset('images/insight-box-1.webp') ?>" alt="White Paper" title="White Paper" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
@@ -1214,8 +1256,9 @@
                     <div class="insight-box">
                         <div class="img-box">
                             <picture>
-                                <source srcset="images/insight-box-2.webp" type="image/webp">
-                                <source srcset="images/insight-box-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" src="images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" alt="Case Study" title="Case Study" class="lazy ob-cover ">
+                                <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/jpeg">
+                                <img data-src="<?php echo asset('images/insight-box-2.webp') ?>" src="<?php echo asset('images/insight-box-2.webp') ?>" alt="Case Study" title="Case Study" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
@@ -1231,8 +1274,8 @@
                     <div class="insight-box">
                         <div class="img-box">
                             <picture>
-                                <source srcset="<?php echo asset('images/insight-box-3.webp');?>" type="image/webp">
-                                <source srcset="images/insight-box-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" src="images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" alt="Blogs" title="Blogs" class="lazy ob-cover ">
+                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/insight-box-3.webp'); ?>" src="<?php echo asset('images/insight-box-3.webp'); ?>" alt="Blogs" title="Blogs" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
@@ -1275,8 +1318,9 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
-                                        <source srcset="images/insight-slide-1.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="images/xinsight-slide-1.jpg%2Cqv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
+                                        <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/jpeg">
+                                        <img data-src="<?php echo asset('images/insight-slide-1.webp'); ?>" src="<?php echo asset('images/insight-slide-1.webp'); ?>" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1290,8 +1334,9 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
-                                        <source srcset="images/insight-slide-2.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="images/xinsight-slide-2.jpg%2Cqv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
+                                        <source srcset="<?php echo asset('images/insight-slide-2.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/insight-slide-2.webp'); ?>" type="image/jpeg">
+                                        <img data-src="<?php echo asset('images/insight-slide-2.webp'); ?>" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1305,8 +1350,9 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
-                                        <source srcset="images/insight-slide-3.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="images/xinsight-slide-3.jpg%2Cqv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
+                                        <source srcset="<?php echo asset('images/insight-slide-3.webp'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/insight-slide-3.webp'); ?>" type="image/jpeg">
+                                        <img data-src="<?php echo asset('images/insight-slide-3.webp'); ?>" src="<?php echo asset('images/insight-slide-3.webp'); ?>" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
