@@ -1,7 +1,7 @@
 <div class="footer-wrapper section-wrapper">
     <div class="footer-main section-padding bg-dark">
         <div class="container footer-bg">
-            <div class="row g-4 gy-lg-0 align-items-md-center">             
+            <div class="row g-4 gy-lg-0 align-items-md-center">
                 <div class="col-md-12 col-lg-3 d-lg-flex">
                     <div class="get-in-touch-block">
                         <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="https://www.kasinfotech.com/contactus" class="text-white">Get in Touch</a></h5>
@@ -11,8 +11,8 @@
                     <div class="get-in-touch-block">
                         <div class="icon-block">
                             <picture>
-                                <source srcset="<?php echo asset('images/call-yellow-icon.webp');?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/call-yellow-icon.png');?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" alt="KAS PVT LTDContact Number" title="KAS PVT LTDContact Number" class="lazy img-item">
+                                <source srcset="<?php echo asset('images/call-yellow-icon.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" alt="KAS PVT LTDContact Number" title="KAS PVT LTDContact Number" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
@@ -28,8 +28,8 @@
                     <div class="get-in-touch-block">
                         <div class="icon-block">
                             <picture>
-                                <source srcset="<?php echo asset('images/gmail-icon.webp');?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/gmail-icon.png');?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" alt="KAS PVT LTDBusiness Email" title="KAS PVT LTDBusiness Email" class="lazy img-item">
+                                <source srcset="<?php echo asset('images/gmail-icon.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" alt="KAS PVT LTDBusiness Email" title="KAS PVT LTDBusiness Email" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
@@ -229,151 +229,151 @@
         });
     })(jQuery);
     $(document).ready(function() {
-        var user_visit = "https://www.kasinfotech.com/";
-        var SCREEN_WIDTH = window.screen.width;
-        var RENDER_WIDTH = '';
-        var IS_WEBP = '';
+                var user_visit = "https://www.kasinfotech.com/";
+                var SCREEN_WIDTH = window.screen.width;
+                var RENDER_WIDTH = '';
+                var IS_WEBP = '';
 
-        function updateContainer(isfirst) {
-            var prev_width = RENDER_WIDTH;
-            SCREEN_WIDTH = window.screen.width;
-            if (SCREEN_WIDTH <= 768) {
-                RENDER_WIDTH = 768;
-            } else if (SCREEN_WIDTH <= 991) {
-                RENDER_WIDTH = 991;
-            } else {
-                RENDER_WIDTH = '';
-            }
-            if (isfirst || prev_width != RENDER_WIDTH) {
-                loadImage();
-            }
-        }
-
-        function WebpIsSupported(callback) {
-            if (!window.createImageBitmap) {
-                callback(false);
-                return;
-            }
-            var webpdata = 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=';
-            fetch(webpdata).then(function(response) {
-                return response.blob();
-            }).then(function(blob) {
-                createImageBitmap(blob).then(function() {
-                    callback(true);
-                }, function() {
-                    callback(false);
-                });
-            });
-        }
-        window.onload = function() {
-            updateContainer(true);
-        };
-        window.addEventListener('resize', function(event) {
-            updateContainer(false);
-        });
-
-        function loadImage() {
-            $(".background-image-holder").each(function() {
-                let that = this;
-                let dataSrc = $(this).children("img").attr("data-src");
-                let isResize = $(this).children("img").attr("is-resize");
-                let fileFormat = $(this).children("img").attr("img-type");
-                if (fileFormat) {
-                    fileFormat = "." + fileFormat;
-                } else {
-                    fileFormat = ".jpg";
+                function updateContainer(isfirst) {
+                    var prev_width = RENDER_WIDTH;
+                    SCREEN_WIDTH = window.screen.width;
+                    if (SCREEN_WIDTH <= 768) {
+                        RENDER_WIDTH = 768;
+                    } else if (SCREEN_WIDTH <= 991) {
+                        RENDER_WIDTH = 991;
+                    } else {
+                        RENDER_WIDTH = '';
+                    }
+                    if (isfirst || prev_width != RENDER_WIDTH) {
+                        loadImage();
+                    }
                 }
-                let imageUrl = dataSrc + ".jpg";
-                if (dataSrc) {
-                    WebpIsSupported(function(isSupported) {
-                        if (isSupported) {
-                            let imageType = "";
-                            if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
-                                imageType = "_" + RENDER_WIDTH;
-                            }
-                            let imageTypeResize = imageType + ".webp";
-                            imageUrl = dataSrc + imageTypeResize;
-                            $(that).children("img").attr("src", imageUrl);
-                            $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
-                        } else {
-                            let imageType = "";
-                            if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
-                                imageType = "_" + RENDER_WIDTH;
-                            }
-                            let imageTypeResize = imageType + fileFormat;
-                            imageUrl = dataSrc + imageTypeResize;
-                            $(that).children("img").attr("src", imageUrl);
-                            $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
-                        }
+
+                function WebpIsSupported(callback) {
+                    if (!window.createImageBitmap) {
+                        callback(false);
+                        return;
+                    }
+                    var webpdata = 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=';
+                    fetch(webpdata).then(function(response) {
+                        return response.blob();
+                    }).then(function(blob) {
+                        createImageBitmap(blob).then(function() {
+                            callback(true);
+                        }, function() {
+                            callback(false);
+                        });
                     });
                 }
-            })
-        }    
+                window.onload = function() {
+                    updateContainer(true);
+                };
+                window.addEventListener('resize', function(event) {
+                    updateContainer(false);
+                });
 
-    if ($('.nav-bar.nav--absolute').length > 0) {
-        var stickyOffset = $('.nav-bar.nav--absolute').offset().top;
-        $(window).scroll(function() {
-            var sticky = $('.nav-bar.nav--absolute'),
-                scroll = $(window).scrollTop();
-            if (scroll >= stickyOffset) sticky.addClass('fixed-menu');
-            else sticky.removeClass('fixed-menu');
-        });
-    }
-    var speed = 0;
-    var autoswitch = true;
-    var autoswitch_speed = 50000;
+                function loadImage() {
+                    $(".background-image-holder").each(function() {
+                        let that = this;
+                        let dataSrc = $(this).children("img").attr("data-src");
+                        let isResize = $(this).children("img").attr("is-resize");
+                        let fileFormat = $(this).children("img").attr("img-type");
+                        if (fileFormat) {
+                            fileFormat = "." + fileFormat;
+                        } else {
+                            fileFormat = ".jpg";
+                        }
+                        let imageUrl = dataSrc + ".jpg";
+                        if (dataSrc) {
+                            WebpIsSupported(function(isSupported) {
+                                if (isSupported) {
+                                    let imageType = "";
+                                    if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
+                                        imageType = "_" + RENDER_WIDTH;
+                                    }
+                                    let imageTypeResize = imageType + ".webp";
+                                    imageUrl = dataSrc + imageTypeResize;
+                                    $(that).children("img").attr("src", imageUrl);
+                                    $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
+                                } else {
+                                    let imageType = "";
+                                    if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
+                                        imageType = "_" + RENDER_WIDTH;
+                                    }
+                                    let imageTypeResize = imageType + fileFormat;
+                                    imageUrl = dataSrc + imageTypeResize;
+                                    $(that).children("img").attr("src", imageUrl);
+                                    $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
+                                }
+                            });
+                        }
+                    })
+                }
 
-    function caseStudySlider(slider) {
-        $("#" + slider + " .slide").first().addClass("active");
-        $("#" + slider + " .slide").hide;
-        $("#" + slider + " .slide.active").show();
-        $('#next' + slider).click(function(e) {
-            nextSlide(slider)
-        });
-        $('#prev' + slider).click(function(e) {
-            prevSlide(slider)
-        });
-        if (autoswitch == true) {
-            setInterval(function() {
-                nextSlide(slider);
-            }, autoswitch_speed);
-        }
-    }
+                if ($('.nav-bar.nav--absolute').length > 0) {
+                    var stickyOffset = $('.nav-bar.nav--absolute').offset().top;
+                    $(window).scroll(function() {
+                        var sticky = $('.nav-bar.nav--absolute'),
+                            scroll = $(window).scrollTop();
+                        if (scroll >= stickyOffset) sticky.addClass('fixed-menu');
+                        else sticky.removeClass('fixed-menu');
+                    });
+                }
+                var speed = 0;
+                var autoswitch = true;
+                var autoswitch_speed = 50000;
 
-    function nextSlide(slider) {
-        $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
-        if ($("#" + slider + ' .slide.oldActive').is(':last-child')) {
-            $("#" + slider + " .slide").first().addClass('active');
-        } else {
-            $("#" + slider + ' .slide.oldActive').next().addClass('active');
-        }
-        $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
-        $("#" + slider + " .slide").fadeOut(speed);
-        $("#" + slider + ' .slide.active').fadeIn(speed);
-    }
+                function caseStudySlider(slider) {
+                    $("#" + slider + " .slide").first().addClass("active");
+                    $("#" + slider + " .slide").hide;
+                    $("#" + slider + " .slide.active").show();
+                    $('#next' + slider).click(function(e) {
+                        nextSlide(slider)
+                    });
+                    $('#prev' + slider).click(function(e) {
+                        prevSlide(slider)
+                    });
+                    if (autoswitch == true) {
+                        setInterval(function() {
+                            nextSlide(slider);
+                        }, autoswitch_speed);
+                    }
+                }
 
-    function prevSlide(slider) {
-        $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
-        if ($("#" + slider + ' .slide.oldActive').is(':first-child')) {
-            $("#" + slider + " .slide").last().addClass('active');
-        } else {
-            $("#" + slider + ' .slide.oldActive').prev().addClass('active');
-        }
-        $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
-        $("#" + slider + " .slide").fadeOut(speed);
-        $("#" + slider + ' .slide.active').fadeIn(speed);
-    }
+                function nextSlide(slider) {
+                    $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
+                    if ($("#" + slider + ' .slide.oldActive').is(':last-child')) {
+                        $("#" + slider + " .slide").first().addClass('active');
+                    } else {
+                        $("#" + slider + ' .slide.oldActive').next().addClass('active');
+                    }
+                    $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
+                    $("#" + slider + " .slide").fadeOut(speed);
+                    $("#" + slider + ' .slide.active').fadeIn(speed);
+                }
 
-    function validateForm(e) {
-        var email = $(e).find('#email').val();
-        if (email === "") {
-            $(e).find('#email').addClass('error');
-            return false;
-        }
-    }
+                function prevSlide(slider) {
+                    $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
+                    if ($("#" + slider + ' .slide.oldActive').is(':first-child')) {
+                        $("#" + slider + " .slide").last().addClass('active');
+                    } else {
+                        $("#" + slider + ' .slide.oldActive').prev().addClass('active');
+                    }
+                    $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
+                    $("#" + slider + " .slide").fadeOut(speed);
+                    $("#" + slider + ' .slide.active').fadeIn(speed);
+                }
+
+                function validateForm(e) {
+                    var email = $(e).find('#email').val();
+                    if (email === "") {
+                        $(e).find('#email').addClass('error');
+                        return false;
+                    }
+                }
 </script>
 
-<script type="text/javascript">   
+<script type="text/javascript">
     var myModalEl1 = document.getElementById('homepageVideoModal')
     myModalEl1.addEventListener('hide.bs.modal', function(event) {
         $(myModalEl1).find(".js-video-src").attr("src", "")
