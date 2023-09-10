@@ -12,7 +12,11 @@ class MY_Controller extends CI_Controller
         if (session_status() == PHP_SESSION_NONE) {
             session_start();
         }
-        $this->pronero = Pronero::getInstance();       
+        $this->pronero = Pronero::getInstance();
+        $apiResult = $this->pronero->projectInfo();
+        if (empty($apiResult->data->id)) {
+            echo '<h1>' . $apiResult->message[0] . '<h1/>';exit;
+        }
     }
 
     function setModuleUrl($arg)

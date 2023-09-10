@@ -11,6 +11,8 @@
             parent::__construct();
             parent::setModuleUrl('home');
             $this->load->model('Home_model', 'oMainModel');
+
+            
         }
 
         function load_common_data($page_name)
