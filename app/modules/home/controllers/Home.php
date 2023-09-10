@@ -17,7 +17,7 @@
         {
             $cms = get_row('cms', array('page_name' => $page_name));
             if (empty($cms->page_title)) {
-                debug("There is no CMS page entry, please do entry for page name : " . $page_name);
+                // debug("There is no CMS page entry, please do entry for page name : " . $page_name);
             }
             $data['cms'] = $cms;
             $data['title'] = $cms->page_title;
@@ -42,8 +42,16 @@
 
         function cms($page_name)
         {
+
             $data = $this->load_common_data($page_name);
             load_home_view('cms', $data);
+        }
+
+        function page($page_name)
+        {
+
+            $data = $this->load_common_data($page_name);
+            load_home_view($page_name, $data);
         }
 
         function services($slug = '')
@@ -68,6 +76,7 @@
             $data = $this->load_common_data($view_name);
             load_home_view($view_name, $data);
         }
+
 
         function blog($slug = '')
         {
