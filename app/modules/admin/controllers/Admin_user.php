@@ -11,8 +11,7 @@ class Admin_user extends MY_Controller
         parent::__construct();
         checkAdminLogin();
         parent::setModuleUrl('admin_user');
-        $this->load->model('UserModel', 'oMainModel');
-        $this->spitechApi = new SpiTechApi(ENVIRONMENT);
+        $this->load->model('UserModel', 'oMainModel');       
     }
 
     function index()
@@ -76,7 +75,7 @@ class Admin_user extends MY_Controller
     function send_password()
     {
         if (!empty($_GET['email'])) {
-            $apiResponse = $this->spitechApi->sendPassword($_GET['email']);
+            $apiResponse = $this->pronero->sendPassword($_GET['email']);
             set_message($apiResponse->message[0]);
             redirect($this->moduleUrl);
         } else {

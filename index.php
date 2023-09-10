@@ -38,7 +38,7 @@ switch (ENVIRONMENT) {
         echo 'The application environment is not set correctly.';
         exit(1); // EXIT_ERROR
 }
-error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE & ~E_WARNING & E_DEPRECATED);
+error_reporting(E_ALL);
 /*
  * ---------------------------------------------------------------
  * SYSTEM DIRECTORY NAME
@@ -235,4 +235,7 @@ define('VIEWPATH', $view_folder . DIRECTORY_SEPARATOR);
  *
  * And away we go...
  */
+require_once APPPATH . 'libraries/pronero/Pronero.php';
+
 require_once BASEPATH . 'core/CodeIgniter.php';
+

@@ -4,7 +4,7 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 class MY_Controller extends CI_Controller
 {
 
-    public  $spitechApi;
+    public  $pronero;
     public  $moduleUrl = '', $moduleId = '0';
     function __construct()
     {
@@ -12,8 +12,7 @@ class MY_Controller extends CI_Controller
         if (session_status() == PHP_SESSION_NONE) {
             session_start();
         }
-        $this->spitechApi = new SpiTechApi();
-        //$this->load->model('MY_Model','oMyModel');
+        $this->pronero = Pronero::getInstance();       
     }
 
     function setModuleUrl($arg)

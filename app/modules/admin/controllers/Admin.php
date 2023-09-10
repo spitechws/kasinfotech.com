@@ -12,8 +12,8 @@ class Admin extends MY_Controller
     }
 
     function auth()
-    {       
-        $apiResponse = $this->spitechApi->getAuth('superadmin@pronero.in', 'Meta@190712');
+    {
+        $apiResponse = $this->pronero->login('superadmin@pronero.in', 'Meta@190712');
         debug($apiResponse);
     }
 
@@ -23,13 +23,12 @@ class Admin extends MY_Controller
             redirect(base_url() . 'admin_dashboard/');
         }
         if (isset($_POST['submitform'])) {
-            $lastId = $this->oMainModel->login();
-            if (is_object($lastId) && !empty($lastId)) {
-                $_SESSION['aUser'] = $lastId;
-                update_config(array('language' => $language));
-                redirect(base_url() . 'admin_dashboard/');
+            $response = $this->oMainModel->login();
+            if ($response['is_error'] == 0) {
+                $_SESSION['aUser'] = $response['msg'];              
+                redirect(base_url('admin_dashboard/'));
             } else {
-                set_message($lastId, 'e');
+                set_message($response['msg'], 'e');
                 redirect(admin_url());
             }
         }
@@ -50,7 +49,7 @@ class Admin extends MY_Controller
             redirect(base_url() . 'admin_dashboard/');
         }
         if (isset($_POST['submitform'])) {
-            $apiResponse = $this->spitechApi->sendPassword($_POST['email']);
+            $apiResponse = $this->pronero->sendPassword($_POST['email']);
             set_message($apiResponse->message[0]);
             redirect(admin_url());
         }

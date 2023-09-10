@@ -45,22 +45,28 @@ class UserModel extends MY_Model
         if ($this->form_validation->run() == TRUE) {
             $email = $this->input->post('email');
             $password = $this->input->post('password');
-            $apiResponse = $this->spitechApi->getAuth($email, $password);           
+            $apiResponse = $this->pronero->login($email, $password);
             if (!empty($apiResponse->data->id)) {
                 $row = get_row('user', array('email' => $email));
-                $lastId = $row;
+                if (!empty($row->email)) {
+                    $this->response['msg'] = $row;
+                } else {
+                    $this->response['is_error']=1;
+                    $this->response['msg']='User not exist in project';
+                }
             } else {
-                $lastId = $apiResponse->message[0];
+                $this->response['is_error']=1;
+                $this->response['msg'] = $apiResponse->message[0];
             }
         } else {
-            $lastId = validation_errors();
+            $this->response['is_error']=1;
+            $this->response['msg']= validation_errors();
         }
-        return $lastId;
+        return $this->response;
     }
 
     function change_password()
-    {
-        $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
+    {       
         $editId = $_SESSION['aUser']->user_id;
         $this->form_validation->set_rules('password', 'Old Password', 'required');
         $this->form_validation->set_rules('new_password', 'New Password', 'required');
@@ -72,7 +78,7 @@ class UserModel extends MY_Model
             parent::setTable('user');
             $row = parent::getRecord('email', array("user_id" => $editId));
             if (!empty($row)) {
-                $apiResponse = $this->spitechApi->changePassword($row->email, $password, $new_password, $re_password);
+                $apiResponse = $this->pronero->changePassword($row->email, $password, $new_password, $re_password);
                 if (empty($apiResponse->data->id)) {
                     $this->response['is_error'] = 1;
                 }
@@ -164,9 +170,9 @@ class UserModel extends MY_Model
             $_POST['rowId'] = $editId;
             if ($editId == 0) {
                 $password = $this->input->post('password', TRUE);
-                $apiResponse = $this->spitechApi->userAdd($email, $password);
+                $apiResponse = $this->pronero->register($email, $password);
             } else {
-                $apiResponse = $this->spitechApi->userUpdate($email, $status);
+                $apiResponse = $this->pronero->update($email, $status);
             }
             if (!empty($apiResponse->data->id)) {
                 $lastId = parent::save($this->tbl_name, $aInput, 'user_id');

@@ -76,7 +76,7 @@ class Admin_dashboard extends MY_Controller
             $response = $this->UserModel->change_password();
             if ($response['is_error'] == 0) {
                 set_message('Password Changed successfully');
-                redirect($this->moduleUrl . 'change_password/');
+                redirect(base_url('admin/logout'));
             } else {
                 set_message($response['msg'], 'e');
             }

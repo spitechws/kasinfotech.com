@@ -8,11 +8,11 @@ class MY_Model extends CI_Model {
     public $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
     public $tbl_name = '';
     private $aJoin = array(); // array("sTableName","sCondition","sType");
-    public $spitechApi;
+    public $pronero;
 
     function __construct() {
         parent::__construct();
-        $this->spitechApi = new SpiTechApi();
+        $this->pronero = Pronero::getInstance();
     }
 
     function setJoin($aJoinArray) {

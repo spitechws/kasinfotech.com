@@ -67,20 +67,12 @@
                         <div class="col-md-9 col-md-offset-3 error" id="errorMessages">
                         </div>
                     </div>
-                    <?php if (is_superadmin()) { ?>
-                        <div class="form-group">
-                            <div class="col-md-6 col-md-offset-3 text-red">
-                                Superadmin Password Change Not Allowed
-                            </div>
-                        </div>  
-                    <?php } else{ ?>
-                        <div class="form-group">
+                    <div class="form-group">
                             <div class="col-md-6 col-md-offset-3">
                                 <input type="hidden" name="submitform" id="submitform" value="submit">	
                                 <button type="button" onclick="formValidate('form1')" class="btn btn-primary btn-md">Save</button>
                             </div>
                         </div>
-                    <?php } ?>
                 </fieldset>
                 <?php echo form_close(); ?>		
             </div>
