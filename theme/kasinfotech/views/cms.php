@@ -5,7 +5,7 @@
             <div class="col-sm-12 d-flex justify-content-center">
                 <span>
                     <a href="javascript:void(0)" class="notification-close-cross" onclick="if (!window.__cfRLUnblockHandlers) return false; hideCookieNote()" data-cf-modified-591e8dac46237a91d428b1a4->
-                        <i class="icon icon-Close-Window fa fa-times f-4"></i></a>We use <a href="<?php echo base_url('privacy-policy#cookies-privacy')?>">cookies</a> to ensure that we give you the best experience on our website. If you're unsure about it, take a look at our <a href="https://www.kasinfotech.com/privacy-policy">privacy policy</a>.
+                        <i class="icon icon-Close-Window fa fa-times f-4"></i></a>We use <a href="<?php echo base_url('privacy-policy#cookies-privacy') ?>">cookies</a> to ensure that we give you the best experience on our website. If you're unsure about it, take a look at our <a href="https://www.kasinfotech.com/privacy-policy">privacy policy</a>.
                 </span>
             </div>
         </div>
@@ -1231,7 +1231,7 @@
                     <div class="insight-box">
                         <div class="img-box">
                             <picture>
-                                <source srcset="<?php echo asset('images/insight-box-3.webp');?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
                                 <source srcset="images/insight-box-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" src="images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" alt="Blogs" title="Blogs" class="lazy ob-cover ">
                             </picture>
                         </div>
