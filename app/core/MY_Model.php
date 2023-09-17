@@ -3,6 +3,8 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
+require_once APPPATH.'libraries/pronero/Pronero.php';
+    
 class MY_Model extends CI_Model {
 
     public $response = array('is_error' => '0', 'class' => 'text-success', 'msg' => '');
