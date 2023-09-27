@@ -139,7 +139,7 @@
                 <div class="service-box bg-primary5 shadow-custom-2x my-4 my-xl-5">
                     <p class="text-white text-xl mb-0 font-light">Schedule Your Interview:</p>
                     <div class="font-bold text-white h4 mail-id">
-                        <a href="mailto:career@bacancy.com">career@bacancy.com</a>
+                        <a href="mailto:<?php echo $career_email; ?>"><?php echo $career_email; ?></a>
                     </div>
                 </div>
                 <a href="https://www.bacancytechnology.com/careers" class="text-white text-underline text-18">See Current Openings</a>

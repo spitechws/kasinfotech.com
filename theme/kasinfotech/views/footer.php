@@ -34,7 +34,7 @@
                         </div>
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Email Us</p>
-                            <span class="h4 text-white-all"><a href="/cdn-cgi/l/email-protection#71021e1d0405181e1f0231131012101f12085f121e1c" class="mail-id"><span class="__cf_email__" data-cfemail="2f5c40435a5b4640415c6f4d4e4c4e414c56014c4042">[email protected]</span></a></span>
+                            <span class="h4 text-white-all"><a href="/cdn-cgi/l/email-protection#71021e1d0405181e1f0231131012101f12085f121e1c" class="mail-id"><span class="__cf_email__" data-cfemail="2f5c40435a5b4640415c6f4d4e4c4e414c56014c4042"><?php  echo $contact_email;?></span></a></span>
                         </div>
                     </div>
                 </div>

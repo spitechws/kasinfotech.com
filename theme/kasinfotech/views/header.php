@@ -1,6 +1,9 @@
 <?php
-$contact_email='solutions@kasinfotech.com';
-
+$contact_email = 'solutions@kasinfotech.com';
+$career_email = 'career@kasinfotech.com';
+$skype_id = 'alexei.karenin';
+$contact_number = '+91-6300873412';
+$whatsapp = '+91-7989532907';
 ?>
 <!DOCTYPE html>
 <html lang="en">

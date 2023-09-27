@@ -627,16 +627,7 @@
                                     Contact Us
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.bacancytechnology.com/sitemap" class="col footer-link-item text-sm">
-                                    Sitemap
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://sites.google.com/bacancy.com/bacancyintranetsite/home" class="col footer-link-item text-sm">
-                                    Employee
-                                </a>
-                            </li>
+                            
                         </ul>
                         <div class="row gy-4  flex-wrap mt-2 align-items-center">
                             <div class="col-6 col-md-auto mr-md-4 pr-md-4 footer-review-all pipe-dark">
