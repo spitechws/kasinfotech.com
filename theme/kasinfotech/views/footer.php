@@ -4,7 +4,7 @@
             <div class="row g-4 gy-lg-0 align-items-md-center">
                 <div class="col-md-12 col-lg-3 d-lg-flex">
                     <div class="get-in-touch-block">
-                        <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="<?php echo base_url();?>contactus" class="text-white">Get in Touch</a></h5>
+                        <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="<?php echo base_url(); ?>contactus" class="text-white">Get in Touch</a></h5>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 ">
@@ -19,7 +19,7 @@
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Contact Number</p>
                             <h4 class="h4 text-white">
-                                <a href="tel:<?php echo $contact_number;?>" class="text-white"><?php echo $contact_number;?></a>
+                                <a href="tel:<?php echo $contact_number; ?>" class="text-white"><?php echo $contact_number; ?></a>
 
                             </h4>
                         </div>
@@ -35,8 +35,8 @@
                         </div>
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Email Us</p>
-                            <span class="h4 text-white-all"><a href="mailto:<?php echo $contact_email;?>" class="mail-id">
-                            <span><?php  echo $contact_email;?></span></a></span>
+                            <span class="h4 text-white-all"><a href="mailto:<?php echo $contact_email; ?>" class="mail-id">
+                                    <span><?php echo $contact_email; ?></span></a></span>
                         </div>
                     </div>
                 </div>
@@ -47,56 +47,56 @@
                 <div class="col-lg-12 tabs text-center justify-content-center justify-content-lg-end">
                     <ul class="footer-link-row -primary KAS PVT LTD-rating-block justify-content-center justify-content-lg-start mt-0">
                         <li>
-                            <a href="<?php echo base_url();?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
+                            <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
                                 Brochure
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>quality-assurance-testing-services" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>quality-assurance-testing-services" class="col footer-link-item text-sm">
                                 Quality Assurance
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>resources/" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>resources/" class="col footer-link-item text-sm">
                                 Resources
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>tutorials/" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>tutorials/" class="col footer-link-item text-sm">
                                 Tutorials
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>testimonials" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>testimonials" class="col footer-link-item text-sm">
                                 Customer Reviews
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>investor-relations" rel="nofollow" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>investor-relations" rel="nofollow" class="col footer-link-item text-sm">
                                 Investor Relations
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>privacy-policy" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>privacy-policy" class="col footer-link-item text-sm">
                                 Privacy Policy
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>faqs" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>faqs" class="col footer-link-item text-sm">
                                 FAQs
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url();?>qanda" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url(); ?>qanda" class="col footer-link-item text-sm">
                                 QandA
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url('contact-us')?>" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url('contact-us') ?>" class="col footer-link-item text-sm">
                                 Contact Us
                             </a>
                         </li>
-                        
+
                     </ul>
 
                 </div>
@@ -187,153 +187,155 @@
             theme: "light",
         });
     })(jQuery);
+
     $(document).ready(function() {
-                var user_visit = "<?php echo base_url();?>";
-                var SCREEN_WIDTH = window.screen.width;
-                var RENDER_WIDTH = '';
-                var IS_WEBP = '';
+        var user_visit = "<?php echo base_url(); ?>";
+        var SCREEN_WIDTH = window.screen.width;
+        var RENDER_WIDTH = '';
+        var IS_WEBP = '';
 
-                function updateContainer(isfirst) {
-                    var prev_width = RENDER_WIDTH;
-                    SCREEN_WIDTH = window.screen.width;
-                    if (SCREEN_WIDTH <= 768) {
-                        RENDER_WIDTH = 768;
-                    } else if (SCREEN_WIDTH <= 991) {
-                        RENDER_WIDTH = 991;
-                    } else {
-                        RENDER_WIDTH = '';
-                    }
-                    if (isfirst || prev_width != RENDER_WIDTH) {
-                        loadImage();
-                    }
-                }
+        function updateContainer(isfirst) {
+            var prev_width = RENDER_WIDTH;
+            SCREEN_WIDTH = window.screen.width;
+            if (SCREEN_WIDTH <= 768) {
+                RENDER_WIDTH = 768;
+            } else if (SCREEN_WIDTH <= 991) {
+                RENDER_WIDTH = 991;
+            } else {
+                RENDER_WIDTH = '';
+            }
+            if (isfirst || prev_width != RENDER_WIDTH) {
+                loadImage();
+            }
+        }
 
-                function WebpIsSupported(callback) {
-                    if (!window.createImageBitmap) {
-                        callback(false);
-                        return;
-                    }
-                    var webpdata = 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=';
-                    fetch(webpdata).then(function(response) {
-                        return response.blob();
-                    }).then(function(blob) {
-                        createImageBitmap(blob).then(function() {
-                            callback(true);
-                        }, function() {
-                            callback(false);
-                        });
-                    });
-                }
-                window.onload = function() {
-                    updateContainer(true);
-                };
-                window.addEventListener('resize', function(event) {
-                    updateContainer(false);
+        function WebpIsSupported(callback) {
+            if (!window.createImageBitmap) {
+                callback(false);
+                return;
+            }
+            var webpdata = 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAEAAQAcJaQAA3AA/v3AgAA=';
+            fetch(webpdata).then(function(response) {
+                return response.blob();
+            }).then(function(blob) {
+                createImageBitmap(blob).then(function() {
+                    callback(true);
+                }, function() {
+                    callback(false);
                 });
+            });
+        }
+        window.onload = function() {
+            updateContainer(true);
+        };
+        window.addEventListener('resize', function(event) {
+            updateContainer(false);
+        });
 
-                function loadImage() {
-                    $(".background-image-holder").each(function() {
-                        let that = this;
-                        let dataSrc = $(this).children("img").attr("data-src");
-                        let isResize = $(this).children("img").attr("is-resize");
-                        let fileFormat = $(this).children("img").attr("img-type");
-                        if (fileFormat) {
-                            fileFormat = "." + fileFormat;
+        function loadImage() {
+            $(".background-image-holder").each(function() {
+                let that = this;
+                let dataSrc = $(this).children("img").attr("data-src");
+                let isResize = $(this).children("img").attr("is-resize");
+                let fileFormat = $(this).children("img").attr("img-type");
+                if (fileFormat) {
+                    fileFormat = "." + fileFormat;
+                } else {
+                    fileFormat = ".jpg";
+                }
+                let imageUrl = dataSrc + ".jpg";
+                if (dataSrc) {
+                    WebpIsSupported(function(isSupported) {
+                        if (isSupported) {
+                            let imageType = "";
+                            if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
+                                imageType = "_" + RENDER_WIDTH;
+                            }
+                            let imageTypeResize = imageType + ".webp";
+                            imageUrl = dataSrc + imageTypeResize;
+                            $(that).children("img").attr("src", imageUrl);
+                            $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
                         } else {
-                            fileFormat = ".jpg";
+                            let imageType = "";
+                            if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
+                                imageType = "_" + RENDER_WIDTH;
+                            }
+                            let imageTypeResize = imageType + fileFormat;
+                            imageUrl = dataSrc + imageTypeResize;
+                            $(that).children("img").attr("src", imageUrl);
+                            $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
                         }
-                        let imageUrl = dataSrc + ".jpg";
-                        if (dataSrc) {
-                            WebpIsSupported(function(isSupported) {
-                                if (isSupported) {
-                                    let imageType = "";
-                                    if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
-                                        imageType = "_" + RENDER_WIDTH;
-                                    }
-                                    let imageTypeResize = imageType + ".webp";
-                                    imageUrl = dataSrc + imageTypeResize;
-                                    $(that).children("img").attr("src", imageUrl);
-                                    $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
-                                } else {
-                                    let imageType = "";
-                                    if (isResize && RENDER_WIDTH && RENDER_WIDTH != '') {
-                                        imageType = "_" + RENDER_WIDTH;
-                                    }
-                                    let imageTypeResize = imageType + fileFormat;
-                                    imageUrl = dataSrc + imageTypeResize;
-                                    $(that).children("img").attr("src", imageUrl);
-                                    $(that).css("background", 'url("' + imageUrl + '")').css("background-position", "initial").css("opacity", "1");
-                                }
-                            });
-                        }
-                    })
-                }
-
-                if ($('.nav-bar.nav--absolute').length > 0) {
-                    var stickyOffset = $('.nav-bar.nav--absolute').offset().top;
-                    $(window).scroll(function() {
-                        var sticky = $('.nav-bar.nav--absolute'),
-                            scroll = $(window).scrollTop();
-                        if (scroll >= stickyOffset) sticky.addClass('fixed-menu');
-                        else sticky.removeClass('fixed-menu');
                     });
                 }
-                var speed = 0;
-                var autoswitch = true;
-                var autoswitch_speed = 50000;
+            })
+        }
 
-                function caseStudySlider(slider) {
-                    $("#" + slider + " .slide").first().addClass("active");
-                    $("#" + slider + " .slide").hide;
-                    $("#" + slider + " .slide.active").show();
-                    $('#next' + slider).click(function(e) {
-                        nextSlide(slider)
-                    });
-                    $('#prev' + slider).click(function(e) {
-                        prevSlide(slider)
-                    });
-                    if (autoswitch == true) {
-                        setInterval(function() {
-                            nextSlide(slider);
-                        }, autoswitch_speed);
-                    }
-                }
+        if ($('.nav-bar.nav--absolute').length > 0) {
+            var stickyOffset = $('.nav-bar.nav--absolute').offset().top;
+            $(window).scroll(function() {
+                var sticky = $('.nav-bar.nav--absolute'),
+                    scroll = $(window).scrollTop();
+                if (scroll >= stickyOffset) sticky.addClass('fixed-menu');
+                else sticky.removeClass('fixed-menu');
+            });
+        }
+        var speed = 0;
+        var autoswitch = true;
+        var autoswitch_speed = 50000;
 
-                function nextSlide(slider) {
-                    $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
-                    if ($("#" + slider + ' .slide.oldActive').is(':last-child')) {
-                        $("#" + slider + " .slide").first().addClass('active');
-                    } else {
-                        $("#" + slider + ' .slide.oldActive').next().addClass('active');
-                    }
-                    $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
-                    $("#" + slider + " .slide").fadeOut(speed);
-                    $("#" + slider + ' .slide.active').fadeIn(speed);
-                }
+        function caseStudySlider(slider) {
+            $("#" + slider + " .slide").first().addClass("active");
+            $("#" + slider + " .slide").hide;
+            $("#" + slider + " .slide.active").show();
+            $('#next' + slider).click(function(e) {
+                nextSlide(slider)
+            });
+            $('#prev' + slider).click(function(e) {
+                prevSlide(slider)
+            });
+            if (autoswitch == true) {
+                setInterval(function() {
+                    nextSlide(slider);
+                }, autoswitch_speed);
+            }
+        }
 
-                function prevSlide(slider) {
-                    $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
-                    if ($("#" + slider + ' .slide.oldActive').is(':first-child')) {
-                        $("#" + slider + " .slide").last().addClass('active');
-                    } else {
-                        $("#" + slider + ' .slide.oldActive').prev().addClass('active');
-                    }
-                    $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
-                    $("#" + slider + " .slide").fadeOut(speed);
-                    $("#" + slider + ' .slide.active').fadeIn(speed);
-                }
+        function nextSlide(slider) {
+            $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
+            if ($("#" + slider + ' .slide.oldActive').is(':last-child')) {
+                $("#" + slider + " .slide").first().addClass('active');
+            } else {
+                $("#" + slider + ' .slide.oldActive').next().addClass('active');
+            }
+            $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
+            $("#" + slider + " .slide").fadeOut(speed);
+            $("#" + slider + ' .slide.active').fadeIn(speed);
+        }
 
-                function validateForm(e) {
-                    var email = $(e).find('#email').val();
-                    if (email === "") {
-                        $(e).find('#email').addClass('error');
-                        return false;
-                    }
-                }
+        function prevSlide(slider) {
+            $("#" + slider + ' .slide.active').removeClass('active').addClass('oldActive');
+            if ($("#" + slider + ' .slide.oldActive').is(':first-child')) {
+                $("#" + slider + " .slide").last().addClass('active');
+            } else {
+                $("#" + slider + ' .slide.oldActive').prev().addClass('active');
+            }
+            $("#" + slider + ' .slide.oldActive').removeClass('oldActive');
+            $("#" + slider + " .slide").fadeOut(speed);
+            $("#" + slider + ' .slide.active').fadeIn(speed);
+        }
+
+        function validateForm(e) {
+            var email = $(e).find('#email').val();
+            if (email === "") {
+                $(e).find('#email').addClass('error');
+                return false;
+            }
+        }
+    });
 </script>
 
 <script type="text/javascript">
-    var myModalEl1 = document.getElementById('homepageVideoModal')
+    var myModalEl1 = document.getElementById('homepageVideoModal');
     myModalEl1.addEventListener('hide.bs.modal', function(event) {
         $(myModalEl1).find(".js-video-src").attr("src", "")
     });
@@ -398,46 +400,7 @@
         return new Promise(resolve => setTimeout(resolve, ms))
     }
 </script>
-<foreignobject>
-    <script src="assets/js/rocket-loader.min.js" data-cf-settings="591e8dac46237a91d428b1a4-|49" defer></script>
-</foreignobject>
-<script>
-    (function() {
-        var js = "window['__CF$cv$params']={r:'7fd2293ba8c7b914',t:'MTY5MzExNjcyNy44OTkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";
-        var _0xh = document.createElement('iframe');
-        _0xh.height = 1;
-        _0xh.width = 1;
-        _0xh.style.position = 'absolute';
-        _0xh.style.top = 0;
-        _0xh.style.left = 0;
-        _0xh.style.border = 'none';
-        _0xh.style.visibility = 'hidden';
-        document.body.appendChild(_0xh);
 
-        function handler() {
-            var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;
-            if (_0xi) {
-                var _0xj = _0xi.createElement('script');
-                _0xj.innerHTML = js;
-                _0xi.getElementsByTagName('head')[0].appendChild(_0xj);
-            }
-        }
-        if (document.readyState !== 'loading') {
-            handler();
-        } else if (window.addEventListener) {
-            document.addEventListener('DOMContentLoaded', handler);
-        } else {
-            var prev = document.onreadystatechange || function() {};
-            document.onreadystatechange = function(e) {
-                prev(e);
-                if (document.readyState !== 'loading') {
-                    document.onreadystatechange = prev;
-                    handler();
-                }
-            };
-        }
-    })();
-</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
 </body>
 
 </html>
