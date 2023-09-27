@@ -516,7 +516,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a>
                     <p class="h3 text-white suce-head mb-0">Your Success Is Guaranteed !</p>
                 </div>
             </div>
@@ -805,7 +805,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">Sure, you can hire Salesforce consultant from us to work
                                     according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know
-                                    more, get in touch with us at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."
+                                    more, get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "Bacancy."
                                 </p>
                             </div>
                         </div>

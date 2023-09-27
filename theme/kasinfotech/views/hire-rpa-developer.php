@@ -376,7 +376,7 @@
                                 <source srcset="https://www.bacancytechnology.com/main-boot-5/images/form-mail.webp" type="image/webp">
                                 <source srcset="https://www.bacancytechnology.com/main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="https://www.bacancytechnology.com/main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="Bacancy Mail" title="Bacancy Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </picture> <span class="border-bottom border-primary h1">
-                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                                <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -1050,7 +1050,7 @@
                                 However, the estimated cost of hiring an RPA developer might be affected for several
                                 reasons, like project complexity, resource scaling, project scope, additional
                                 working hours, etc. For precise estimation, you can view the pricing section or
-                                contact us at solutions@bacancy.com for a personalized quote.</p>
+                                contact us at <?php echo $contact_email;?> for a personalized quote.</p>
                         </div>
                     </div>
                 </div>

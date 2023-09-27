@@ -169,7 +169,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact shadow-custom text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">

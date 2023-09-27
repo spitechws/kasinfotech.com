@@ -390,7 +390,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center shadow-custom">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0"> We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -985,7 +985,7 @@
                             <a href="#a" itemprop="name">Will you work according to my time zone preference?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Definitely, you can hire dedicated remote developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more, get in touch with us at <b><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."</b></p>
+                            <p itemprop="text">Definitely, you can hire dedicated remote developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more, get in touch with us at <b><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "Bacancy."</b></p>
                         </div>
                     </div>
                 </div>

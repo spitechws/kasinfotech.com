@@ -507,7 +507,7 @@
                             </div>
                             <div class="right-content">
                                 <p class="text-dark-secondary text-md">Email Us</p>
-                                <span class="h4 text-white-all"><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a></span>
+                                <span class="h4 text-white-all"><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a></span>
                             </div>
                         </div>
                     </div>

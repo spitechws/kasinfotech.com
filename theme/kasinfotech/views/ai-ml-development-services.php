@@ -271,7 +271,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact shadow-custom text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital product and guaranteed
                         your success</p>
@@ -1175,7 +1175,7 @@
                             <a href="#a" itemprop="name" class="">Will you work according to my time zone preference?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Definitely yes. We will. Hire AI and ML Developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more get in touch with us at <strong><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype</strong> us at <strong>"Bacancy"</strong></p>
+                            <p itemprop="text">Definitely yes. We will. Hire AI and ML Developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more get in touch with us at <strong><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> OR Skype</strong> us at <strong>"Bacancy"</strong></p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
