@@ -94,7 +94,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -114,7 +114,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1">Services Our Machine Learning Engineers Offer </h2>
-                        <p>At Bacancy, we have the best machine learning developers, skilled and experienced in working with different industry verticals. <b>Hire Machine learning engineers</b> from us to develop innovative, creative, and futuristic solutions meeting your expectations.</p>
+                        <p>At KAS, we have the best machine learning developers, skilled and experienced in working with different industry verticals. <b>Hire Machine learning engineers</b> from us to develop innovative, creative, and futuristic solutions meeting your expectations.</p>
                     </div>
                     <div class="resp-btn overflow-hidden">
                         <a href="#technical-stack" class="btn btn-outline-primary text-uppercase mt-lg  ls-xs">Technical Stack</a>
@@ -257,7 +257,7 @@
                         <h2 class="section-title-text h1">
                             Hire Machine Learning Engineers to Build End-to-End ML Solutions
                         </h2>
-                        <p>At Bacancy, we have a team of dedicated, passionate, and best-suited ML developers with hands-on experience in using the latest tools and ML technologies. <i>Hire ML developer</i> from us to turn your idea into reality with the top-of-the-line solutions.</p>
+                        <p>At KAS, we have a team of dedicated, passionate, and best-suited ML developers with hands-on experience in using the latest tools and ML technologies. <i>Hire ML developer</i> from us to turn your idea into reality with the top-of-the-line solutions.</p>
                     </div>
                 </div>
             </div>
@@ -495,7 +495,7 @@
                     <div class="d-flex  justify-content-center mb-sm mt-lg text-white-all">
                         <picture>
                             <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="Bacancy Mail" title="Bacancy Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Mail" title="KAS Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture> <span class="border-bottom border-primary h1">
                             <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> </span>
                     </div>
@@ -899,8 +899,8 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire ML Developers from Bacancy?</h2>
-                        <p>At Bacancy, we have a team of highly skilled machine learning engineers proficiently using the ML &amp; DL tech stack for delivering Custom AI/ML automation solutions to all shapes and sizes of businesses. </p>
+                        <h2 class="section-title-text h1">Why Hire ML Developers from KAS?</h2>
+                        <p>At KAS, we have a team of highly skilled machine learning engineers proficiently using the ML &amp; DL tech stack for delivering Custom AI/ML automation solutions to all shapes and sizes of businesses. </p>
                         <p>Being a top-notch <a href="machine-learning-development" class="text-primary">ML development company</a>, we provide the best remote ML engineers following a seamless hiring process. Hire the best ML developers from us that fit your business goals and result in a more significant positive return on investment.</p>
                         <p>Say goodbye to your worries and find a top machine learning engineer on the go. Know why big brands love to hire freelance machine learning engineers from us:</p>
                     </div>
@@ -909,7 +909,7 @@
             <div class="col-lg-6 text-center">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" src="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" alt="Why Hire ML Developers from Bacancy?" title="Why Hire ML Developers from Bacancy?" class="ob-cover" data-pagespeed-url-hash="1303229949" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" src="<?php echo base_url();?>main-boot-5/images/hire-ml/side-3.jpg?v-1" alt="Why Hire ML Developers from KAS?" title="Why Hire ML Developers from KAS?" class="ob-cover" data-pagespeed-url-hash="1303229949" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1095,7 +1095,7 @@
                             <a href="#a" itemprop="name" class="">What type of services do your ML developers offer?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
-                            <p itemprop="text">The highly-skilled, experienced, and certified Machine learning developers at Bacancy possess the technical knowledge necessary for offering ML development services across a spectrum of industries, businesses, and applications. Hiring ML experts from us can help you with an existing project/ solution or will develop or customize an ML solution from scratch. Hire dedicated Machine Learning developers from bacancy, and they will start speaking your language, understanding your needs, and customizing product development using flexible engagement models.</p>
+                            <p itemprop="text">The highly-skilled, experienced, and certified Machine learning developers at KAS possess the technical knowledge necessary for offering ML development services across a spectrum of industries, businesses, and applications. Hiring ML experts from us can help you with an existing project/ solution or will develop or customize an ML solution from scratch. Hire dedicated Machine Learning developers from KAS, and they will start speaking your language, understanding your needs, and customizing product development using flexible engagement models.</p>
                         </div>
                     </div>
                     <div class="accordion-item bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1187,7 +1187,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -1204,7 +1204,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

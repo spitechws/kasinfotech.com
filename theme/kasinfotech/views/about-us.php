@@ -179,7 +179,7 @@
             </div>
             <div class="col-lg-5 mt-lg-2">
                 <p class="text-18">
-                    Each Bacancyer always believes in putting the customer first, above all else. Customer
+                    Each KASer always believes in putting the customer first, above all else. Customer
                     satisfaction is our highest priority.
                 </p>
             </div>
@@ -227,7 +227,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">Why Choose Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS?</h2>
                         <p class="text-center text-secondary h3 section-short-desc">
                             Strategically positioned to deliver outstanding user experiences to respond to the
                             ever-changing needs through emerging technologies.
@@ -288,7 +288,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">Why Choose Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS?</h2>
                         <p class="text-center text-secondary h3 section-short-desc">
                             Strategically positioned to deliver outstanding user experiences to respond to the
                             ever-changing needs through emerging technologies.
@@ -358,7 +358,7 @@
                         <h5 class="font-semibold">Read our <br> reviews on:</h5>
                     </li>
                     <li>
-                        <a href="https://www.google.com/search?q=bacancytechnology&amp;oq=bacancytechnology&amp;aqs=chrome..69i57j69i60l3j0l2.7015j1j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x395e9b596be1e50d:0x9b14edd4c5fa8634,1,,," target="_blank">
+                        <a href="https://www.google.com/search?q=KAStechnology&amp;oq=KAStechnology&amp;aqs=chrome..69i57j69i60l3j0l2.7015j1j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x395e9b596be1e50d:0x9b14edd4c5fa8634,1,,," target="_blank">
                             <picture>
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/google.webp" type="image/webp">
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/google.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xgoogle.png.pagespeed.ic.csvnAwcYy3.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xgoogle.png.pagespeed.ic.csvnAwcYy3.webp" alt="google-review" title="google-review" class="">
@@ -370,7 +370,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Technology-Reviews-E755927.htm" target="_blank">
+                        <a href="https://www.glassdoor.co.in/Reviews/KAS-Technology-Reviews-E755927.htm" target="_blank">
                             <picture>
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/glassdor.webp" type="image/webp">
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/glassdor.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xglassdor.png.pagespeed.ic.TNDwxcCsqJ.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xglassdor.png.pagespeed.ic.TNDwxcCsqJ.webp" alt="glassdoor-review" title="glassdoor-review" class="">
@@ -382,7 +382,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://clutch.co/profile/bacancy" target="_blank">
+                        <a href="https://clutch.co/profile/KAS" target="_blank">
                             <picture>
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/clutch.webp" type="image/webp">
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/clutch.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xclutch.png.pagespeed.ic.yEO8OIJkHU.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xclutch.png.pagespeed.ic.yEO8OIJkHU.webp" alt="clutch-review" title="clutch-review" class="">
@@ -394,7 +394,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
+                        <a href="https://www.goodfirms.co/companies/view/549/KAS-technology" target="_blank">
                             <picture>
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/firms.webp" type="image/webp">
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/firms.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xfirms.png.pagespeed.ic.JhLvgyD75a.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xfirms.png.pagespeed.ic.JhLvgyD75a.webp" alt="goodfirms-review" title="goodfirms-review" class="">
@@ -413,7 +413,7 @@
 <section class="abt-team section-padding pt-0">
     <picture>
         <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/team-img-1.webp" type="image/webp">
-        <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/team-img-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp" alt="Bacancy team" title="Bacancy team" class="w-100">
+        <source srcset="<?php echo base_url();?>main-boot-5/images/about-us/team-img-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp" src="<?php echo base_url();?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp" alt="KAS team" title="KAS team" class="w-100">
     </picture>
     <div class="container">
         <div class="row">
@@ -482,7 +482,7 @@
                                                         <div class="w-vulcan-overlays--center w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 100%;">
                                                             <div class="w-css-reset" style="height: 685px;">
                                                                 <div class="w-css-reset" data-handle="bigPlayButton" style="pointer-events: auto;">
-                                                                    <div class="w-bpb-wrapper w-css-reset w-css-reset-tree" style="border-radius: 0px; display: block; left: calc(50%); margin-left: -81.25px; margin-top: -52px; overflow: hidden; position: absolute; top: calc(50% - 0px);"><button class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" aria-label="Play Video: Bacancy New House" tabindex="0" style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;" fdprocessedid="m1bidl">
+                                                                    <div class="w-bpb-wrapper w-css-reset w-css-reset-tree" style="border-radius: 0px; display: block; left: calc(50%); margin-left: -81.25px; margin-top: -52px; overflow: hidden; position: absolute; top: calc(50% - 0px);"><button class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" aria-label="Play Video: KAS New House" tabindex="0" style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;" fdprocessedid="m1bidl">
                                                                             <div style="background: rgb(245, 130, 32); display: block; left: 0px; height: 104px; mix-blend-mode: darken; position: absolute; top: 0px; width: 162.5px;"></div>
                                                                             <div style="background-color: rgba(245, 130, 32, 0.7); height: 104px; left: 0px; position: absolute; top: 0px; transition: background-color 150ms ease 0s; width: 162.5px;"></div><svg x="0px" y="0px" viewBox="0 0 125 80" enable-background="new 0 0 125 80" aria-hidden="true" alt="" style="fill: rgb(255, 255, 255); height: 104px; left: 0px; stroke-width: 0px; top: 0px; width: 100%; position: absolute;">
                                                                                 <rect fill-rule="evenodd" clip-rule="evenodd" fill="none" width="125" height="80"></rect>
@@ -2053,7 +2053,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 m-0">Action <span class="text-primary">Speaks</span> Louder
                             than Words</h2>
-                        <p class="awards__banner-subtitle h3 pb-0">Bacancyers believes that bringing real results
+                        <p class="awards__banner-subtitle h3 pb-0">KASers believes that bringing real results
                             and making outsourcing experience successful is a
                             perfect way to get through the heart of customers.</p>
                         <p class="awards__banner-subtitle h3 pb-0">We have success stories in the form of client
@@ -2212,7 +2212,7 @@
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                                    <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                                    <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
                                             </div>
@@ -2229,7 +2229,7 @@
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
                                             </div>

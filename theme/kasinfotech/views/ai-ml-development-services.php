@@ -92,7 +92,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Partner With the Best AI ML Development Company</h2>
                         <p>We are a trusted and reliable AI ML company offering human-centered, outcomes-oriented, and pragmatic <b>AI and ML services</b> to all shapes and sizes of business. Our AI engineers and ML developers are skilled at identifying AI opportunities and eliminating barriers to creating futuristic, innovation-driven, more intelligent business solutions.</p>
-                        <p>At Bacancy, we leverage the latest tools and technologies to develop ML models of your choice. We help you create and deploy ML models and algorithms that help you make smarter decisions. Our AI ML services aim to empower our clients in navigating the disruption risks and become more resilient to the new normal. If you have an AI/ML project idea in mind, we can help you to turn it into reality.</p>
+                        <p>At KAS, we leverage the latest tools and technologies to develop ML models of your choice. We help you create and deploy ML models and algorithms that help you make smarter decisions. Our AI ML services aim to empower our clients in navigating the disruption risks and become more resilient to the new normal. If you have an AI/ML project idea in mind, we can help you to turn it into reality.</p>
                         <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs "><span>DISCUSS YOUR PROJECT IDEA WITH US</span></a>
                     </div>
                 </div>
@@ -142,7 +142,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>Bacancy provides top-notch quality Natural Language Processing services through cutting-edge AI tools. We help you extract, process, analyze, and understand structured data to fetch insightful information from it. NLP can help you in training chatbots, BI, analytics, and more.</p>
+                        <p>KAS provides top-notch quality Natural Language Processing services through cutting-edge AI tools. We help you extract, process, analyze, and understand structured data to fetch insightful information from it. NLP can help you in training chatbots, BI, analytics, and more.</p>
                     </div>
                 </div>
                 <div class="accordion-item accordian-tab  col-12">
@@ -152,7 +152,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>Deep Learning is a more sophisticated, advanced, and automated version of Machine Learning. This AI technology can dramatically increase the performance of forecasting, decision-making, and other essential operations. Bacancy utilizes the best practices of Deep Learning to build robust and scalable solutions.</p>
+                        <p>Deep Learning is a more sophisticated, advanced, and automated version of Machine Learning. This AI technology can dramatically increase the performance of forecasting, decision-making, and other essential operations. KAS utilizes the best practices of Deep Learning to build robust and scalable solutions.</p>
                     </div>
                 </div>
                 <div class="accordion-item accordian-tab  col-12">
@@ -192,7 +192,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>Developing AI and ML-powered mobile applications is a part of the AI and ML Services offering from Bacancy. We also integrate AI and ML into your existing mobile apps to enhance their performance, efficiency, personalization, and intelligence. </p>
+                        <p>Developing AI and ML-powered mobile applications is a part of the AI and ML Services offering from KAS. We also integrate AI and ML into your existing mobile apps to enhance their performance, efficiency, personalization, and intelligence. </p>
                     </div>
                 </div>
                 <div class="accordion-item accordian-tab  col-12">
@@ -202,7 +202,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>Bacancy offers custom video and image analysis tool development for computer vision and machine vision systems. Our team uses technologies such as OpenCV to optimize existing computer vision algorithms or create a new algorithm based on mathematical models. </p>
+                        <p>KAS offers custom video and image analysis tool development for computer vision and machine vision systems. Our team uses technologies such as OpenCV to optimize existing computer vision algorithms or create a new algorithm based on mathematical models. </p>
                     </div>
                 </div>
             </div>
@@ -903,8 +903,8 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Why Should You Hire Us as Our AI and ML Development Company?</h2>
-                        <p>An increasing number of companies have started to harness the power of AI and ML technologies. However, few can find the right Artificial Intelligence and Machine Learning development services that justifies their needs. Bacancy is a leading <i>AI ML company</i> with an acclaimed reputation for building innovative and data-driven solutions. </p>
-                        <p>With a team of highly skilled AI engineers and ML developers, Bacancy is offering AI and ML Services across the globe. Our AI &amp; ML services have empowered companies to automate processes, strengthen customer relationships, enhance productivity, experience agility, and enjoy high ROI. Also, our bespoke AI and ML Solutions ensure that our clients remain relevant and competitive in the ever-evolving market.</p>
+                        <p>An increasing number of companies have started to harness the power of AI and ML technologies. However, few can find the right Artificial Intelligence and Machine Learning development services that justifies their needs. KAS is a leading <i>AI ML company</i> with an acclaimed reputation for building innovative and data-driven solutions. </p>
+                        <p>With a team of highly skilled AI engineers and ML developers, KAS is offering AI and ML Services across the globe. Our AI &amp; ML services have empowered companies to automate processes, strengthen customer relationships, enhance productivity, experience agility, and enjoy high ROI. Also, our bespoke AI and ML Solutions ensure that our clients remain relevant and competitive in the ever-evolving market.</p>
                     </div>
                 </div>
                 <div class="row gy-4">
@@ -915,7 +915,7 @@
                         </picture>
                     </div>
                     <div class="col-lg-6">
-                        <h3 class="h5 font-bold mb-sm">Advantages of Partnering with Bacancy:</h3>
+                        <h3 class="h5 font-bold mb-sm">Advantages of Partnering with KAS:</h3>
                         <ul class="text-18 text-secondary style-check mb-lg row px-3">
                             <li>Agile methodology</li>
                             <li>Simple &amp; transparent pricing</li>
@@ -1159,7 +1159,7 @@
                             <a href="#a" itemprop="name" class="">What are your AI and ML developers' expertise and industry experience?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Well, we have incredibly talented and seasoned AI and ML developers who have in-depth knowledge and extensive experience in building the next-generation solution with desired features and seamless performance. AI and ML developers at Bacancy have an average experience of 4+ years. Hire experienced AI and ML developers from us for top-grade AI and ML development services to achieve desired business results.</p>
+                            <p itemprop="text">Well, we have incredibly talented and seasoned AI and ML developers who have in-depth knowledge and extensive experience in building the next-generation solution with desired features and seamless performance. AI and ML developers at KAS have an average experience of 4+ years. Hire experienced AI and ML developers from us for top-grade AI and ML development services to achieve desired business results.</p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1175,7 +1175,7 @@
                             <a href="#a" itemprop="name" class="">Will you work according to my time zone preference?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Definitely yes. We will. Hire AI and ML Developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more get in touch with us at <strong><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> OR Skype</strong> us at <strong>"Bacancy"</strong></p>
+                            <p itemprop="text">Definitely yes. We will. Hire AI and ML Developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more get in touch with us at <strong><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> OR Skype</strong> us at <strong>"KAS"</strong></p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1188,10 +1188,10 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name" class="">What are the hiring engagement options available at Bacancy?</a>
+                            <a href="#a" itemprop="name" class="">What are the hiring engagement options available at KAS?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">At Bacancy, we provide three types of hiring engagement models.</p>
+                            <p itemprop="text">At KAS, we provide three types of hiring engagement models.</p>
                             <strong>Dedicated Developer:-</strong>
                             <p>Monthly basis -160 Hours a Month. 8 hours a day, 5 days a week</p>
                             <strong>Hourly Basis: -</strong>
@@ -1205,7 +1205,7 @@
                             <a href="#a" itemprop="name" class="">What project management tools do you use to communicate with the hired AI and ML developers?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">At Bacancy, we use industry-standard project management tools like Jira, Trello, Pivotal Tracker, Asana, etc. Where you will be able to track the productivity of hired AI and ML developers and monitor the daily progress of your project. You can create the task, assign the work and follow the development progress.</p>
+                            <p itemprop="text">At KAS, we use industry-standard project management tools like Jira, Trello, Pivotal Tracker, Asana, etc. Where you will be able to track the productivity of hired AI and ML developers and monitor the daily progress of your project. You can create the task, assign the work and follow the development progress.</p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1221,7 +1221,7 @@
                             <a href="#a" itemprop="name" class="">What if I am not satisfied with your AI and ML developers and want to stop working with you guys, then?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">First of all, this will never happen. Client satisfaction is our highest priority. Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks of written notice to the other Party. Upon termination of this agreement, the Bacancy shall deliver a termination invoice for work completed to date, which shall be paid by the client (in 3 business days). The Termination invoice shall specify all unpaid work and the remaining amount of the work done till the termination date. On termination, all work completed to time shall be delivered to the client in a usable electronic format.</p>
+                            <p itemprop="text">First of all, this will never happen. Client satisfaction is our highest priority. Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks of written notice to the other Party. Upon termination of this agreement, the KAS shall deliver a termination invoice for work completed to date, which shall be paid by the client (in 3 business days). The Termination invoice shall specify all unpaid work and the remaining amount of the work done till the termination date. On termination, all work completed to time shall be delivered to the client in a usable electronic format.</p>
                         </div>
                     </div>
                 </div>
@@ -1273,7 +1273,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -1290,7 +1290,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

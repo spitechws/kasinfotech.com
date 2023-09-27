@@ -136,7 +136,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Hire RPA Engineers to Automate Repetitive Manual Tasks
                         </h2>
-                        <p>At Bacancy, we have a pool of skilled and experienced RPA developers who can easily
+                        <p>At KAS, we have a pool of skilled and experienced RPA developers who can easily
                             automate and integrate all your business processes. Our Robotic Process Automation
                             developers are well-versed in using innovative tools and practices that empower your
                             businesses to transform manual processes into automated digital processes.</p>
@@ -374,7 +374,7 @@
                         <div class="d-flex  justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
                                 <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp">
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="Bacancy Mail" title="Bacancy Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Mail" title="KAS Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </picture> <span class="border-bottom border-primary h1">
                                 <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> </span>
                         </div>
@@ -675,7 +675,7 @@
             <div class="col-12">
                 <div class="section-title-and-desc mb-0">
                     <div class="section-title-block">
-                        <h2 class="font-bold h1">Major Industries Hire RPA Engineers From Bacancy</h2>
+                        <h2 class="font-bold h1">Major Industries Hire RPA Engineers From KAS</h2>
                     </div>
                 </div>
             </div>
@@ -800,9 +800,9 @@
             <div class="col-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire RPA Developers from Bacancy?
+                        <h2 class="section-title-text h1">Why Hire RPA Developers from KAS?
                         </h2>
-                        <p>Bacancy is a leading RPA development company with a dedicated RPA development team
+                        <p>KAS is a leading RPA development company with a dedicated RPA development team
                             skilled in
                             developing custom software solutions that meet client needs. If you want to transform
                             your
@@ -815,7 +815,7 @@
             <div class="col-lg-6 text-center mt-0">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/rpa-developer/side-r-1.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/rpa-developer/side-r-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/rpa-developer/xside-r-1.png,qv-1.pagespeed.ic.UK7nvlrs_Y.webp" src="<?php echo base_url();?>main-boot-5/images/rpa-developer/xside-r-1.png,qv-1.pagespeed.ic.UK7nvlrs_Y.webp" alt="Why Hire RPA Developers from Bacancy?" title="Why Hire RPA Developers from Bacancy?" class="ob-cover" data-pagespeed-url-hash="4075652492" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/rpa-developer/side-r-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/rpa-developer/xside-r-1.png,qv-1.pagespeed.ic.UK7nvlrs_Y.webp" src="<?php echo base_url();?>main-boot-5/images/rpa-developer/xside-r-1.png,qv-1.pagespeed.ic.UK7nvlrs_Y.webp" alt="Why Hire RPA Developers from KAS?" title="Why Hire RPA Developers from KAS?" class="ob-cover" data-pagespeed-url-hash="4075652492" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1030,10 +1030,10 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Why is hiring RPA developers from Bacancy different?</a>
+                            <a href="#a" itemprop="name">Why is hiring RPA developers from KAS different?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Regardless of your company's size, Bacancy allows you to hire
+                            <p itemprop="text">Regardless of your company's size, KAS allows you to hire
                                 freelance RPA developer or teams per your requirements. When you hire the top
                                 freelance RPA developers from us, you save money on payroll, rental, or
                                 infrastructure costs. You also get superior work quality. Contact us today to hire a

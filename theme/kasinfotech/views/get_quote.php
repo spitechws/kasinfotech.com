@@ -130,7 +130,7 @@
             <div class="col-lg-6 section-paragraph">
                 <div class="section-title-and-desc  section-paragraph">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h3">At Bacancy, We Have Made it Easy for Clients to Reach Us and Get Their Solutions Weaved</h2>
+                        <h2 class="section-title-text h3">At KAS, We Have Made it Easy for Clients to Reach Us and Get Their Solutions Weaved</h2>
                     </div>
                 </div>
                 <ul class="style-check mb-2">
@@ -169,7 +169,7 @@
                         <picture>
                             <source srcset="<?php echo base_url();?>main-boot-5/images/call-yellow-icon.webp" type="image/webp">
                             <source srcset="<?php echo base_url();?>main-boot-5/images/call-yellow-icon.png?v-1" type="image/jpeg">
-                            <img data-src="<?php echo base_url();?>main-boot-5/images/xcall-yellow-icon.png,qv-1.pagespeed.ic.hbciBWjNYF.webp" src="<?php echo base_url();?>main-boot-5/images/xcall-yellow-icon.png,qv-1.pagespeed.ic.hbciBWjNYF.webp" alt="Bacancy Phone" title="Bacancy Phone" class="mr-3">
+                            <img data-src="<?php echo base_url();?>main-boot-5/images/xcall-yellow-icon.png,qv-1.pagespeed.ic.hbciBWjNYF.webp" src="<?php echo base_url();?>main-boot-5/images/xcall-yellow-icon.png,qv-1.pagespeed.ic.hbciBWjNYF.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
                         </picture>
                     </li>
                     <li class="mx-3 my-1 mb-4">
@@ -178,7 +178,7 @@
                                 <picture>
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/usa-flag-1-1.webp" type="image/webp">
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/usa-flag-1-1.png?v-1" type="image/jpeg">
-                                    <img src="<?php echo base_url();?>main-boot-5/images/xusa-flag-1-1.png,qv-1.pagespeed.ic.PFky43mOuV.webp" alt="Bacancy USA Phone" title="Bacancy USA Phone" class="mr-3">
+                                    <img src="<?php echo base_url();?>main-boot-5/images/xusa-flag-1-1.png,qv-1.pagespeed.ic.PFky43mOuV.webp" alt="KAS USA Phone" title="KAS USA Phone" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -191,7 +191,7 @@
                             <div class="col-lg-3 text-right">
                                 <picture>
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/canada-flag-1-1.webp" type="image/webp">
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/canada-flag-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xcanada-flag-1-1.png,qv-1.pagespeed.ic.XvL3Imr1I7.webp" src="<?php echo base_url();?>main-boot-5/images/xcanada-flag-1-1.png,qv-1.pagespeed.ic.XvL3Imr1I7.webp" alt="Bacancy Canada Phone" class="mr-3">
+                                    <source srcset="<?php echo base_url();?>main-boot-5/images/canada-flag-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xcanada-flag-1-1.png,qv-1.pagespeed.ic.XvL3Imr1I7.webp" src="<?php echo base_url();?>main-boot-5/images/xcanada-flag-1-1.png,qv-1.pagespeed.ic.XvL3Imr1I7.webp" alt="KAS Canada Phone" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -208,7 +208,7 @@
                             <div class="col-lg-3 text-right">
                                 <picture>
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/skype-1-1.webp" type="image/webp">
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/skype-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xskype-1-1.png,qv-1.pagespeed.ic.IBOTS-cKHn.webp" src="<?php echo base_url();?>main-boot-5/images/xskype-1-1.png,qv-1.pagespeed.ic.IBOTS-cKHn.webp" alt="Bacancy Skype" title="Bacancy Skype" class="mr-3">
+                                    <source srcset="<?php echo base_url();?>main-boot-5/images/skype-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xskype-1-1.png,qv-1.pagespeed.ic.IBOTS-cKHn.webp" src="<?php echo base_url();?>main-boot-5/images/xskype-1-1.png,qv-1.pagespeed.ic.IBOTS-cKHn.webp" alt="KAS Skype" title="KAS Skype" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -221,7 +221,7 @@
                             <div class="col-lg-3 text-right">
                                 <picture>
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.webp" type="image/webp">
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" alt="Bacancy Sales Mail" title="Bacancy Sales Mail" class="mr-3">
+                                    <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" alt="KAS Sales Mail" title="KAS Sales Mail" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -234,7 +234,7 @@
                             <div class="col-lg-3 text-right">
                                 <picture>
                                     <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.webp" type="image/webp">
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" alt="Bacancy Career Mail" title="Bacancy Career Mail" class="mr-3">
+                                    <source srcset="<?php echo base_url();?>main-boot-5/images/gmail-1-1.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" src="<?php echo base_url();?>main-boot-5/images/xgmail-1-1.png,qv-1.pagespeed.ic.VPtiobG6zO.webp" alt="KAS Career Mail" title="KAS Career Mail" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -386,7 +386,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -403,7 +403,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

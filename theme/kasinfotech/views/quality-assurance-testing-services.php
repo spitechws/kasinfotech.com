@@ -241,7 +241,7 @@
                         <h3 class="mb-lg">We ensure you're matched with the right talent based on your requirement.
                         </h3>
                         <p class="mb-lg text-18">Find the best software testing company in USA; when you choose to
-                            work with Bacancy, you will be assigned a dedicated technical project manager with full
+                            work with KAS, you will be assigned a dedicated technical project manager with full
                             transparency into your team's authenticated work histories and experience your projects'
                             advancement altogether.</p>
                     </div>
@@ -784,7 +784,7 @@
                                     <p class="text-primary font-bold text-uppercase mb-2">Health Care</p>
                                     <h2 class="mb-2">CallonDoc</h2>
                                     <p class="font-bold mb-2 text-18">Automation Tool - <span class="text-primary mb-2 text-18">Selenium + Java</span></p>
-                                    <p class="text-18">Bacancy has helped CallOnDoc to develop a health care website
+                                    <p class="text-18">KAS has helped CallOnDoc to develop a health care website
                                         with PHP, Angular, Laravel Framework and MySql database. We used a
                                         Data-driven framework with Selenium webdriver &amp; Java scripting language to
                                         automate the website.</p>
@@ -805,7 +805,7 @@
                                     <p class="text-primary font-bold text-uppercase mb-2">Dating App</p>
                                     <h2 class="mb-2">Dayo</h2>
                                     <p class="font-bold mb-2 text-18">Automation Tool - <span class="text-primary mb-2 text-18">Selenium + Java</span></p>
-                                    <p class="text-18">Bacancy has helped Dayo to develop a Dating App with Flutter
+                                    <p class="text-18">KAS has helped Dayo to develop a Dating App with Flutter
                                         and Node JS. We used POM based hybrid framework with Appium Java and made
                                         the application compatible with Android &amp; iOS. We also made changes
                                         according to user perspective, made the app bug free.</p>
@@ -828,7 +828,7 @@
                             <p class="text-primary font-bold text-uppercase mb-2">Real Estate Domain</p>
                             <h2 class="mb-2">Refined Data</h2>
                             <p class="font-bold mb-2 text-18">UI Automation Testing - <span class="text-primary mb-2 text-18">Selenium Webdriver + Java</span></p>
-                            <p class="text-18">Bacancy has helped Refined Data to develop an application on the Real
+                            <p class="text-18">KAS has helped Refined Data to develop an application on the Real
                                 Estate domain with AngularJS and Java. As Automation Testing, We have used a
                                 Data-driven approach with TestNG framework and fulfilled the automation with the
                                 Selenium WebDriver and Java. Also Implemented the CI/CD Implementation in the
@@ -869,7 +869,7 @@
                         <source srcset="<?php echo base_url();?>main-boot-5/images/qa-engineer-automation-ppc/sign-2.webp" type="image/webp">
                         <source srcset="<?php echo base_url();?>main-boot-5/images/qa-engineer-automation-ppc/sign-2.png?v-2" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRoYBAABXRUJQVlA4THkBAAAvLcAJEMegoG0bxqE+3ocG2rZtwyT/n5u2Uz0gBiLJoIH+pUQwGvwluEDNFkAAQfiBpgAGuKPFYKO1CcX7siVGPIEE2bbCtnkPZISIg4oiob//rYL033QFEf2fALy/CsS9QLmzif54CPrKDKltXOA/I3lJeiSbr5HMUPZIZrgbSd6KHklerk6SXwh7JJnhtTjcAltJ8nIVkvxCuJNkhvfi2AWd4+nKQ4JwGxZ4T45NcHGsrjQxQZncns6xwH9zTPDukyaok8MVJrfgM+mei+MC/80pvHXyFRyT7MqTbYtk/PlnL8pk+/mQcfuzBzrj71OcvPy14fKQq01uutcOoPm42nD5GDtQBdyGKuBqyAoeAHYFq+gDIEuiBQlPFRu1u6yIMhA1q+gDBI06A1m0/F+haHagakrTnMCpaRYUCwAsimCoijY0RQWQfBnT4ksAYMmTbGbJE2yApXfJ8GjpXbrxWMNTqHh9hBfV8NJayWQozeC09s1kKIdhCgA=" src="data:image/webp;base64,UklGRoYBAABXRUJQVlA4THkBAAAvLcAJEMegoG0bxqE+3ocG2rZtwyT/n5u2Uz0gBiLJoIH+pUQwGvwluEDNFkAAQfiBpgAGuKPFYKO1CcX7siVGPIEE2bbCtnkPZISIg4oiob//rYL033QFEf2fALy/CsS9QLmzif54CPrKDKltXOA/I3lJeiSbr5HMUPZIZrgbSd6KHklerk6SXwh7JJnhtTjcAltJ8nIVkvxCuJNkhvfi2AWd4+nKQ4JwGxZ4T45NcHGsrjQxQZncns6xwH9zTPDukyaok8MVJrfgM+mei+MC/80pvHXyFRyT7MqTbYtk/PlnL8pk+/mQcfuzBzrj71OcvPy14fKQq01uutcOoPm42nD5GDtQBdyGKuBqyAoeAHYFq+gDIEuiBQlPFRu1u6yIMhA1q+gDBI06A1m0/F+haHagakrTnMCpaRYUCwAsimCoijY0RQWQfBnT4ksAYMmTbGbJE2yApXfJ8GjpXbrxWMNTqHh9hBfV8NJayWQozeC09s1kKIdhCgA=" alt="We Deliver Globally" title="We Deliver Globally" class="mb-4" data-pagespeed-url-hash="1558667667" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <p>Bacancy has been our QA Testing Partner for many years and we consider them a key addition to
+                    <p>KAS has been our QA Testing Partner for many years and we consider them a key addition to
                         our product team. They have consistently proved themselves to be the best by setting up an
                         effortless testing process and delivering outstanding services</p>
                     <div class="row">
@@ -940,7 +940,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc ">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose Bacancy as a Software Testing Company</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS as a Software Testing Company</h2>
                         <p>Being a globally renowned automation <i>software testing company</i>, we deliver the
                             standard test types. Whether it's UI, functionality, performance, localization,
                             implementing complex test automation, or conducting security audits - we've got you
@@ -953,7 +953,7 @@
             <div class="col-lg-6">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/side-2.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/side-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/xside-2.jpg,qv-1.pagespeed.ic.xx9XJ9QVdk.webp" src="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/xside-2.jpg,qv-1.pagespeed.ic.xx9XJ9QVdk.webp" alt="Why Choose Bacancy as a Software Testing Company" title="Why Choose Bacancy as a Software Testing Company" class="ob-cover" data-pagespeed-url-hash="1594895965" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/side-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/xside-2.jpg,qv-1.pagespeed.ic.xx9XJ9QVdk.webp" src="<?php echo base_url();?>main-boot-5/images/quality-assurance-testing-services/xside-2.jpg,qv-1.pagespeed.ic.xx9XJ9QVdk.webp" alt="Why Choose KAS as a Software Testing Company" title="Why Choose KAS as a Software Testing Company" class="ob-cover" data-pagespeed-url-hash="1594895965" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1088,7 +1088,7 @@
                 <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item accordian-tab bg-graylight active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name" class="">Where is Bacancy based in? What is the
+                            <a href="#a" itemprop="name" class="">Where is KAS based in? What is the
                                 team-strength?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
@@ -1145,7 +1145,7 @@
                             <a href="#a" itemprop="name">What is your payment method after the engagement?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">We are a registered entity in the United States with the name Bacancy
+                            <p itemprop="text">We are a registered entity in the United States with the name KAS
                                 Technology LLC, so
                                 you can choose to pay us in a Bank of America account via ACH or wire transfer. We
                                 can also
@@ -1159,7 +1159,7 @@
                             <a href="#a" itemprop="name">What if I am not satisfied with the hired developer's work and would like to exit?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Be assured. That will never happen. Client satisfaction is our highest priority. Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks' written notice to the other Party. Upon termination of this agreement, Bacancy Technology shall deliver a termination invoice for work completed to date, which shall be paid by the client (in 3 business days).</p>
+                            <p itemprop="text">Be assured. That will never happen. Client satisfaction is our highest priority. Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks' written notice to the other Party. Upon termination of this agreement, KAS Technology shall deliver a termination invoice for work completed to date, which shall be paid by the client (in 3 business days).</p>
                             <p>The Termination invoice shall specify all unpaid work and the remaining work done until the termination date. On termination, all work completed to time shall be delivered to the client in a usable electronic format.</p>
                         </div>
                     </div>

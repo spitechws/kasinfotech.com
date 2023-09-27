@@ -97,7 +97,7 @@
                         <h2 class="section-title-text h1">Digital Workplace Services New Ways of Working During Covid-19 Crisis and Beyond</h2>
                     </div>
                 </div>
-                <p>Be it individuals or businesses; everyone is practicing social distancing to safeguard themselves from the unexpected outbreak. Whether you are a large-scale enterprise or SMB, everyone is clueless about operating and running the business successfully in this crisis. This is where Bacancy is assisting businesses around the world in adopting smarter business ways to work, set up their infrastructure virtually and bridge geographical boundaries bringing the next level of advancement in the workplace environment.</p>
+                <p>Be it individuals or businesses; everyone is practicing social distancing to safeguard themselves from the unexpected outbreak. Whether you are a large-scale enterprise or SMB, everyone is clueless about operating and running the business successfully in this crisis. This is where KAS is assisting businesses around the world in adopting smarter business ways to work, set up their infrastructure virtually and bridge geographical boundaries bringing the next level of advancement in the workplace environment.</p>
                 <p>We empower businesses to leverage remote workplace services by setting up a virtual environment and leveraging cloud and mobility solutions. It is not just limited to saving time and increases productivity but also reduces the cost of the overall execution of the business processes using easily accessible IT applications to go digital completely.</p>
             </div>
         </div>
@@ -173,7 +173,7 @@
                     <div class="section-title-block ">
                         <h2 class="section-title-text h1 mb-lg">Got A Project In Mind? Any Questions? We Are At Your Disposal</h2>
                         <h3 class="mb-lg text-white">We ensure you're matched with the right talent based on your requirement.</h3>
-                        <p class="text-18 ">When you work with Bacancy you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
+                        <p class="text-18 ">When you work with KAS you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
                     </div>
                 </div>
             </div>
@@ -330,7 +330,7 @@
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                                    <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                                    <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
                                             </div>
@@ -347,7 +347,7 @@
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
                                             </div>

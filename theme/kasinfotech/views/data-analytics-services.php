@@ -113,7 +113,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Data Analytics Services and Solutions</h2>
-                        <p>Data Analytics Exerts at Bacancy can help you harness the power of emerging technology to manage data, predictive analysis, and data migration services under one umbrella!</p>
+                        <p>Data Analytics Exerts at KAS can help you harness the power of emerging technology to manage data, predictive analysis, and data migration services under one umbrella!</p>
                         <div class="resp-btn">
                             <a href="#form" class="btn btn-primary text-uppercase mt-4 mt-md-0 ">Request a Free Consultation</a>
                         </div>
@@ -164,7 +164,7 @@
                     <div class="section-title-block ">
                         <h2 class="section-title-text h1 mb-lg">Got A Project In Mind? Any Questions? We Are At Your Disposal</h2>
                         <h3 class="mb-lg text-white">We ensure you're matched with the right talent based on your requirement.</h3>
-                        <p class="text-18 ">When you work with Bacancy you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
+                        <p class="text-18 ">When you work with KAS you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
                     </div>
                 </div>
             </div>
@@ -335,7 +335,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -352,7 +352,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

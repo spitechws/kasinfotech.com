@@ -113,7 +113,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item">

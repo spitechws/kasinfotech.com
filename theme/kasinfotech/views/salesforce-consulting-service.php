@@ -102,7 +102,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item"><a href="<?php echo base_url();?>technologies">Technology</a>
@@ -659,7 +659,7 @@
                         <div class="boxed">
                             <p class="text-primary font-bold text-uppercase mb-2">realestate</p>
                             <h2 class="mb-2">Real Estate Solution</h2>
-                            <p class="text-18">A Reputed Real Estate Service Provider in San Francisco chose Bacancy
+                            <p class="text-18">A Reputed Real Estate Service Provider in San Francisco chose KAS
                                 for their Salesforce project. Our SF developers provided solutions like a unique set
                                 of integrations and custom development addressed to varied requirements, maximized
                                 their CRM, and unlocked the full power of their investment from Salesforce features.
@@ -687,7 +687,7 @@
                         <div class="col-lg-7">
                             <p class="text-white">Being the most-trusted Salesforce consulting partner, we can help
                                 you achieve your business goals faster and get the most out of your Salesforce.com
-                                investment. At Bacancy, we hold a team of Salesforce consultants to help our
+                                investment. At KAS, we hold a team of Salesforce consultants to help our
                                 customers across different industry verticals. Improve customer acquisition,
                                 conversion, and retention by deploying the best Salesforce consulting team at your
                                 disposal.</p>
@@ -805,7 +805,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">Sure, you can hire Salesforce consultant from us to work
                                     according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know
-                                    more, get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "Bacancy."
+                                    more, get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "KAS."
                                 </p>
                             </div>
                         </div>
@@ -841,7 +841,7 @@
                                 <p itemprop="text">Be assured. That will never happen. Client satisfaction is our
                                     highest priority. Either Party to this agreement may terminate the contract,
                                     with or without cause, by providing at least 14 days (2) weeks written notice to
-                                    the other Party. Upon termination of this agreement, Bacancy shall deliver a
+                                    the other Party. Upon termination of this agreement, KAS shall deliver a
                                     termination invoice for work completed to date, which shall be paid by the
                                     client (in 3 business days). The Termination invoice shall specify all unpaid
                                     work and the remaining amount of the work done till the termination date. All
@@ -899,7 +899,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -916,7 +916,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

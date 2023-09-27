@@ -96,7 +96,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Customization &amp; Enhancement</h2>
-                        <p>A good product evolves gradually and keeps its end-users engaged forever. Software, mobile, desktop, and web applications – all needs to be enhanced as per the changing industry trends. If it failed at it, even the best product of its time will be thrown out of the competition by new innovative products. That’s why Bacancy puts its whole focus on keeping your world-class digital products engaging, well-functioning, secured, and updated. Our product enhancement services are fully-comprehensive and flexible.</p>
+                        <p>A good product evolves gradually and keeps its end-users engaged forever. Software, mobile, desktop, and web applications – all needs to be enhanced as per the changing industry trends. If it failed at it, even the best product of its time will be thrown out of the competition by new innovative products. That’s why KAS puts its whole focus on keeping your world-class digital products engaging, well-functioning, secured, and updated. Our product enhancement services are fully-comprehensive and flexible.</p>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Our Product Enhancement Services</h2>
-                        <p>Bacancy delivers its finest application enhancement services for Software applications, Android/iOS/Hybrid Mobile Applications, and Web Applications.</p>
+                        <p>KAS delivers its finest application enhancement services for Software applications, Android/iOS/Hybrid Mobile Applications, and Web Applications.</p>
                         <div class="resp-btn overflow-hidden mt-4 mb-lg-0">
                             <a href="#form" class="btn btn-primary text-uppercase">Request A Free Consultation</a>
                         </div>
@@ -170,7 +170,7 @@
     <figure class="banner-post-img">
         <picture>
             <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? Bacancy can help" title="Planning to bridge the physical and digital world with an IoT project? Bacancy can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? KAS can help" title="Planning to bridge the physical and digital world with an IoT project? KAS can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -250,7 +250,7 @@
                     </div>
                 </div>
                 <p>To retain your competitive edge with time and competition, it is required to perform application enhancement at regular intervals. Your software, mobile app, desktop app, or web app should always be aligned to serve current and future expectations of its users and potential users. With our full-featured services, there are a number of brands who are successful at it now.</p>
-                <p>Known for our innovative development and enhancement approach, Bacancy has enhanced, maintained, and supported hundreds of IT solutions for prominent brands. Our strategists and analysts understand your market, competitors, and end-users before making application enhancement strategy for your product. We’ve successfully revamped many products, and are doing the same every day. Bacancy can upgrade your IT solutions’ technologies, features, capabilities, scalability, performance, and interface.</p>
+                <p>Known for our innovative development and enhancement approach, KAS has enhanced, maintained, and supported hundreds of IT solutions for prominent brands. Our strategists and analysts understand your market, competitors, and end-users before making application enhancement strategy for your product. We’ve successfully revamped many products, and are doing the same every day. KAS can upgrade your IT solutions’ technologies, features, capabilities, scalability, performance, and interface.</p>
                 <p>Be it a small project or a large-scale enterprise application enhancement task, our developers and experts are well-equipped with best aids to deliver high-quality solutions for your requirements. Our software development, mobile development, and web development teams have the experience of working in collaboration with multiple diverse industries and hence, are capable of serving almost every industry.</p>
             </div>
         </div>
@@ -309,10 +309,10 @@
             <div class="col-lg-10 mx-auto text-center">
                 <div class="section-title-and-desc section-title-and-desc-two">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Bacancy's Commitment</h2>
+                        <h2 class="section-title-text h1">KAS's Commitment</h2>
                     </div>
                 </div>
-                <p>Our professionals keep it in mind to improve the quality and usability of your software, web, and mobile applications alongside performing what is required. With the help of Bacancy’s product enhancement services, you get another bright chance to capture your target market and gain the attention of your prospects.</p>
+                <p>Our professionals keep it in mind to improve the quality and usability of your software, web, and mobile applications alongside performing what is required. With the help of KAS’s product enhancement services, you get another bright chance to capture your target market and gain the attention of your prospects.</p>
             </div>
         </div>
         <div class="row gy-4 gy-lg-0">
@@ -360,7 +360,7 @@
                 <div class="section-title-and-desc section-title-and-desc-two">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Industries We Serve</h2>
-                        <p class="text-center text-secondary h3 section-short-desc">Bacancy is offering world-class services to businesses around the world. We help product owners to bring the best value in less time to build cost effective web solutions. As the most preferred agency, we hold a team of experienced developers capable of building robust app solutions for various industries, including:</p>
+                        <p class="text-center text-secondary h3 section-short-desc">KAS is offering world-class services to businesses around the world. We help product owners to bring the best value in less time to build cost effective web solutions. As the most preferred agency, we hold a team of experienced developers capable of building robust app solutions for various industries, including:</p>
                     </div>
                 </div>
             </div>
@@ -601,12 +601,12 @@
                                 <strong>T&amp;M:</strong>
                                 <p>The team and project manager define sprint task and estimate the efforts for the same, in conjunction with the client product manager. Based on task refinements, actual hours may vary.</p>
                                 <strong>T&amp;M Under Client Management:</strong>
-                                <p>Teams work allocation is under client project manager, whereas Admin and HR responsibility is with Bacancy. This is like the client’s center, with no infrastructure, licenses, and compliance management worries.</p>
+                                <p>Teams work allocation is under client project manager, whereas Admin and HR responsibility is with KAS. This is like the client’s center, with no infrastructure, licenses, and compliance management worries.</p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS based in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 8+ years.</p>
@@ -633,7 +633,7 @@
                                 <a href="#a" itemprop="name">Do you work according to my time zone preference?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                                <p itemprop="text">Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or skype "Bacancy.”</p>
+                                <p itemprop="text">Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or skype "KAS.”</p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -693,7 +693,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What is the cost and engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What is the cost and engagement options available at KAS?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We provide three types of hiring engagement models.</p>
@@ -800,7 +800,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -817,7 +817,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

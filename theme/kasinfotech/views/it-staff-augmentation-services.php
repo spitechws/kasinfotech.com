@@ -160,7 +160,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">IT Staff Augmentation</li>
@@ -770,7 +770,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose Information Technology Staff Augmentation Services with Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Choose Information Technology Staff Augmentation Services with KAS?</h2>
                     </div>
                 </div>
             </div>
@@ -779,7 +779,7 @@
             <div class="col-lg-6">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/it-staff/side-3.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/it-staff/side-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/it-staff/xside-3.jpg.pagespeed.ic.0_BgEyE0WW.webp" src="<?php echo base_url();?>main-boot-5/images/it-staff/xside-3.jpg.pagespeed.ic.0_BgEyE0WW.webp" alt="Information Technology Staff Augmentation Services with Bacancy" title="Information Technology Staff Augmentation Services with Bacancy" class="w-100" data-pagespeed-url-hash="3281240038" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/it-staff/side-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/it-staff/xside-3.jpg.pagespeed.ic.0_BgEyE0WW.webp" src="<?php echo base_url();?>main-boot-5/images/it-staff/xside-3.jpg.pagespeed.ic.0_BgEyE0WW.webp" alt="Information Technology Staff Augmentation Services with KAS" title="Information Technology Staff Augmentation Services with KAS" class="w-100" data-pagespeed-url-hash="3281240038" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -974,10 +974,10 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What kind of support can I expect from Bacancy?</a>
+                            <a href="#a" itemprop="name">What kind of support can I expect from KAS?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Bacancy assigns dedicated project managers to be a point of contact for any requirements.</p>
+                            <p itemprop="text">KAS assigns dedicated project managers to be a point of contact for any requirements.</p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -985,7 +985,7 @@
                             <a href="#a" itemprop="name">Will you work according to my time zone preference?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Definitely, you can hire dedicated remote developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more, get in touch with us at <b><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "Bacancy."</b></p>
+                            <p itemprop="text">Definitely, you can hire dedicated remote developers from us to work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more, get in touch with us at <b><a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or Skype "KAS."</b></p>
                         </div>
                     </div>
                 </div>

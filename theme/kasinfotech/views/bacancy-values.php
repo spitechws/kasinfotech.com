@@ -36,13 +36,13 @@
     </div>
 </header>
 <?php require_once('side-nav.php'); ?>
-<section class="header-spacing section-padding section-padding-md service-box-row service-box-row-without-cursor  bacancy-values-page awards__banner ">
+<section class="header-spacing section-padding section-padding-md service-box-row service-box-row-without-cursor  KAS-values-page awards__banner ">
     <div class="container">
         <div class="row justify-content-md-between">
             <div class="col-xl-5 col-md-6">
                 <div class="section-title-and-desc section-title-and-desc-two mb-md-0 side-sticky-section">
                     <div class="section-title-block ">
-                        <h1 class="section-title-text h1-xl m-0">Bacancy <span class="text-primary">Values</span></h1>
+                        <h1 class="section-title-text h1-xl m-0">KAS <span class="text-primary">Values</span></h1>
                         <p class="awards__banner-subtitle h3 ">You add value to your customer when you deliver a product or service (and the associated brand experience) that has been designed specifically to solve their problem.</p>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                     <div class="col-12 mt-md-0">
                         <div class="service-box box-color-1">
                             <h3 class="h5 font-bold mb-sm">Customer Satisfaction</h3>
-                            <p>Agile principles especially focus on customer satisfaction. At Bacancy, our highest priority is to satisfy the customers through continuous delivery.</p>
+                            <p>Agile principles especially focus on customer satisfaction. At KAS, our highest priority is to satisfy the customers through continuous delivery.</p>
                         </div>
                     </div>
                     <div class="col-12">
@@ -88,7 +88,7 @@
                     <div class="col-12">
                         <div class="service-box box-color-7">
                             <h3 class="h5 font-bold mb-sm">Think like a Product, Not as Tasks or Features</h3>
-                            <p>Each Bacancyer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build better software.</p>
+                            <p>Each KASer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build better software.</p>
                         </div>
                     </div>
                     <div class="col-12">
@@ -120,19 +120,19 @@
         </div>
     </div>
 </section>
-<section class="bg-primary section-padding-md service-box-row service-box-row-without-cursor section-paragraph bacancy-value-mail">
+<section class="bg-primary section-padding-md service-box-row service-box-row-without-cursor section-paragraph KAS-value-mail">
     <div class="container">
         <div class="row gy-4">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/bacancy-values/career-bacancy.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/bacancy-values/career-bacancy.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/bacancy-values/xcareer-bacancy.png.pagespeed.ic.gdttEDrGtJ.webp" src="<?php echo base_url();?>main-boot-5/images/bacancy-values/xcareer-bacancy.png.pagespeed.ic.gdttEDrGtJ.webp" alt="Career at Bacancy" title="Career at Bacancy" class="" data-pagespeed-url-hash="2659066835" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/KAS-values/career-KAS.webp" type="image/webp">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/KAS-values/career-KAS.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/KAS-values/xcareer-KAS.png.pagespeed.ic.gdttEDrGtJ.webp" src="<?php echo base_url();?>main-boot-5/images/KAS-values/xcareer-KAS.png.pagespeed.ic.gdttEDrGtJ.webp" alt="Career at KAS" title="Career at KAS" class="" data-pagespeed-url-hash="2659066835" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text text-white h1 ">Career at Bacancy</h2>
+                        <h2 class="section-title-text text-white h1 ">Career at KAS</h2>
                         <h3 class="text-white h3 section-short-desc">If you are passionate about your career, have creative flair and good craft skills, we want you!</h3>
                     </div>
                 </div>
@@ -165,11 +165,11 @@
                 <div class="boxed shadow-custom bg-white">
                     <picture>
                         <source srcset="<?php echo base_url();?>main-boot-5/images/agile-mindset/culture.webp" type="image/webp">
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/agile-mindset/culture.png" type="image/png"><img data-src="data:image/webp;base64,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" src="data:image/webp;base64,UklGRuQFAABXRUJQVlA4TNcFAAAvMUAMECYq0v+vn5u95PqoOGb67b7f73By7B/9d13cO2U4QSe2F4hctVXcBlxnbxBZ5vYezIw28azKh8gF0FYxg2Rmlp2eoIp7gSpyzKw6cXWdT2dvUGZ2tf8rlH4ltVpyJNmuFWE69mALW9Za63tPVZ+HmDkO2khy5OhA+Bz2pqtaAgAAZNvYtm3btm3btm3b3m3btu3XtpFtAjwRmKaUsqIwKmiRyWtahies5cDXl2RrkjKl+1IulaOUKaUrUqR4wkM2rcPej2arkT2gUoi3Fe9RP4j+pEKkOFlWJeUgHsJagwK4HBH0TyfJ5UoTjV4f7GMypH6KmOErgpe3xCg+yjjQwzdm2McNOzHYyWNRyaSWB4GyB9R/yYqjMRW5RMaRMZbYSN0S4mXZsL154rImThG/KWWHFBAiBTcIzVA7zAikcDp8yKWxL7utkm3hPeovWtIWERFSQirdMMM7du7ShI+Lifcp3dkMY7u/eDb1meIh6TUqpqIyiN+h680bj4YZPmMfBcYp6isp/MUIRcbugBsMewwzbNak2Mhz9xnBh6Io6Q91POfa/ecrTilWBEVswfgIbhhhLGIL6huadmWdu5+PoG2jMGP6o0hSP3MpRZEqvCN77tVXXxVekiUFlTZ76KjqzAdVSZGekf5ur6TU2KTJDXVuMeRKkDIYvw3LU9222aY/JEpWHMccMedj3hIjO15qOxTvt4ciIOmqjbR/MenNTtvwbycLaj8O7w8pF/4Sa+Xwox1kVZZBBTXO8NdiwnzFGU5WI6Tbdp/bFUWcpwLUd3Xb7jMrOlRVh/JRbsuwPWo+yhdWYjNqocJc9mUkO562E7Hf/Wz25W9b32tJyESxepTid1aSG2f4c75UqJEyR+iHHjPCNRihYaJoKg4PR8w2QgIt67E2e/g+xsQ3skQpsHgLWhBDZWeWsS6XL7ZobjzKbU5SL7svPGbblMIAHLL1c2yF+NgJyfyI46NPmFkcT96ShYsREtwKwGy5KQqnKobEFGp9dqqUfpe+vq+iPkk8tjbmJsM4IUpUyvhuvQyfGoxPRvZfuxQ+bzJSqBC7dmo3acFGUqIibXeQyTtsu0tNlvTvi/vdmTGAt4paoiyaMb7UiIOALURv3JIyZoSG5WgmhTm+Y/FvlzPn3kl9Xcn+V5LSeDb8tg3Y3mKno8s8XqntOCWj7PC1hge+uJyhGjMitu948ap6iXHzkqRilLKEDXNr0O1yRDBHwWuPkJXnpdRv6raJ76gs5LiV+CEq6f8miawBzDztRVS83EVSS0W8x3h08OdPx6b0hMxi3qqXkhLWX19Kqzq2oFBAgsoJX29BfTWs/9r+Ek0GLUORQzg+ZF/yBmTNIeCeyVpIi5JFpWlBb14v5b7NbOzUQj1mhPvPV9wj81SnfbH4IOzLyD6UEbT4OOjg5AhgWr1eX0vxd4C1QpHAIjFNDZ81vNVVPFcx/mCSWojaiTD8rWEcRB9KgQfAZWNfsWhxKEUSfq5K/ER78uOPCdcvDRfc6rstHkI6OrWA4t8OwuEP5x5C/bIFwwN8r5WPJrTO6UBffoTsSyNTEVbEeH9IAaapjPgO9VWyPRU4iaLqaKvjuU/FsHe08f0ze7eiPuq3j0LDDC/L+OMpNM9Ndjy5E52GiRr8+dMp5N1+k8KlnAuRy8XGsQb/y5LUtm3bNmNRBVmGUTMqFtLni6nPUSkj3pYCwGOu9VS6ocS3lexH0typU9edvE8zNPkjkJx7pVQWK4MH2c5kx3OdkAIV5cXMmtmnUS5voUgFjGIeUpjhk5bJMucQmj0XnKDrXpSeuxVsxgfB+FRNC3iruCVHzyVP2Xl+MeiJY19DGL3mGsb6J0zIJCVFxBzIo/5PX3G38FSQHOonKSD9LCkacRxjSO8eD93zx4qnpQTKS9kbKHp/bTgZnhZvnOFHdBPeil8UH0O2iaBQSiZ+EeJffP+0S6a4NX4knT83MvcDHZ3lVjtzxez790qM487HeiI1AA==" alt="Bacancy Cultures" title="Bacancy Cultures" class="mb-lg" data-pagespeed-url-hash="1743680598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                        <source srcset="<?php echo base_url();?>main-boot-5/images/agile-mindset/culture.png" type="image/png"><img data-src="data:image/webp;base64,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" src="data:image/webp;base64,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" alt="KAS Cultures" title="KAS Cultures" class="mb-lg" data-pagespeed-url-hash="1743680598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">Bacancy Cultures</h2>
+                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Cultures</h2>
                     <p class="small-heading" style="height: 90px;">Core Team will work as Scrum Team where Team will have quarterly goal to make sure that we run financial, administrative and project management prospective.</p>
-                    <a href="<?php echo base_url();?>bacancy-culture" class="text-primary font-bold">DISCOVER<span class="long-arrow-icon-css icon-item right mt-0 ml-2"></span></a>
+                    <a href="<?php echo base_url();?>KAS-culture" class="text-primary font-bold">DISCOVER<span class="long-arrow-icon-css icon-item right mt-0 ml-2"></span></a>
                 </div>
             </div>
         </div>
@@ -219,7 +219,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -236,7 +236,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

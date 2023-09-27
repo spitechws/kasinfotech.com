@@ -185,7 +185,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">SAP Services</h2>
-                        <p>Bacancy’s SAP consulting solutions and services are all that your business needs in the current challenging times of the market. Our certified SAP consultants assist you in alleviating your ERP system success by enabling swift and precise integration, migration, staffing, and support &amp; maintenance.</p>
+                        <p>KAS’s SAP consulting solutions and services are all that your business needs in the current challenging times of the market. Our certified SAP consultants assist you in alleviating your ERP system success by enabling swift and precise integration, migration, staffing, and support &amp; maintenance.</p>
                     </div>
                     <div class="resp-btn-two overflow-hidden">
                         <a href="#footer-form-id" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-5"><span>get quote</span></a>
@@ -195,7 +195,7 @@
             <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer-two">
                 <div class="service-box bg-white active m-0">
                     <h3 class="h5 font-bold mb-sm">SAP S/4HANA Implementation</h3>
-                    <p>We deliver end-to-end implementation services that help you transition seamlessly to SAP's intelligent ERP system. Bacancy’s elite SAP consultants work closely with you to understand your business requirements and develop a customized implementation plan that aligns with your business goals.</p>
+                    <p>We deliver end-to-end implementation services that help you transition seamlessly to SAP's intelligent ERP system. KAS’s elite SAP consultants work closely with you to understand your business requirements and develop a customized implementation plan that aligns with your business goals.</p>
                 </div>
                 <div class="service-box bg-white active">
                     <h3 class="h5 font-bold mb-sm">SAP Staffing</h3>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="service-box bg-white active">
                     <h3 class="h5 font-bold mb-sm">SAP Projects</h3>
-                    <p>Bacancy’s SAP Project Management services ensure that your SAP projects are completed on time, within budget, and to your satisfaction. We provide end-to-end project management, from planning and execution to monitoring and control.</p>
+                    <p>KAS’s SAP Project Management services ensure that your SAP projects are completed on time, within budget, and to your satisfaction. We provide end-to-end project management, from planning and execution to monitoring and control.</p>
                 </div>
                 <div class="service-box bg-white active">
                     <h3 class="h5 font-bold mb-sm">SAP Migration</h3>
@@ -224,7 +224,7 @@
                 <div class="section-title-and-desc m-0 ">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 m-0">Action <span class="text-primary">Speaks</span> Louder than Words</h2>
-                        <p class="awards__banner-subtitle h3 pb-0">Bacancyers believes that bringing real results and making outsourcing experience successful is a
+                        <p class="awards__banner-subtitle h3 pb-0">KASers believes that bringing real results and making outsourcing experience successful is a
                             perfect way to get through the heart of customers.</p>
                         <p class="awards__banner-subtitle h3 pb-0">We have success stories in the form of client testimonials across the world.</p>
                     </div>
@@ -339,7 +339,7 @@
     <figure class="banner-post-img">
         <picture>
             <source srcset="<?php echo base_url();?>main-boot-5/images/sap/services-bg.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/sap/services-bg.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/sap/xservices-bg.jpg,qv-1.pagespeed.ic.au6vYwTcW9.webp" src="<?php echo base_url();?>main-boot-5/images/sap/xservices-bg.jpg,qv-1.pagespeed.ic.au6vYwTcW9.webp" alt="Why choose Bacancy" title="Why choose Bacancy" data-pagespeed-url-hash="2481578918" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo base_url();?>main-boot-5/images/sap/services-bg.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/sap/xservices-bg.jpg,qv-1.pagespeed.ic.au6vYwTcW9.webp" src="<?php echo base_url();?>main-boot-5/images/sap/xservices-bg.jpg,qv-1.pagespeed.ic.au6vYwTcW9.webp" alt="Why choose KAS" title="Why choose KAS" data-pagespeed-url-hash="2481578918" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -347,7 +347,7 @@
             <div class="col-12">
                 <div class="section-title-and-desc section-title-and-desc-two mb-0">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why choose Bacancy</h2>
+                        <h2 class="section-title-text h1">Why choose KAS</h2>
                     </div>
                 </div>
             </div>
@@ -372,7 +372,7 @@
             <div class="col-md-6">
                 <div class="boxed bg-transparent-custom">
                     <h3 class="h5 font-bold mb-sm small-heading" style="height: 31.5px;">Hi-tech Development Center</h3>
-                    <p class="small-heading-two" style="height: 150px;">Bacancy is staffed by experienced professionals who are experts in their field. They have the skills and knowledge needed to help you get the most out of your SAP implementation. Whether you need help with installation, configuration, customization, or anything else, we've got you covered.</p>
+                    <p class="small-heading-two" style="height: 150px;">KAS is staffed by experienced professionals who are experts in their field. They have the skills and knowledge needed to help you get the most out of your SAP implementation. Whether you need help with installation, configuration, customization, or anything else, we've got you covered.</p>
                 </div>
             </div>
             <div class="col-12 text-center">
@@ -387,7 +387,7 @@
             <div class="col-12">
                 <div class="section-title-and-desc section-title-and-desc-two text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose Bacancy as Your SAP Consulting Partner</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS as Your SAP Consulting Partner</h2>
                     </div>
                 </div>
             </div>
@@ -518,7 +518,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -535,7 +535,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

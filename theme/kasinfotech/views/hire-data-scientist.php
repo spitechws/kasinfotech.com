@@ -94,7 +94,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -114,7 +114,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1">Services Our Data Scientists Offer </h2>
-                        <p>At Bacancy, We have a pool of data science engineers experienced in dealing with challenges posed by the Volume, Velocity, Variety, and Veracity of data. <b>Hire data scientists</b> to develop a strategy aligning with your business needs. </p>
+                        <p>At KAS, We have a pool of data science engineers experienced in dealing with challenges posed by the Volume, Velocity, Variety, and Veracity of data. <b>Hire data scientists</b> to develop a strategy aligning with your business needs. </p>
                     </div>
                     <div class="resp-btn overflow-hidden">
                         <a href="#technical-stack" class="btn btn-outline-primary text-uppercase mt-lg  ls-xs">TECHNICAL STACK</a>
@@ -235,7 +235,7 @@
                 <div class="section-title-and-desc section-title-and-desc-two text-center">
                     <div class="section-title-block ">
                         <h2 class="section-title-text h1">Hire Data Scientist for Additional Data Science Services</h2>
-                        <p>Responsibility, Authenticity, and Accountability are the three virtues practiced by every data scientist at Bacancy. Hire Data Science developer with an expanded skill set and leverage our additional data science services. </p>
+                        <p>Responsibility, Authenticity, and Accountability are the three virtues practiced by every data scientist at KAS. Hire Data Science developer with an expanded skill set and leverage our additional data science services. </p>
                     </div>
                 </div>
             </div>
@@ -521,7 +521,7 @@
                     <div class="d-flex  justify-content-center mb-sm mt-lg text-white-all">
                         <picture>
                             <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="Bacancy Mail" title="Bacancy Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Mail" title="KAS Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture> <span class="border-bottom border-primary h1">
                             <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> </span>
                     </div>
@@ -864,8 +864,8 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire Data Scientist from Bacancy?</h2>
-                        <p>We at bacancy have a team of the best data scientist for hire specifically trained in interconnected technologies and data management. With experience and passion, our <a href="<?php echo base_url();?>data-science-consulting-services" class="text-primary">data science consultants</a> have acquired invaluable skills in data science and data science-related architecture. </p>
+                        <h2 class="section-title-text h1">Why Hire Data Scientist from KAS?</h2>
+                        <p>We at KAS have a team of the best data scientist for hire specifically trained in interconnected technologies and data management. With experience and passion, our <a href="<?php echo base_url();?>data-science-consulting-services" class="text-primary">data science consultants</a> have acquired invaluable skills in data science and data science-related architecture. </p>
                         <p>If you are concerned about where to hire freelance data scientists/offshore data scientists, you are at the right place. We let you <i>hire data science developer</i> or team from us who all have faced a rigorous interview process and proved their core competencies to solve the toughest data challenges for you.</p>
                     </div>
                 </div>
@@ -875,11 +875,11 @@
             <div class="col-lg-6">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/data-scientist/side-4.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/data-scientist/side-4.jpg?v-2" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp" src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp" alt="Why Hire Data Scientist from Bacancy?" title="Why Hire Data Scientist from Bacancy?" class="ob-cover" data-pagespeed-url-hash="2682180000" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/data-scientist/side-4.jpg?v-2" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp" src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp" alt="Why Hire Data Scientist from KAS?" title="Why Hire Data Scientist from KAS?" class="ob-cover" data-pagespeed-url-hash="2682180000" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6 d-lg-flex align-items-lg-start flex-column justify-content-lg-center">
-                <h3 class="h5 font-bold mb-sm">Benefits of Hiring Data Scientists From Bacancy: </h3>
+                <h3 class="h5 font-bold mb-sm">Benefits of Hiring Data Scientists From KAS: </h3>
                 <ul class="text-18 text-secondary style-check mb-lg row px-3">
                     <li>On-Time Delivery</li>
                     <li>Transparency and Integrity</li>
@@ -1058,7 +1058,7 @@
                     <div class="accordion-item  bg-graylight accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
                             <a href="#a" itemprop="name" class="">
-                                How do I find top data science developers from Bacancy?
+                                How do I find top data science developers from KAS?
                             </a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
@@ -1070,20 +1070,20 @@
                             <a href="#a" itemprop="name">How do I hire offshore data scientists? </a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Hiring a first data scientist is infinitely more challenging compared to hiring a software developer. It is better to reach out to an offshore development company like Bacancy having a pool of talented and experienced data scientists. Bacancy first analyzes your requirements and provides you with the most suitable candidates suiting your exact requirements or business needs.</p>
+                            <p itemprop="text">Hiring a first data scientist is infinitely more challenging compared to hiring a software developer. It is better to reach out to an offshore development company like KAS having a pool of talented and experienced data scientists. KAS first analyzes your requirements and provides you with the most suitable candidates suiting your exact requirements or business needs.</p>
                         </div>
                     </div>
                     <div class="accordion-item  bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">I am looking to hire a data scientist; can I screen Bacancy candidates before placing my requirement?</a>
+                            <a href="#a" itemprop="name">I am looking to hire a data scientist; can I screen KAS candidates before placing my requirement?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Yes! At Bacancy the process to hire the best data scientists begins long before the interview process. We have a systematic approach in place so you can properly identify potentially skilled candidates and streamline the hiring process only after the initial screening of profiles.</p>
+                            <p itemprop="text">Yes! At KAS the process to hire the best data scientists begins long before the interview process. We have a systematic approach in place so you can properly identify potentially skilled candidates and streamline the hiring process only after the initial screening of profiles.</p>
                         </div>
                     </div>
                     <div class="accordion-item  bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Is there a limit on how many data scientists I can hire from Bacancy?</a>
+                            <a href="#a" itemprop="name">Is there a limit on how many data scientists I can hire from KAS?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">No! We have different engagement models allowing you to hire as low as single data scientists and as high as a team of data scientists as per your requirement.</p>
@@ -1099,7 +1099,7 @@
                     </div>
                     <div class="accordion-item  bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What are the technologies used by data scientists at Bacancy?</a>
+                            <a href="#a" itemprop="name">What are the technologies used by data scientists at KAS?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">We have certified and skilled data scientists holding expertise in different programming languages, frameworks, databases, libraries, and tools. For more information, you can view the entire technology stack presented above.</p>

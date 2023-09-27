@@ -29,7 +29,7 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl lh-normal text-white">Web Development Services</h1>
-                        <p class="text-xxl text-white mb-lg">At Bacancy, we specialize in creating strategic
+                        <p class="text-xxl text-white mb-lg">At KAS, we specialize in creating strategic
                             roadmaps for businesses around the world, helping them turn their innovative ideas into
                             reality on the web. Our result-oriented web development services cater to enterprises,
                             mid-sized companies, and startups alike, aligning with their unique visions to create
@@ -99,7 +99,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Collaborate with the Best Web Development Company for Your
                             Project</h2>
-                        <p>Bacancy is a top web development agency that creates secure, scalable and robust products
+                        <p>KAS is a top web development agency that creates secure, scalable and robust products
                             as per your enterprise's needs. We deliver custom-ready web solutions to build
                             profitable digital products engineered to spark innovation and boost your ROI.</p>
                     </div>
@@ -208,7 +208,7 @@
             <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer">
                 <div class="service-box bg-white m-0">
                     <h3 class="h5 font-bold mb-sm">Full-stack Web Design and Development</h3>
-                    <p>Bacancy is a leading web development company with a pool of highly experienced and talented
+                    <p>KAS is a leading web development company with a pool of highly experienced and talented
                         engineers to help clients witness full-cycle, end-to-end product development. Be it front
                         end or back end, our team of experts specializes in working with the most popular tech
                         stacks: MERN, MEAN, Django, Ruby on Rails, and LAMP.</p>
@@ -246,7 +246,7 @@
                     <h3 class="h5 font-bold mb-sm">After Delivery Support</h3>
                     <p>With our 24/7 consistent and real-time managed IT services in sync with your project
                         requirements, our ultimate goal is to ensure that your business processes operate
-                        efficiently. Bacancy’s IT Support and Maintenance services are designed to improve customer
+                        efficiently. KAS’s IT Support and Maintenance services are designed to improve customer
                         satisfaction, speed up backlog implementation, and reduce operational costs.</p>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                                                 <p class="text-primary  text-uppercase mb-0">FOOD DELIVERY</p>
                                                 <h3 class="h2 text-white font-bold">Swiggy CRM</h3>
                                                 <div class="boxed bg-white mt-sm">
-                                                    <p>Bacancy designed a chat and voice platform that helps Swiggy customers to
+                                                    <p>KAS designed a chat and voice platform that helps Swiggy customers to
                                                         satisfy their queries fully by selecting agents based on the location
                                                         and language of the customer. Also, We solved the technical problem in
                                                         one service, which acts as middleware.</p>
@@ -1045,7 +1045,7 @@
                                                 <p class="text-primary  text-uppercase mb-0">FOOD DELIVERY</p>
                                                 <h3 class="h2 text-white font-bold">Swiggy CRM</h3>
                                                 <div class="boxed bg-white mt-sm">
-                                                    <p>Bacancy designed a chat and voice platform that helps Swiggy customers to
+                                                    <p>KAS designed a chat and voice platform that helps Swiggy customers to
                                                         satisfy their queries fully by selecting agents based on the location
                                                         and language of the customer. Also, We solved the technical problem in
                                                         one service, which acts as middleware.</p>
@@ -1186,7 +1186,7 @@
                                 Development Stage
                             </h3>
                             <p>Build your application with our battle-tested developers. With over a decade of
-                                experience in planning and execution, the web development process with Bacancy is
+                                experience in planning and execution, the web development process with KAS is
                                 seamless and reliable.</p>
                         </div>
                     </div>
@@ -1359,9 +1359,9 @@
             <div class="col-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1 mb-lg">Why Choose Bacancy As Your Website Development
+                        <h2 class="section-title-text h1 mb-lg">Why Choose KAS As Your Website Development
                             Company?</h2>
-                        <p>At Bacancy Technology, we have a team of experienced web developers with over a decade of
+                        <p>At KAS Technology, we have a team of experienced web developers with over a decade of
                             experience developing secure, scalable, and innovative web solutions catering to
                             clients' specific requirements. Our website developers are proficient in technologies
                             such as JavaScript, XML, jQuery, AWS, HTML/HTML5, Celery, Django, Flask, and MySQL, and
@@ -1370,7 +1370,7 @@
                         <p>
                             We offer affordable pricing, timely communication, and reliable post-development support
                             and maintenance services to ensure your website runs smoothly and stays up-to-date with
-                            the latest security updates and technology advancements. Choose Bacancy Technology as
+                            the latest security updates and technology advancements. Choose KAS Technology as
                             your web application development services company, and let us help you build a solid
                             online presence for your business.
                         </p>
@@ -1380,7 +1380,7 @@
             <div class="col-lg-6 mt-0">
                 <picture>
                     <source srcset="<?php echo base_url();?>main-boot-5/images/web-development/side-2.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/web-development/side-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/web-development/xside-2.jpg.pagespeed.ic.2UMErhwWsu.webp" src="<?php echo base_url();?>main-boot-5/images/web-development/xside-2.jpg.pagespeed.ic.2UMErhwWsu.webp" alt="Why Choose Bacancy As Your Website Development Company?" title="Why Choose Bacancy As Your Website Development Company?" class="ob-cover" data-pagespeed-url-hash="3812064995" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/web-development/side-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/web-development/xside-2.jpg.pagespeed.ic.2UMErhwWsu.webp" src="<?php echo base_url();?>main-boot-5/images/web-development/xside-2.jpg.pagespeed.ic.2UMErhwWsu.webp" alt="Why Choose KAS As Your Website Development Company?" title="Why Choose KAS As Your Website Development Company?" class="ob-cover" data-pagespeed-url-hash="3812064995" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">

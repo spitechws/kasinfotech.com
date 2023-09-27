@@ -29,7 +29,7 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl lh-normal text-white">Hire AI Developer</h1>
-                        <p class="text-xxl text-white mb-lg">Our AI developers can help you with innovative integration, robotic orchestration, and autonomous capabilities at the system level. Hire Artificial Intelligence (AI) developers from Bacancy to achieve AI transformation in your business.</p>
+                        <p class="text-xxl text-white mb-lg">Our AI developers can help you with innovative integration, robotic orchestration, and autonomous capabilities at the system level. Hire Artificial Intelligence (AI) developers from KAS to achieve AI transformation in your business.</p>
                         <p class="text-xxl text-white">Save up to 40% on Development/Maintenance/Support Cost</p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="<?php echo base_url();?>">
-                                <img src="main-boot-5/images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <img src="main-boot-5/images/KAS-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -114,7 +114,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Services Our Artificial Intelligence Engineers Offer</h2>
-                        <p>At Bacancy, our skilled AI engineers have developed sophisticated AI-powered solutions per client goals and business requirements. Hire artificial intelligence developers that will add value to your business.</p>
+                        <p>At KAS, our skilled AI engineers have developed sophisticated AI-powered solutions per client goals and business requirements. Hire artificial intelligence developers that will add value to your business.</p>
                     </div>
                     <div class="resp-btn overflow-hidden">
                         <a href="#technical-stack" class="btn btn-primary text-uppercase ls-xs mt-lg"><span>Technical Stack</span></a>
@@ -139,7 +139,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>Bacancy has a team of industry-certified AI developers skilled at developing AI-enabled software and applications. We can help you design personalized AI solutions and applications meeting your business requirements. <i>Hire AI engineers</i> for scalable industry-specific use cases and domain-specific solutions. </p>
+                        <p>KAS has a team of industry-certified AI developers skilled at developing AI-enabled software and applications. We can help you design personalized AI solutions and applications meeting your business requirements. <i>Hire AI engineers</i> for scalable industry-specific use cases and domain-specific solutions. </p>
                     </div>
                 </div>
                 <div class="accordion-item bg-graylight accordian-tab  col-12">
@@ -190,7 +190,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>At Bacancy, we have video, image, and data annotation experts with a proven skillset to create computer vision solutions for any use case. We will help you build computer vision solutions for object tracking, recognition, semantic segmentation, and 3D point cloud annotations. Get precisely labeled images and videos to enjoy best-in-quality computer vision applications. </p>
+                        <p>At KAS, we have video, image, and data annotation experts with a proven skillset to create computer vision solutions for any use case. We will help you build computer vision solutions for object tracking, recognition, semantic segmentation, and 3D point cloud annotations. Get precisely labeled images and videos to enjoy best-in-quality computer vision applications. </p>
                     </div>
                 </div>
                 <div class="accordion-item bg-graylight accordian-tab  col-12">
@@ -651,7 +651,7 @@
                 <div class="section-title-and-desc section-title-and-desc-two">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Top Industries Hire AI Developers From us </h2>
-                        <p>Bacancy offers a wide range of AI development services worldwide to all shapes or sizes of industries. With a pool of talented AI engineers, we can help you deliver secure, scalable, and robust AI solutions per your business needs. Have a look at the below-mentioned industries we serve.</p>
+                        <p>KAS offers a wide range of AI development services worldwide to all shapes or sizes of industries. With a pool of talented AI engineers, we can help you deliver secure, scalable, and robust AI solutions per your business needs. Have a look at the below-mentioned industries we serve.</p>
                     </div>
                 </div>
             </div>
@@ -865,8 +865,8 @@
             <div class="col-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Should You Hire Artificial Intelligence Developers From Bacancy?</h2>
-                        <p>If you are planning to start an AI project and looking out to hire AI engineers, Bacancy is the most trusted and reliable <a href="ai-development-services" class="text-primary">AI development company</a>. We have a pool of talented AI developers who stay at the forefront of AI-driven digital transformation.</p>
+                        <h2 class="section-title-text h1">Why Should You Hire Artificial Intelligence Developers From KAS?</h2>
+                        <p>If you are planning to start an AI project and looking out to hire AI engineers, KAS is the most trusted and reliable <a href="ai-development-services" class="text-primary">AI development company</a>. We have a pool of talented AI developers who stay at the forefront of AI-driven digital transformation.</p>
                         <p>Our AI developers are well-versed in using various democratic AI technologies to help you modify customer experience, meet evolving market needs, create more intelligent workforce, and impart real value onboard. Access our top AI developers and bring ideas to life. </p>
                     </div>
                 </div>
@@ -874,11 +874,11 @@
                     <div class="col-lg-6 text-center">
                         <picture>
                             <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/side-2.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/side-2.jpg?v-2" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xside-2.jpg,qv-2.pagespeed.ic.vyTkhBKSVy.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xside-2.jpg,qv-2.pagespeed.ic.vyTkhBKSVy.webp" alt="Why Should You Hire Artificial Intelligence Developers From Bacancy?" title="Why Should You Hire Artificial Intelligence Developers From Bacancy?" class="ob-cover" data-pagespeed-url-hash="4199481232" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/side-2.jpg?v-2" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xside-2.jpg,qv-2.pagespeed.ic.vyTkhBKSVy.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xside-2.jpg,qv-2.pagespeed.ic.vyTkhBKSVy.webp" alt="Why Should You Hire Artificial Intelligence Developers From KAS?" title="Why Should You Hire Artificial Intelligence Developers From KAS?" class="ob-cover" data-pagespeed-url-hash="4199481232" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <div class="col-lg-6">
-                        <h3 class="h5 font-bold mb-sm">Advantages to Hire AI Engineers from Bacancy</h3>
+                        <h3 class="h5 font-bold mb-sm">Advantages to Hire AI Engineers from KAS</h3>
                         <ul class="text-18 text-secondary style-check mb-lg row px-3">
                             <li>We offer 100% flexibility in hiring.</li>
                             <li>Experience in working with different industries.</li>
@@ -1091,7 +1091,7 @@
                             <a href="#a" itemprop="name">How do I hire AI engineers?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">You can hire an AI developer or a team of AI developers from us. At Bacancy, we have a pool of talented AI developers.</p>
+                            <p itemprop="text">You can hire an AI developer or a team of AI developers from us. At KAS, we have a pool of talented AI developers.</p>
                             <p>Find the top artificial intelligence developers you want based on technological know-how. Select AI developers who are well acquainted with your technology stack's libraries, frameworks, and other tools.</p>
                             <p>You can select them based on their past work or experience in AI development.</p>
                         </div>
@@ -1190,7 +1190,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -1207,7 +1207,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

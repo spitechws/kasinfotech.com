@@ -115,7 +115,7 @@
             <div class="col-lg-10 mx-auto">
                 <p>Open source technology has created a new era in software development. Multinational, organizations and companies prefer open source development to enlarge their business according to their needs. It provides a great platform to their purpose or business.</p>
                 <p>Now-a-days open source technology is in rend or much demand. And this thing results in tough competition in the market.</p>
-                <p>Organizations with front-line proficiency in open source development remains successful in winning love and trust of clients. And, Bacancy is one of them.</p>
+                <p>Organizations with front-line proficiency in open source development remains successful in winning love and trust of clients. And, KAS is one of them.</p>
             </div>
         </div>
     </div>
@@ -157,7 +157,7 @@
                     <div class="section-title-block ">
                         <h2 class="section-title-text h1 mb-lg">Got A Project In Mind? Any Questions? We Are At Your Disposal</h2>
                         <h3 class="mb-lg text-white">We ensure you're matched with the right talent based on your requirement.</h3>
-                        <p class="text-18 ">When you work with Bacancy you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
+                        <p class="text-18 ">When you work with KAS you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
                     </div>
                 </div>
             </div>
@@ -220,7 +220,7 @@
     <figure>
         <picture>
             <source srcset="<?php echo base_url();?>main-boot-5/images/open-source-web-development/bg-development-partner.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/open-source-web-development/bg-development-partner.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/open-source-web-development/xbg-development-partner.png.pagespeed.ic.qbW_g8B1sj.webp" src="<?php echo base_url();?>main-boot-5/images/open-source-web-development/xbg-development-partner.png.pagespeed.ic.qbW_g8B1sj.webp" alt="Why Bacancy?" title="Why Bacancy?" class="ob-cover w-auto" data-pagespeed-url-hash="1702288560" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo base_url();?>main-boot-5/images/open-source-web-development/bg-development-partner.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/open-source-web-development/xbg-development-partner.png.pagespeed.ic.qbW_g8B1sj.webp" src="<?php echo base_url();?>main-boot-5/images/open-source-web-development/xbg-development-partner.png.pagespeed.ic.qbW_g8B1sj.webp" alt="Why KAS?" title="Why KAS?" class="ob-cover w-auto" data-pagespeed-url-hash="1702288560" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -229,7 +229,7 @@
                 <div class="boxed ">
                     <div class="section-title-and-desc section-title-and-desc-two">
                         <div class="section-title-block">
-                            <h2 class="section-title-text h1">Why Bacancy?</h2>
+                            <h2 class="section-title-text h1">Why KAS?</h2>
                         </div>
                     </div>
                     <ul class="style-check style-check-black text-18 text-secondary">
@@ -290,7 +290,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary    ">Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
                                     </div>
@@ -307,7 +307,7 @@
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
                                     </div>

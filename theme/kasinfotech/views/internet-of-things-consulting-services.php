@@ -119,8 +119,8 @@
                         <h2 class="section-title-text h1">Let Us Help You Harness the Power of Future Technology</h2>
                     </div>
                 </div>
-                <p>If you are planning to build your own IoT Application Development Solution, then consider Bacancy as your one stop solution. Whatsoever, your requirement is whether it is cloud, mobility or device. We have an in-depth knowledge and extensive experience in the area of connectivity along with board design, embedded software with mobility along with cloud-based expertise that makes Bacancy a very superior player in the IoT industry solutions. We are globally renowned IoT consulting firm.</p>
-                <p>Bacancy, being product development consulting firm has been assisting the valued clients in developing IoT based cloud platforms, low-power products as well as mobile clients using various technologies. Nowadays, IoT solutions are being used by the various market segments such as,</p>
+                <p>If you are planning to build your own IoT Application Development Solution, then consider KAS as your one stop solution. Whatsoever, your requirement is whether it is cloud, mobility or device. We have an in-depth knowledge and extensive experience in the area of connectivity along with board design, embedded software with mobility along with cloud-based expertise that makes KAS a very superior player in the IoT industry solutions. We are globally renowned IoT consulting firm.</p>
+                <p>KAS, being product development consulting firm has been assisting the valued clients in developing IoT based cloud platforms, low-power products as well as mobile clients using various technologies. Nowadays, IoT solutions are being used by the various market segments such as,</p>
                 <ul class="style-check text-18 text-secondary small-heading-two" style="height: 352px;">
                     <li>Connected Home</li>
                     <li>Asset Tracking</li>
@@ -161,7 +161,7 @@
 <figure class="banner-post-img">
     <picture>
         <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp">
-        <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? Bacancy can help" title="Planning to bridge the physical and digital world with an IoT project? Bacancy can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+        <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? KAS can help" title="Planning to bridge the physical and digital world with an IoT project? KAS can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
     </picture>
 </figure>
 <section class="section-padding-md pt-0">
@@ -187,7 +187,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Industry Focused IoT Solutions and Services</h2>
                     </div>
-                    <p>Bacancy is offering world-class IoT development services to the clients around the globe. As IoT has become highly beneficial for businesses in terms of enhancing their productivity and reducing operational costs as well as expand and explore potential market to increase growth. At Bacancy, we hold a team of experienced IoT app developers that are capable of building next generation solutions for every industry. Our IoT development services are useful for various industries including:</p>
+                    <p>KAS is offering world-class IoT development services to the clients around the globe. As IoT has become highly beneficial for businesses in terms of enhancing their productivity and reducing operational costs as well as expand and explore potential market to increase growth. At KAS, we hold a team of experienced IoT app developers that are capable of building next generation solutions for every industry. Our IoT development services are useful for various industries including:</p>
                 </div>
             </div>
             <div class="col-12">
@@ -441,7 +441,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <p>In the last couple of years, we have witnessed an expansion not only in connecting devices; however, we have apparently visualized that businesses also want to hook up to those devices by building their own Internet of Things (IoT) solution. So, many organizations have attempted to build IoT based solution, but unfortunately all of them have failed; However, Bacancy has come out on the winning end. We have successfully integrated agSmart portal using Ruby on Rails framework. We have successfully enabled agribusinesses to flawlessly collaborate with their customers, suppliers and prospects, with their remote devices, business systems and things by providing the most comprehensive set of Internet of Things solution.</p>
+                    <p>In the last couple of years, we have witnessed an expansion not only in connecting devices; however, we have apparently visualized that businesses also want to hook up to those devices by building their own Internet of Things (IoT) solution. So, many organizations have attempted to build IoT based solution, but unfortunately all of them have failed; However, KAS has come out on the winning end. We have successfully integrated agSmart portal using Ruby on Rails framework. We have successfully enabled agribusinesses to flawlessly collaborate with their customers, suppliers and prospects, with their remote devices, business systems and things by providing the most comprehensive set of Internet of Things solution.</p>
                 </div>
             </div>
         </div>
@@ -464,7 +464,7 @@
                         <h2 class="section-title-text h1">Solution</h2>
                     </div>
                 </div>
-                <p>In search of a solution to these challenges, it became crystal clear that there was a need to develop an application to improve the client’s farming supply chain efficiency and transparency. By integrating the agSmart portal using Ruby on rails framework with the IoT service solution, Bacancy successfully created a smart and scalable solution. This solution has not helped our client to meet his configuration needs, but it has also maximized his agribusiness performance. With this implementation, Bacancy has demonstrated their valued customers like how they are a superior key player in this era of competition.</p>
+                <p>In search of a solution to these challenges, it became crystal clear that there was a need to develop an application to improve the client’s farming supply chain efficiency and transparency. By integrating the agSmart portal using Ruby on rails framework with the IoT service solution, KAS successfully created a smart and scalable solution. This solution has not helped our client to meet his configuration needs, but it has also maximized his agribusiness performance. With this implementation, KAS has demonstrated their valued customers like how they are a superior key player in this era of competition.</p>
             </div>
         </div>
     </div>
@@ -489,10 +489,10 @@
                 <p>The client happily received a solution that finally met his business objectives and preformed the functions, which the client wished to have in his solution. The solution resulted in an excellent reach for the client and it helped his organization to perform more business and receive a great ROI.</p>
                 <div class="section-title-and-desc section-title-and-desc-two">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Future Direction of Bacancy</h2>
+                        <h2 class="section-title-text h1">Future Direction of KAS</h2>
                     </div>
                 </div>
-                <p>Bacancy is offering top-notch IoT professional services in a specific manner that will for sure get the attention of your customers and prospects. Our goal is to help your valued clients to get through the trouble of working and developing with an innovative platform – to assist them to progress and reach out to their goals. We did not want to just sell the platform and overlook about our valuable customers, but our approach is we will continue to work with you and grow up with you.</p>
+                <p>KAS is offering top-notch IoT professional services in a specific manner that will for sure get the attention of your customers and prospects. Our goal is to help your valued clients to get through the trouble of working and developing with an innovative platform – to assist them to progress and reach out to their goals. We did not want to just sell the platform and overlook about our valuable customers, but our approach is we will continue to work with you and grow up with you.</p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs"><span>Request for Quotation</span></a>
             </div>
         </div>
