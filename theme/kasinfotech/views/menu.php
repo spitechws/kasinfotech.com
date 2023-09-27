@@ -14,8 +14,8 @@
             }
         </style>
         <a class="navbar-brand" href="<?php echo base_url(); ?>'">
-            <img src="<?php echo asset('fonts/logo-black.svg'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-black">
-            <img src="<?php echo asset('fonts/logo-white.svg'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-white">
+            <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-black">
+            <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-white">
         </a>
         <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
             <ul class="navbar-nav mr-auto navbar-nav-destop">
