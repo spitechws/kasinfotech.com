@@ -30,31 +30,21 @@ foreach ($aAdmin as $controller) {
 $route["home_ajax/(:any)"] = "home/Home_ajax/$1";
 $route["home_ajax"] = "home/Home_ajax/index/";
 
-//Home CMS
-// $aHome = [
-//     'about-us', 'privacy-policy', 'terms-and-conidtions', 'digital-workplace-services', 'product-enhancement',
-//     'ai-ml-development-services', 'software-engineering', 'data-analytics-services', 'sap-consulting-services',
-//     'hire-rpa-developer', 'software-engineering', 'web-development-services', 'internet-of-things-consulting-services',
-//     'hire-data-scientist', 'hire-ai-developer', 'hire-ml-developer', 'cloud-native-application-development',
-//     'digital-process-automation', 'open-source-web-development', 'dynamics-365-consulting', 'salesforce-consulting-service',
-//     'quality-assurance-testing-services', 'it-staff-augmentation-services'
-// ];
-// foreach ($aHome as $method) {
-//     $route[$method] = "home/cms/" . $method;
-// }
+
 $aPage = [
     'about-us', 'privacy-policy', 'terms-and-conidtions', 'digital-workplace-services', 'product-enhancement',
     'ai-ml-development-services', 'software-engineering', 'data-analytics-services', 'sap-consulting-services',
     'hire-rpa-developer', 'software-engineering', 'web-development-services', 'internet-of-things-consulting-services',
     'hire-data-scientist', 'hire-ai-developer', 'hire-ml-developer', 'cloud-native-application-development',
     'digital-process-automation', 'open-source-web-development', 'dynamics-365-consulting', 'salesforce-consulting-service',
-    'quality-assurance-testing-services', 'it-staff-augmentation-services'
+    'quality-assurance-testing-services', 'it-staff-augmentation-services',
 ];
 foreach ($aPage as $method) {
     $route[$method] = "home/page/" . $method;
 }
 
 //Home Methods
+$route['get-quote'] = "home/get_quote";
 $route['contact-us'] = "home/contact";
 $route["products/(:any)"] = "home/products/$1";
 $route["services/(:any)"] = "home/services/$1";

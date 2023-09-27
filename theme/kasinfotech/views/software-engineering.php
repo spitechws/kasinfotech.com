@@ -30,8 +30,8 @@
                         <a href="#footer-form-id" class="btn btn-primary text-uppercase ls-xs">Schedule a developer Interview</a>
                     </div>
                     <picture>
-                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/ses/ses_banner.webp" type="image/webp">
-                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/ses/ses_banner.jpg" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/ses/xses_banner.jpg.pagespeed.ic.y4_ixO1G6_.webp" src="https://www.bacancytechnology.com/main-boot-5/images/ses/xses_banner.jpg.pagespeed.ic.y4_ixO1G6_.webp" alt="Software Engineering Services" title="Software Engineering Services" data-pagespeed-url-hash="1001925214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                        <source srcset="<?php echo base_url();?>main-boot-5/images/ses/ses_banner.webp" type="image/webp">
+                        <source srcset="<?php echo base_url();?>main-boot-5/images/ses/ses_banner.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/ses/xses_banner.jpg.pagespeed.ic.y4_ixO1G6_.webp" src="<?php echo base_url();?>main-boot-5/images/ses/xses_banner.jpg.pagespeed.ic.y4_ixO1G6_.webp" alt="Software Engineering Services" title="Software Engineering Services" data-pagespeed-url-hash="1001925214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
                 </div>
             </div>
@@ -47,38 +47,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-1.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-1.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-2.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-2.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-3.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-3.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-4.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-4.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-5.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-5.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-6.webp" type="image/webp">
-                            <source srcset="https://www.bacancytechnology.com/main-boot-5/images/trust-by/logo-6.png" type="image/png"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" src="https://www.bacancytechnology.com/main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp">
+                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -91,8 +91,8 @@
         <div class="row gy-5 align-items-lg-center flex-lg-row-reverse">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="https://www.bacancytechnology.com/main-boot-5/images/ses/er-ses_img.webp" type="image/webp">
-                    <source srcset="https://www.bacancytechnology.com/main-boot-5/images/ses/er-ses_img.jpg" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/ses/xer-ses_img.jpg.pagespeed.ic.tApEU3kypV.webp" src="https://www.bacancytechnology.com/main-boot-5/images/ses/xer-ses_img.jpg.pagespeed.ic.tApEU3kypV.webp" alt="Engineering Tomorrow, Today" title="Engineering Tomorrow, Today" class="w-100" data-pagespeed-url-hash="3669632089" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/ses/er-ses_img.webp" type="image/webp">
+                    <source srcset="<?php echo base_url();?>main-boot-5/images/ses/er-ses_img.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/ses/xer-ses_img.jpg.pagespeed.ic.tApEU3kypV.webp" src="<?php echo base_url();?>main-boot-5/images/ses/xer-ses_img.jpg.pagespeed.ic.tApEU3kypV.webp" alt="Engineering Tomorrow, Today" title="Engineering Tomorrow, Today" class="w-100" data-pagespeed-url-hash="3669632089" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -285,24 +285,24 @@
             <div class="col-lg-6 text-center text-lg-left">
                 <h3 class="h5 font-bold mb-3">Service Model</h3>
                 <ul class="style-check">
-                    <li><a href="https://www.bacancytechnology.com/software-development-company">Software Development Services</a></li>
-                    <li><a href="https://www.bacancytechnology.com/enterprise-software-development">Enterprise Software Development Services</a></li>
-                    <li><a href="https://www.bacancytechnology.com/custom-software-development">Custom Software Development Services</a></li>
-                    <li><a href="https://www.bacancytechnology.com/software-product-development">Software Product Development Services</a></li>
-                    <li><a href="https://www.bacancytechnology.com/software-consulting-services">Software Consulting Services</a></li>
-                    <li><a href="https://www.bacancytechnology.com/software-development-outsourcing">Software Development Outsourcing</a></li>
-                    <li><a href="https://www.bacancytechnology.com/offshore-software-development">Offshore Software Development</a></li>
-                    <li><a href="https://www.bacancytechnology.com/security-testing-services">Software Security Testing</a></li>
+                    <li><a href="<?php echo base_url();?>software-development-company">Software Development Services</a></li>
+                    <li><a href="<?php echo base_url();?>enterprise-software-development">Enterprise Software Development Services</a></li>
+                    <li><a href="<?php echo base_url();?>custom-software-development">Custom Software Development Services</a></li>
+                    <li><a href="<?php echo base_url();?>software-product-development">Software Product Development Services</a></li>
+                    <li><a href="<?php echo base_url();?>software-consulting-services">Software Consulting Services</a></li>
+                    <li><a href="<?php echo base_url();?>software-development-outsourcing">Software Development Outsourcing</a></li>
+                    <li><a href="<?php echo base_url();?>offshore-software-development">Offshore Software Development</a></li>
+                    <li><a href="<?php echo base_url();?>security-testing-services">Software Security Testing</a></li>
                 </ul>
             </div>
             <div class="col-lg-6">
                 <h3 class="h5 font-bold mb-3">Hire Developer/Team Model</h3>
                 <ul class="style-check">
-                    <li><a href="https://www.bacancytechnology.com/hire-software-developers">Hire Software Developer</a></li>
-                    <li><a href="https://www.bacancytechnology.com/hire-saas-developers">Hire SaaS developer</a></li>
-                    <li><a href="https://www.bacancytechnology.com/hire-software-tester">Hire Software Tester</a></li>
-                    <li><a href="https://www.bacancytechnology.com/dedicated-software-development-team">Dedicated Software Development Team</a></li>
-                    <li><a href="https://www.bacancytechnology.com/blog/cost-to-hire-a-software-developer">Cost to Hire Software Developer</a></li>
+                    <li><a href="<?php echo base_url();?>hire-software-developers">Hire Software Developer</a></li>
+                    <li><a href="<?php echo base_url();?>hire-saas-developers">Hire SaaS developer</a></li>
+                    <li><a href="<?php echo base_url();?>hire-software-tester">Hire Software Tester</a></li>
+                    <li><a href="<?php echo base_url();?>dedicated-software-development-team">Dedicated Software Development Team</a></li>
+                    <li><a href="<?php echo base_url();?>blog/cost-to-hire-a-software-developer">Cost to Hire Software Developer</a></li>
                 </ul>
             </div>
         </div>
@@ -348,8 +348,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.webp" type="image/webp">
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -365,8 +365,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.webp" type="image/webp">
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -382,8 +382,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.webp" type="image/webp">
-                                                        <source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp">
+                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
