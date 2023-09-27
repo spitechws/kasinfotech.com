@@ -18,8 +18,8 @@ $whatsapp = '+91-7989532907';
     <link rel="canonical" href="<?php echo base_url(); ?>">
     <link rel="stylesheet" href="<?php echo asset('css/bootstrap-owl.css') ?>">
     <link rel="shortcut icon" type="image/png" href="<?php echo asset('images/favicon.png') ?>">
-    <link rel="stylesheet" href="<?php echo asset('css/A.main.css%2Cqv-141.pagespeed.cf.icciYVKLgq.css') ?>">
-    <link rel="stylesheet" href="<?php echo asset('css/A.header-footer-4k.css.pagespeed.cf.3pF_gO4I12.css') ?>">
+    <link rel="stylesheet" href="<?php echo asset('css/main.css') ?>">
+    <link rel="stylesheet" href="<?php echo asset('css/header-footer-4k.css') ?>">
 
     <link rel="preload" href="https://fonts.googleapis.com">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>

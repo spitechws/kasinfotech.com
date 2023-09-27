@@ -1,0 +1,346 @@
+@media only screen and (min-width:1200px) {
+    .header-main.fixed .navbar .navbar-brand {
+        padding: 0 !important
+    }
+
+    .header-main .navbar .navbar-brand {
+        margin-right: max(.25rem, .25vw) !important;
+        padding: 0 !important;
+        margin-left: 0 !important
+    }
+
+    .header-main [class*=col-] {
+        padding-left: max(.75rem, .75vw);
+        padding-right: max(.75rem, .75vw)
+    }
+
+    .header-main .logo-img {
+        height: max(44px, 3vw) !important;
+        margin-top: max(1rem, 1.5vw) !important;
+        margin-bottom: max(1rem, 1.5vw) !important;
+        margin-left: max(1rem, 1vw) !important
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .nav-link,
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner .nav-link {
+        padding: 0;
+        line-height: 1.5 !important;
+        font-size: max(.875rem, 1.1575vw) !important;
+        margin-bottom: max(1.275rem, 1.55vw)
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .nav-link {
+        font-size: max(13px, .8vw) !important;
+        padding: max(6px, .375vw);
+        margin-bottom: 0
+    }
+
+    .header-main .btn.btn-primary {
+        font-size: max(1rem, 1vw) !important;
+        padding-top: max(.625rem, .575vw) !important;
+        padding-bottom: max(.625rem, .575vw) !important;
+        padding-left: max(1rem, 1.25vw) !important;
+        padding-right: max(1rem, 1.25vw) !important
+    }
+
+    .header-main .navbar .navbar-nav .nav-item {
+        margin-left: max(.5px, .25vw) !important;
+        margin-right: max(.5px, .25vw) !important
+    }
+
+    .header-main .navbar .right-nav-elements .menu-icon-block {
+        padding-left: max(.975rem, 1.25vw) !important;
+        padding-right: max(.975rem, 1.25vw) !important;
+        margin-left: max(1rem, 1.25vw) !important
+    }
+
+    .header-main .navbar .right-nav-elements .menu-icon-block .hamburger-icon {
+        height: max(1.24rem, 1.35vw) !important;
+        width: max(2.9rem, 3.25vw) !important
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner {
+        padding: max(1.875rem, 2vw) !important;
+        font-size: max(.875rem, 1.1575vw) !important
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner .pl-5.nav-link,
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner .ps-5.nav-link {
+        padding-left: max(2.5rem, 3vw) !important
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner .pl-5.nav-link img,
+    .header-main .navbar .navbar-nav .nav-item .submenu .submenu-inner .ps-5.nav-link img {
+        width: 2vw
+    }
+
+    .header-main .navbar .navbar-nav .header-contact {
+        padding: max(1.25rem, 1.25vw)
+    }
+
+    .get-in-touch-block .icon-block {
+        height: max(3.6rem, 3.6vw);
+        width: max(3.6rem, 3.6vw);
+        margin-right: max(1rem, 1vw)
+    }
+
+    .header-main .navbar .navbar-nav .header-contact .icon-block img {
+        width: max(1.5rem, 1.5vw);
+        height: max(1.5rem, 1.5vw)
+    }
+
+    .header-main .get-in-touch-block .right-content * {
+        font-size: max(1rem, 1vw);
+        line-height: 1.5
+    }
+
+    .header-main .img-text .img-text-inner {
+        padding: max(1.5rem, 1.5vw)
+    }
+
+    .header-main .img-text .img-text-inner .img-text-heading {
+        font-size: max(2.25rem, 2.25vw);
+        line-height: 1.5
+    }
+
+    .header-main .img-text .img-text-inner a {
+        margin-top: max(.5rem, .5vw);
+        font-size: max(1rem, 1vw)
+    }
+
+    .header-main .long-arrow-icon-css {
+        width: max(17px, 1.35vw);
+        height: max(12px, .85vw)
+    }
+
+    .header-main .long-arrow-icon-css:before {
+        width: max(18px, calc(1.35vw + 1px));
+        margin-top: .025vw
+    }
+
+    .header-main .long-arrow-icon-css:after {
+        width: max(9px, .575vw);
+        height: max(9px, .575vw)
+    }
+
+    .header-main .img-text img {
+        width: 100%
+    }
+
+    .header-main .img-text .img-text-inner p {
+        font-size: max(1.125rem, 1.125vw)
+    }
+
+    .header-spacing {
+        margin-top: max(5rem, 6vw)
+    }
+
+    .sidenav_menu .sidebar_left,
+    .sidenav_menu .sidebar_right_outer,
+    .sidenav_menu .social-icon-main {
+        padding: 3.125rem 3.75rem
+    }
+
+    .sidenav_menu.header_active {
+        height: calc(100vh - calc(max(7.5rem, 7.5vw)));
+        top: 6vw
+    }
+
+    .sidenav_menu .sidebar_left h3 {
+        font-size: max(1.875rem, 1.875vw)
+    }
+
+    .sidenav_menu .sidebar_left p {
+        font-size: max(1.125rem, 1.125vw);
+        line-height: 1.5
+    }
+
+    .sidenav_menu .header_company {
+        margin-bottom: max(3rem, 3vw);
+        margin-top: max(3rem, 3vw);
+        padding-top: max(3rem, 3vw)
+    }
+
+    .sidenav_menu .sidebar_right_outer ul li a {
+        font-size: max(1.875rem, 1.875vw);
+        margin-bottom: max(1.375rem, 1.375vw)
+    }
+
+    .sidenav_menu .sidebar_left_outer .col-xl-2 img {
+        width: max(5.375rem, 5.375vw)
+    }
+
+    .sidenav_menu .social-icon-main {
+        padding-top: 0;
+        padding-bottom: 0;
+        height: 6.25rem
+    }
+
+    .sidenav_menu .social-icon-main .social-item .social-link {
+        padding: max(.625rem, .625vw);
+        margin-right: .625rem
+    }
+
+    .sidenav_menu .social-icon-main .social-item .social-link .svg-icon {
+        height: max(1.1rem, 1.1vw);
+        width: max(1.1rem, 1.1vw)
+    }
+
+    .header-main .navbar .navbar-nav .nav-item .submenu .nav-link {
+        font-size: max(13px, .8vw) !important
+    }
+}
+
+@media only screen and (min-width:1400px) {
+    .footer-wrapper .container {
+        max-width: 90%
+    }
+
+    .footer-wrapper .offices-detail-block .flag-text-block .flag-img {
+        margin-right: max(.75rem, .75vw);
+        height: 109px
+    }
+
+    .footer-wrapper .offices-detail-block .flag-text-block {
+        font-size: max(1.563rem, 1.563vw);
+        line-height: 1.5;
+        margin-bottom: max(.5rem, .5vw)
+    }
+
+    .footer-wrapper .offices-detail-block p {
+        font-size: max(1.35rem, 1.35vw) !important;
+        line-height: 1.625 !important;
+        margin-bottom: max(.25rem, .25vw)
+    }
+
+    .footer-wrapper .offices-detail-block .office-address-text {
+        font-size: max(1.125rem, 1.125vw) !important;
+        margin-bottom: 0
+    }
+
+    .footer-wrapper .footer-gptw {
+        width: max(5.375rem, 5.375vw)
+    }
+
+    .footer-wrapper .get-in-touch-block .right-content {
+        font-size: max(1.875rem, 1.875vw);
+        line-height: 1.5
+    }
+
+    .footer-wrapper .get-in-touch-block .icon-block .img-item {
+        width: max(1.5rem, 1.5vw);
+        height: max(1.5rem, 1.5vw)
+    }
+
+    .footer-wrapper .get-in-touch-block .right-content h4,
+    .get-in-touch-block .right-content span {
+        font-size: max(1.5rem, 1.5vw);
+        display: inline-block
+    }
+
+    .footer-wrapper .get-in-touch-block .right-content .text-md {
+        font-size: max(1.125rem, 1.125vw);
+        line-height: normal;
+        margin-bottom: 0
+    }
+
+    .footer-wrapper .footer-link-row .footer-link-item {
+        font-size: max(1rem, 1vw);
+        padding-left: max(.5rem, .5vw);
+        padding-right: max(.5rem, .5vw);
+        line-height: 1.625;
+        padding-top: 3px;
+        padding-bottom: 3px
+    }
+
+    .footer-wrapper .footer-review-all.pipe-dark .align-top {
+        height: max(1.25rem, 1.25vw);
+        margin-right: max(.5rem, .5vw)
+    }
+
+    .footer-wrapper .footer-review-all.pipe-dark span {
+        line-height: 1.3;
+        font-size: max(1.125rem, 1.125vw)
+    }
+
+    .footer-wrapper .footer-review-all.pipe-dark .img-item {
+        margin-top: max(.75rem, .75vw) !important;
+        height: max(1.75rem, 1.75vw);
+        object-fit: contain
+    }
+
+    .footer-wrapper .footer-review-all.pipe-dark:after {
+        height: 40%
+    }
+
+    .footer-wrapper .footer-review-all.pipe-dark {
+        padding-right: max(2.5rem, 2.5vw) !important;
+        margin-right: max(.5rem, 2.5vw) !important;
+        padding-top: max(1rem, 1vw);
+        padding-bottom: max(1rem, 1vw)
+    }
+
+    .footer-wrapper .footer-review-all .img-item {
+        height: max(3rem, 3vw)
+    }
+
+    .footer-wrapper .social-icon-main .social-item .social-link .svg-icon,
+    .footer-wrapper .social-icon-main .social-item .social-link img {
+        width: max(1.25rem, 1.25vw);
+        height: max(1.25rem, 1.25vw);
+        object-fit: contain
+    }
+
+    .footer-wrapper .social-icon-main .social-item .social-link {
+        padding: max(.75rem, .75vw)
+    }
+
+    .footer-wrapper .footer-main {
+        padding-top: max(5.375rem, 5.375vw);
+        padding-bottom: max(5.375rem, 5.375vw)
+    }
+
+    .footer-wrapper .hr-footer {
+        margin-top: max(3rem, 3vw);
+        margin-bottom: max(3rem, 3vw)
+    }
+
+    .footer-wrapper .bacancy-rating-block {
+        margin-top: 0
+    }
+
+    .header-main .banner-post>a {
+        height: 100%
+    }
+}
+
+@media only screen and (min-width:1599px) {
+    .header-main .navbar .navbar-nav {
+        margin-left: max(3rem, 3vw) !important
+    }
+
+    .sidenav_menu .social-icon-main {
+        padding-left: max(6.25rem, 6.25vw);
+        padding-right: max(6.25rem, 6.25vw)
+    }
+
+    .sidenav_menu .sidebar_left,
+    .sidenav_menu .sidebar_right_outer,
+    .sidenav_menu .social-icon-main {
+        padding-top: max(5.625rem, 5.625vw);
+        padding-bottom: max(5.625rem, 5.625vw);
+        padding-left: max(6.25rem, 6.25vw);
+        padding-right: max(6.25rem, 6.25vw)
+    }
+
+    .sidenav_menu .social-icon-main {
+        padding-top: 0;
+        padding-bottom: 0;
+        height: max(10rem, 10vw)
+    }
+
+    .sidenav_menu .sidebar_left p {
+        font-size: max(1.25rem, 1.25vw);
+        line-height: 1.5
+    }
+}
