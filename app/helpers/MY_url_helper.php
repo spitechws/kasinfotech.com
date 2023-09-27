@@ -19,45 +19,35 @@ if (!function_exists('media_path')) {
     }
 }
 
-if (!function_exists('media_url')) {
-
-    function media_url($file_name = "", $folder_name = "")
-    {
-        $url = config_item('media_url');
-        if ($folder_name != "") {
-            $url .= $folder_name . '/';
-        }
-        if ($file_name != "") {
-            $url .= $file_name;
-        }
-        return $url;
+function media_url($file_name = "", $folder_name = "")
+{
+    $url = config_item('media_url');
+    if ($folder_name != "") {
+        $url .= $folder_name . '/';
     }
-}
-if (!function_exists('admin_url')) {
-
-    function admin_url()
-    {
-        return base_url() . 'admin/';
+    if ($file_name != "") {
+        $url .= $file_name;
     }
-}
-if (!function_exists('asset')) {
-
-    function asset($file_url = '')
-    {
-        $url = 'theme/' . config_item('site_theme') . '/assets/';
-        if (!empty($file_url)) {
-            $url .= $file_url;
-        }
-        return base_url($url);
-    }
+    return $url;
 }
 
-if (!function_exists('theme_url')) {
+function admin_url()
+{
+    return base_url() . 'admin/';
+}
 
-    function theme_url()
-    {
-        return base_url('theme/' . config_item('site_theme') . '/');
+function asset($file_url = '')
+{
+    $url = 'theme/' . config_item('site_theme') . '/assets/';
+    if (!empty($file_url)) {
+        $url .= $file_url;
     }
+    return base_url($url);
+}
+
+function theme_url()
+{
+    return base_url('theme/' . config_item('site_theme') . '/');
 }
 
 function module_path($module_name, $module_directory = 'views')

@@ -24,7 +24,7 @@
                     <div class="col-xl-2">
                         <picture>
                             <source srcset="images/small-gptw.webp" type="image/webp">
-                            <source srcset="images/small-gptw.png" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/header/xsmall-gptw.png,qv-3.pagespeed.ic.Idc6gB3rBa.png" src="images/xsmall-gptw.png%2Cqv-3.pagespeed.ic.Idc6gB3rBa.png" alt="KAS PVT LTDGreat Place to Work" title="KAS PVT LTDGreat Place to Work">
+                            <source srcset="images/small-gptw.png" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/header/xsmall-gptw.png,qv-3.pagespeed.ic.Idc6gB3rBa.png" src="images/xsmall-gptw.png%2Cqv-3.pagespeed.ic.Idc6gB3rBa.png" alt="KAS PVT LTDGreat Place to Work" title="KAS PVT LTDGreat Place to Work">
                         </picture>
                     </div>
                     <div class="col-xl-10">
@@ -131,48 +131,48 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Case Studies</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/" rel="nofollow">React JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/" rel="nofollow">Angular JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/vuejs/" rel="nofollow">Vue JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/nodejs/" rel="nofollow">Node JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/" rel="nofollow">Explore All</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/" rel="nofollow">React JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/" rel="nofollow">Explore All</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Fortune 500 Clients</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/verizon/" rel="nofollow">Verizon </a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/verizon/" rel="nofollow">Verizon </a></li>
+                            <li><a href="<?php echo base_url();?>case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/information-technology/" rel="nofollow">Information Technology</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/bfsi/" rel="nofollow">BFSI</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/education/" rel="nofollow">Education</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/retail/" rel="nofollow">Retail</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/healthcare/" rel="nofollow">Healthcare</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/public-services/" rel="nofollow">Public Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/cloud/" rel="nofollow">Cloud</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/real-estate/" rel="nofollow">Real Estate</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/information-technology/" rel="nofollow">Information Technology</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/bfsi/" rel="nofollow">BFSI</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/education/" rel="nofollow">Education</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/retail/" rel="nofollow">Retail</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/healthcare/" rel="nofollow">Healthcare</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/public-services/" rel="nofollow">Public Services</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/cloud/" rel="nofollow">Cloud</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/real-estate/" rel="nofollow">Real Estate</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -182,64 +182,64 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Experience</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/digital-workplace-services">Digital Workplace Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/product-enhancement">Product Enhancement</a></li>
+                            <li><a href="<?php echo base_url();?>digital-workplace-services">Digital Workplace Services</a></li>
+                            <li><a href="<?php echo base_url();?>product-enhancement">Product Enhancement</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="https://www.kasinfotech.com/data-analytics-services">Data Analytics</a></li>
+                            <li><a href="<?php echo base_url();?>ai-ml-development-services">AI & Automation </a></li>
+                            <li><a href="<?php echo base_url();?>data-analytics-services">Data Analytics</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">SAP Solutions</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/sap-consulting-services">SAP Consultation</a></li>
+                            <li><a href="<?php echo base_url();?>sap-consulting-services">SAP Consultation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Innovate</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-blockchain-developer">Blockchain </a></li>
-                            <li><a href="https://www.kasinfotech.com/software-engineering">Software Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/web-development-services">Web Development</a></li>
-                            <li><a href="https://www.kasinfotech.com/internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-data-scientist">Data Scientist</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-ai-developer">AI Developer</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-ml-developer">ML Developer</a></li>
+                            <li><a href="<?php echo base_url();?>hire-blockchain-developer">Blockchain </a></li>
+                            <li><a href="<?php echo base_url();?>software-engineering">Software Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>web-development-services">Web Development</a></li>
+                            <li><a href="<?php echo base_url();?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
+                            <li><a href="<?php echo base_url();?>hire-data-scientist">Data Scientist</a></li>
+                            <li><a href="<?php echo base_url();?>hire-ai-developer">AI Developer</a></li>
+                            <li><a href="<?php echo base_url();?>hire-ml-developer">ML Developer</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
-                            <li><a href="https://www.kasinfotech.com/digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="https://www.kasinfotech.com/open-source-web-development">Open Source </a></li>
-                            <li><a href="https://www.kasinfotech.com/dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="https://www.kasinfotech.com/salesforce-consulting-service">Salesforce</a></li>
-                            <li><a href="https://www.kasinfotech.com/customer-experience-transformation">Service Experience Transformation</a></li>
+                            <li><a href="<?php echo base_url();?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+                            <li><a href="<?php echo base_url();?>digital-process-automation">Digital Process Automation </a></li>
+                            <li><a href="<?php echo base_url();?>open-source-web-development">Open Source </a></li>
+                            <li><a href="<?php echo base_url();?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
+                            <li><a href="<?php echo base_url();?>salesforce-consulting-service">Salesforce</a></li>
+                            <li><a href="<?php echo base_url();?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Assure</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/quality-assurance-testing-services">Quality Assurance</a></li>
-                            <li><a href="https://www.kasinfotech.com/it-staff-augmentation-services">IT Staff Augmentation </a></li>
+                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Quality Assurance</a></li>
+                            <li><a href="<?php echo base_url();?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/systems/">Product Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/analog-design-services">Analog Design Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/fpga-engineering-service">FPGA Engineering Service</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/wireless-design-services">Wireless Design</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/embedded-software-design">Embedded Software Design</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/hardware-engineering-solutions">Hardware Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/power-engineering-services">Power Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/iot-hardware-solutions">IoT Hardware</a></li>
+                            <li><a href="<?php echo base_url();?>systems/">Product Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/analog-design-services">Analog Design Services</a></li>
+                            <li><a href="<?php echo base_url();?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
+                            <li><a href="<?php echo base_url();?>systems/wireless-design-services">Wireless Design</a></li>
+                            <li><a href="<?php echo base_url();?>systems/embedded-software-design">Embedded Software Design</a></li>
+                            <li><a href="<?php echo base_url();?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/power-engineering-services">Power Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/iot-hardware-solutions">IoT Hardware</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -248,12 +248,12 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
-                            <li><a href="https://www.kasinfotech.com/minimum-viable-product-development-service">Startups</a></li>
-                            <li><a href="https://www.kasinfotech.com/oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
-                            <li><a href="https://www.kasinfotech.com/healthcare-application-software-development">Healthcare Life Science</a></li>
-                            <li><a href="https://www.kasinfotech.com/real-estate-software-development">Real Estate & Construction </a></li>
-                            <li><a href="https://www.kasinfotech.com/logistics-mobile-application-development">Logistics </a></li>
+                            <li><a href="<?php echo base_url();?>banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
+                            <li><a href="<?php echo base_url();?>minimum-viable-product-development-service">Startups</a></li>
+                            <li><a href="<?php echo base_url();?>oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
+                            <li><a href="<?php echo base_url();?>healthcare-application-software-development">Healthcare Life Science</a></li>
+                            <li><a href="<?php echo base_url();?>real-estate-software-development">Real Estate & Construction </a></li>
+                            <li><a href="<?php echo base_url();?>logistics-mobile-application-development">Logistics </a></li>
                         </ul>
                     </ul>
                 </li>
@@ -262,21 +262,21 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/about-us">About Us</a></li>
-                            <li><a href="https://www.kasinfotech.com/leadership">Leadership Team</a></li>
-                            <li><a href="https://www.kasinfotech.com/awards-recognition">Awards & Recognition</a></li>
-                            <li><a href="https://www.kasinfotech.com/infrastructure">Infrastructure </a></li>
-                            <li><a href="https://www.kasinfotech.com/locations">Our Locations</a></li>
-                            <li><a href="https://www.kasinfotech.com/partnership">Partnership</a></li>
-                            <li><a href="https://www.kasinfotech.com/media-coverage">Media Coverage</a></li>
+                            <li><a href="<?php echo base_url();?>about-us">About Us</a></li>
+                            <li><a href="<?php echo base_url();?>leadership">Leadership Team</a></li>
+                            <li><a href="<?php echo base_url();?>awards-recognition">Awards & Recognition</a></li>
+                            <li><a href="<?php echo base_url();?>infrastructure">Infrastructure </a></li>
+                            <li><a href="<?php echo base_url();?>locations">Our Locations</a></li>
+                            <li><a href="<?php echo base_url();?>partnership">Partnership</a></li>
+                            <li><a href="<?php echo base_url();?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/agile-mindset">Agile Mindset</a></li>
-                            <li><a href="https://www.kasinfotech.com/KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="https://www.kasinfotech.com/KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url();?>agile-mindset">Agile Mindset</a></li>
+                            <li><a href="<?php echo base_url();?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
+                            <li><a href="<?php echo base_url();?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -285,86 +285,86 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Front End</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/angular-js-development">Angular</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-reactjs-developer">Reactjs</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-vuejs-developer">Vue.js</a></li>
-                            <li><a href="https://www.kasinfotech.com/ui-ux-enhancement-service">UI/UX</a></li>
+                            <li><a href="<?php echo base_url();?>angular-js-development">Angular</a></li>
+                            <li><a href="<?php echo base_url();?>hire-reactjs-developer">Reactjs</a></li>
+                            <li><a href="<?php echo base_url();?>hire-vuejs-developer">Vue.js</a></li>
+                            <li><a href="<?php echo base_url();?>ui-ux-enhancement-service">UI/UX</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Platforms</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-salesforce-developer">Salesforce</a></li>
+                            <li><a href="<?php echo base_url();?>hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
+                            <li><a href="<?php echo base_url();?>hire-salesforce-developer">Salesforce</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Back End</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/ruby-on-rails-development">Ruby on Rails</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-node-developer">Node.js</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-golang-developer">Golang</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-laravel-developer">Laravel</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-dot-net-developer">.NET</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-spring-boot-developer">Java </a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-python-developer">Python</a></li>
+                            <li><a href="<?php echo base_url();?>ruby-on-rails-development">Ruby on Rails</a></li>
+                            <li><a href="<?php echo base_url();?>hire-node-developer">Node.js</a></li>
+                            <li><a href="<?php echo base_url();?>hire-golang-developer">Golang</a></li>
+                            <li><a href="<?php echo base_url();?>hire-laravel-developer">Laravel</a></li>
+                            <li><a href="<?php echo base_url();?>hire-dot-net-developer">.NET</a></li>
+                            <li><a href="<?php echo base_url();?>hire-spring-boot-developer">Java </a></li>
+                            <li><a href="<?php echo base_url();?>hire-python-developer">Python</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Mobile</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-react-native-developer">React Native</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-flutter-developer">Flutter</a></li>
-                            <li><a href="https://www.kasinfotech.com/android-application-development">Android</a></li>
-                            <li><a href="https://www.kasinfotech.com/mobile-app-development">iOS</a></li>
+                            <li><a href="<?php echo base_url();?>hire-react-native-developer">React Native</a></li>
+                            <li><a href="<?php echo base_url();?>hire-flutter-developer">Flutter</a></li>
+                            <li><a href="<?php echo base_url();?>android-application-development">Android</a></li>
+                            <li><a href="<?php echo base_url();?>mobile-app-development">iOS</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Cloud</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/aws-cloud-consulting-services">AWS</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-devops-developers">DevOps</a></li>
+                            <li><a href="<?php echo base_url();?>aws-cloud-consulting-services">AWS</a></li>
+                            <li><a href="<?php echo base_url();?>hire-devops-developers">DevOps</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">QA</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/automation-testing-services">Automation Testing</a></li>
-                            <li><a href="https://www.kasinfotech.com/quality-assurance-testing-services">Software Testing </a></li>
+                            <li><a href="<?php echo base_url();?>automation-testing-services">Automation Testing</a></li>
+                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Software Testing </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/systems/embedded-developer">Embedded </a></li>
+                            <li><a href="<?php echo base_url();?>systems/embedded-developer">Embedded </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
-                        <a href="https://www.kasinfotech.com/technologies" class>Explore All</a>
+                        <a href="<?php echo base_url();?>technologies" class>Explore All</a>
                     </ul>
                 </li>
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">Products</a>
                     <ul class="sub-side">
-                        <li><a href="https://www.kasinfotech.com/systems/battery-management-system">Battery Management System</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/motor-controller">Motor Controller</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ccs2-controller">CCS2 Controller</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/dc-fast-charger">DC Fast Charger</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ac-fast-charger-manufacturer">AC Charger</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ac-charge-controller">AC Charge Controller</a></li>
-                        <a href="https://www.kasinfotech.com/systems/products" class>Explore All</a>
+                        <li><a href="<?php echo base_url();?>systems/battery-management-system">Battery Management System</a></li>
+                        <li><a href="<?php echo base_url();?>systems/motor-controller">Motor Controller</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ccs2-controller">CCS2 Controller</a></li>
+                        <li><a href="<?php echo base_url();?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url();?>systems/dc-fast-charger">DC Fast Charger</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ac-charge-controller">AC Charge Controller</a></li>
+                        <a href="<?php echo base_url();?>systems/products" class>Explore All</a>
                     </ul>
                 </li>
             </ul>
             <ul>
-                <li><a href="https://www.kasinfotech.com/careers">Careers</a></li>
-                <li><a href="https://www.kasinfotech.com/careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
-                <li><a href="https://www.kasinfotech.com/blog/">Blogs</a></li>
-                <li><a href="https://www.kasinfotech.com/resources/">Resources</a></li>
-                <li><a href="https://www.kasinfotech.com/testimonials">Customer Reviews</a></li>
-                <li><a href="https://www.kasinfotech.com/contactus">Contact</a></li>
+                <li><a href="<?php echo base_url();?>careers">Careers</a></li>
+                <li><a href="<?php echo base_url();?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url();?>blog/">Blogs</a></li>
+                <li><a href="<?php echo base_url();?>resources/">Resources</a></li>
+                <li><a href="<?php echo base_url();?>testimonials">Customer Reviews</a></li>
+                <li><a href="<?php echo base_url();?>contactus">Contact</a></li>
                 <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>
@@ -476,11 +476,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-one.webp" type="image/webp">
-                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
+                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">new edition out now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -491,11 +491,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-two.webp" type="image/webp">
-                                <source srcset="images/home-cards-two.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/home-cards-two.jpg?v-3" src="images/home-cards-two.jpg" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
+                                <source srcset="images/home-cards-two.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/home-cards-two.jpg?v-3" src="images/home-cards-two.jpg" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="https://www.kasinfotech.com/main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
+                        <a href="<?php echo base_url();?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">visit now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -506,11 +506,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-three.webp" type="image/webp">
-                                <source srcset="images/home-cards-three.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-three.jpg,qv-3.pagespeed.ic.lJ7xcE3866.webp" src="images/xhome-cards-three.jpg%2Cqv-3.pagespeed.ic.lJ7xcE3866.webp" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
+                                <source srcset="images/home-cards-three.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xhome-cards-three.jpg,qv-3.pagespeed.ic.lJ7xcE3866.webp" src="images/xhome-cards-three.jpg%2Cqv-3.pagespeed.ic.lJ7xcE3866.webp" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">We’re Hiring! Come Join Our Team!</h3>
-                        <a href="https://www.kasinfotech.com/careers" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>careers" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">apply now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -521,7 +521,7 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-four.webp" type="image/webp">
-                                <source srcset="images/home-cards-four.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-four.jpg,qv-3.pagespeed.ic.r4jJC-e4pI.webp" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
+                                <source srcset="images/home-cards-four.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xhome-cards-four.jpg,qv-3.pagespeed.ic.r4jJC-e4pI.webp" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
                                 Agility" title="The Keys to Organizational Agility: From Agile to
                                 Agility" class="lazy">
                             </picture>
@@ -539,11 +539,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-five.webp" type="image/webp">
-                                <source srcset="images/home-cards-five.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-five.jpg,qv-3.pagespeed.ic.WccGZqii7G.webp" src="images/xhome-cards-five.jpg%2Cqv-3.pagespeed.ic.WccGZqii7G.webp" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
+                                <source srcset="images/home-cards-five.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xhome-cards-five.jpg,qv-3.pagespeed.ic.WccGZqii7G.webp" src="images/xhome-cards-five.jpg%2Cqv-3.pagespeed.ic.WccGZqii7G.webp" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">Outsourcing: The Good,The Bad and The Honest Truth</h4>
-                        <a href="https://www.kasinfotech.com/blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
+                        <a href="<?php echo base_url();?>blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">Visit Now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -554,11 +554,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-six.webp" type="image/webp">
-                                <source srcset="images/home-cards-six.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xhome-cards-six.jpg,qv-3.pagespeed.ic.QxVKA118Hd.webp" src="images/xhome-cards-six.jpg%2Cqv-3.pagespeed.ic.QxVKA118Hd.webp" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
+                                <source srcset="images/home-cards-six.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xhome-cards-six.jpg,qv-3.pagespeed.ic.QxVKA118Hd.webp" src="images/xhome-cards-six.jpg%2Cqv-3.pagespeed.ic.QxVKA118Hd.webp" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="https://www.kasinfotech.com/development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">Let's connect </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -589,7 +589,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
-                        <a href="https://www.kasinfotech.com/services#2" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#2" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -598,7 +598,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Enterprise Application Management </h3>
-                        <a href="https://www.kasinfotech.com/services#3" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#3" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -607,7 +607,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four ">
                         <h3 class="card-title text-white h3">Agile QA, Automation and DevOps </h3>
-                        <a href="https://www.kasinfotech.com/services#4" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#4" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -616,7 +616,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four ">
                         <h3 class="card-title text-white h3">Embedded & Hardware</h3>
-                        <a href="https://www.kasinfotech.com/systems/" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>systems/" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -687,25 +687,25 @@
                             <div class="carousel-item active">
                                 <picture>
                                     <source srcset="images/gptw_1.webp" type="image/webp">
-                                    <source srcset="images/gptw.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xgptw.jpg,qv-1.pagespeed.ic.NTbGQMfle7.webp" src="images/xgptw.jpg%2Cqv-1.pagespeed.ic.NTbGQMfle7.webp" alt="Great Place to Work" title="Great Place to Work" class="lazy d-block w-100">
+                                    <source srcset="images/gptw.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xgptw.jpg,qv-1.pagespeed.ic.NTbGQMfle7.webp" src="images/xgptw.jpg%2Cqv-1.pagespeed.ic.NTbGQMfle7.webp" alt="Great Place to Work" title="Great Place to Work" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item ">
                                 <picture>
                                     <source srcset="images/abt-1.webp" type="image/webp">
-                                    <source srcset="images/abt-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" src="images/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="images/abt-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" src="images/xabt-1.jpg.pagespeed.ic.NgYpkuqUxh.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item">
                                 <picture>
                                     <source srcset="images/abt-3.webp" type="image/webp">
-                                    <source srcset="images/abt-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/abt-3.jpg" src="images/abt-3.jpg" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="images/abt-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/abt-3.jpg" src="images/abt-3.jpg" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item">
                                 <picture>
                                     <source srcset="images/abt-4.webp" type="image/webp">
-                                    <source srcset="images/abt-4.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" src="images/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
+                                    <source srcset="images/abt-4.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" src="images/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
                                 </picture>
                             </div>
                         </div>
@@ -739,7 +739,7 @@
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
-                        <a href="https://www.kasinfotech.com/about-us"><button class="btn btn-outline-primary  text-uppercase">Know More</button></a>
+                        <a href="<?php echo base_url();?>about-us"><button class="btn btn-outline-primary  text-uppercase">Know More</button></a>
                     </div>
                 </div>
             </div>
@@ -765,18 +765,18 @@
                                 <div class="col-md-5 position-relative">
                                     <picture>
                                         <source srcset="images/cs-1.webp" type="image/webp">
-                                        <source srcset="images/cs-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-1.jpg" src="images/cs-1.jpg" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
+                                        <source srcset="images/cs-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/cs-1.jpg" src="images/cs-1.jpg" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
                                         <source srcset="images/cs-logo-1.webp" type="image/webp">
-                                        <source srcset="images/cs-logo-1.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" src="images/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo">
+                                        <source srcset="images/cs-logo-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" src="images/xcs-logo-1.png.pagespeed.ic.ynIidGHgpm.png" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo">
                                     </picture>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="boxed pt-lg-0">
                                         <picture>
                                             <source srcset="images/cs-logo-1-new.webp" type="image/webp">
-                                            <source srcset="images/cs-logo-1-new.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" src="images/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" alt="reactjs" class="d-none d-lg-block">
+                                            <source srcset="images/cs-logo-1-new.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" src="images/xcs-logo-1-new.jpg.pagespeed.ic.Vsb16QHTbn.webp" alt="reactjs" class="d-none d-lg-block">
                                         </picture>
                                         <p class="text-primary font-bold text-uppercase mb-2 mt-lg-2">E-COMMERCE</p>
                                         <h2 class="mb-2">Verizon Express Store</h2>
@@ -794,11 +794,11 @@
                                 <div class="col-md-5 position-relative">
                                     <picture>
                                         <source srcset="images/cs-2.webp" type="image/webp">
-                                        <source srcset="images/cs-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-2.jpg" src="images/cs-2.jpg" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" h-100 ob-cover">
+                                        <source srcset="images/cs-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/cs-2.jpg" src="images/cs-2.jpg" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
                                         <source srcset="images/cs-logo-2.webp" type="image/webp">
-                                        <source srcset="images/cs-logo-2.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" src="images/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" cs-logo">
+                                        <source srcset="images/cs-logo-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" src="images/xcs-logo-2.png.pagespeed.ic.8IoYZBF832.png" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" cs-logo">
                                     </picture>
                                 </div>
                                 <div class="col-md-7">
@@ -813,7 +813,7 @@
                                         <div class="text-right d-none d-lg-block">
                                             <picture>
                                                 <source srcset="images/react-native-icon.webp" type="image/webp">
-                                                <source srcset="images/react-native-icon.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/react-native-icon.jpg" src="images/react-native-icon.jpg" alt="react native" class=" ">
+                                                <source srcset="images/react-native-icon.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/react-native-icon.jpg" src="images/react-native-icon.jpg" alt="react native" class=" ">
                                             </picture>
                                         </div>
                                     </div>
@@ -827,11 +827,11 @@
                         <div class="col-md-5 col-lg-12 position-relative">
                             <picture>
                                 <source srcset="images/cs-3.webp" type="image/webp">
-                                <source srcset="images/cs-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-3.jpg" src="images/cs-3.jpg" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" h-100 ob-cover">
+                                <source srcset="images/cs-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/cs-3.jpg" src="images/cs-3.jpg" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" h-100 ob-cover">
                             </picture>
                             <picture>
                                 <source srcset="images/cs-logo-3.webp" type="image/webp">
-                                <source srcset="images/cs-logo-3.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/cs-logo-3.png" src="images/cs-logo-3.png" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" cs-logo">
+                                <source srcset="images/cs-logo-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/cs-logo-3.png" src="images/cs-logo-3.png" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" cs-logo">
                             </picture>
                         </div>
                         <div class="col-md-7 col-lg-12">
@@ -839,7 +839,7 @@
                                 <div class="text-right mb-3 d-none d-lg-block">
                                     <picture>
                                         <source srcset="images/node-icon.webp" type="image/webp">
-                                        <source srcset="images/node-icon.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xnode-icon.jpg,qv-4.pagespeed.ic._pI35Ah7y3.webp" src="images/xnode-icon.jpg%2Cqv-4.pagespeed.ic._pI35Ah7y3.webp" alt="nodejs">
+                                        <source srcset="images/node-icon.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xnode-icon.jpg,qv-4.pagespeed.ic._pI35Ah7y3.webp" src="images/xnode-icon.jpg%2Cqv-4.pagespeed.ic._pI35Ah7y3.webp" alt="nodejs">
                                     </picture>
                                 </div>
                                 <p class="text-primary font-bold text-uppercase mb-2">Fintech</p>
@@ -887,7 +887,7 @@
                             Agile is not a principal or a method, but it’s an integral part of being Agile that is
                             guided by principles, defined by values and manifested through various practices.
                         </p>
-                        <a href="https://www.kasinfotech.com/agile-mindset" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>agile-mindset" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -902,7 +902,7 @@
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -917,7 +917,7 @@
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -930,7 +930,7 @@
         <figure class="banner-post-img">
             <picture>
                 <source srcset="images/fortune-client-bg.webp" type="image/webp">
-                <source srcset="images/fortune-client-bg.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" src="images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
+                <source srcset="images/fortune-client-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" src="images/xfortune-client-bg.jpg.pagespeed.ic.qtDJDgDuY4.webp" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
             </picture>
         </figure>
         <div class="container section-padding pt-0">
@@ -942,7 +942,7 @@
                             <p class="text-left h3 section-short-desc text-white mb-50">
                                 The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2011.
                             </p>
-                            <a href="https://www.kasinfotech.com/clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
+                            <a href="<?php echo base_url();?>clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
                             </a>
                         </div>
                     </div>
@@ -960,32 +960,32 @@
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-icon-1.webp" type="image/webp">
-                                    <source srcset="images/client-icon-1.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" src="images/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" alt="Franklin Templetion Investments" title="Franklin Templetion Investments" class="lazy">
+                                    <source srcset="images/client-icon-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" src="images/xclient-icon-1.png.pagespeed.ic.oyfyjxbJUJ.png" alt="Franklin Templetion Investments" title="Franklin Templetion Investments" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-icon-2.webp" type="image/webp">
-                                    <source srcset="images/client-icon-2.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" src="images/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" alt="KPMG" title="KPMG" class="lazy">
+                                    <source srcset="images/client-icon-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" src="images/xclient-icon-2.png.pagespeed.ic.yoFyFBwgW6.png" alt="KPMG" title="KPMG" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-3.webp" type="image/webp">
-                                    <source srcset="images/client-icon-3.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" src="images/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" alt="Verizon" title="Verizon" class="lazy">
+                                    <source srcset="images/client-icon-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" src="images/xclient-icon-3.png.pagespeed.ic.PCKDT_ZGW1.png" alt="Verizon" title="Verizon" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-4.webp" type="image/webp">
-                                    <source srcset="images/client-icon-4.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" src="images/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" alt="Academy sports+outdoors" title="Academy sports+outdoors" class="lazy">
+                                    <source srcset="images/client-icon-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" src="images/xclient-icon-4.png.pagespeed.ic.OFhN25U20z.png" alt="Academy sports+outdoors" title="Academy sports+outdoors" class="lazy">
                                 </picture>
                             </div>
 
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-6.webp" type="image/webp">
-                                    <source srcset="images/client-icon-6.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-6.png" src="images/client-icon-6.png" alt="ups" title="ups" class="lazy">
+                                    <source srcset="images/client-icon-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-6.png" src="images/client-icon-6.png" alt="ups" title="ups" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -998,37 +998,37 @@
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-6.webp" type="image/webp">
-                                    <source srcset="images/client-6.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/client-6.png" src="images/client-6.png" alt="3m" title="3m" class="lazy">
+                                    <source srcset="images/client-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/client-6.png" src="images/client-6.png" alt="3m" title="3m" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-5.webp" type="image/webp">
-                                    <source srcset="images/client-5.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/client-5.png" src="images/client-5.png" alt="Renault" title="Renault" class="lazy">
+                                    <source srcset="images/client-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/client-5.png" src="images/client-5.png" alt="Renault" title="Renault" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-7.webp" type="image/webp">
-                                    <source srcset="images/client-icon-7.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" src="images/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" alt="Disney" title="Disney" class="lazy">
+                                    <source srcset="images/client-icon-7.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" src="images/xclient-icon-7.png.pagespeed.ic.iDn2cWsC-G.png" alt="Disney" title="Disney" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-8.webp" type="image/webp">
-                                    <source srcset="images/client-icon-8.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-8.png" src="images/client-icon-8.png" alt="Warner Bros" title="Warner Bros" class="lazy">
+                                    <source srcset="images/client-icon-8.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-8.png" src="images/client-icon-8.png" alt="Warner Bros" title="Warner Bros" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-9.webp" type="image/webp">
-                                    <source srcset="images/client-icon-9.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" src="images/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" alt="Scotch" title="Scotch" class="lazy">
+                                    <source srcset="images/client-icon-9.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" src="images/xclient-icon-9.png.pagespeed.ic.4tptHFUDGS.png" alt="Scotch" title="Scotch" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-10.webp" type="image/webp">
-                                    <source srcset="images/client-icon-10.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-10.png" src="images/client-icon-10.png" alt="volkswagen" title="volkswagen" class="lazy">
+                                    <source srcset="images/client-icon-10.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-10.png" src="images/client-icon-10.png" alt="volkswagen" title="volkswagen" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -1041,37 +1041,37 @@
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-icon-11.webp" type="image/webp">
-                                    <source srcset="images/client-icon-11.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-11.png" src="images/client-icon-11.png" alt="Publicis Sapient" title="Publicis Sapient" class="lazy">
+                                    <source srcset="images/client-icon-11.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-11.png" src="images/client-icon-11.png" alt="Publicis Sapient" title="Publicis Sapient" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6 mt-5">
                                 <picture>
                                     <source srcset="images/client-icon-12.webp" type="image/webp">
-                                    <source srcset="images/client-icon-12.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" src="images/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" alt="Infosys" title="Infosys" class="lazy">
+                                    <source srcset="images/client-icon-12.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" src="images/xclient-icon-12.png.pagespeed.ic.WI-LW6r2X4.png" alt="Infosys" title="Infosys" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-13.webp" type="image/webp">
-                                    <source srcset="images/client-icon-13.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" src="images/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" alt="Bangkok bank" title="Bangkok bank" class="lazy">
+                                    <source srcset="images/client-icon-13.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" src="images/xclient-icon-13.png.pagespeed.ic.oKBKK2RH9k.png" alt="Bangkok bank" title="Bangkok bank" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-14.webp" type="image/webp">
-                                    <source srcset="images/client-icon-14.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-14.png" src="images/client-icon-14.png" alt="Shell" title="Shell" class="lazy">
+                                    <source srcset="images/client-icon-14.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-14.png" src="images/client-icon-14.png" alt="Shell" title="Shell" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-15.webp" type="image/webp">
-                                    <source srcset="images/client-icon-15.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-15.png" src="images/client-icon-15.png" alt="Swiggy" title="Swiggy" class="lazy">
+                                    <source srcset="images/client-icon-15.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-15.png" src="images/client-icon-15.png" alt="Swiggy" title="Swiggy" class="lazy">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture>
                                     <source srcset="images/client-icon-16.webp" type="image/webp">
-                                    <source srcset="images/client-icon-16.png" type="image/png"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/client-icon-16.png" src="images/client-icon-16.png" alt="Wipro" title="Wipro" class="lazy">
+                                    <source srcset="images/client-icon-16.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/home/client-icon-16.png" src="images/client-icon-16.png" alt="Wipro" title="Wipro" class="lazy">
                                 </picture>
                             </div>
                         </div>
@@ -1092,7 +1092,7 @@
                 </div>
                 <div class="col-lg-5">
                     <p>Associate with the innovative team of embedded engineers, designers and consultants to ace your embedded development processes.</p>
-                    <a href="https://www.kasinfotech.com/systems/products" class="text-sm text-item-center long-arrow-hover">
+                    <a href="<?php echo base_url();?>systems/products" class="text-sm text-item-center long-arrow-hover">
                         <span class="text-primary text-uppercase ls-xs font-semibold">discover All </span>
                         <span class="long-arrow-icon-css icon-item right"></span>
                     </a>
@@ -1104,7 +1104,7 @@
                         <div class="item">
                             <picture>
                                 <source srcset="images/slider-6.webp" type="image/webp">
-                                <source srcset="images/slider-6.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/slider-6.jpg?v-2" src="images/slider-6.jpg" alt="AC Charge Controller" title="AC Charge Controller" class="lazy system-slider-img">
+                                <source srcset="images/slider-6.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/slider-6.jpg?v-2" src="images/slider-6.jpg" alt="AC Charge Controller" title="AC Charge Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1116,7 +1116,7 @@
                         <div class="item">
                             <picture>
                                 <source srcset="images/dc-charge.webp" type="image/webp">
-                                <source srcset="images/dc-charge.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/dc-charge.jpg?v-2" src="images/dc-charge.jpg" alt="DC Fast Charger" title="DC Fast Charger" class="lazy system-slider-img">
+                                <source srcset="images/dc-charge.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/dc-charge.jpg?v-2" src="images/dc-charge.jpg" alt="DC Fast Charger" title="DC Fast Charger" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1128,7 +1128,7 @@
                         <div class="item">
                             <picture>
                                 <source srcset="images/bms.webp" type="image/webp">
-                                <source srcset="images/bms.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/bms.jpg" src="images/bms.jpg" alt="Battery Management System - BMS" title="Battery Management System - BMS" class="lazy system-slider-img">
+                                <source srcset="images/bms.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/bms.jpg" src="images/bms.jpg" alt="Battery Management System - BMS" title="Battery Management System - BMS" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1140,7 +1140,7 @@
                         <div class="item">
                             <picture>
                                 <source srcset="images/motor-control.webp" type="image/webp">
-                                <source srcset="images/motor-control.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/motor-control.jpg" src="images/motor-control.jpg" alt="Motor Controller" title="Motor Controller" class="lazy system-slider-img">
+                                <source srcset="images/motor-control.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/motor-control.jpg" src="images/motor-control.jpg" alt="Motor Controller" title="Motor Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1152,7 +1152,7 @@
                         <div class="item">
                             <picture>
                                 <source srcset="images/slider-3.webp" type="image/webp">
-                                <source srcset="images/slider-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/home/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" src="images/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" alt="CCS2 Controller" title="CCS2 Controller" class="lazy system-slider-img">
+                                <source srcset="images/slider-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/home/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" src="images/xslider-3.jpg.pagespeed.ic.Qx-cTjsFvU.webp" alt="CCS2 Controller" title="CCS2 Controller" class="lazy system-slider-img">
                             </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
@@ -1187,12 +1187,12 @@
                         <div class="img-box">
                             <picture>
                                 <source srcset="images/insight-box-1.webp" type="image/webp">
-                                <source srcset="images/insight-box-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" src="images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" alt="White Paper" title="White Paper" class="lazy ob-cover ">
+                                <source srcset="images/insight-box-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" src="images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" alt="White Paper" title="White Paper" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">White Paper</h3>
-                            <a href="https://www.kasinfotech.com/resources/" class="text-sm text-item-center cta-item long-arrow-hover">
+                            <a href="<?php echo base_url();?>resources/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>
@@ -1204,12 +1204,12 @@
                         <div class="img-box">
                             <picture>
                                 <source srcset="images/insight-box-2.webp" type="image/webp">
-                                <source srcset="images/insight-box-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" src="images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" alt="Case Study" title="Case Study" class="lazy ob-cover ">
+                                <source srcset="images/insight-box-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" src="images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" alt="Case Study" title="Case Study" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">Case Study</h3>
-                            <a href="https://www.kasinfotech.com/case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
+                            <a href="<?php echo base_url();?>case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>
@@ -1221,12 +1221,12 @@
                         <div class="img-box">
                             <picture>
                                 <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
-                                <source srcset="images/insight-box-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" src="images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" alt="Blogs" title="Blogs" class="lazy ob-cover ">
+                                <source srcset="images/insight-box-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" src="images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" alt="Blogs" title="Blogs" class="lazy ob-cover ">
                             </picture>
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">Blogs</h3>
-                            <a href="https://www.kasinfotech.com/blog/" class="text-sm text-item-center cta-item long-arrow-hover">
+                            <a href="<?php echo base_url();?>blog/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>
@@ -1265,7 +1265,7 @@
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
                                         <source srcset="images/insight-slide-1.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-1.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="images/xinsight-slide-1.jpg%2Cqv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
+                                        <source srcset="images/insight-slide-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="images/xinsight-slide-1.jpg%2Cqv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1280,7 +1280,7 @@
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
                                         <source srcset="images/insight-slide-2.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-2.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="images/xinsight-slide-2.jpg%2Cqv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
+                                        <source srcset="images/insight-slide-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="images/xinsight-slide-2.jpg%2Cqv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1295,7 +1295,7 @@
                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                     <picture>
                                         <source srcset="images/insight-slide-3.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-3.jpg" type="image/jpeg"><img data-src="https://www.kasinfotech.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="images/xinsight-slide-3.jpg%2Cqv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
+                                        <source srcset="images/insight-slide-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="images/xinsight-slide-3.jpg%2Cqv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
                                     </picture>
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">

@@ -271,7 +271,7 @@
                                     <div class="img-text position-relative h-100">
                                         <picture>
                                             <source srcset="images/system-bg.webp" type="image/webp">
-                                            <source srcset="images/system-bg.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xsystem-bg.jpg.pagespeed.ic.Ws3yXqkA8x.webp" src="images/xsystem-bg.jpg.pagespeed.ic.Ws3yXqkA8x.webp" alt="KAS PVT LTD" title="KAS PVT LTD" class="ob-cover">
+                                            <source srcset="images/system-bg.jpg" type="image/jpeg"><img src="<?php echo asset('images/logo.png')?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="ob-cover">
                                         </picture>
                                         <div class="img-text-inner">
                                             <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>

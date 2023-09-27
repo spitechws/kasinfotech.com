@@ -130,48 +130,48 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Case Studies</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/" rel="nofollow">React JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/" rel="nofollow">Angular JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/vuejs/" rel="nofollow">Vue JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/nodejs/" rel="nofollow">Node JS</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/" rel="nofollow">Explore All</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/" rel="nofollow">React JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/" rel="nofollow">Explore All</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Fortune 500 Clients</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/verizon/" rel="nofollow">Verizon </a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/verizon/" rel="nofollow">Verizon </a></li>
+                            <li><a href="<?php echo base_url();?>case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/case-study/information-technology/" rel="nofollow">Information Technology</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/bfsi/" rel="nofollow">BFSI</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/education/" rel="nofollow">Education</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/retail/" rel="nofollow">Retail</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/healthcare/" rel="nofollow">Healthcare</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/public-services/" rel="nofollow">Public Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/cloud/" rel="nofollow">Cloud</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
-                            <li><a href="https://www.kasinfotech.com/case-study/real-estate/" rel="nofollow">Real Estate</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/information-technology/" rel="nofollow">Information Technology</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/bfsi/" rel="nofollow">BFSI</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/education/" rel="nofollow">Education</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/retail/" rel="nofollow">Retail</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/healthcare/" rel="nofollow">Healthcare</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/public-services/" rel="nofollow">Public Services</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/cloud/" rel="nofollow">Cloud</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
+                            <li><a href="<?php echo base_url();?>case-study/real-estate/" rel="nofollow">Real Estate</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -181,64 +181,64 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Experience</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/digital-workplace-services">Digital Workplace Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/product-enhancement">Product Enhancement</a></li>
+                            <li><a href="<?php echo base_url();?>digital-workplace-services">Digital Workplace Services</a></li>
+                            <li><a href="<?php echo base_url();?>product-enhancement">Product Enhancement</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="https://www.kasinfotech.com/data-analytics-services">Data Analytics</a></li>
+                            <li><a href="<?php echo base_url();?>ai-ml-development-services">AI & Automation </a></li>
+                            <li><a href="<?php echo base_url();?>data-analytics-services">Data Analytics</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">SAP Solutions</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/sap-consulting-services">SAP Consultation</a></li>
+                            <li><a href="<?php echo base_url();?>sap-consulting-services">SAP Consultation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Innovate</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-blockchain-developer">Blockchain </a></li>
-                            <li><a href="https://www.kasinfotech.com/software-engineering">Software Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/web-development-services">Web Development</a></li>
-                            <li><a href="https://www.kasinfotech.com/internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-data-scientist">Data Scientist</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-ai-developer">AI Developer</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-ml-developer">ML Developer</a></li>
+                            <li><a href="<?php echo base_url();?>hire-blockchain-developer">Blockchain </a></li>
+                            <li><a href="<?php echo base_url();?>software-engineering">Software Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>web-development-services">Web Development</a></li>
+                            <li><a href="<?php echo base_url();?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
+                            <li><a href="<?php echo base_url();?>hire-data-scientist">Data Scientist</a></li>
+                            <li><a href="<?php echo base_url();?>hire-ai-developer">AI Developer</a></li>
+                            <li><a href="<?php echo base_url();?>hire-ml-developer">ML Developer</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
-                            <li><a href="https://www.kasinfotech.com/digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="https://www.kasinfotech.com/open-source-web-development">Open Source </a></li>
-                            <li><a href="https://www.kasinfotech.com/dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="https://www.kasinfotech.com/salesforce-consulting-service">Salesforce</a></li>
-                            <li><a href="https://www.kasinfotech.com/customer-experience-transformation">Service Experience Transformation</a></li>
+                            <li><a href="<?php echo base_url();?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+                            <li><a href="<?php echo base_url();?>digital-process-automation">Digital Process Automation </a></li>
+                            <li><a href="<?php echo base_url();?>open-source-web-development">Open Source </a></li>
+                            <li><a href="<?php echo base_url();?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
+                            <li><a href="<?php echo base_url();?>salesforce-consulting-service">Salesforce</a></li>
+                            <li><a href="<?php echo base_url();?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Assure</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/quality-assurance-testing-services">Quality Assurance</a></li>
-                            <li><a href="https://www.kasinfotech.com/it-staff-augmentation-services">IT Staff Augmentation </a></li>
+                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Quality Assurance</a></li>
+                            <li><a href="<?php echo base_url();?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/systems/">Product Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/analog-design-services">Analog Design Services</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/fpga-engineering-service">FPGA Engineering Service</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/wireless-design-services">Wireless Design</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/embedded-software-design">Embedded Software Design</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/hardware-engineering-solutions">Hardware Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/power-engineering-services">Power Engineering</a></li>
-                            <li><a href="https://www.kasinfotech.com/systems/iot-hardware-solutions">IoT Hardware</a></li>
+                            <li><a href="<?php echo base_url();?>systems/">Product Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/analog-design-services">Analog Design Services</a></li>
+                            <li><a href="<?php echo base_url();?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
+                            <li><a href="<?php echo base_url();?>systems/wireless-design-services">Wireless Design</a></li>
+                            <li><a href="<?php echo base_url();?>systems/embedded-software-design">Embedded Software Design</a></li>
+                            <li><a href="<?php echo base_url();?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/power-engineering-services">Power Engineering</a></li>
+                            <li><a href="<?php echo base_url();?>systems/iot-hardware-solutions">IoT Hardware</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -247,12 +247,12 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
-                            <li><a href="https://www.kasinfotech.com/minimum-viable-product-development-service">Startups</a></li>
-                            <li><a href="https://www.kasinfotech.com/oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
-                            <li><a href="https://www.kasinfotech.com/healthcare-application-software-development">Healthcare Life Science</a></li>
-                            <li><a href="https://www.kasinfotech.com/real-estate-software-development">Real Estate & Construction </a></li>
-                            <li><a href="https://www.kasinfotech.com/logistics-mobile-application-development">Logistics </a></li>
+                            <li><a href="<?php echo base_url();?>banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
+                            <li><a href="<?php echo base_url();?>minimum-viable-product-development-service">Startups</a></li>
+                            <li><a href="<?php echo base_url();?>oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
+                            <li><a href="<?php echo base_url();?>healthcare-application-software-development">Healthcare Life Science</a></li>
+                            <li><a href="<?php echo base_url();?>real-estate-software-development">Real Estate & Construction </a></li>
+                            <li><a href="<?php echo base_url();?>logistics-mobile-application-development">Logistics </a></li>
                         </ul>
                     </ul>
                 </li>
@@ -261,21 +261,21 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/about-us">About Us</a></li>
-                            <li><a href="https://www.kasinfotech.com/leadership">Leadership Team</a></li>
-                            <li><a href="https://www.kasinfotech.com/awards-recognition">Awards & Recognition</a></li>
-                            <li><a href="https://www.kasinfotech.com/infrastructure">Infrastructure </a></li>
-                            <li><a href="https://www.kasinfotech.com/locations">Our Locations</a></li>
-                            <li><a href="https://www.kasinfotech.com/partnership">Partnership</a></li>
-                            <li><a href="https://www.kasinfotech.com/media-coverage">Media Coverage</a></li>
+                            <li><a href="<?php echo base_url();?>about-us">About Us</a></li>
+                            <li><a href="<?php echo base_url();?>leadership">Leadership Team</a></li>
+                            <li><a href="<?php echo base_url();?>awards-recognition">Awards & Recognition</a></li>
+                            <li><a href="<?php echo base_url();?>infrastructure">Infrastructure </a></li>
+                            <li><a href="<?php echo base_url();?>locations">Our Locations</a></li>
+                            <li><a href="<?php echo base_url();?>partnership">Partnership</a></li>
+                            <li><a href="<?php echo base_url();?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/agile-mindset">Agile Mindset</a></li>
-                            <li><a href="https://www.kasinfotech.com/KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="https://www.kasinfotech.com/KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url();?>agile-mindset">Agile Mindset</a></li>
+                            <li><a href="<?php echo base_url();?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
+                            <li><a href="<?php echo base_url();?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -284,86 +284,86 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Front End</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/angular-js-development">Angular</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-reactjs-developer">Reactjs</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-vuejs-developer">Vue.js</a></li>
-                            <li><a href="https://www.kasinfotech.com/ui-ux-enhancement-service">UI/UX</a></li>
+                            <li><a href="<?php echo base_url();?>angular-js-development">Angular</a></li>
+                            <li><a href="<?php echo base_url();?>hire-reactjs-developer">Reactjs</a></li>
+                            <li><a href="<?php echo base_url();?>hire-vuejs-developer">Vue.js</a></li>
+                            <li><a href="<?php echo base_url();?>ui-ux-enhancement-service">UI/UX</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Platforms</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-salesforce-developer">Salesforce</a></li>
+                            <li><a href="<?php echo base_url();?>hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
+                            <li><a href="<?php echo base_url();?>hire-salesforce-developer">Salesforce</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Back End</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/ruby-on-rails-development">Ruby on Rails</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-node-developer">Node.js</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-golang-developer">Golang</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-laravel-developer">Laravel</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-dot-net-developer">.NET</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-spring-boot-developer">Java </a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-python-developer">Python</a></li>
+                            <li><a href="<?php echo base_url();?>ruby-on-rails-development">Ruby on Rails</a></li>
+                            <li><a href="<?php echo base_url();?>hire-node-developer">Node.js</a></li>
+                            <li><a href="<?php echo base_url();?>hire-golang-developer">Golang</a></li>
+                            <li><a href="<?php echo base_url();?>hire-laravel-developer">Laravel</a></li>
+                            <li><a href="<?php echo base_url();?>hire-dot-net-developer">.NET</a></li>
+                            <li><a href="<?php echo base_url();?>hire-spring-boot-developer">Java </a></li>
+                            <li><a href="<?php echo base_url();?>hire-python-developer">Python</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Mobile</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/hire-react-native-developer">React Native</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-flutter-developer">Flutter</a></li>
-                            <li><a href="https://www.kasinfotech.com/android-application-development">Android</a></li>
-                            <li><a href="https://www.kasinfotech.com/mobile-app-development">iOS</a></li>
+                            <li><a href="<?php echo base_url();?>hire-react-native-developer">React Native</a></li>
+                            <li><a href="<?php echo base_url();?>hire-flutter-developer">Flutter</a></li>
+                            <li><a href="<?php echo base_url();?>android-application-development">Android</a></li>
+                            <li><a href="<?php echo base_url();?>mobile-app-development">iOS</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Cloud</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/aws-cloud-consulting-services">AWS</a></li>
-                            <li><a href="https://www.kasinfotech.com/hire-devops-developers">DevOps</a></li>
+                            <li><a href="<?php echo base_url();?>aws-cloud-consulting-services">AWS</a></li>
+                            <li><a href="<?php echo base_url();?>hire-devops-developers">DevOps</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">QA</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/automation-testing-services">Automation Testing</a></li>
-                            <li><a href="https://www.kasinfotech.com/quality-assurance-testing-services">Software Testing </a></li>
+                            <li><a href="<?php echo base_url();?>automation-testing-services">Automation Testing</a></li>
+                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Software Testing </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="https://www.kasinfotech.com/systems/embedded-developer">Embedded </a></li>
+                            <li><a href="<?php echo base_url();?>systems/embedded-developer">Embedded </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
-                        <a href="https://www.kasinfotech.com/technologies" class>Explore All</a>
+                        <a href="<?php echo base_url();?>technologies" class>Explore All</a>
                     </ul>
                 </li>
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">Products</a>
                     <ul class="sub-side">
-                        <li><a href="https://www.kasinfotech.com/systems/battery-management-system">Battery Management System</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/motor-controller">Motor Controller</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ccs2-controller">CCS2 Controller</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/dc-fast-charger">DC Fast Charger</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ac-fast-charger-manufacturer">AC Charger</a></li>
-                        <li><a href="https://www.kasinfotech.com/systems/ac-charge-controller">AC Charge Controller</a></li>
-                        <a href="https://www.kasinfotech.com/systems/products" class>Explore All</a>
+                        <li><a href="<?php echo base_url();?>systems/battery-management-system">Battery Management System</a></li>
+                        <li><a href="<?php echo base_url();?>systems/motor-controller">Motor Controller</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ccs2-controller">CCS2 Controller</a></li>
+                        <li><a href="<?php echo base_url();?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url();?>systems/dc-fast-charger">DC Fast Charger</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
+                        <li><a href="<?php echo base_url();?>systems/ac-charge-controller">AC Charge Controller</a></li>
+                        <a href="<?php echo base_url();?>systems/products" class>Explore All</a>
                     </ul>
                 </li>
             </ul>
             <ul>
-                <li><a href="https://www.kasinfotech.com/careers">Careers</a></li>
-                <li><a href="https://www.kasinfotech.com/careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
-                <li><a href="https://www.kasinfotech.com/blog/">Blogs</a></li>
-                <li><a href="https://www.kasinfotech.com/resources/">Resources</a></li>
-                <li><a href="https://www.kasinfotech.com/testimonials">Customer Reviews</a></li>
-                <li><a href="https://www.kasinfotech.com/contactus">Contact</a></li>
+                <li><a href="<?php echo base_url();?>careers">Careers</a></li>
+                <li><a href="<?php echo base_url();?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url();?>blog/">Blogs</a></li>
+                <li><a href="<?php echo base_url();?>resources/">Resources</a></li>
+                <li><a href="<?php echo base_url();?>testimonials">Customer Reviews</a></li>
+                <li><a href="<?php echo base_url();?>contactus">Contact</a></li>
                 <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>
@@ -480,7 +480,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">new edition out now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -496,7 +496,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="https://www.kasinfotech.com/main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
+                        <a href="<?php echo base_url();?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">visit now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -512,7 +512,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">We’re Hiring! Come Join Our Team!</h3>
-                        <a href="https://www.kasinfotech.com/careers" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>careers" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">apply now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -546,7 +546,7 @@
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">Outsourcing: The Good,The Bad and The Honest Truth</h4>
-                        <a href="https://www.kasinfotech.com/blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
+                        <a href="<?php echo base_url();?>blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">Visit Now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -562,7 +562,7 @@
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="https://www.kasinfotech.com/development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">Let's connect </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -593,7 +593,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
-                        <a href="https://www.kasinfotech.com/services#2" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#2" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -602,7 +602,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Enterprise Application Management </h3>
-                        <a href="https://www.kasinfotech.com/services#3" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#3" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -611,7 +611,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four ">
                         <h3 class="card-title text-white h3">Agile QA, Automation and DevOps </h3>
-                        <a href="https://www.kasinfotech.com/services#4" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>services#4" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -620,7 +620,7 @@
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four ">
                         <h3 class="card-title text-white h3">Embedded & Hardware</h3>
-                        <a href="https://www.kasinfotech.com/systems/" class="text-sm text-item-center">
+                        <a href="<?php echo base_url();?>systems/" class="text-sm text-item-center">
                             <span class="text-primary text-uppercase ls-sm">Discover</span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -747,7 +747,7 @@
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
-                        <a href="https://www.kasinfotech.com/about-us"><button class="btn btn-outline-primary  text-uppercase">Know More</button></a>
+                        <a href="<?php echo base_url();?>about-us"><button class="btn btn-outline-primary  text-uppercase">Know More</button></a>
                     </div>
                 </div>
             </div>
@@ -904,7 +904,7 @@
                             Agile is not a principal or a method, but it’s an integral part of being Agile that is
                             guided by principles, defined by values and manifested through various practices.
                         </p>
-                        <a href="https://www.kasinfotech.com/agile-mindset" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>agile-mindset" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -919,7 +919,7 @@
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -934,7 +934,7 @@
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="https://www.kasinfotech.com/KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url();?>KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -960,7 +960,7 @@
                             <p class="text-left h3 section-short-desc text-white mb-50">
                                 The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2011.
                             </p>
-                            <a href="https://www.kasinfotech.com/clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
+                            <a href="<?php echo base_url();?>clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
                             </a>
                         </div>
                     </div>
@@ -1128,7 +1128,7 @@
                 </div>
                 <div class="col-lg-5">
                     <p>Associate with the innovative team of embedded engineers, designers and consultants to ace your embedded development processes.</p>
-                    <a href="https://www.kasinfotech.com/systems/products" class="text-sm text-item-center long-arrow-hover">
+                    <a href="<?php echo base_url();?>systems/products" class="text-sm text-item-center long-arrow-hover">
                         <span class="text-primary text-uppercase ls-xs font-semibold">discover All </span>
                         <span class="long-arrow-icon-css icon-item right"></span>
                     </a>
@@ -1233,7 +1233,7 @@
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">White Paper</h3>
-                            <a href="https://www.kasinfotech.com/resources/" class="text-sm text-item-center cta-item long-arrow-hover">
+                            <a href="<?php echo base_url();?>resources/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>
@@ -1251,7 +1251,7 @@
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">Case Study</h3>
-                            <a href="https://www.kasinfotech.com/case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
+                            <a href="<?php echo base_url();?>case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>
@@ -1268,7 +1268,7 @@
                         </div>
                         <div class="text-content text-center">
                             <h3 class="text-white h4 title my-auto">Blogs</h3>
-                            <a href="https://www.kasinfotech.com/blog/" class="text-sm text-item-center cta-item long-arrow-hover">
+                            <a href="<?php echo base_url();?>blog/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                             </a>

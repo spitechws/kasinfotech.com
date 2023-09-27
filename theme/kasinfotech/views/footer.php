@@ -4,7 +4,7 @@
             <div class="row g-4 gy-lg-0 align-items-md-center">
                 <div class="col-md-12 col-lg-3 d-lg-flex">
                     <div class="get-in-touch-block">
-                        <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="https://www.kasinfotech.com/contactus" class="text-white">Get in Touch</a></h5>
+                        <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="<?php echo base_url();?>contactus" class="text-white">Get in Touch</a></h5>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 ">
@@ -29,12 +29,14 @@
                         <div class="icon-block">
                             <picture>
                                 <source srcset="<?php echo asset('images/gmail-icon.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" alt="KAS PVT LTDBusiness Email" title="KAS PVT LTDBusiness Email" class="lazy img-item">
+                                <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png">
+                                <img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" alt="KAS PVT LTDBusiness Email" title="KAS PVT LTDBusiness Email" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Email Us</p>
-                            <span class="h4 text-white-all"><a href="/cdn-cgi/l/email-protection#71021e1d0405181e1f0231131012101f12085f121e1c" class="mail-id"><span class="__cf_email__" data-cfemail="2f5c40435a5b4640415c6f4d4e4c4e414c56014c4042"><?php  echo $contact_email;?></span></a></span>
+                            <span class="h4 text-white-all"><a href="mailto:<?php echo $contact_email;?>" class="mail-id">
+                            <span><?php  echo $contact_email;?></span></a></span>
                         </div>
                     </div>
                 </div>
@@ -45,65 +47,56 @@
                 <div class="col-lg-12 tabs text-center justify-content-center justify-content-lg-end">
                     <ul class="footer-link-row -primary KAS PVT LTD-rating-block justify-content-center justify-content-lg-start mt-0">
                         <li>
-                            <a href="https://www.kasinfotech.com/main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
+                            <a href="<?php echo base_url();?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
                                 Brochure
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/quality-assurance-testing-services" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>quality-assurance-testing-services" class="col footer-link-item text-sm">
                                 Quality Assurance
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/resources/" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>resources/" class="col footer-link-item text-sm">
                                 Resources
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/tutorials/" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>tutorials/" class="col footer-link-item text-sm">
                                 Tutorials
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/testimonials" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>testimonials" class="col footer-link-item text-sm">
                                 Customer Reviews
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/investor-relations" rel="nofollow" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>investor-relations" rel="nofollow" class="col footer-link-item text-sm">
                                 Investor Relations
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/privacy-policy" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>privacy-policy" class="col footer-link-item text-sm">
                                 Privacy Policy
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/faqs" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>faqs" class="col footer-link-item text-sm">
                                 FAQs
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/qanda" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url();?>qanda" class="col footer-link-item text-sm">
                                 QandA
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.kasinfotech.com/contactus" class="col footer-link-item text-sm">
+                            <a href="<?php echo base_url('contact-us')?>" class="col footer-link-item text-sm">
                                 Contact Us
                             </a>
                         </li>
-                        <li>
-                            <a href="https://www.kasinfotech.com/sitemap" class="col footer-link-item text-sm">
-                                Sitemap
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://sites.google.com/KAS PVT LTD.com/KAS PVT LTDintranetsite/home" class="col footer-link-item text-sm">
-                                Employee
-                            </a>
-                        </li>
+                        
                     </ul>
 
                 </div>
@@ -229,7 +222,7 @@
         });
     })(jQuery);
     $(document).ready(function() {
-                var user_visit = "https://www.kasinfotech.com/";
+                var user_visit = "<?php echo base_url();?>";
                 var SCREEN_WIDTH = window.screen.width;
                 var RENDER_WIDTH = '';
                 var IS_WEBP = '';
