@@ -106,10 +106,8 @@
         <div class="logo">
             <a href="<?php echo $site_url; ?>">
                 <img style="border: 2px solid white;" src="<?php echo $site_theme; ?>images/logo.png">
-
             </a>
         </div>
-
         <div class="site-menu">
             <div class="menu">
                 <div id="bs-example-navbar-collapse-2" class="collapse navbar-collapse">

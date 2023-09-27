@@ -12,13 +12,14 @@
                         <div class="icon-block">
                             <picture>
                                 <source srcset="<?php echo asset('images/call-yellow-icon.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png"><img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEUAAAD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD////+9Ov2jTT6vor2iSv+9u797N3969v83sT6xpn5uoT5r3D3nE32lED959VL17lWAAAAEXRSTlMAHvN3+eSnubhwV6YgWU7XIs+DM+EAAAC8SURBVCjPdZJZDsMgDETZs3YxIWRPe/9TFgKkFm3ej9GM7JFsSITyQgr2KHlLMLSBk4Z+9TsDBLslvYKMKug1/FAf892cSevO4mk+x+dqxw4I5Rp8HZyxAYYS7svsjB4wnJS+rC7DAKYk0heTN4Ak4qhL3iGiYUf9NmD6bbfJkOHxGnTXd9plpVEFRGfUgRTOIWIXbHDSwolZ50FP4e3OouAPKi4xh9GrtV8d6vq0CapQLg0a/j5CFvwZhQ806x39smsfBAAAAABJRU5ErkJggg==" alt="KAS PVT LTDContact Number" title="KAS PVT LTDContact Number" class="lazy img-item">
+                                <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png">
+                                <img alt="KAS PVT LTD" title="KAS PVT LTD" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Contact Number</p>
                             <h4 class="h4 text-white">
-                                <a href="tel:+13474414161" class="text-white">+1 347 441 4161</a>
+                                <a href="tel:<?php echo $contact_number;?>" class="text-white"><?php echo $contact_number;?></a>
 
                             </h4>
                         </div>
@@ -30,7 +31,6 @@
                             <picture>
                                 <source srcset="<?php echo asset('images/gmail-icon.webp'); ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png">
-                                <img data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAADbklEQVQ4jZWV3W8UVRjGf+djZj9mu2Vb7BbSGsOFxs/oTaPeEOXGf0CxCQTDhUYjsaRFxSaaQGoVQRDiRxruDfFK8Maod35cafRKo2GxBaTQbj/Y3ZndmZ05Zs5SUlMo9U3Oxbw553me877PeUdc2bH9GdHTeyq3f7TsPvEkCWBqNZCS/xVJgujqIj0V/vIzzWNH5pKrs/vF3PCztfbMdCEJArIv7CW7bwSR7vd9ewgh1gc2xu6RnocBmlOf0To9BY6DMzAQyKBWz2cHBlB9ZZqffkx9zy7af/yOyucR+XyHZD3VuRzK84grFeov7qV54hiyVCJ/9yBBveGqnZt6xqSSGU+CyHvEly8RnjsLrovz6GOITAYThh3A1bcxBtnVhZCS1hdn8N96g+TiDPquPhxHsxwlzM5VGykslyszXO3uQQwOogVWVfD+u9T3vUJ85R9UoWAJbTnSpbXNJfPz1MdG8A+9Y3NaKdTWrcz19nGpMo1JDFIpiVpewi9vIfjwJPH2p1DVeXT/FqIfv6e+e5jmV2eRrosoFOySmQytb76mtut5ou++RZf7UQtV4qHH8Y+fojF4D2phgRTbWkUohV5cJCmVCCY/oDX6OoQhjpuBdow//iaNt8chimx1/InDNA6MYgIfJ+1TENB69TWCoydIenvRi1WE6rhQ36ypUoilJUQYEu7eQ/zwI2SOH0X99iui3E947kuS2VmE1rR/+gFV7kNeu0Z8/4OEI6O0h4aQ8/P2dkh1s196tSms95tNZKVC/MBDBCc/wT09hXPmc3SxSPLXnxhjUN2bENUq0XPDtF56GVPsRl64YEWSy/0Xco31UmYpkRdnoN2mNXqA1uQRTKnH9kpfX8Z4Hs3DkzQPjndApv/unLvFm9FrMqtLtryMqNeJnt5BfO99ZN6bQIQRrYPjxNu2IWc6Iqzy28TtCVZKlvq9UsH0bqZ5aKJjU8dFnj/fAb7DSFmfwD7WzriQi1VIXZWWoXZ9XdUbIkibmYLnUxum1vR91A2bIjY+CG9JkNyYP4VCgVwuZ8miKLJLbVD5Skhj8FYn4ji2IMVikWw2S7vdtoQpWZpfId9g5NNR0TJJ0ilJHFvFKbjW2pKtlEtKaUlWvjcYsTZxvBMhPgI2e56H67okYbhGafrtOI7tSdoPcaf/BFSBsX8B7tBq7iAkA4kAAAAASUVORK5CYII=" alt="KAS PVT LTDBusiness Email" title="KAS PVT LTDBusiness Email" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
@@ -179,40 +179,6 @@
 <script src="<?php echo asset('js/bootstrap.bundle.min.js%2Cqv-2.pagespeed.jm.wJ8zk3E_nH.js') ?>" type="text/javascript"></script>
 <script src="<?php echo asset('js/owl.carousel.min.js') ?>" crossorigin="anonymous" type="text/javascript"></script>
 <script src="<?php echo asset('js/main.js') ?>" type="text/javascript"></script>
-<script defer type="text/javascript">
-    if (window.matchMedia('(max-width: 767px)').matches) {
-        $(document).ready(function() {
-            var prevScrollTop = $(window).scrollTop()
-            $(window).on('scroll', function(e) {
-                var $src = $('.mobile-page .cookie-line');
-                var currentScrollTop = $(this).scrollTop()
-                if (currentScrollTop >= prevScrollTop & tScrollTop > 10000) {
-                    $src.css({
-                        'position': 'fixed',
-                        'bottom': '0'
-                    });
-                    $('.mobile-page .cookie-line').slideDown();
-                } else {
-                    $src.css({
-                        'position': 'static',
-                    });
-                    $(".mobile-page .cookie-line").hide();
-                }
-                prevScrollTop = currentScrollTop
-            });
-        });
-        $(".notification-close-cross").click(function() {
-            $(".cookie-line").addClass("close-cookie");
-        });
-    }
-</script>
-<script src="assets/js/scroll-library.js%2Cqv-13%2Bjquery.validate.min.js%2Cqv-14.pagespeed.jc.zjXcKgOGgU.js" type="text/javascript"></script>
-<script type="text/javascript">
-    eval(mod_pagespeed_pilb6nlXtZ);
-</script>
-<script type="text/javascript">
-    eval(mod_pagespeed_1WYcWSgSrx);
-</script>
 
 <script type="text/javascript">
     (function($) {

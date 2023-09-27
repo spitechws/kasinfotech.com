@@ -13,7 +13,7 @@
                 width: 25% !important
             }
         </style>
-        <a class="navbar-brand" href="<?php echo base_url(); ?>'">
+        <a class="navbar-brand" href="<?php echo base_url(); ?>">
             <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-black">
             <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-white">
         </a>
@@ -269,10 +269,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="img-text position-relative h-100">
-                                        <picture>
-                                            <source srcset="images/system-bg.webp" type="image/webp">
-                                            <source srcset="images/system-bg.jpg" type="image/jpeg"><img src="<?php echo asset('images/logo.png')?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="ob-cover">
-                                        </picture>
+                                        <img src="<?php echo asset('images/logo.png') ?>" class="ob-cover" width="100">
                                         <div class="img-text-inner">
                                             <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>
                                             <a href="<?php echo base_url('get-quote') ?>" class="text-uppercase text-primary">get quote<span class="long-arrow-icon-css icon-item right mt-0"></span></a>
