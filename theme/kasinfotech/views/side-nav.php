@@ -4,10 +4,7 @@
             <div class="sidebar_left">
                 <div class="d-none d-xl-flex row align-items-center gx-0">
                     <div class="col-xl-2">
-                        <picture>
-                            <source srcset="images/small-gptw.webp" type="image/webp">
-                            <source srcset="images/small-gptw.png" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/header/xsmall-gptw.png,qv-3.pagespeed.ic.Idc6gB3rBa.png" src="images/xsmall-gptw.png%2Cqv-3.pagespeed.ic.Idc6gB3rBa.png" alt="KAS PVT LTDGreat Place to Work" title="KAS PVT LTDGreat Place to Work">
-                        </picture>
+                        <img src="<?php echo asset('images/small-gptw.webp') ?>">
                     </div>
                     <div class="col-xl-10">
                         <h3 class="font-bold mb-sm">KAS PVT LTD</h3>
@@ -113,48 +110,48 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Case Studies</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/" rel="nofollow">React JS</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/" rel="nofollow">Explore All</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/" rel="nofollow">React JS</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/" rel="nofollow">Explore All</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Fortune 500 Clients</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>case-study/verizon/" rel="nofollow">Verizon </a></li>
-                            <li><a href="<?php echo base_url();?>case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
-                            <li><a href="<?php echo base_url();?>case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/verizon/" rel="nofollow">Verizon </a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/the-container-store/" rel="nofollow">The Container Store</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/kpmg" rel="nofollow">KPMG</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/react-native/academy-sports-outdoors" rel="nofollow">Academy Sports & Outdoors</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/bangkokbank" rel="nofollow">Bangkok Bank Ltd</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/react-native/the-childrens-place" rel="nofollow">The Children's Place</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/edward-jones" rel="nofollow">Edward Jones</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/angularjs/franklintempleton" rel="nofollow">Franklin Templeton </a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/angularjs/adviceworks" rel="nofollow">AdviceWorks</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/natwest-markets" rel="nofollow">NatWest Markets</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/reactjs/bridgestone" rel="nofollow">Bridgestone</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/angularjs/ups" rel="nofollow">United Parcel Service</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>case-study/information-technology/" rel="nofollow">Information Technology</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/bfsi/" rel="nofollow">BFSI</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/education/" rel="nofollow">Education</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/retail/" rel="nofollow">Retail</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/healthcare/" rel="nofollow">Healthcare</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/public-services/" rel="nofollow">Public Services</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/cloud/" rel="nofollow">Cloud</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
-                            <li><a href="<?php echo base_url();?>case-study/real-estate/" rel="nofollow">Real Estate</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/information-technology/" rel="nofollow">Information Technology</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/bfsi/" rel="nofollow">BFSI</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/education/" rel="nofollow">Education</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/marketing-advertising/" rel="nofollow">Marketing & Advertising</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/manufacturing/" rel="nofollow">Manufacturing</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/retail/" rel="nofollow">Retail</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/logistics-transportation/" rel="nofollow">Logistics & Transportation</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/healthcare/" rel="nofollow">Healthcare</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/ecommerce/" rel="nofollow">eCommerce</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/public-services/" rel="nofollow">Public Services</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/travel-hospitality/" rel="nofollow">Travel & Hospitality</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/cloud/" rel="nofollow">Cloud</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/telecommunications/" rel="nofollow">Telecommunications</a></li>
+                            <li><a href="<?php echo base_url(); ?>case-study/real-estate/" rel="nofollow">Real Estate</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -164,64 +161,64 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Experience</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>digital-workplace-services">Digital Workplace Services</a></li>
-                            <li><a href="<?php echo base_url();?>product-enhancement">Product Enhancement</a></li>
+                            <li><a href="<?php echo base_url(); ?>digital-workplace-services">Digital Workplace Services</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">Product Enhancement</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="<?php echo base_url();?>data-analytics-services">Data Analytics</a></li>
+                            <li><a href="<?php echo base_url(); ?>ai-ml-development-services">AI & Automation </a></li>
+                            <li><a href="<?php echo base_url(); ?>data-analytics-services">Data Analytics</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">SAP Solutions</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>sap-consulting-services">SAP Consultation</a></li>
+                            <li><a href="<?php echo base_url(); ?>sap-consulting-services">SAP Consultation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Innovate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>hire-blockchain-developer">Blockchain </a></li>
-                            <li><a href="<?php echo base_url();?>software-engineering">Software Engineering</a></li>
-                            <li><a href="<?php echo base_url();?>web-development-services">Web Development</a></li>
-                            <li><a href="<?php echo base_url();?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
-                            <li><a href="<?php echo base_url();?>hire-data-scientist">Data Scientist</a></li>
-                            <li><a href="<?php echo base_url();?>hire-ai-developer">AI Developer</a></li>
-                            <li><a href="<?php echo base_url();?>hire-ml-developer">ML Developer</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Blockchain </a></li>
+                            <li><a href="<?php echo base_url(); ?>software-engineering">Software Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Web Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-data-scientist">Data Scientist</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ai-developer">AI Developer</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ml-developer">ML Developer</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
-                            <li><a href="<?php echo base_url();?>digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="<?php echo base_url();?>open-source-web-development">Open Source </a></li>
-                            <li><a href="<?php echo base_url();?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="<?php echo base_url();?>salesforce-consulting-service">Salesforce</a></li>
-                            <li><a href="<?php echo base_url();?>customer-experience-transformation">Service Experience Transformation</a></li>
+                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+                            <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
+                            <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
+                            <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
+                            <li><a href="<?php echo base_url(); ?>salesforce-consulting-service">Salesforce</a></li>
+                            <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Assure</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Quality Assurance</a></li>
-                            <li><a href="<?php echo base_url();?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
+                            <li><a href="<?php echo base_url(); ?>quality-assurance-testing-services">Quality Assurance</a></li>
+                            <li><a href="<?php echo base_url(); ?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>systems/">Product Engineering</a></li>
-                            <li><a href="<?php echo base_url();?>systems/analog-design-services">Analog Design Services</a></li>
-                            <li><a href="<?php echo base_url();?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
-                            <li><a href="<?php echo base_url();?>systems/wireless-design-services">Wireless Design</a></li>
-                            <li><a href="<?php echo base_url();?>systems/embedded-software-design">Embedded Software Design</a></li>
-                            <li><a href="<?php echo base_url();?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
-                            <li><a href="<?php echo base_url();?>systems/power-engineering-services">Power Engineering</a></li>
-                            <li><a href="<?php echo base_url();?>systems/iot-hardware-solutions">IoT Hardware</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/">Product Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/analog-design-services">Analog Design Services</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/wireless-design-services">Wireless Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/embedded-software-design">Embedded Software Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/power-engineering-services">Power Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/iot-hardware-solutions">IoT Hardware</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -230,12 +227,12 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Industries</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
-                            <li><a href="<?php echo base_url();?>minimum-viable-product-development-service">Startups</a></li>
-                            <li><a href="<?php echo base_url();?>oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
-                            <li><a href="<?php echo base_url();?>healthcare-application-software-development">Healthcare Life Science</a></li>
-                            <li><a href="<?php echo base_url();?>real-estate-software-development">Real Estate & Construction </a></li>
-                            <li><a href="<?php echo base_url();?>logistics-mobile-application-development">Logistics </a></li>
+                            <li><a href="<?php echo base_url(); ?>banking-finance-insurance-software-development">Banking Financial services & Insurance</a></li>
+                            <li><a href="<?php echo base_url(); ?>minimum-viable-product-development-service">Startups</a></li>
+                            <li><a href="<?php echo base_url(); ?>oil-and-gas-enterprise-mobility-solution">Oil & Gas</a></li>
+                            <li><a href="<?php echo base_url(); ?>healthcare-application-software-development">Healthcare Life Science</a></li>
+                            <li><a href="<?php echo base_url(); ?>real-estate-software-development">Real Estate & Construction </a></li>
+                            <li><a href="<?php echo base_url(); ?>logistics-mobile-application-development">Logistics </a></li>
                         </ul>
                     </ul>
                 </li>
@@ -244,21 +241,21 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>about-us">About Us</a></li>
-                            <li><a href="<?php echo base_url();?>leadership">Leadership Team</a></li>
-                            <li><a href="<?php echo base_url();?>awards-recognition">Awards & Recognition</a></li>
-                            <li><a href="<?php echo base_url();?>infrastructure">Infrastructure </a></li>
-                            <li><a href="<?php echo base_url();?>locations">Our Locations</a></li>
-                            <li><a href="<?php echo base_url();?>partnership">Partnership</a></li>
-                            <li><a href="<?php echo base_url();?>media-coverage">Media Coverage</a></li>
+                            <li><a href="<?php echo base_url(); ?>about-us">About Us</a></li>
+                            <li><a href="<?php echo base_url(); ?>leadership">Leadership Team</a></li>
+                            <li><a href="<?php echo base_url(); ?>awards-recognition">Awards & Recognition</a></li>
+                            <li><a href="<?php echo base_url(); ?>infrastructure">Infrastructure </a></li>
+                            <li><a href="<?php echo base_url(); ?>locations">Our Locations</a></li>
+                            <li><a href="<?php echo base_url(); ?>partnership">Partnership</a></li>
+                            <li><a href="<?php echo base_url(); ?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url();?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="<?php echo base_url();?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -267,86 +264,86 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Front End</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>angular-js-development">Angular</a></li>
-                            <li><a href="<?php echo base_url();?>hire-reactjs-developer">Reactjs</a></li>
-                            <li><a href="<?php echo base_url();?>hire-vuejs-developer">Vue.js</a></li>
-                            <li><a href="<?php echo base_url();?>ui-ux-enhancement-service">UI/UX</a></li>
+                            <li><a href="<?php echo base_url(); ?>angular-js-development">Angular</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-reactjs-developer">Reactjs</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-vuejs-developer">Vue.js</a></li>
+                            <li><a href="<?php echo base_url(); ?>ui-ux-enhancement-service">UI/UX</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Platforms</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
-                            <li><a href="<?php echo base_url();?>hire-salesforce-developer">Salesforce</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-microsoft-dynamics-365-developer">MS Dynamics</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-salesforce-developer">Salesforce</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Back End</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>ruby-on-rails-development">Ruby on Rails</a></li>
-                            <li><a href="<?php echo base_url();?>hire-node-developer">Node.js</a></li>
-                            <li><a href="<?php echo base_url();?>hire-golang-developer">Golang</a></li>
-                            <li><a href="<?php echo base_url();?>hire-laravel-developer">Laravel</a></li>
-                            <li><a href="<?php echo base_url();?>hire-dot-net-developer">.NET</a></li>
-                            <li><a href="<?php echo base_url();?>hire-spring-boot-developer">Java </a></li>
-                            <li><a href="<?php echo base_url();?>hire-python-developer">Python</a></li>
+                            <li><a href="<?php echo base_url(); ?>ruby-on-rails-development">Ruby on Rails</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-node-developer">Node.js</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-golang-developer">Golang</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-laravel-developer">Laravel</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-dot-net-developer">.NET</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-spring-boot-developer">Java </a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-python-developer">Python</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Mobile</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>hire-react-native-developer">React Native</a></li>
-                            <li><a href="<?php echo base_url();?>hire-flutter-developer">Flutter</a></li>
-                            <li><a href="<?php echo base_url();?>android-application-development">Android</a></li>
-                            <li><a href="<?php echo base_url();?>mobile-app-development">iOS</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-react-native-developer">React Native</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-flutter-developer">Flutter</a></li>
+                            <li><a href="<?php echo base_url(); ?>android-application-development">Android</a></li>
+                            <li><a href="<?php echo base_url(); ?>mobile-app-development">iOS</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Cloud</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>aws-cloud-consulting-services">AWS</a></li>
-                            <li><a href="<?php echo base_url();?>hire-devops-developers">DevOps</a></li>
+                            <li><a href="<?php echo base_url(); ?>aws-cloud-consulting-services">AWS</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-devops-developers">DevOps</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">QA</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>automation-testing-services">Automation Testing</a></li>
-                            <li><a href="<?php echo base_url();?>quality-assurance-testing-services">Software Testing </a></li>
+                            <li><a href="<?php echo base_url(); ?>automation-testing-services">Automation Testing</a></li>
+                            <li><a href="<?php echo base_url(); ?>quality-assurance-testing-services">Software Testing </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url();?>systems/embedded-developer">Embedded </a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/embedded-developer">Embedded </a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
-                        <a href="<?php echo base_url();?>technologies" class>Explore All</a>
+                        <a href="<?php echo base_url(); ?>technologies" class>Explore All</a>
                     </ul>
                 </li>
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">Products</a>
                     <ul class="sub-side">
-                        <li><a href="<?php echo base_url();?>systems/battery-management-system">Battery Management System</a></li>
-                        <li><a href="<?php echo base_url();?>systems/motor-controller">Motor Controller</a></li>
-                        <li><a href="<?php echo base_url();?>systems/ccs2-controller">CCS2 Controller</a></li>
-                        <li><a href="<?php echo base_url();?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url();?>systems/dc-fast-charger">DC Fast Charger</a></li>
-                        <li><a href="<?php echo base_url();?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url();?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
-                        <li><a href="<?php echo base_url();?>systems/ac-charge-controller">AC Charge Controller</a></li>
-                        <a href="<?php echo base_url();?>systems/products" class>Explore All</a>
+                        <li><a href="<?php echo base_url(); ?>systems/battery-management-system">Battery Management System</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/motor-controller">Motor Controller</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/ccs2-controller">CCS2 Controller</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/dc-fast-charger">DC Fast Charger</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
+                        <li><a href="<?php echo base_url(); ?>systems/ac-charge-controller">AC Charge Controller</a></li>
+                        <a href="<?php echo base_url(); ?>systems/products" class>Explore All</a>
                     </ul>
                 </li>
             </ul>
             <ul>
-                <li><a href="<?php echo base_url();?>careers">Careers</a></li>
-                <li><a href="<?php echo base_url();?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
-                <li><a href="<?php echo base_url();?>blog/">Blogs</a></li>
-                <li><a href="<?php echo base_url();?>resources/">Resources</a></li>
-                <li><a href="<?php echo base_url();?>testimonials">Customer Reviews</a></li>
-                <li><a href="<?php echo base_url();?>contactus">Contact</a></li>
+                <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
+                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
+                <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
+                <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
+                <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
                 <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>

@@ -39,7 +39,7 @@
                                         <td class="status-<?php echo strtolower($status) ?>">(<?php echo $row->module_id ?>)&nbsp;<?php echo $row->title ?></td>
                                         <td class="text-center"><?php echo $is_module ?></td>
                                         <td>
-                                            <input <?php echo $checked; ?> onchange="changeModuleStatus(<?php echo $row->module_id; ?>)" id="module_tatus_<?php echo $row->id; ?>" type="checkbox">
+                                            <input <?php echo $checked; ?> onchange="changeModuleStatus(<?php echo $row->module_id; ?>)" id="module_tatus_<?php echo $row->module_id; ?>" type="checkbox">
                                         </td>
                                         <td><a href="<?php echo $url; ?>" target="_blank"><?php echo $row->url ?></a></td>
                                         <td class="text-center">

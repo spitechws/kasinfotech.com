@@ -517,60 +517,38 @@
                     <div class="col-lg-4 col-xl-3 text-center align-items-end d-xl-flex">
                         <ul class="social-icon-main flex-wrap ml-auto d-inline-flex ">
                             <li class="social-item">
-                                <a href="https://www.facebook.com/BacancyTechnologyLimited" class="social-link" target="_blank">
+                                <a href="<?php echo config_item('facebook')?>" class="social-link" target="_blank">
                                     <svg viewBox="0 0 100 100" class="svg-icon">
                                         <use xlink:href="#facebook-svg"></use>
                                     </svg>
                                 </a>
                             </li>
                             <li class="social-item">
-                                <a href="https://twitter.com/BacancyTech" class="social-link" target="_blank">
+                                <a href="<?php echo config_item('twitter')?>" class="social-link" target="_blank">
                                     <svg viewBox="0 0 100 100" class="svg-icon svg-pt">
                                         <use xlink:href="#twitter-svg"></use>
                                     </svg>
                                 </a>
                             </li>
                             <li class="social-item">
-                                <a href=" https://www.linkedin.com/company/bacancy-technology/" class="social-link" target="_blank">
+                                <a href="<?php echo config_item('linkedin')?>" class="social-link" target="_blank">
                                     <svg viewBox="0 0 100 100" class="svg-icon">
                                         <use xlink:href="#linkedin-svg"></use>
                                     </svg>
                                 </a>
                             </li>
                             <li class="social-item">
-                                <a href="https://www.youtube.com/user/Bacancytechnology" class="social-link" target="_blank">
+                                <a href="<?php echo config_item('youtube')?>" class="social-link" target="_blank">
                                     <svg viewBox="0 0 100 100" class="svg-icon">
                                         <use xlink:href="#youtube-svg"></use>
                                     </svg>
                                 </a>
                             </li>
                             <li class="social-item">
-                                <a href="https://www.instagram.com/bacancytechnology/" class="social-link" target="_blank">
+                                <a href="<?php echo config_item('instagram')?>" class="social-link" target="_blank">
                                     <svg viewBox="0 0 100 100" class="svg-icon">
                                         <use xlink:href="#instagram-svg"></use>
                                     </svg>
-                                </a>
-                            </li>
-                            <li class="social-item">
-                                <a href="https://dribbble.com/bacancytechnology" class="social-link" target="_blank">
-                                    <svg viewBox="0 0 100 100" class="svg-icon">
-                                        <use xlink:href="#dribbble-svg"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="social-item">
-                                <a href="https://www.behance.net/bacancytechnology" class="social-link" target="_blank">
-                                    <img src="data:image/webp;base64,UklGRuQBAABXRUJQVlA4TNgBAAAvGMADEGfFoG0bQeZP+rR2+6cw//OPoG3bhp56V9u2DYNsnXkD7x1aARgCQAgrASH8WIIoA4dBNBF9UDYjgunbWABspMu00LgKD2Pyh7AsgZYFGESRl7bmokazENUtzH8AAIIkyaat82zb/LZt27Zt27af7Ter/FpDRP8FBIUmeHFm+7K7nC6PcbOQiRAvp7mns6OvvVCIs8MfrpUULBLXb18e7l+f9GgJdnDuTA6Prb9BaIiOuAX9s+Ojc5OVcrwVHvI4TJaixQebcoShySISEmPUbAKywKkYfUs0wKYCIXpm9+LKYJEAfXcdQ2azGGUWGGcjacO51fBhvu/Xk41gHK+pqe859u6lErhtFvdqRfG4ITAR9Qlhh+HT4AZnI4VY8uBfiSchebf5pesLQm/XFxe3Zuukkt0HgancmOjklg94MMF7U1pKSnb3k3M4aSQUvt/e3t06NILBAld6RMRjdfP+69Y5a/ByeWV9bWZsedQCpxL0TTRgfx2feHFNZUTGJiampeot8JDPZbPYWbtwV1e64VyOo+L5KVXpPDs4tydHhqcPPLAfy6z1BJaK05rOPno1/8wL3NTSkWrsy//5aHYflUv+7PYZt6uVWESO6Lq0OZ8X8nlE" alt="Bacancy Behance" data-pagespeed-url-hash="1859694701" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-                                </a>
-                            </li>
-                            <li class="social-item">
-                                <a href="https://www.uplabs.com/bacancy" class="social-link" target="_blank">
-                                    <img src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKoAAAAvF4ADEL8gFkzmL90Xw/zPv0G2kWM3gu0JnmCSptqOwTqEEMRBAAEewHkIiJFst20egmDgM8frv9YPGi1E9H8CrDVJiq1llW0raYMlS4DLYDJY6ZYx7nl94QlDd5ASUIaqJM1gQ9kZrECQZB/FzWA3FEk7VLdJCg/UGZjaAUTH0doFxPjSn+VOuial3b2mjtUXXpMPOSd5J6Wkbvi19pf+81ke/JGG8mfUIA==" alt="Bacancy Uplabs" data-pagespeed-url-hash="2429893525" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-                                </a>
-                            </li>
-                            <li class="social-item">
-                                <a href="https://in.pinterest.com/bacancytech/" class="social-link" target="_blank">
-                                    <img src="data:image/webp;base64,UklGRqQAAABXRUJQVlA4TJcAAAAvDUAEEL+goG0bxvxJ7w/D/M+/QIDEFKAwbRsmuz0FxOMhgvP/EoFBI0mK+uCZ7p7av9YHDRH9nwAgdNvlMWWe7aWlqEuA1rsPQHu7EDXxmrWdHUnHEYDddTex6gCMqnBrfrlPI7sCFMvsQHEFgo7xLtwOwKCJ2ETdAllXgNbbq+oeHrNzs3sOgedpy1+Nf7KFv8n8i5GfAA==" alt="Bacancy Pinterest" data-pagespeed-url-hash="1278565614" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                 </a>
                             </li>
                         </ul>

@@ -42,30 +42,23 @@
 
                 <ul class="social-icon-block mt-auto">
                     <li class="social-item">
-                        <a href="https://www.facebook.com/kasinfotechLimited" class="social-link" target="_blank">
+                        <a href="<?php echo config_item('facebook') ?>" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#facebook-svg" />
                             </svg>
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://www.linkedin.com/company/KAS PVT LTD-technology/" class="social-link" target="_blank">
+                        <a href="<?php echo config_item('linkedin') ?>" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#linkedin-svg" />
                             </svg>
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://twitter.com/KAS PVT LTDTech" class="social-link" target="_blank">
+                        <a href="<?php echo config_item('twitter') ?>" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#twitter-svg" />
-                            </svg>
-                        </a>
-                    </li>
-                    <li class="social-item">
-                        <a href="https://clutch.co/profile/KAS PVT LTD" class="social-link" target="_blank" rel="nofollow">
-                            <svg viewBox="0 0 100 100" class="svg-icon">
-                                <use xlink:href="#clutch-svg" />
                             </svg>
                         </a>
                     </li>
@@ -231,7 +224,7 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row digital-tranformation-row g-0 digital-transformation-bg-last bg-behind-section">
-                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(images/xdigital_transformation_bg_1.jpg.pagespeed.ic.Gn7V_PIYDx.webp)"></div>
+                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg')?>)"></div>
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
@@ -338,25 +331,14 @@
                                 </picture>
                             </div>
                             <div class="carousel-item ">
-                                <picture>
-                                    <source srcset="<?php echo asset('images/abt-1.webp'); ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/abt-1.webp'); ?>" type="image/jpeg">
-                                    <img data-src="<?php echo asset('images/abt-1.webp'); ?>" src="<?php echo asset('images/abt-1.webp'); ?>" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
-                                </picture>
+                                <img src="<?php echo asset('images/abt-1.webp'); ?>" />
                             </div>
                             <div class="carousel-item">
-                                <picture>
-                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/jpeg">
-                                    <img data-src="<?php echo asset('images/abt-3.webp'); ?>" src="images/abt-3.jpg" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
-                                </picture>
+                                <img src="<?php echo asset('images/abt-3.webp'); ?>" />
                             </div>
                             <div class="carousel-item">
-                                <picture>
-                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>images/abt-4.webp" type="image/webp">
-                                    <source srcset="<?php echo asset('images/abt-3.webp'); ?>" type="image/jpeg">
-                                    <img data-src="<?php echo asset('images/abt-3.webp'); ?>" src="images/xabt-4.jpg.pagespeed.ic.B4ThmiMVIv.webp" alt="Agile, A Process Delivering Values & Successful Products" title="Agile, A Process Delivering Values & Successful Products" class="lazy d-block w-100">
-                                </picture>
+                                <img src="<?php echo asset('images/abt-3.webp'); ?>" />
+
                             </div>
                         </div>
                     </div>
