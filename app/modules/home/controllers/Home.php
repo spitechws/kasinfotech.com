@@ -19,7 +19,18 @@
         {
             $cms = get_row('cms', array('page_name' => $page_name));
             if (empty($cms->page_title)) {
-                // debug("There is no CMS page entry, please do entry for page name : " . $page_name);
+                //debug("There is no CMS page entry, please do entry for page name : " . $page_name);
+                $aInput = array(
+                    "page_name" => filterValue($page_name),
+                    "menu" => filterValue($page_name),
+                    "page_title" => ucwords(strtolower(str_replace('-', ' ',$page_name))),
+                    "page_content" => '',
+                    "meta_keywords" => $page_name,
+                    "meta_description" => $page_name,
+                    "meta_robots" => ''
+                );
+                $this->db->insert(tbl_prefix().'cms',$aInput);   
+                $cms = get_row('cms', array('page_name' => $page_name));             
             }
             $data['cms'] = $cms;
             $data['title'] = $cms->page_title;
