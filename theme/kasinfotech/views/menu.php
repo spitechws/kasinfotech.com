@@ -158,30 +158,40 @@
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">About Company</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us">About Us') ?></a>
-                                </div>
-                                <div class=" col-lg-3 col-xl d-none d-xl-block">
-                                    <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
-                                        <a href="<?php echo base_url('great-place-to-work') ?>">
-                                            <figure class="banner-post-img">
-                                                <picture>
-                                                    <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
-                                                    <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS PVT LTD" title="KAS PVT LTD">
-                                                </picture>
-                                            </figure>
-                                            <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
-                                                <div>
-                                                    <p class="font-bold h5">WE ARE</p>
-                                                    <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK - CERTIFIED<sup class="text-18">TM</sup></p>
-                                                    <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
-                                                </div>
-                                                <picture>
-                                                    <source srcset="<?php echo asset('images/gptw.webp'); ?>" type="image/webp">
-                                                    <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD Great Place to Work" title="KAS PVT LTD Great Place to Work">
-                                                </picture>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('leadership') ?>">Leadership Team</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('awards-recognition') ?>">Awards Recognition</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('infrastructure') ?>">Infrastructure</a>
+                            </div>
+                            <div class="col-lg-2">
+                                <p class="dropdown-item nav-link font-semibold"></p>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('testimonials') ?>">Customer Reviews</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('media-coverage') ?>">Media Coverage</a>
+                            </div>
+                            <div class=" col-lg-3 col-xl d-none d-xl-block">
+                                <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
+                                    <a href="<?php echo base_url('great-place-to-work') ?>">
+                                        <figure class="banner-post-img">
+                                            <picture>
+                                                <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
+                                                <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS PVT LTD" title="KAS PVT LTD">
+                                            </picture>
+                                        </figure>
+                                        <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
+                                            <div>
+                                                <p class="font-bold h5">WE ARE</p>
+                                                <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK - CERTIFIED<sup class="text-18">TM</sup></p>
+                                                <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
                                             </div>
-                                        </a>
-                                    </div>
+                                            <picture>
+                                                <source srcset="<?php echo asset('images/gptw.webp'); ?>" type="image/webp">
+                                                <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD Great Place to Work" title="KAS PVT LTD Great Place to Work">
+                                            </picture>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
