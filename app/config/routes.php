@@ -37,7 +37,9 @@ $aPage = [
     'hire-rpa-developer', 'software-engineering', 'web-development-services', 'internet-of-things-consulting-services',
     'hire-data-scientist', 'hire-ai-developer', 'hire-ml-developer', 'cloud-native-application-development',
     'digital-process-automation', 'open-source-web-development', 'dynamics-365-consulting', 'salesforce-consulting-service',
-    'quality-assurance-testing-services', 'it-staff-augmentation-services',
+    'quality-assurance-testing-services', 'it-staff-augmentation-services','banking-finance-insurance-software-development','healthcare-application-software-development',
+    'minimum-viable-product-development-service','real-estate-software-development','oil-and-gas-enterprise-mobility-solution','logistics-mobile-application-development','agile-mindset',
+    'kas-pvt-ltd-values','kas-pvt-ltd-culture','leadership','awards-recognition','infrastructure','testimonials','locations','partnership','media-coverage','angular-js-development','hire-reactjs-developer','hire-vuejs-developer','ui-ux-enhancement-service','hire-microsoft-dynamics-365-developer','hire-salesforce-developer','ruby-on-rails-development','hire-node-developer','hire-golang-developer','hire-laravel-developer','hire-dot-net-developer','hire-spring-boot-developer','hire-python-developer','hire-react-native-developer','hire-flutter-developer','android-application-development','mobile-app-development','aws-cloud-consulting-services','hire-devops-developers','automation-testing-services'
 ];
 foreach ($aPage as $method) {
     $route[$method] = "home/page/" . $method;

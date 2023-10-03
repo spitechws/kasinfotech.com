@@ -1,9 +1,25 @@
 <?php require_once('header.php'); ?>
+<style>
+    header .hire-us .long-arrow-icon-css:before {
+        background-color: #fff
+    }
+
+    header .hire-us .long-arrow-icon-css:after {
+        border-color: #fff;
+        top: 54%
+    }
+</style>
+<header class="header-wrapper section-wrapper">
+    <div class="header-main dark">
+        <?php require_once('menu.php'); ?>
+    </div>
+</header>
+<?php require_once('side-nav.php'); ?>
 <section class="header-spacing section-padding banner-post section-paragraph banner-main">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/banner-2.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/banner-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xbanner-2.jpg,qv-1.pagespeed.ic.PkWH4Xuvcd.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xbanner-2.jpg,qv-1.pagespeed.ic.PkWH4Xuvcd.webp" alt="AI and ML Services" title="AI and ML Services" data-pagespeed-url-hash="2775329866" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo asset();?>images/banner-2.webp" type="image/webp">
+            <source srcset="<?php echo asset();?>images/banner-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xbanner-2.jpg,qv-1.pagespeed.ic.PkWH4Xuvcd.webp" src="<?php echo asset();?>images/xbanner-2.jpg,qv-1.pagespeed.ic.PkWH4Xuvcd.webp" alt="AI and ML Services" title="AI and ML Services" data-pagespeed-url-hash="2775329866" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -45,38 +61,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-1.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-1.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" src="<?php echo asset();?>images/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-2.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-2.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" src="<?php echo asset();?>images/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-3.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-3.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" src="<?php echo asset();?>images/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-4.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-4.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" src="<?php echo asset();?>images/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-5.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-5.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" src="<?php echo asset();?>images/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/logo-6.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/logo-6.png" type="image/png"><img data-src="<?php echo asset();?>images/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" src="<?php echo asset();?>images/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -122,7 +138,7 @@
                         </a>
                     </div>
                     <div class="accordian-text active" style="">
-                        <p>Under the umbrella of our exceptional AI and ML Services, we craft powerful and innovative AI solutions with our software, mobile, and web development expertise. Potent at decision-making and problem-solving, our AI developers are skilled at using intelligent AI software to help you work faster, at lower costs, and without errors. <a href="<?php echo base_url();?>hire-ai-developer" class="text-primary">Hire AI Developer</a> now.</p>
+                        <p>Under the umbrella of our exceptional AI and ML Services, we craft powerful and innovative AI solutions with our software, mobile, and web development expertise. Potent at decision-making and problem-solving, our AI developers are skilled at using intelligent AI software to help you work faster, at lower costs, and without errors. <a href="<?php echo asset();?>hire-ai-developer" class="text-primary">Hire AI Developer</a> now.</p>
                     </div>
                 </div>
                 <div class="accordion-item accordian-tab  col-12">
@@ -132,7 +148,7 @@
                         </a>
                     </div>
                     <div class="accordian-text " style="display: none;">
-                        <p>We build powerful unsupervised/supervised algorithms to automate your processes, minimize human invention, increase operation speed, reduce errors, decrease cost, assure timeliness and boost reliability. <a href="<?php echo base_url();?>hire-ml-developer" class="text-primary">Hire ML engineer</a> now. </p>
+                        <p>We build powerful unsupervised/supervised algorithms to automate your processes, minimize human invention, increase operation speed, reduce errors, decrease cost, assure timeliness and boost reliability. <a href="<?php echo asset();?>hire-ml-developer" class="text-primary">Hire ML engineer</a> now. </p>
                     </div>
                 </div>
                 <div class="accordion-item accordian-tab  col-12">
@@ -212,8 +228,8 @@
 <section class="section-padding pt-200 banner-post full-width-form pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Hire AI &amp; ML Development Team As Per Your Need" title="Hire AI &amp; ML Development Team As Per Your Need" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo asset();?>images/form-bg.webp" type="image/webp">
+            <source srcset="<?php echo asset();?>images/form-bg.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Hire AI &amp; ML Development Team As Per Your Need" title="Hire AI &amp; ML Development Team As Per Your Need" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -353,13 +369,13 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-1.webp" type="image/webp">
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-1.jpg.pagespeed.ic.M-l4dOa9IB.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-1.jpg.pagespeed.ic.M-l4dOa9IB.webp" alt="Car Image Masking" title="Car Image Masking" class="  ob-cover" data-pagespeed-url-hash="3827953700" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                        <source srcset="<?php echo asset();?>images/cs-11.webp" type="image/webp">
+                                        <source srcset="<?php echo asset();?>images/cs-11.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/xcs-1.jpg.pagespeed.ic.M-l4dOa9IB.webp" src="<?php echo asset();?>images/xcs-1.jpg.pagespeed.ic.M-l4dOa9IB.webp" alt="Car Image Masking" title="Car Image Masking" class="  ob-cover" data-pagespeed-url-hash="3827953700" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                     </picture>
                                     <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0  top-0 bottom-0">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-1.webp" type="image/webp">
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-1.png.pagespeed.ic.xk2-zu0o3c.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-1.png.pagespeed.ic.xk2-zu0o3c.webp" alt="Car Image Masking" title="Car Image Masking" data-pagespeed-url-hash="1646640082" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                            <source srcset="<?php echo asset();?>images/cs-logo-11.webp" type="image/webp">
+                                            <source srcset="<?php echo asset();?>images/cs-logo-11.png" type="image/png"><img data-src="<?php echo asset();?>images/xcs-logo-1.png.pagespeed.ic.xk2-zu0o3c.webp" src="<?php echo asset();?>images/xcs-logo-1.png.pagespeed.ic.xk2-zu0o3c.webp" alt="Car Image Masking" title="Car Image Masking" data-pagespeed-url-hash="1646640082" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                         </picture>
                                     </div>
                                 </div>
@@ -379,13 +395,13 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-3.webp" type="image/webp">
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-3.jpg.pagespeed.ic.Lj7bYlNr9v.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-3.jpg.pagespeed.ic.Lj7bYlNr9v.webp" alt="Predict the Image Category" title="Predict the Image Category" class="  ob-cover" data-pagespeed-url-hash="121986246" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                        <source srcset="<?php echo asset();?>images/cs-31.webp" type="image/webp">
+                                        <source srcset="<?php echo asset();?>images/cs-31.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/xcs-3.jpg.pagespeed.ic.Lj7bYlNr9v.webp" src="<?php echo asset();?>images/xcs-3.jpg.pagespeed.ic.Lj7bYlNr9v.webp" alt="Predict the Image Category" title="Predict the Image Category" class="  ob-cover" data-pagespeed-url-hash="121986246" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                     </picture>
                                     <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0  top-0 bottom-0">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-2.webp" type="image/webp">
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-2.png.pagespeed.ic.Q5ntteAiyB.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-2.png.pagespeed.ic.Q5ntteAiyB.webp" alt="Predict the Image Category" title="Predict the Image Category" data-pagespeed-url-hash="1941140003" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                            <source srcset="<?php echo asset();?>images/cs-logo-21.webp" type="image/webp">
+                                            <source srcset="<?php echo asset();?>images/cs-logo-21.png" type="image/png"><img data-src="<?php echo asset();?>images/xcs-logo-2.png.pagespeed.ic.Q5ntteAiyB.webp" src="<?php echo asset();?>images/xcs-logo-2.png.pagespeed.ic.Q5ntteAiyB.webp" alt="Predict the Image Category" title="Predict the Image Category" data-pagespeed-url-hash="1941140003" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                         </picture>
                                     </div>
                                 </div>
@@ -407,13 +423,13 @@
                     <div class="col-md-5 col-lg-12">
                         <div class="position-relative h-100">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-2.webp" type="image/webp">
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-2.jpg.pagespeed.ic.Qsp_IxBkEp.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-2.jpg.pagespeed.ic.Qsp_IxBkEp.webp" alt="Toxic Question Sorting" title="Toxic Question Sorting" class="  ob-cover" data-pagespeed-url-hash="4122453621" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                <source srcset="<?php echo asset();?>images/cs-21.webp" type="image/webp">
+                                <source srcset="<?php echo asset();?>images/cs-21.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/xcs-2.jpg.pagespeed.ic.Qsp_IxBkEp.webp" src="<?php echo asset();?>images/xcs-2.jpg.pagespeed.ic.Qsp_IxBkEp.webp" alt="Toxic Question Sorting" title="Toxic Question Sorting" class="  ob-cover" data-pagespeed-url-hash="4122453621" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </picture>
                             <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0  top-0 bottom-0">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-3.webp" type="image/webp">
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-ai/cs-logo-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-3.png.pagespeed.ic.mANAvOroSn.webp" src="<?php echo base_url();?>main-boot-5/images/hire-ai/xcs-logo-3.png.pagespeed.ic.mANAvOroSn.webp" alt="Toxic Question Sorting" title="Toxic Question Sorting" data-pagespeed-url-hash="2235639924" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                    <source srcset="<?php echo asset();?>images/cs-logo-31.webp" type="image/webp">
+                                    <source srcset="<?php echo asset();?>images/cs-logo-31.png" type="image/png"><img data-src="<?php echo asset();?>images/xcs-logo-3.png.pagespeed.ic.mANAvOroSn.webp" src="<?php echo asset();?>images/xcs-logo-3.png.pagespeed.ic.mANAvOroSn.webp" alt="Toxic Question Sorting" title="Toxic Question Sorting" data-pagespeed-url-hash="2235639924" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                 </picture>
                             </div>
                         </div>
@@ -495,8 +511,8 @@
                                         <div class="panel-collapse collapse in exp-ser-1">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-1.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-1.png.pagespeed.ic.l1dlkhZi4f.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-1.png.pagespeed.ic.l1dlkhZi4f.webp" alt="Recommendation Engines" title="Recommendation Engines" class="mb-lg w-auto" data-pagespeed-url-hash="1290628205" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-1.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-1.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-1.png.pagespeed.ic.l1dlkhZi4f.webp" src="<?php echo asset();?>images/xtab-1.png.pagespeed.ic.l1dlkhZi4f.webp" alt="Recommendation Engines" title="Recommendation Engines" class="mb-lg w-auto" data-pagespeed-url-hash="1290628205" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Recommendation Engines</h3>
                                                 <p>We create business-specific recommendation engines using ML algorithms to deliver hyper-contextual recommendations. So far, we have created collaborative filtering, content-based filtering, and hybrid recommendations engines. You can use our recommendation engines to up-sell and cross-sell in e-commerce, retail, media &amp; entertainment, finance &amp; banking, and many other industries.</p>
@@ -514,8 +530,8 @@
                                         <div class="panel-collapse collapse in exp-ser-2">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-2.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-2.png.pagespeed.ic.FV0s5cM3Oo.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-2.png.pagespeed.ic.FV0s5cM3Oo.webp" alt="Image Processing" title="Image Processing" class="mb-lg w-auto" data-pagespeed-url-hash="1585128126" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-2.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-2.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-2.png.pagespeed.ic.FV0s5cM3Oo.webp" src="<?php echo asset();?>images/xtab-2.png.pagespeed.ic.FV0s5cM3Oo.webp" alt="Image Processing" title="Image Processing" class="mb-lg w-auto" data-pagespeed-url-hash="1585128126" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Image Processing</h3>
                                                 <p>Our AI-based image processing models can perform tasks such as measuring images' size, recognizing a particular object in a set of images, scaling images, identifying a pattern in an image, diagnosing a medical X-ray, image enhancement, adding annotation, and filtering or more. They can be used for sensing traffic, detecting anomalies, recognizing faces, image restructuring, branding, marketing, etc. </p>
@@ -533,8 +549,8 @@
                                         <div class="panel-collapse collapse in exp-ser-3">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-3.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-3.png.pagespeed.ic.A21l6t0z9f.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-3.png.pagespeed.ic.A21l6t0z9f.webp" alt="Interactive Chatbots" title="Interactive Chatbots" class="mb-lg w-auto" data-pagespeed-url-hash="1879628047" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-3.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-3.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-3.png.pagespeed.ic.A21l6t0z9f.webp" src="<?php echo asset();?>images/xtab-3.png.pagespeed.ic.A21l6t0z9f.webp" alt="Interactive Chatbots" title="Interactive Chatbots" class="mb-lg w-auto" data-pagespeed-url-hash="1879628047" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Interactive Chatbots</h3>
                                                 <p>The AI-enabled specialized text or voice-driven conversational bots we build and deploy work as digital assistants that learn and evolve. We empower chatbots with cognitive capabilities so that you can use our interactive chatbots to enhance the IT service management experience, manage communications at customer contact centers, streamline internal operations, and offer automated customer services. </p>
@@ -552,8 +568,8 @@
                                         <div class="panel-collapse collapse in exp-ser-4">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-4.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-4.png.pagespeed.ic.Z6LA_QHXO_.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-4.png.pagespeed.ic.Z6LA_QHXO_.webp" alt="Process Automation" title="Process Automation" class="mb-lg w-auto" data-pagespeed-url-hash="2174127968" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-4.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-4.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-4.png.pagespeed.ic.Z6LA_QHXO_.webp" src="<?php echo asset();?>images/xtab-4.png.pagespeed.ic.Z6LA_QHXO_.webp" alt="Process Automation" title="Process Automation" class="mb-lg w-auto" data-pagespeed-url-hash="2174127968" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Process Automation</h3>
                                                 <p>Being a leading AI ML Company, we utilize process automation to automate repetitive and tedious tasks. The purpose is to optimize resources, cost, and time dedicated to performing a specific operation. Process Automation solutions and services help you streamline your business processes workflow. It significantly increases the execution speed of the operation.</p>
@@ -571,8 +587,8 @@
                                         <div class="panel-collapse collapse in exp-ser-5">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-5.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-5.png.pagespeed.ic.qM0zcuyQDf.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-5.png.pagespeed.ic.qM0zcuyQDf.webp" alt="Object Recognition" title="Object Recognition" class="mb-lg w-auto" data-pagespeed-url-hash="2468627889" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-5.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-5.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-5.png.pagespeed.ic.qM0zcuyQDf.webp" src="<?php echo asset();?>images/xtab-5.png.pagespeed.ic.qM0zcuyQDf.webp" alt="Object Recognition" title="Object Recognition" class="mb-lg w-auto" data-pagespeed-url-hash="2468627889" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Object Recognition</h3>
                                                 <p>Being an AI ML Development company, we developed an object recognition method that recognizes particular objects from images and extracts valuable information for further use. Object detection is the core of many vision-based AI applications like autonomous cars, animal detection in agriculture, people detection in security, vehicle detection in traffic, medical feature detection in healthcare, and more.</p>
@@ -590,8 +606,8 @@
                                         <div class="panel-collapse collapse in exp-ser-6">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-6.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-6.png.pagespeed.ic.sNt6CNjPdv.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-6.png.pagespeed.ic.sNt6CNjPdv.webp" alt="Voice-Based AI" title="Voice-Based AI" class="mb-lg w-auto" data-pagespeed-url-hash="2763127810" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-6.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-6.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-6.png.pagespeed.ic.sNt6CNjPdv.webp" src="<?php echo asset();?>images/xtab-6.png.pagespeed.ic.sNt6CNjPdv.webp" alt="Voice-Based AI" title="Voice-Based AI" class="mb-lg w-auto" data-pagespeed-url-hash="2763127810" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Voice-Based AI</h3>
                                                 <p>Intelligent voice assistants like Siri, Cortana, Alexa, and Google Assistant have become common. Our Voice Based AI assistants listen to humans and anticipate everything they require. Our Smart Voice Based AI is used for booking appointments, taking notes, setting alarms, giving weather updates, scheduling travel, making calls, and much more.</p>
@@ -609,8 +625,8 @@
                                         <div class="panel-collapse collapse in exp-ser-7">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-7.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-7.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-7.png.pagespeed.ic.s5GpBzAlop.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-7.png.pagespeed.ic.s5GpBzAlop.webp" alt="Inventory Optimization" title="Inventory Optimization" class="mb-lg w-auto" data-pagespeed-url-hash="3057627731" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-7.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-7.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-7.png.pagespeed.ic.s5GpBzAlop.webp" src="<?php echo asset();?>images/xtab-7.png.pagespeed.ic.s5GpBzAlop.webp" alt="Inventory Optimization" title="Inventory Optimization" class="mb-lg w-auto" data-pagespeed-url-hash="3057627731" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Inventory Optimization</h3>
                                                 <p>We developed robust Data-driven Forecasting systems that serve as an efficient means of streamlining production and optimizing inventories. Our developed, deployed, and trained ML models can figure out sales and probable consumption of products for better handling of inventory management, demand forecasting, and supply chains.</p>
@@ -628,8 +644,8 @@
                                         <div class="panel-collapse collapse in exp-ser-8">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-8.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-8.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-8.png.pagespeed.ic.l3LaBUsK4G.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-8.png.pagespeed.ic.l3LaBUsK4G.webp" alt="Sentimental Analysis" title="Sentimental Analysis" class="mb-lg w-auto" data-pagespeed-url-hash="3352127652" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-8.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-8.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-8.png.pagespeed.ic.l3LaBUsK4G.webp" src="<?php echo asset();?>images/xtab-8.png.pagespeed.ic.l3LaBUsK4G.webp" alt="Sentimental Analysis" title="Sentimental Analysis" class="mb-lg w-auto" data-pagespeed-url-hash="3352127652" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Sentimental Analysis</h3>
                                                 <p>We developed a sentiment analysis model using Natural Language Processing technique to retrieve a wealth of information by analyzing collected data. Our sentiment analysis model can perform Graded Sentiment Analysis, Emotion detection, Aspect-based Sentiment Analysis, and Multilingual sentiment analysis.</p>
@@ -647,8 +663,8 @@
                                         <div class="panel-collapse collapse in exp-ser-9">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-9.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-9.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-9.png.pagespeed.ic.eA4w-dBUUj.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-9.png.pagespeed.ic.eA4w-dBUUj.webp" alt="Clinical AI" title="Clinical AI" class="mb-lg w-auto" data-pagespeed-url-hash="3646627573" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-9.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-9.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-9.png.pagespeed.ic.eA4w-dBUUj.webp" src="<?php echo asset();?>images/xtab-9.png.pagespeed.ic.eA4w-dBUUj.webp" alt="Clinical AI" title="Clinical AI" class="mb-lg w-auto" data-pagespeed-url-hash="3646627573" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">Clinical AI</h3>
                                                 <p>We use Clinical AI to automate some areas of patient diagnosis to a great extent. From figuring out the nature of a patient's complaint to extracting valuable medical data using medical history &amp; available documents, Clinical AI can do a lot in this field. It speeds up the treatment process and improves the quality of medical services.</p>
@@ -666,8 +682,8 @@
                                         <div class="panel-collapse collapse in exp-ser-10">
                                             <div class="panel-body">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-10.webp" type="image/webp">
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/tab-10.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-10.png.pagespeed.ic.Tk9NhjOape.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xtab-10.png.pagespeed.ic.Tk9NhjOape.webp" alt="AI-Based Web Scraping" title="AI-Based Web Scraping" class="mb-lg w-auto" data-pagespeed-url-hash="2009231489" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                    <source srcset="<?php echo asset();?>images/tab-10.webp" type="image/webp">
+                                                    <source srcset="<?php echo asset();?>images/tab-10.png" type="image/png"><img data-src="<?php echo asset();?>images/xtab-10.png.pagespeed.ic.Tk9NhjOape.webp" src="<?php echo asset();?>images/xtab-10.png.pagespeed.ic.Tk9NhjOape.webp" alt="AI-Based Web Scraping" title="AI-Based Web Scraping" class="mb-lg w-auto" data-pagespeed-url-hash="2009231489" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                                 </picture>
                                                 <h3 class="font-bold mb-lg d-none d-md-block">AI-Based Web Scraping</h3>
                                                 <p>We use Artificial Intelligence to automate the web scraping process, making it efficient and swift. You can use AI-based web scraping to save your time and effort. It is a very cost-effective tool ideal for businesses that need to scrap web data frequently.</p>
@@ -699,8 +715,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-1.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-1.png.pagespeed.ic.oNjXMg6YOA.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-1.png.pagespeed.ic.oNjXMg6YOA.webp" alt="Medical" title="Medical" class="" data-pagespeed-url-hash="1130450994" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-1.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-1.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-1.png.pagespeed.ic.oNjXMg6YOA.webp" src="<?php echo asset();?>images/xserve-1.png.pagespeed.ic.oNjXMg6YOA.webp" alt="Medical" title="Medical" class="" data-pagespeed-url-hash="1130450994" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Medical</h3>
@@ -710,8 +726,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-2.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-2.png.pagespeed.ic.j9R979W8qw.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-2.png.pagespeed.ic.j9R979W8qw.webp" alt="Education" title="Education" class="" data-pagespeed-url-hash="1424950915" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-2.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-2.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-2.png.pagespeed.ic.j9R979W8qw.webp" src="<?php echo asset();?>images/xserve-2.png.pagespeed.ic.j9R979W8qw.webp" alt="Education" title="Education" class="" data-pagespeed-url-hash="1424950915" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Education</h3>
@@ -721,8 +737,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-3.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-3.png.pagespeed.ic.QWXHTTSbf7.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-3.png.pagespeed.ic.QWXHTTSbf7.webp" alt="Business" title="Business" class="" data-pagespeed-url-hash="1719450836" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-3.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-3.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-3.png.pagespeed.ic.QWXHTTSbf7.webp" src="<?php echo asset();?>images/xserve-3.png.pagespeed.ic.QWXHTTSbf7.webp" alt="Business" title="Business" class="" data-pagespeed-url-hash="1719450836" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Business</h3>
@@ -732,8 +748,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-4.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-4.png.pagespeed.ic.G4Narteu9K.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-4.png.pagespeed.ic.G4Narteu9K.webp" alt="Finance" title="Finance" class="" data-pagespeed-url-hash="2013950757" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-4.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-4.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-4.png.pagespeed.ic.G4Narteu9K.webp" src="<?php echo asset();?>images/xserve-4.png.pagespeed.ic.G4Narteu9K.webp" alt="Finance" title="Finance" class="" data-pagespeed-url-hash="2013950757" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Finance</h3>
@@ -743,8 +759,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-5.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-5.png.pagespeed.ic.cgqGupzGtP.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-5.png.pagespeed.ic.cgqGupzGtP.webp" alt="Lifestyle" title="Lifestyle" class="" data-pagespeed-url-hash="2308450678" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-5.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-5.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-5.png.pagespeed.ic.cgqGupzGtP.webp" src="<?php echo asset();?>images/xserve-5.png.pagespeed.ic.cgqGupzGtP.webp" alt="Lifestyle" title="Lifestyle" class="" data-pagespeed-url-hash="2308450678" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Lifestyle</h3>
@@ -754,8 +770,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-6.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-6.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-6.png.pagespeed.ic.7UQyqb3d9Y.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-6.png.pagespeed.ic.7UQyqb3d9Y.webp" alt="Food &amp; Drink" title="Food &amp; Drink" class="" data-pagespeed-url-hash="2602950599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-6.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-6.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-6.png.pagespeed.ic.7UQyqb3d9Y.webp" src="<?php echo asset();?>images/xserve-6.png.pagespeed.ic.7UQyqb3d9Y.webp" alt="Food &amp; Drink" title="Food &amp; Drink" class="" data-pagespeed-url-hash="2602950599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Food &amp; Drink</h3>
@@ -765,8 +781,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-7.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-7.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-7.png.pagespeed.ic.N3oS713cuy.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-7.png.pagespeed.ic.N3oS713cuy.webp" alt="Shopping" title="Shopping" class="" data-pagespeed-url-hash="2897450520" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-7.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-7.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-7.png.pagespeed.ic.N3oS713cuy.webp" src="<?php echo asset();?>images/xserve-7.png.pagespeed.ic.N3oS713cuy.webp" alt="Shopping" title="Shopping" class="" data-pagespeed-url-hash="2897450520" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Shopping</h3>
@@ -776,8 +792,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-8.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-8.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-8.png.pagespeed.ic.ijM2nVYUXp.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-8.png.pagespeed.ic.ijM2nVYUXp.webp" alt="Music" title="Music" class="" data-pagespeed-url-hash="3191950441" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-8.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-8.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-8.png.pagespeed.ic.ijM2nVYUXp.webp" src="<?php echo asset();?>images/xserve-8.png.pagespeed.ic.ijM2nVYUXp.webp" alt="Music" title="Music" class="" data-pagespeed-url-hash="3191950441" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Music</h3>
@@ -787,8 +803,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-9.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-9.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-9.png.pagespeed.ic.ZoXVFlkjVb.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-9.png.pagespeed.ic.ZoXVFlkjVb.webp" alt="Travel" title="Travel" class="" data-pagespeed-url-hash="3486450362" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-9.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-9.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-9.png.pagespeed.ic.ZoXVFlkjVb.webp" src="<?php echo asset();?>images/xserve-9.png.pagespeed.ic.ZoXVFlkjVb.webp" alt="Travel" title="Travel" class="" data-pagespeed-url-hash="3486450362" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Travel</h3>
@@ -798,8 +814,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-10.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-10.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-10.png.pagespeed.ic.Z-Hw2nsrww.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-10.png.pagespeed.ic.Z-Hw2nsrww.webp" alt="News" title="News" class="" data-pagespeed-url-hash="2500853328" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-10.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-10.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-10.png.pagespeed.ic.Z-Hw2nsrww.webp" src="<?php echo asset();?>images/xserve-10.png.pagespeed.ic.Z-Hw2nsrww.webp" alt="News" title="News" class="" data-pagespeed-url-hash="2500853328" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">News</h3>
@@ -809,8 +825,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-11.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-11.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-11.png.pagespeed.ic.uxnUf1QunP.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-11.png.pagespeed.ic.uxnUf1QunP.webp" alt="Photo &amp; Video" title="Photo &amp; Video" class="" data-pagespeed-url-hash="2795353249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-11.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-11.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-11.png.pagespeed.ic.uxnUf1QunP.webp" src="<?php echo asset();?>images/xserve-11.png.pagespeed.ic.uxnUf1QunP.webp" alt="Photo &amp; Video" title="Photo &amp; Video" class="" data-pagespeed-url-hash="2795353249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Photo &amp; Video</h3>
@@ -820,8 +836,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-12.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-12.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-12.png.pagespeed.ic.A4Rc3XmOai.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-12.png.pagespeed.ic.A4Rc3XmOai.webp" alt="Entertainment" title="Entertainment" class="" data-pagespeed-url-hash="3089853170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-12.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-12.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-12.png.pagespeed.ic.A4Rc3XmOai.webp" src="<?php echo asset();?>images/xserve-12.png.pagespeed.ic.A4Rc3XmOai.webp" alt="Entertainment" title="Entertainment" class="" data-pagespeed-url-hash="3089853170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Entertainment</h3>
@@ -831,8 +847,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-13.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-13.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-13.png.pagespeed.ic.xmd1DVo6o2.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-13.png.pagespeed.ic.xmd1DVo6o2.webp" alt="Social Networking" title="Social Networking" class="" data-pagespeed-url-hash="3384353091" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-13.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-13.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-13.png.pagespeed.ic.xmd1DVo6o2.webp" src="<?php echo asset();?>images/xserve-13.png.pagespeed.ic.xmd1DVo6o2.webp" alt="Social Networking" title="Social Networking" class="" data-pagespeed-url-hash="3384353091" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Social Networking</h3>
@@ -842,8 +858,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-14.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-14.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-14.png.pagespeed.ic.8JupGBQiY3.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-14.png.pagespeed.ic.8JupGBQiY3.webp" alt="Health &amp; Fitness" title="Health &amp; Fitness" class="" data-pagespeed-url-hash="3678853012" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-14.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-14.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-14.png.pagespeed.ic.8JupGBQiY3.webp" src="<?php echo asset();?>images/xserve-14.png.pagespeed.ic.8JupGBQiY3.webp" alt="Health &amp; Fitness" title="Health &amp; Fitness" class="" data-pagespeed-url-hash="3678853012" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Health &amp; Fitness</h3>
@@ -853,8 +869,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-15.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-15.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-15.png.pagespeed.ic.oAahLSX1TH.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-15.png.pagespeed.ic.oAahLSX1TH.webp" alt="Sports" title="Sports" class="" data-pagespeed-url-hash="3973352933" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-15.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-15.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-15.png.pagespeed.ic.oAahLSX1TH.webp" src="<?php echo asset();?>images/xserve-15.png.pagespeed.ic.oAahLSX1TH.webp" alt="Sports" title="Sports" class="" data-pagespeed-url-hash="3973352933" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Sports</h3>
@@ -864,8 +880,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-16.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-16.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-16.png.pagespeed.ic.znXdqAA-Wg.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-16.png.pagespeed.ic.znXdqAA-Wg.webp" alt="Weather" title="Weather" class="" data-pagespeed-url-hash="4267852854" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-16.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-16.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-16.png.pagespeed.ic.znXdqAA-Wg.webp" src="<?php echo asset();?>images/xserve-16.png.pagespeed.ic.znXdqAA-Wg.webp" alt="Weather" title="Weather" class="" data-pagespeed-url-hash="4267852854" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Weather</h3>
@@ -875,8 +891,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-17.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-17.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-17.png.pagespeed.ic.-1wASQW73G.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-17.png.pagespeed.ic.-1wASQW73G.webp" alt="Logistic" title="Logistic" class="" data-pagespeed-url-hash="267385479" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-17.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-17.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-17.png.pagespeed.ic.-1wASQW73G.webp" src="<?php echo asset();?>images/xserve-17.png.pagespeed.ic.-1wASQW73G.webp" alt="Logistic" title="Logistic" class="" data-pagespeed-url-hash="267385479" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Logistic</h3>
@@ -886,8 +902,8 @@
                 <div class="service-box border">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-18.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/industries/serve-18.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/industries/xserve-18.png.pagespeed.ic.lpB900570-.webp" src="<?php echo base_url();?>main-boot-5/images/industries/xserve-18.png.pagespeed.ic.lpB900570-.webp" alt="Agritech" title="Agritech" class="" data-pagespeed-url-hash="561885400" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/serve-18.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/serve-18.png" type="image/png"><img data-src="<?php echo asset();?>images/xserve-18.png.pagespeed.ic.lpB900570-.webp" src="<?php echo asset();?>images/xserve-18.png.pagespeed.ic.lpB900570-.webp" alt="Agritech" title="Agritech" class="" data-pagespeed-url-hash="561885400" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 60px;">Agritech</h3>
@@ -910,8 +926,8 @@
                 <div class="row gy-4">
                     <div class="col-lg-6 text-center">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/side-img-1.webp" type="image/webp">
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/aiml-img/side-img-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/aiml-img/xside-img-1.jpg,qv-1.pagespeed.ic.s6ui7hAERu.webp" src="<?php echo base_url();?>main-boot-5/images/aiml-img/xside-img-1.jpg,qv-1.pagespeed.ic.s6ui7hAERu.webp" alt="Why Should You Hire Us as Our AI and ML Development Company?" title="Why Should You Hire Us as Our AI and ML Development Company?" class="ob-cover" data-pagespeed-url-hash="531890954" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset();?>images/side-img-1.webp" type="image/webp">
+                            <source srcset="<?php echo asset();?>images/side-img-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xside-img-1.jpg,qv-1.pagespeed.ic.s6ui7hAERu.webp" src="<?php echo asset();?>images/xside-img-1.jpg,qv-1.pagespeed.ic.s6ui7hAERu.webp" alt="Why Should You Hire Us as Our AI and ML Development Company?" title="Why Should You Hire Us as Our AI and ML Development Company?" class="ob-cover" data-pagespeed-url-hash="531890954" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <div class="col-lg-6">
@@ -946,7 +962,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <a href="<?php echo base_url();?>ai-development-services">
+                <a href="<?php echo asset();?>ai-development-services">
                     <div class="boxed bg-white shadow-custom d-flex align-items-center justify-content-between">
                         <p class="text-black text-18 small-heading d-flex align-items-center" style="height: 30px;">AI Development Services</p>
                         <span class="long-arrow-icon-css icon-item right arrow-white"></span>
@@ -954,7 +970,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="<?php echo base_url();?>machine-learning-development">
+                <a href="<?php echo asset();?>machine-learning-development">
                     <div class="boxed bg-white shadow-custom d-flex align-items-center justify-content-between">
                         <p class="text-black text-18 small-heading d-flex align-items-center" style="height: 30px;">ML Development Services</p>
                         <span class="long-arrow-icon-css icon-item right arrow-white"></span>
@@ -962,7 +978,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="<?php echo base_url();?>hire-rpa-developer">
+                <a href="<?php echo asset();?>hire-rpa-developer">
                     <div class="boxed bg-white shadow-custom d-flex align-items-center justify-content-between">
                         <p class="text-black text-18 small-heading d-flex align-items-center" style="height: 30px;">Hire RPA Engineer</p>
                         <span class="long-arrow-icon-css icon-item right arrow-white"></span>
@@ -975,8 +991,8 @@
 <section class="section-padding section-padding-md banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/dot-bg.webp" type="image/webp">
-            <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/dot-bg.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xdot-bg.png.pagespeed.ic.rNCmWwyLcE.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xdot-bg.png.pagespeed.ic.rNCmWwyLcE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="" data-pagespeed-url-hash="2026396024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+            <source srcset="<?php echo asset();?>images/dot-bg.webp" type="image/webp">
+            <source srcset="<?php echo asset();?>images/dot-bg.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xdot-bg.png.pagespeed.ic.rNCmWwyLcE.webp" src="<?php echo asset();?>images/react-ppc-22/xdot-bg.png.pagespeed.ic.rNCmWwyLcE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="" data-pagespeed-url-hash="2026396024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
         </picture>
     </figure>
     <div class="container">
@@ -1022,44 +1038,44 @@
             </div>
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.jpg" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="ob-cover" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/side-img-5.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/side-img-5.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="ob-cover" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
             </div>
         </div>
         <div class="row gy-4 gy-lg-0 text-center count-bottom justify-content-center">
             <div class="col-6 col-lg">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-1.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-1.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-1.png.pagespeed.ic.LoWk6FB5BP.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-1.png.pagespeed.ic.LoWk6FB5BP.webp" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg" data-pagespeed-url-hash="185465866" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-1.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-1.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-1.png.pagespeed.ic.LoWk6FB5BP.webp" src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-1.png.pagespeed.ic.LoWk6FB5BP.webp" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg" data-pagespeed-url-hash="185465866" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
                 <p class="text-18">Work at Your Time Zone</p>
             </div>
             <div class="col-6 col-lg">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-3.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-3.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-3.png.pagespeed.ic.HykL4UHSpb.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-3.png.pagespeed.ic.HykL4UHSpb.webp" alt="Easy Communication" title="Easy Communication" class="mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-3.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-3.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-3.png.pagespeed.ic.HykL4UHSpb.webp" src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-3.png.pagespeed.ic.HykL4UHSpb.webp" alt="Easy Communication" title="Easy Communication" class="mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
                 <p class="text-18">Easy Communication</p>
             </div>
             <div class="col-6 col-lg">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-4.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-4.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-4.png.pagespeed.ic.bPhZhrtw7r.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-4.png.pagespeed.ic.bPhZhrtw7r.webp" alt="Hire in 48 Hours" title="Hire in 48 Hours" class="mb-lg" data-pagespeed-url-hash="1068965629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-4.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-4.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-4.png.pagespeed.ic.bPhZhrtw7r.webp" src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-4.png.pagespeed.ic.bPhZhrtw7r.webp" alt="Hire in 48 Hours" title="Hire in 48 Hours" class="mb-lg" data-pagespeed-url-hash="1068965629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
                 <p class="text-18">Hire in 48 Hours</p>
             </div>
             <div class="col-6 col-lg">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-2.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-2.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-2.png.pagespeed.ic.j9OKkgHPEa.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-2.png.pagespeed.ic.j9OKkgHPEa.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="479965787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-2.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-2.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-2.png.pagespeed.ic.j9OKkgHPEa.webp" src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-2.png.pagespeed.ic.j9OKkgHPEa.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="479965787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
                 <p class="text-18">In Business Since 2011</p>
             </div>
             <div class="col-6 col-lg mb-0">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-5.webp" type="image/webp">
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc-22/counting-ico-5.png" type="image/png"><img data-src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-5.png.pagespeed.ic.eraetEKBwF.webp" src="<?php echo base_url();?>main-boot-5/images/react-ppc-22/xcounting-ico-5.png.pagespeed.ic.eraetEKBwF.webp" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg" data-pagespeed-url-hash="1363465550" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-5.webp" type="image/webp">
+                    <source srcset="<?php echo asset();?>images/react-ppc-22/counting-ico-5.png" type="image/png"><img data-src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-5.png.pagespeed.ic.eraetEKBwF.webp" src="<?php echo asset();?>images/react-ppc-22/xcounting-ico-5.png.pagespeed.ic.eraetEKBwF.webp" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg" data-pagespeed-url-hash="1363465550" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
                 <p class="text-18">5/5 Pro User Rating</p>
             </div>
@@ -1267,8 +1283,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp">
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1284,8 +1300,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp">
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -1301,8 +1317,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp">
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

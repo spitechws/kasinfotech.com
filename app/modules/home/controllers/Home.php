@@ -62,7 +62,6 @@
 
         function page($page_name)
         {
-
             $data = $this->load_common_data($page_name);
             load_home_view($page_name, $data);
         }
