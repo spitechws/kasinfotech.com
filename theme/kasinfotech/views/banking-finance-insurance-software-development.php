@@ -19,11 +19,11 @@
 <section class="header-spacing banner-main banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/banner.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset(); ?>images/banking-finance/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/banking-finance/banner.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
-                src="<?php echo base_url(); ?>main-boot-5/images/images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
+                data-src="<?php echo asset(); ?>images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
+                src="<?php echo asset(); ?>images/images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
                 alt="Banking, Financial Services, and Insurance"
                 title="Banking, Financial Services, and Insurance"
                 data-pagespeed-url-hash="782644765"
@@ -57,86 +57,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -218,11 +170,11 @@
                                             <div class="row align-items-lg-center">
                                                 <div class="col-md-4">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-1.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-1.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
+                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
+                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
                                                             alt="Cards &amp; Payments"
                                                             title="Cards &amp; Payments"
                                                             class=""
@@ -258,11 +210,11 @@
                                             <div class="row align-items-lg-center">
                                                 <div class="col-md-4">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-2.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-2.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
+                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
+                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
                                                             alt="Risk &amp; Compliance"
                                                             title="Risk &amp; Compliance"
                                                             class=""
@@ -297,11 +249,11 @@
                                             <div class="row align-items-lg-center">
                                                 <div class="col-md-4">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-3.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-3.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
+                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
+                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
                                                             alt="Mortgage &amp; Consumer Lending"
                                                             title="Mortgage &amp; Consumer Lending"
                                                             class=""
@@ -336,11 +288,11 @@
                                             <div class="row align-items-lg-center">
                                                 <div class="col-md-4">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-4.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-4.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-4.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-4.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
+                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
+                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
                                                             alt="Financial Analytics &amp; BI"
                                                             title="Financial Analytics &amp; BI"
                                                             class=""
@@ -376,11 +328,11 @@
                                             <div class="row align-items-lg-center">
                                                 <div class="col-md-4">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-5.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/tab-5.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-5.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/banking-finance/tab-5.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
+                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
+                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
                                                             alt="Insurance"
                                                             title="Insurance"
                                                             class=""
@@ -412,11 +364,11 @@
 <section class="section-padding banner-post full-width-form pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/form-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url(); ?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo base_url(); ?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
                 alt="Start Your Project With BFSI Software Development Company"
                 title="Start Your Project With BFSI Software Development Company"
                 class=""
@@ -517,11 +469,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-1.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-1.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
                                 alt="Architecture development and design"
                                 title="Architecture development and design"
                                 class="svg-icon m-0"
@@ -537,11 +489,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-2.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-2.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
                                 alt="Analytics"
                                 title="Analytics"
                                 class="svg-icon m-0"
@@ -557,11 +509,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-3.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-3.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
                                 alt="Application maintenance and support"
                                 title="Application maintenance and support"
                                 class="svg-icon m-0"
@@ -577,11 +529,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-4.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-4.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-4.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
                                 alt="Application integration services"
                                 title="Application integration services"
                                 class="svg-icon m-0"
@@ -597,11 +549,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-5.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-5.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-5.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
                                 alt="Business process re-engineering"
                                 title="Business process re-engineering"
                                 class="svg-icon m-0"
@@ -617,11 +569,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-6.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-6.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-6.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
                                 alt="Business Intelligence Decision support systems"
                                 title="Business Intelligence Decision support systems"
                                 class="svg-icon m-0"
@@ -637,11 +589,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-7.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-7.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-7.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-7.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
                                 alt="Content management solution"
                                 title="Content management solution"
                                 class="svg-icon m-0"
@@ -657,11 +609,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-8.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-8.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-8.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-8.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
                                 alt="Consulting and In-house centers setup"
                                 title="Consulting and In-house centers setup"
                                 class="svg-icon m-0"
@@ -677,11 +629,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-9.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-9.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-9.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-9.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
                                 alt="Enterprise Resource Planning"
                                 title="Enterprise Resource Planning"
                                 class="svg-icon m-0"
@@ -697,11 +649,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-10.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-10.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-10.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-10.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
                                 alt="IT strategy consulting"
                                 title="IT strategy consulting"
                                 class="svg-icon m-0"
@@ -717,11 +669,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-11.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-11.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-11.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-11.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
                                 alt="Mobile enablement for Websites"
                                 title="Mobile enablement for Websites"
                                 class="svg-icon m-0"
@@ -737,11 +689,11 @@
                 <div class="service-box bg-white">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-12.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-12.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-12.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-12.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
                                 alt="Product enhancements and development services"
                                 title="Product enhancements and development services"
                                 class="svg-icon m-0"
@@ -757,11 +709,11 @@
                 <div class="service-box bg-white mb-lg-0">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-13.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-13.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-13.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-13.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
                                 alt="Product implementation methodologies"
                                 title="Product implementation methodologies"
                                 class="svg-icon m-0"
@@ -777,11 +729,11 @@
                 <div class="service-box bg-white mb-lg-0">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-14.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-14.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-14.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-14.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
                                 alt="Portal development"
                                 title="Portal development"
                                 class="svg-icon m-0"
@@ -797,11 +749,11 @@
                 <div class="service-box bg-white mb-lg-0">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-15.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-15.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-15.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-15.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
                                 alt="Security consultancy and audit"
                                 title="Security consultancy and audit"
                                 class="svg-icon m-0"
@@ -817,11 +769,11 @@
                 <div class="service-box bg-white mb-0">
                     <figure class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-16.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/services-16.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-16.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/banking-finance/services-16.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
+                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
+                                src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
                                 alt="Systems integration services"
                                 title="Systems integration services"
                                 class="svg-icon m-0"
@@ -842,11 +794,11 @@
             <div class="col-lg-5 text-center">
                 <div class="side-sticky-section">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/side-img-1.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/banking-finance/side-img-1.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/banking-finance/side-img-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/banking-finance/side-img-1.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
-                            src="<?php echo base_url(); ?>main-boot-5/images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
+                            data-src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
+                            src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
                             alt="BFSI Enterprise Solutions and App Development Company."
                             title="BFSI Enterprise Solutions and App Development Company."
                             class="mb-5 mb-lg-0"
@@ -1154,11 +1106,11 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                            src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                             alt="Top 1% IT Talent"
                                                             title="Top 1% IT Talent"
                                                             class="slider-img"
@@ -1182,11 +1134,11 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                            src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                             alt="Time Zone Aligned"
                                                             title="Time Zone Aligned"
                                                             class="slider-img"
@@ -1210,11 +1162,11 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                            src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                             alt="Experienced Team"
                                                             title="Experienced Team"
                                                             class="slider-img"
