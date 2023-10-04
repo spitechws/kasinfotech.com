@@ -28,37 +28,14 @@
                     <div class="container-fluid submenu-inner">
                         <div class="row">
                             <div class="col-lg-2">
-                                <p class="dropdown-item nav-link font-semibold">Experience</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Digital Workplace Services</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Product Enhancement</a>
-                                <p class="dropdown-item nav-link font-semibold">Insights</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ai-ml-development-services') ?>">AI & Automation </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('data-analytics-services') ?>">Data Analytics</a>
-                                <p class="dropdown-item nav-link font-semibold">SAP Solutions</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">SAP Consultation</a>
-                            </div>
-                            <div class="col-lg-2">
-                                <p class="dropdown-item nav-link font-semibold">Innovate</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-rpa-developer') ?>">Robotic Process Automation</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('software-engineering') ?>">Software Engineering</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('web-development-services') ?>">Web Development</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('internet-of-things-consulting-services') ?>">Internet of Things (IoT)</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-data-scientist') ?>">Data Science</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ai-developer') ?>">Artificial Intelligence</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ml-developer') ?>">Machine Learning</a>
-                            </div>
-                            <div class="col-lg-2">
-                                <p class="dropdown-item nav-link font-semibold">Accelerate</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('cloud-native-application-development') ?>">Cloud - KAS PVT LTD Combat</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-process-automation') ?>">Digital Process Automation </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('open-source-web-development') ?>">Open Source </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('dynamics-365-consulting') ?>">Microsoft Dynamics</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('salesforce-consulting-service') ?>">Salesforce</a>
-                            </div>
-                            <div class="col-lg-2">
-                                <p class="dropdown-item nav-link font-semibold">Assure</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Quality Assurance </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('it-staff-augmentation-services') ?>">IT Staff Augmentation </a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('organizational-structure') ?>">Organizational Structure</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hr-transformation') ?>">HR transformation</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('lifecycle-management') ?>">Employee Lifecycle Management</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('talent-assessments-and-performance') ?>">Talent Assessments and Performance</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('employee-engagement-surveys') ?>">Employee Engagement Surveys</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('rewards-and-recognition') ?>">Rewards and Recognition</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('workforce-analytics') ?>">Workforce Analytics</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-hr-and-process-automation') ?>">Digital HR and Process Automation</a>
                             </div>
 
                         </div>
