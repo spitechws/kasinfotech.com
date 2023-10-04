@@ -19,11 +19,11 @@
 <section class="home-section hero-banner content-center banner-post header-spacing-padding">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/location-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/location-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/locations/location-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/locations/location-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/locations/xlocation-bg.jpg.pagespeed.ic.Lec0UK7BaP.webp"
-                src="<?php echo base_url();?>main-boot-5/images/locations/xlocation-bg.jpg.pagespeed.ic.Lec0UK7BaP.webp"
+                data-src="<?php echo asset();?>images/locations/xlocation-bg.jpg.pagespeed.ic.Lec0UK7BaP.webp"
+                src="<?php echo asset();?>images/locations/xlocation-bg.jpg.pagespeed.ic.Lec0UK7BaP.webp"
                 alt="EXPLORE OUR SERVICE OFFERINGS IN SPECIFIC GEOGRAPHY."
                 title="EXPLORE OUR SERVICE OFFERINGS IN SPECIFIC GEOGRAPHY."
                 data-pagespeed-url-hash="3112019016"
@@ -52,11 +52,11 @@
                 <div class="row align-items-md-center g-md-5">
                     <div class="col-md-6">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/bacancy.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/bacancy.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/bacancy.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/bacancy.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/bacancy.jpg"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/bacancy.jpg"
+                                data-src="<?php echo asset();?>images/locations/bacancy.jpg"
+                                src="<?php echo asset();?>images/locations/bacancy.jpg"
                                 alt="Bacancy"
                                 title="Bacancy"
                                 class="w-100"
@@ -68,11 +68,11 @@
                     <div class="col-md-6 col-xl-5 mobile-spacing text-center text-md-left">
                         <div class="d-flex align-items-center justify-content-center justify-content-md-start">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india-flag.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india-flag.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/india-flag.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/india-flag.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xindia-flag.png.pagespeed.ic.uMxXHWzM1g.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xindia-flag.png.pagespeed.ic.uMxXHWzM1g.webp"
+                                    data-src="<?php echo asset();?>images/locations/xindia-flag.png.pagespeed.ic.uMxXHWzM1g.webp"
+                                    src="<?php echo asset();?>images/locations/xindia-flag.png.pagespeed.ic.uMxXHWzM1g.webp"
                                     alt="Bacancy"
                                     title="Bacancy"
                                     class="d-inherit"
@@ -130,11 +130,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/usa.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/usa.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/usa.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/usa.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xusa.jpg.pagespeed.ic.0ujCDXNGey.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xusa.jpg.pagespeed.ic.0ujCDXNGey.webp"
+                                data-src="<?php echo asset();?>images/locations/xusa.jpg.pagespeed.ic.0ujCDXNGey.webp"
+                                src="<?php echo asset();?>images/locations/xusa.jpg.pagespeed.ic.0ujCDXNGey.webp"
                                 alt="usa"
                                 title="usa"
                                 class="w-100 country-img"
@@ -169,11 +169,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/usa-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/usa-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/usa-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/usa-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xusa-logo.png.pagespeed.ic.QMgBfYLPbU.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xusa-logo.png.pagespeed.ic.QMgBfYLPbU.webp"
+                                    data-src="<?php echo asset();?>images/locations/xusa-logo.png.pagespeed.ic.QMgBfYLPbU.webp"
+                                    src="<?php echo asset();?>images/locations/xusa-logo.png.pagespeed.ic.QMgBfYLPbU.webp"
                                     alt="usa"
                                     title="usa"
                                     class="d-inherit"
@@ -193,11 +193,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/canada.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/canada.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/canada.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/canada.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xcanada.jpg.pagespeed.ic.BvACR2ByvQ.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xcanada.jpg.pagespeed.ic.BvACR2ByvQ.webp"
+                                data-src="<?php echo asset();?>images/locations/xcanada.jpg.pagespeed.ic.BvACR2ByvQ.webp"
+                                src="<?php echo asset();?>images/locations/xcanada.jpg.pagespeed.ic.BvACR2ByvQ.webp"
                                 alt="canada"
                                 title="canada"
                                 class="w-100 country-img"
@@ -232,11 +232,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/canada-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/canada-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/canada-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/canada-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xcanada-logo.png.pagespeed.ic.G8YDnL_Ccx.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xcanada-logo.png.pagespeed.ic.G8YDnL_Ccx.webp"
+                                    data-src="<?php echo asset();?>images/locations/xcanada-logo.png.pagespeed.ic.G8YDnL_Ccx.webp"
+                                    src="<?php echo asset();?>images/locations/xcanada-logo.png.pagespeed.ic.G8YDnL_Ccx.webp"
                                     alt="canada"
                                     title="canada"
                                     class="d-inherit"
@@ -256,11 +256,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/australia.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/australia.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/australia.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/australia.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xaustralia.jpg.pagespeed.ic.eKQnlb7nz0.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xaustralia.jpg.pagespeed.ic.eKQnlb7nz0.webp"
+                                data-src="<?php echo asset();?>images/locations/xaustralia.jpg.pagespeed.ic.eKQnlb7nz0.webp"
+                                src="<?php echo asset();?>images/locations/xaustralia.jpg.pagespeed.ic.eKQnlb7nz0.webp"
                                 alt="australia"
                                 title="australia"
                                 class="w-100 country-img"
@@ -295,11 +295,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/australia-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/australia-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/australia-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/australia-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xaustralia-logo.png.pagespeed.ic.DX7ALY2o6y.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xaustralia-logo.png.pagespeed.ic.DX7ALY2o6y.webp"
+                                    data-src="<?php echo asset();?>images/locations/xaustralia-logo.png.pagespeed.ic.DX7ALY2o6y.webp"
+                                    src="<?php echo asset();?>images/locations/xaustralia-logo.png.pagespeed.ic.DX7ALY2o6y.webp"
                                     alt="australia"
                                     title="australia"
                                     class="d-inherit"
@@ -319,11 +319,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/india.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/india.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xindia.jpg.pagespeed.ic.M3ps3BuTna.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xindia.jpg.pagespeed.ic.M3ps3BuTna.webp"
+                                data-src="<?php echo asset();?>images/locations/xindia.jpg.pagespeed.ic.M3ps3BuTna.webp"
+                                src="<?php echo asset();?>images/locations/xindia.jpg.pagespeed.ic.M3ps3BuTna.webp"
                                 alt="india"
                                 title="india"
                                 class="w-100 country-img"
@@ -358,11 +358,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/india-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/india-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/india-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xindia-logo.png.pagespeed.ic.qQe27lkcCS.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xindia-logo.png.pagespeed.ic.qQe27lkcCS.webp"
+                                    data-src="<?php echo asset();?>images/locations/xindia-logo.png.pagespeed.ic.qQe27lkcCS.webp"
+                                    src="<?php echo asset();?>images/locations/xindia-logo.png.pagespeed.ic.qQe27lkcCS.webp"
                                     alt="India"
                                     title="India"
                                     class="d-inherit"
@@ -382,11 +382,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/uae.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/uae.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/uae.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/uae.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xuae.jpg.pagespeed.ic.wFu-zaLvY4.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xuae.jpg.pagespeed.ic.wFu-zaLvY4.webp"
+                                data-src="<?php echo asset();?>images/locations/xuae.jpg.pagespeed.ic.wFu-zaLvY4.webp"
+                                src="<?php echo asset();?>images/locations/xuae.jpg.pagespeed.ic.wFu-zaLvY4.webp"
                                 alt="uae"
                                 title="uae"
                                 class="w-100 country-img"
@@ -421,11 +421,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/uae-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/uae-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/uae-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/uae-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xuae-logo.png.pagespeed.ic.0AWvVm0Tfg.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xuae-logo.png.pagespeed.ic.0AWvVm0Tfg.webp"
+                                    data-src="<?php echo asset();?>images/locations/xuae-logo.png.pagespeed.ic.0AWvVm0Tfg.webp"
+                                    src="<?php echo asset();?>images/locations/xuae-logo.png.pagespeed.ic.0AWvVm0Tfg.webp"
                                     alt="uae"
                                     title="uae"
                                     class="d-inherit"
@@ -445,11 +445,11 @@
                 <div class="country">
                     <div class="position-relative country-main-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/sweden.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/locations/sweden.jpg" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/locations/sweden.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/locations/sweden.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/locations/xsweden.jpg.pagespeed.ic.0FivroZaEj.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/locations/xsweden.jpg.pagespeed.ic.0FivroZaEj.webp"
+                                data-src="<?php echo asset();?>images/locations/xsweden.jpg.pagespeed.ic.0FivroZaEj.webp"
+                                src="<?php echo asset();?>images/locations/xsweden.jpg.pagespeed.ic.0FivroZaEj.webp"
                                 alt="sweden"
                                 title="sweden"
                                 class="w-100 country-img"
@@ -484,11 +484,11 @@
                     <div class="desc">
                         <div class="d-flex align-items-center">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/sweden-logo.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/locations/sweden-logo.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/locations/sweden-logo.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/locations/sweden-logo.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/locations/xsweden-logo.png.pagespeed.ic.ZN_qSmAto0.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/locations/xsweden-logo.png.pagespeed.ic.ZN_qSmAto0.webp"
+                                    data-src="<?php echo asset();?>images/locations/xsweden-logo.png.pagespeed.ic.ZN_qSmAto0.webp"
+                                    src="<?php echo asset();?>images/locations/xsweden-logo.png.pagespeed.ic.ZN_qSmAto0.webp"
                                     alt="sweden"
                                     title="sweden"
                                     class="d-inherit"
@@ -545,11 +545,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="slider-img"
@@ -573,11 +573,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="slider-img"
@@ -601,11 +601,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="slider-img"

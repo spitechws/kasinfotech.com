@@ -21,11 +21,11 @@
     <div class="home-section hero-banner content-center banner-post header-spacing-padding">
         <figure class="banner-post-img">
             <picture>
-                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/banner.webp" type="image/webp" />
-                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/banner.jpg?v-1" type="image/jpeg" />
+                <source srcset="<?php echo asset(); ?>images/leadership/banner.webp" type="image/webp" />
+                <source srcset="<?php echo asset(); ?>images/leadership/banner.jpg?v-1" type="image/jpeg" />
                 <img
-                    data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbanner.jpg,qv-1.pagespeed.ic.SpdAjFUe5F.webp"
-                    src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbanner.jpg,qv-1.pagespeed.ic.SpdAjFUe5F.webp"
+                    data-src="<?php echo asset(); ?>images/leadership/xbanner.jpg,qv-1.pagespeed.ic.SpdAjFUe5F.webp"
+                    src="<?php echo asset(); ?>images/leadership/xbanner.jpg,qv-1.pagespeed.ic.SpdAjFUe5F.webp"
                     alt="MEET OUR LEADERSHIP TEAM"
                     title="MEET OUR LEADERSHIP TEAM"
                 />
@@ -65,11 +65,11 @@
     <div class="section-padding banner-post leadership-main">
         <figure class="banner-post-img">
             <picture>
-                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bg-part-1.webp" type="image/webp" />
-                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bg-part-1.jpg" type="image/jpeg" />
+                <source srcset="<?php echo asset(); ?>images/leadership/bg-part-1.webp" type="image/webp" />
+                <source srcset="<?php echo asset(); ?>images/leadership/bg-part-1.jpg" type="image/jpeg" />
                 <img
-                    data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbg-part-1.jpg.pagespeed.ic.AWq1F21MnU.webp"
-                    src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbg-part-1.jpg.pagespeed.ic.AWq1F21MnU.webp"
+                    data-src="<?php echo asset(); ?>images/leadership/xbg-part-1.jpg.pagespeed.ic.AWq1F21MnU.webp"
+                    src="<?php echo asset(); ?>images/leadership/xbg-part-1.jpg.pagespeed.ic.AWq1F21MnU.webp"
                     alt="Bacancy Software"
                     title="Bacancy Software"
                     class=""
@@ -90,11 +90,11 @@
                     <div class="col-lg-6">
                         <figure class="">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/cp-thumb.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/cp-thumb.png?v-1" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/cp-thumb.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/cp-thumb.png?v-1" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xcp-thumb.png,qv-1.pagespeed.ic.O1Coj-RmCC.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/leadership/xcp-thumb.png,qv-1.pagespeed.ic.O1Coj-RmCC.webp"
+                                    data-src="<?php echo asset(); ?>images/leadership/xcp-thumb.png,qv-1.pagespeed.ic.O1Coj-RmCC.webp"
+                                    src="<?php echo asset(); ?>images/leadership/xcp-thumb.png,qv-1.pagespeed.ic.O1Coj-RmCC.webp"
                                     alt="Chandresh Patel M. D. &amp; Agile Coach | India"
                                     title="Chandresh Patel M. D. &amp; Agile Coach | India"
                                     class="mb-sm"
@@ -113,11 +113,11 @@
                                 Chandresh Patel
                                 <a href="https://www.linkedin.com/in/agilechandreshpatel" target="_blank">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/leadership/linkedin.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/leadership/linkedin.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                            data-src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                            src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
                                             alt="MEET OUR LEADERSHIP TEAM"
                                             title="MEET OUR LEADERSHIP TEAM"
                                             class=""
@@ -133,11 +133,11 @@
                     <div class="col-lg-6 offset-lg-1">
                         <figure class="">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bp-thumb.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bp-thumb.png?v-1" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/bp-thumb.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/bp-thumb.png?v-1" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbp-thumb.png,qv-1.pagespeed.ic.MWthmIUTVR.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbp-thumb.png,qv-1.pagespeed.ic.MWthmIUTVR.webp"
+                                    data-src="<?php echo asset(); ?>images/leadership/xbp-thumb.png,qv-1.pagespeed.ic.MWthmIUTVR.webp"
+                                    src="<?php echo asset(); ?>images/leadership/xbp-thumb.png,qv-1.pagespeed.ic.MWthmIUTVR.webp"
                                     alt="Binal Patel CTO &amp; President | Canada"
                                     title="Binal Patel CTO &amp; President | Canada"
                                     class="mb-sm"
@@ -156,11 +156,11 @@
                                 Binal Patel
                                 <a href="https://ca.linkedin.com/in/binalvpatel" target="_blank">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/leadership/linkedin.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/leadership/linkedin.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                            data-src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                            src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
                                             alt="MEET OUR LEADERSHIP TEAM"
                                             title="MEET OUR LEADERSHIP TEAM"
                                             class=""
@@ -176,11 +176,11 @@
                     <div class="col-lg-6">
                         <figure class="">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/ap-thumb.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/ap-thumb.png?v-1" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/ap-thumb.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/leadership/ap-thumb.png?v-1" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xap-thumb.png,qv-1.pagespeed.ic.m-7Xs90knW.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/leadership/xap-thumb.png,qv-1.pagespeed.ic.m-7Xs90knW.webp"
+                                    data-src="<?php echo asset(); ?>images/leadership/xap-thumb.png,qv-1.pagespeed.ic.m-7Xs90knW.webp"
+                                    src="<?php echo asset(); ?>images/leadership/xap-thumb.png,qv-1.pagespeed.ic.m-7Xs90knW.webp"
                                     alt="Amit Patel Co-founder"
                                     title="Amit Patel Co-founder"
                                     class="mb-sm"
@@ -214,11 +214,11 @@
                         <div class="row">
                             <div class="col-sm-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/cp-img-model.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/cp-img-model.jpg" type="image/jpeg" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/cp-img-model.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/cp-img-model.jpg" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xcp-img-model.jpg.pagespeed.ic.u8LKdhs9j1.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/leadership/xcp-img-model.jpg.pagespeed.ic.u8LKdhs9j1.webp"
+                                        data-src="<?php echo asset(); ?>images/leadership/xcp-img-model.jpg.pagespeed.ic.u8LKdhs9j1.webp"
+                                        src="<?php echo asset(); ?>images/leadership/xcp-img-model.jpg.pagespeed.ic.u8LKdhs9j1.webp"
                                         alt="MEET OUR LEADERSHIP TEAM"
                                         title="MEET OUR LEADERSHIP TEAM"
                                         class="lead-img"
@@ -230,11 +230,11 @@
                                     Chandresh Patel
                                     <a href="https://www.linkedin.com/in/agilechandreshpatel" target="_blank">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/leadership/linkedin.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/leadership/linkedin.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                                data-src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                                src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
                                                 alt="MEET OUR LEADERSHIP TEAM"
                                                 title="MEET OUR LEADERSHIP TEAM"
                                                 class=""
@@ -274,11 +274,11 @@
                         <div class="row">
                             <div class="col-sm-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bp-img-model.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/bp-img-model.jpg" type="image/jpeg" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/bp-img-model.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/bp-img-model.jpg" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbp-img-model.jpg.pagespeed.ic.gbiqvJ6jhq.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/leadership/xbp-img-model.jpg.pagespeed.ic.gbiqvJ6jhq.webp"
+                                        data-src="<?php echo asset(); ?>images/leadership/xbp-img-model.jpg.pagespeed.ic.gbiqvJ6jhq.webp"
+                                        src="<?php echo asset(); ?>images/leadership/xbp-img-model.jpg.pagespeed.ic.gbiqvJ6jhq.webp"
                                         alt="MEET OUR LEADERSHIP TEAM"
                                         title="MEET OUR LEADERSHIP TEAM"
                                         class="lead-img"
@@ -290,11 +290,11 @@
                                     Binal Patel
                                     <a href="https://ca.linkedin.com/in/binalvpatel" target="_blank">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/linkedin.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/leadership/linkedin.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/leadership/linkedin.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                                data-src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
+                                                src="<?php echo asset(); ?>images/leadership/xlinkedin.png.pagespeed.ic.pqaXcJ9ff2.webp"
                                                 alt="MEET OUR LEADERSHIP TEAM"
                                                 title="MEET OUR LEADERSHIP TEAM"
                                                 class=""
@@ -333,11 +333,11 @@
                         <div class="row">
                             <div class="col-sm-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/ap-img-model.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/leadership/ap-img-model.jpg" type="image/jpeg" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/ap-img-model.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/leadership/ap-img-model.jpg" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/leadership/xap-img-model.jpg.pagespeed.ic.OhqUSkRD3l.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/leadership/xap-img-model.jpg.pagespeed.ic.OhqUSkRD3l.webp"
+                                        data-src="<?php echo asset(); ?>images/leadership/xap-img-model.jpg.pagespeed.ic.OhqUSkRD3l.webp"
+                                        src="<?php echo asset(); ?>images/leadership/xap-img-model.jpg.pagespeed.ic.OhqUSkRD3l.webp"
                                         alt="MEET OUR LEADERSHIP TEAM"
                                         title="MEET OUR LEADERSHIP TEAM"
                                         class="lead-img"
@@ -412,11 +412,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                         alt="Top 1% IT Talent"
                                                         title="Top 1% IT Talent"
                                                         class="slider-img"
@@ -438,11 +438,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                         alt="Time Zone Aligned"
                                                         title="Time Zone Aligned"
                                                         class="slider-img"
@@ -464,11 +464,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                         alt="Experienced Team"
                                                         title="Experienced Team"
                                                         class="slider-img"

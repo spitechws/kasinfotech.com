@@ -19,11 +19,11 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/software-dev-org/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/software-dev-org/banner.png?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/software-dev-org/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/software-dev-org/banner.png?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
-                src="<?php echo base_url();?>main-boot-5/images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
+                data-src="<?php echo asset();?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
+                src="<?php echo asset();?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
                 alt="Hire Flutter Developer"
                 title="Hire Flutter Developer"
                 data-pagespeed-url-hash="1045423400"
@@ -50,8 +50,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-1.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-1.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA="
                                         src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA="
@@ -70,8 +70,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-2.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-2.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA=="
                                         src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA=="
@@ -90,8 +90,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-ico-3.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-3.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a"
                                         src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a"
@@ -110,11 +110,11 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-side-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-side-img.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-side-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-side-img.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
+                        data-src="<?php echo asset();?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
+                        src="<?php echo asset();?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
                         alt="Hire Flutter Developer"
                         title="Hire Flutter Developer"
                         data-pagespeed-url-hash="1395492025"
@@ -134,86 +134,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -230,7 +182,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -282,11 +234,11 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
                                             alt="Mid-Senior Flutter Developer"
                                             title="Mid-Senior Flutter Developer"
                                             data-pagespeed-url-hash="2684957369"
@@ -305,11 +257,11 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
                                             alt="Senior Flutter Developer"
                                             title="Senior Flutter Developer"
                                             data-pagespeed-url-hash="2684957369"
@@ -331,11 +283,11 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
                                             alt="Full Stack Flutter Developer"
                                             title="Full Stack Flutter Developer"
                                             data-pagespeed-url-hash="2684957369"
@@ -355,11 +307,11 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
                                             alt="Lead Flutter Developer"
                                             title="Lead Flutter Developer"
                                             data-pagespeed-url-hash="2684957369"
@@ -388,11 +340,11 @@
             </div>
             <div class="col-lg-6 text-center text-lg-left">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/side-img-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/side-img-2.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/side-img-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/side-img-2.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
+                        data-src="<?php echo asset();?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
+                        src="<?php echo asset();?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
                         alt="Technical Skills of Our Flutter Developers"
                         title="Technical Skills of Our Flutter Developers"
                         class="lazy ob-cover"
@@ -441,11 +393,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
                                                         alt="Sportify Hub"
                                                         title="Sportify Hub"
                                                         class="lazy ob-cover"
@@ -479,11 +431,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
                                                         alt="EZExchange"
                                                         title="EZExchange"
                                                         class="lazy ob-cover"
@@ -517,11 +469,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
                                                         alt="TaskProX"
                                                         title="TaskProX"
                                                         class="lazy ob-cover"
@@ -554,11 +506,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
                                                         alt="Sportify Hub"
                                                         title="Sportify Hub"
                                                         class="lazy ob-cover"
@@ -592,11 +544,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
                                                         alt="EZExchange"
                                                         title="EZExchange"
                                                         class="lazy ob-cover"
@@ -630,11 +582,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
                                                         alt="TaskProX"
                                                         title="TaskProX"
                                                         class="lazy ob-cover"
@@ -667,11 +619,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
+                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
                                                         alt="Sportify Hub"
                                                         title="Sportify Hub"
                                                         class="lazy ob-cover"
@@ -747,7 +699,7 @@
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
                                         <img
-                                            src="main-boot-5/images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
+                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
                                             alt="starts with"
                                             title=""
                                             class="position-absolute top-0 left-0 right-0 m-auto"
@@ -840,11 +792,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
                                     alt="Bacancy Mail"
                                     title="Bacancy Mail"
                                     class="mr-3 mt-3 d-none d-md-block"
@@ -1040,11 +992,11 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-1.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-1.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-1.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
                                             alt="Flutter Team Augmentation"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="151603601"
@@ -1061,11 +1013,11 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-2.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-2.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-2.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-2.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
                                             alt="Flutter 3.10 App Upgrade Services"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="446103522"
@@ -1081,11 +1033,11 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-3.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-3.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-3.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
                                             alt="Flutter Migration"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="740603443"
@@ -1101,11 +1053,11 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-4.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-4.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-4.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-4.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
                                             alt="Server-Side Mobile APIs"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="1035103364"
@@ -1122,11 +1074,11 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-5.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-5.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-5.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-5.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
                                             alt="Flutter Testing and Debugging"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="1329603285"
@@ -1143,11 +1095,11 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-6.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/icon-f-6.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-6.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-6.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
+                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
+                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
                                             alt="Flutter Backend Integration"
                                             class="mb-sm w-auto"
                                             data-pagespeed-url-hash="1624103206"
@@ -1179,11 +1131,11 @@
 <section class="section-padding section-paragraph text-center banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-4.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/banner-4.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-4.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-4.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
-                src="<?php echo base_url();?>main-boot-5/images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
+                data-src="<?php echo asset();?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
+                src="<?php echo asset();?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
                 alt="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
             "
                 title="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
@@ -1207,11 +1159,11 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
                         alt="Hire Flutter Developer From Bacancy &amp; Extent Your Team with Top Class Talent"
                         title="Hire Flutter Developer From Bacancy &amp; Extent Your Team with Top Class Talent"
                         class="lazy"
@@ -1442,11 +1394,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -1470,11 +1422,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -1498,11 +1450,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

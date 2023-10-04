@@ -19,11 +19,9 @@
 <section class="header-spacing section-padding banner-post testimonial-banner section-paragraph text-white-all">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/banner-2.webp" type="image/webp" />
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/banner-2.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbanner-2.jpg,qv-1.pagespeed.ic.IUTRkoYdaS.webp"
-                src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbanner-2.jpg,qv-1.pagespeed.ic.IUTRkoYdaS.webp"
+                data-src="<?php echo asset(); ?>images/testimonials/banner-2.webp" type="image/webp"
+                src="<?php echo asset(); ?>images/testimonials/banner-2.webp" type="image/webp"
                 alt="Action Speaks Louder than Words"
                 title="Action Speaks Louder than Words"
                 data-pagespeed-url-hash="3220655655"
@@ -955,11 +953,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/brett-thumbnail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/brett-thumbnail.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/brett-thumbnail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/brett-thumbnail.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbrett-thumbnail.png.pagespeed.ic.SM8f0iwG08.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbrett-thumbnail.png.pagespeed.ic.SM8f0iwG08.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xbrett-thumbnail.png.pagespeed.ic.SM8f0iwG08.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xbrett-thumbnail.png.pagespeed.ic.SM8f0iwG08.webp"
                                     alt="Brett"
                                     title="Brett"
                                     class="lazy w-100 testimonials__card-img"
@@ -970,11 +968,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial6" data-video="https://www.youtube.com/embed/MkBMZx6vcgg">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
                                     alt="Brett"
                                     title="Brett"
                                     class="lazy play"
@@ -988,11 +986,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/brett-bg.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/brett-bg.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/brett-bg.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/brett-bg.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbrett-bg.png.pagespeed.ic.p9XJOvaDHb.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbrett-bg.png.pagespeed.ic.p9XJOvaDHb.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xbrett-bg.png.pagespeed.ic.p9XJOvaDHb.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xbrett-bg.png.pagespeed.ic.p9XJOvaDHb.webp"
                                         alt="Brett"
                                         title="Brett"
                                         class="lazy profile-img rounded-circle"
@@ -1018,11 +1016,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-bg.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/philip-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/philip-bg.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-bg.jpg"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-bg.jpg"
+                                    data-src="<?php echo asset(); ?>images/testimonials/philip-bg.jpg"
+                                    src="<?php echo asset(); ?>images/testimonials/philip-bg.jpg"
                                     alt="Philip Gomez"
                                     title="Philip Gomez"
                                     class="lazy w-100 testimonials__card-img"
@@ -1033,11 +1031,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial6" data-video="https://www.youtube.com/embed/TQT626T-Vv0">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
                                     alt="Philip Gomez"
                                     title="Philip Gomez"
                                     class="lazy play"
@@ -1051,11 +1049,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-thumb.png?v-2" type="image/jpeg" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/philip-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/philip-thumb.png?v-2" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-thumb.png?v-2"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/philip-thumb.png?v-2"
+                                        data-src="<?php echo asset(); ?>images/testimonials/philip-thumb.png?v-2"
+                                        src="<?php echo asset(); ?>images/testimonials/philip-thumb.png?v-2"
                                         alt="Philip Gomez"
                                         title="Philip Gomez"
                                         class="lazy profile-img rounded-circle"
@@ -1080,11 +1078,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/john-burke.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/john-burke.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke.jpg"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke.jpg"
+                                    data-src="<?php echo asset(); ?>images/testimonials/john-burke.jpg"
+                                    src="<?php echo asset(); ?>images/testimonials/john-burke.jpg"
                                     alt="John Burke"
                                     title="John Burke"
                                     class="lazy w-100 testimonials__card-img"
@@ -1095,11 +1093,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial6" data-video="https://www.youtube.com/embed/iPEX2jK8Ldo">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png?v-2" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png,qv-2.pagespeed.ic.awTFBv9201.webp"
                                     alt="John Burke"
                                     title="John Burke"
                                     class="lazy play"
@@ -1113,11 +1111,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/john-burke-thumb.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/john-burke-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/john-burke-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xjohn-burke-thumb.png.pagespeed.ic.JInY8ObKm-.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xjohn-burke-thumb.png.pagespeed.ic.JInY8ObKm-.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xjohn-burke-thumb.png.pagespeed.ic.JInY8ObKm-.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xjohn-burke-thumb.png.pagespeed.ic.JInY8ObKm-.webp"
                                         alt="John Burke"
                                         title="John Burke"
                                         class="lazy profile-img rounded-circle"
@@ -1145,11 +1143,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-thumb.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-thumb.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/samuel-thumb.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/samuel-thumb.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsamuel-thumb.png.pagespeed.ic.Q80pSyUAkl.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsamuel-thumb.png.pagespeed.ic.Q80pSyUAkl.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xsamuel-thumb.png.pagespeed.ic.Q80pSyUAkl.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xsamuel-thumb.png.pagespeed.ic.Q80pSyUAkl.webp"
                                     alt="Samuel"
                                     title="Samuel"
                                     class="lazy w-100 testimonials__card-img"
@@ -1160,11 +1158,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial6" data-video="https://www.youtube.com/embed/bggXQLqAacg">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Samuel"
                                     title="Samuel"
                                     class="lazy play"
@@ -1178,11 +1176,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-round.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-round.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/samuel-round.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/samuel-round.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-round.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/samuel-round.png"
+                                        data-src="<?php echo asset(); ?>images/testimonials/samuel-round.png"
+                                        src="<?php echo asset(); ?>images/testimonials/samuel-round.png"
                                         alt="Samuel"
                                         title="Samuel"
                                         class="lazy profile-img rounded-circle"
@@ -1208,11 +1206,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/bill-meisner.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/bill-meisner.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
                                     alt="Bill Meisner"
                                     title="Bill Meisner"
                                     class="lazy w-100 testimonials__card-img"
@@ -1223,11 +1221,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/vCdHqrlAyjc">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Bryan Ashbaugh"
                                     title="Bryan Ashbaugh"
                                     class="lazy play"
@@ -1241,11 +1239,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner-thumb.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/bill-meisner-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/bill-meisner-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
                                         alt="Bill Meisner"
                                         title="Bill Meisner"
                                         class="lazy profile-img rounded-circle"
@@ -1271,11 +1269,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/rick-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/rick-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/rick-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/rick-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xrick-video.jpg.pagespeed.ic.8Uh1Wqy1Bl.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xrick-video.jpg.pagespeed.ic.8Uh1Wqy1Bl.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xrick-video.jpg.pagespeed.ic.8Uh1Wqy1Bl.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xrick-video.jpg.pagespeed.ic.8Uh1Wqy1Bl.webp"
                                     alt="Rick"
                                     title="Rick"
                                     class="lazy w-100 testimonials__card-img"
@@ -1286,11 +1284,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/by2ztuUd1Mg">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Bryan Ashbaugh"
                                     title="Bryan Ashbaugh"
                                     class="lazy play"
@@ -1304,11 +1302,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/rick-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/rick-thumb.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/rick-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/rick-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xrick-thumb.png.pagespeed.ic.RdmVQCBGOv.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xrick-thumb.png.pagespeed.ic.RdmVQCBGOv.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xrick-thumb.png.pagespeed.ic.RdmVQCBGOv.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xrick-thumb.png.pagespeed.ic.RdmVQCBGOv.webp"
                                         alt="Rick"
                                         title="Rick"
                                         class="lazy profile-img rounded-circle"
@@ -1337,11 +1335,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/kyle-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/kyle-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
                                     alt="Kyle LeSueur"
                                     title="Kyle LeSueur"
                                     class="lazy w-100 testimonials__card-img"
@@ -1352,11 +1350,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/nFW-nLZ-Wns">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="lazy play"
@@ -1370,11 +1368,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-thumb.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/kyle-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/kyle-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
                                         alt="Kyle LeSueur"
                                         title="Kyle LeSueur"
                                         class="lazy profile-img rounded-circle"
@@ -1401,11 +1399,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bryan-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bryan-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/bryan-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/bryan-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbryan-video.jpg.pagespeed.ic.Rj-GyJNpt3.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbryan-video.jpg.pagespeed.ic.Rj-GyJNpt3.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xbryan-video.jpg.pagespeed.ic.Rj-GyJNpt3.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xbryan-video.jpg.pagespeed.ic.Rj-GyJNpt3.webp"
                                     alt="Bryan Ashbaugh"
                                     title="Bryan Ashbaugh"
                                     class="lazy w-100 testimonials__card-img"
@@ -1416,11 +1414,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/qrPRb4Obel8">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Bryan Ashbaugh"
                                     title="Bryan Ashbaugh"
                                     class="lazy play"
@@ -1434,11 +1432,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bryan.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bryan.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/bryan.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/bryan.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbryan.png.pagespeed.ic.JP25gkF0r-.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbryan.png.pagespeed.ic.JP25gkF0r-.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xbryan.png.pagespeed.ic.JP25gkF0r-.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xbryan.png.pagespeed.ic.JP25gkF0r-.webp"
                                         alt="Bryan Ashbaugh"
                                         title="Bryan Ashbaugh"
                                         class="lazy profile-img rounded-circle"
@@ -1610,11 +1608,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/gerry-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/gerry-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/gerry-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/gerry-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgerry-video.jpg.pagespeed.ic.-JTLLK5hfV.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgerry-video.jpg.pagespeed.ic.-JTLLK5hfV.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xgerry-video.jpg.pagespeed.ic.-JTLLK5hfV.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xgerry-video.jpg.pagespeed.ic.-JTLLK5hfV.webp"
                                     alt="Gerry Dunne"
                                     title="Gerry Dunne"
                                     class="lazy w-100 testimonials__card-img"
@@ -1625,11 +1623,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial3" data-video="https://www.youtube.com/embed/Uv0QiFMfZO4">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Gerry Dunne"
                                     title="Gerry Dunne"
                                     class="lazy play"
@@ -1643,11 +1641,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/Gerry-Dunne.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/Gerry-Dunne.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/Gerry-Dunne.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/Gerry-Dunne.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xGerry-Dunne.png.pagespeed.ic.Pals2rADBO.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xGerry-Dunne.png.pagespeed.ic.Pals2rADBO.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xGerry-Dunne.png.pagespeed.ic.Pals2rADBO.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xGerry-Dunne.png.pagespeed.ic.Pals2rADBO.webp"
                                         alt="Gerry Dunne"
                                         title="Gerry Dunne"
                                         class="lazy profile-img rounded-circle"
@@ -1673,11 +1671,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/steve-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/steve-video.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/steve-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/steve-video.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsteve-video.png.pagespeed.ic.ExJgd1Nom-.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsteve-video.png.pagespeed.ic.ExJgd1Nom-.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xsteve-video.png.pagespeed.ic.ExJgd1Nom-.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xsteve-video.png.pagespeed.ic.ExJgd1Nom-.webp"
                                     alt="Steve"
                                     title="Steve"
                                     class="lazy w-100 testimonials__card-img"
@@ -1688,11 +1686,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial3" data-video="https://www.youtube.com/embed/i95mLdetbP8">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="lazy play"
@@ -1706,11 +1704,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/steve.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/steve.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/steve.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/steve.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsteve.png.pagespeed.ic.TVPL1ynlBk.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xsteve.png.pagespeed.ic.TVPL1ynlBk.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xsteve.png.pagespeed.ic.TVPL1ynlBk.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xsteve.png.pagespeed.ic.TVPL1ynlBk.webp"
                                         alt="Steve"
                                         title="Steve"
                                         class="lazy profile-img rounded-circle"
@@ -1737,11 +1735,11 @@
                 <div class="testimonials__card col-spacing testimonials__card-body">
                     <div class="d-flex justify-content-center">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                data-src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
                                 alt="goodfirms"
                                 title="goodfirms"
                                 class="mb-lg lazy"
@@ -1753,11 +1751,11 @@
                     <div class="d-flex align-items-center justify-content-center mb-lg">
                         <div class="profile">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/dcarta.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/dcarta.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/dcarta.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/dcarta.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/dcarta.png"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/dcarta.png"
+                                    data-src="<?php echo asset(); ?>images/testimonials/dcarta.png"
+                                    src="<?php echo asset(); ?>images/testimonials/dcarta.png"
                                     alt="David Carta"
                                     title="David Carta"
                                     class="lazy profile-img rounded-circle"
@@ -1782,11 +1780,11 @@
                 <div class="testimonials__card col-spacing testimonials__card-body">
                     <div class="d-flex justify-content-center">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                data-src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
                                 alt="goodfirms"
                                 title="goodfirms"
                                 class="mb-lg lazy"
@@ -1798,11 +1796,11 @@
                     <div class="d-flex align-items-center justify-content-center mb-lg">
                         <div class="profile">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/david.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/david.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/david.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/david.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/david.png"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/david.png"
+                                    data-src="<?php echo asset(); ?>images/testimonials/david.png"
+                                    src="<?php echo asset(); ?>images/testimonials/david.png"
                                     alt="David Smith"
                                     title="David Smith"
                                     class="lazy profile-img rounded-circle"
@@ -1826,11 +1824,11 @@
                 <div class="testimonials__card col-spacing testimonials__card-body">
                     <div class="d-flex justify-content-center">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/goodfirms.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/testimonials/goodfirms.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                data-src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
+                                src="<?php echo asset(); ?>images/testimonials/xgoodfirms.png.pagespeed.ic.1AjHF_3PvR.webp"
                                 alt="goodfirms"
                                 title="goodfirms"
                                 class="mb-lg lazy"
@@ -1842,11 +1840,11 @@
                     <div class="d-flex align-items-center justify-content-center mb-lg">
                         <div class="profile">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/iyad.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/iyad.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/iyad.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/iyad.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/iyad.png"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/iyad.png"
+                                    data-src="<?php echo asset(); ?>images/testimonials/iyad.png"
+                                    src="<?php echo asset(); ?>images/testimonials/iyad.png"
                                     alt="Iyad Horani"
                                     title="Iyad Horani"
                                     class="lazy profile-img rounded-circle"
@@ -1870,11 +1868,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/paul-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/paul-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/paul-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/paul-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/paul-video.jpg"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/paul-video.jpg"
+                                    data-src="<?php echo asset(); ?>images/testimonials/paul-video.jpg"
+                                    src="<?php echo asset(); ?>images/testimonials/paul-video.jpg"
                                     alt="Paul Stiles"
                                     title="Paul Stiles"
                                     class="lazy w-100 testimonials__card-img"
@@ -1885,11 +1883,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial2" data-video="https://www.youtube.com/embed/zL_EqCPhN3k">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="Paul Stiles"
                                     title="Paul Stiles"
                                     class="lazy play"
@@ -1903,11 +1901,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/Paul.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/Paul.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/Paul.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/Paul.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/Paul.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/Paul.png"
+                                        data-src="<?php echo asset(); ?>images/testimonials/Paul.png"
+                                        src="<?php echo asset(); ?>images/testimonials/Paul.png"
                                         alt="Paul Stiles"
                                         title="Paul Stiles"
                                         class="lazy profile-img rounded-circle"
@@ -1933,11 +1931,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/ryan-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/ryan-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
                                     alt="Ryan"
                                     title="Ryan"
                                     class="lazy w-100 testimonials__card-img"
@@ -1948,11 +1946,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial4" data-video="https://www.youtube.com/embed/3JLrI4-tBmM">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="lazy play"
@@ -1966,11 +1964,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-thumb.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/ryan-thumb.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/ryan-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
                                         alt="Ryan"
                                         title="Ryan"
                                         class="lazy profile-img rounded-circle"
@@ -1999,11 +1997,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/user-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/user-bg.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/user-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/user-bg.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xuser-bg.jpg.pagespeed.ic.aFuagEWYtw.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xuser-bg.jpg.pagespeed.ic.aFuagEWYtw.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xuser-bg.jpg.pagespeed.ic.aFuagEWYtw.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xuser-bg.jpg.pagespeed.ic.aFuagEWYtw.webp"
                                     alt="Laura Odorczyk"
                                     title="Laura Odorczyk"
                                     class="lazy w-100 testimonials__card-img"
@@ -2014,11 +2012,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial4" data-video="https://www.youtube.com/embed/QyinqOcHb9w">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="lazy play"
@@ -2032,11 +2030,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/laura.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/laura.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/laura.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/laura.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xlaura.png.pagespeed.ic.NTh91dOaz3.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xlaura.png.pagespeed.ic.NTh91dOaz3.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xlaura.png.pagespeed.ic.NTh91dOaz3.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xlaura.png.pagespeed.ic.NTh91dOaz3.webp"
                                         alt="Laura Odorczyk"
                                         title="Laura Odorczyk"
                                         class="lazy profile-img rounded-circle"
@@ -2062,11 +2060,11 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/mike-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/mike-video.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/mike-video.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/mike-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xmike-video.jpg.pagespeed.ic.H4-ZWMJLxC.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xmike-video.jpg.pagespeed.ic.H4-ZWMJLxC.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xmike-video.jpg.pagespeed.ic.H4-ZWMJLxC.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xmike-video.jpg.pagespeed.ic.H4-ZWMJLxC.webp"
                                     alt="Mike Lim"
                                     title="Mike Lim"
                                     class="lazy w-100 testimonials__card-img"
@@ -2077,11 +2075,11 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial5" data-video="https://www.youtube.com/embed/C4YF_mSForg">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon-big.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/testimonials/play-icon-big.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    data-src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/xplay-icon-big.png.pagespeed.ic.awTFBv9201.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="lazy play"
@@ -2095,11 +2093,11 @@
                         <div class="d-flex align-items-center justify-content-center mb-lg">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/mike.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/mike.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/mike.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/testimonials/mike.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xmike.png.pagespeed.ic.E6pkLWgsOy.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xmike.png.pagespeed.ic.E6pkLWgsOy.webp"
+                                        data-src="<?php echo asset(); ?>images/testimonials/xmike.png.pagespeed.ic.E6pkLWgsOy.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/xmike.png.pagespeed.ic.E6pkLWgsOy.webp"
                                         alt="Mike Lim"
                                         title="Mike Lim"
                                         class="lazy profile-img rounded-circle"

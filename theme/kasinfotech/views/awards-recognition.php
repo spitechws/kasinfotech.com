@@ -55,16 +55,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-6.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-6.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-6.png.pagespeed.ic.3YjhlksRpo.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-6.png.pagespeed.ic.3YjhlksRpo.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp"
                                             alt="Bacancy Ranked 1st Among Top Ahmedabad Custom Software Developers"
                                             title="Bacancy Ranked 1st Among Top Ahmedabad Custom Software Developers"
                                             class="lazy w-100"
-                                            data-pagespeed-url-hash="2277105038"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                         />
                                     </picture>
                                 </div>
@@ -84,16 +80,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-5.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-5.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-5.png.pagespeed.ic.UvvSBlZ6oJ.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-5.png.pagespeed.ic.UvvSBlZ6oJ.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp"
                                             alt="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
                                             title="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
                                             class="lazy w-100"
-                                            data-pagespeed-url-hash="1982605117"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                         />
                                     </picture>
                                 </div>
@@ -113,16 +105,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-4.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-4.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-4.png.pagespeed.ic.iYWRBsH308.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-4.png.pagespeed.ic.iYWRBsH308.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp"
                                             alt="Clutch Recognizes Top-Performing Software Development Companies in India for 2021"
                                             title="Clutch Recognizes Top-Performing Software Development Companies in India for 2021"
                                             class="lazy w-100"
-                                            data-pagespeed-url-hash="1688105196"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                         />
                                     </picture>
                                 </div>
@@ -142,16 +130,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-3.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-3.png.pagespeed.ic.8qPQCQXIBP.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-3.png.pagespeed.ic.8qPQCQXIBP.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp"
                                             alt="160 Companies Named the Top Software Developers in India in New Clutch Report"
                                             title="160 Companies Named the Top Software Developers in India in New Clutch Report"
                                             class="lazy w-100"
-                                            data-pagespeed-url-hash="1393605275"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                         />
                                     </picture>
                                 </div>
@@ -171,16 +155,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-2.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-2.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-2.png.pagespeed.ic.VFFhkMXI9Z.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-2.png.pagespeed.ic.VFFhkMXI9Z.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp"
                                             alt="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India"
                                             title="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India"
                                             class="lazy w-100"
-                                            data-pagespeed-url-hash="1099105354"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                         />
                                     </picture>
                                 </div>
@@ -200,11 +180,9 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/aw-1.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-1.png.pagespeed.ic.kB-wAXaOLM.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/awards-recognition/xaw-1.png.pagespeed.ic.kB-wAXaOLM.webp"
+                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp"
+                                            src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp"
                                             alt="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback"
                                             title="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback"
                                             class="lazy w-100"
@@ -264,16 +242,12 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                            data-src="<?php echo asset(); ?>images/insight-slide-1.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
                                                             alt="Top 1% IT Talent"
                                                             title="Top 1% IT Talent"
                                                             class="lazy slider-img"
-                                                            data-pagespeed-url-hash="2883500071"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                                         />
                                                     </picture>
                                                 </div>
@@ -292,16 +266,12 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                            data-src="<?php echo asset(); ?>images/insight-slide-2.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-2.webp"
                                                             alt="Time Zone Aligned"
                                                             title="Time Zone Aligned"
                                                             class="lazy slider-img"
-                                                            data-pagespeed-url-hash="3304062408"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                                         />
                                                     </picture>
                                                 </div>
@@ -320,16 +290,12 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                            data-src="<?php echo asset(); ?>images/insight-slide-3.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-3.webp"
                                                             alt="Experienced Team"
                                                             title="Experienced Team"
                                                             class="lazy slider-img"
-                                                            data-pagespeed-url-hash="3724624745"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                                         />
                                                     </picture>
                                                 </div>

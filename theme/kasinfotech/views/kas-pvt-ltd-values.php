@@ -108,11 +108,11 @@
         <div class="row gy-4">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/bacancy-values/career-bacancy.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/bacancy-values/career-bacancy.png" type="image/png" />
+                    <source srcset="<?php echo asset(); ?>images/bacancy-values/career-bacancy.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/bacancy-values/career-bacancy.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url(); ?>main-boot-5/images/bacancy-values/career-bacancy.png"
-                        src="<?php echo base_url(); ?>main-boot-5/images/bacancy-values/career-bacancy.png"
+                        data-src="<?php echo asset(); ?>images/bacancy-values/career-bacancy.png"
+                        src="<?php echo asset(); ?>images/bacancy-values/career-bacancy.png"
                         alt="Career at Bacancy"
                         title="Career at Bacancy"
                         class=""
@@ -145,8 +145,8 @@
             <div class="col-lg-6">
                 <div class="boxed shadow-custom bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/mindset.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/mindset.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.png" type="image/png" />
                         <img
                             data-src="data:image/webp;base64,UklGRqQHAABXRUJQVlA4TJgHAAAvMUAMECq60f6vt5Tb5Lawmbude7+fzxWsaLvHK/jglu5QAR24ZISeEt8W1kIcIobMz2y0DWDhRoTbxYEZIrcSKIEmtACN3Z1LJRth0T0N4J4Rb4hGRA5lnBkiz7yAnS0Cq4EhdQndIfUGyIh35qRU4JJuSmwZTdxoZ04IG6MpnTj8sNvCRkiuaz3cHHeJFvJtgiH8R2jkNTCSG0lyJGlFX3lWlvvu6zjnd9NdYVF9NCG2bSRJzlcE987dzHRVSYbAAADBZLZt27Zt27Zt27Zt27Zt267HCVAYy06B+TJ0xlByDfxg84zlhC1tzWKXmQJRtNp5UBHdiGPyj3wHT8hzyhfrDziHtRplnxRYlNQmFlBNAZAPFvPsUNoaTp7woNGy0EP+Uq6AQJsCjoqqc8NYk0R+Ux6Z0baXBSkpYwrI5gvRbCjlc3QUu6hAMGDyCN5YUZX/qp9uGMvGQACQI7tGsiRyNkGELA1pHVsFrnU2CmptHNI8Q+SsifLImho/vhGCUN48aOBByjLaEcvaBz+N5CpbFBVkosxDgQAW5A+wUl+yKdBIlFiIoPwDjXYMchDlnhaEBd1s+nEvHzjizkrYGkHUaFsPdQRqu7CAKWfWWEHaDDJrn8dYAWQXgfNmWclRb+cIgDJMrlM2P/DBlFxEvCY7gm+jA6txxK0W4euUvfECfxGKFfxF5IXnnJvrMoW/1nrQyAYvax/eEIRzlBA3PEfeYmmTiEDdY8hY98EzeyzwUF69958JwNweBiRFkHsEPLBeoVsQJdO6Kb+1OZls2xrbRDgQvByCRxj8ZtwVUJ0Oji3DwG/WN8LfpsDDQdQk7VI6kK0bHUFkV0Sd7AtRyx9mIPMyg7VDsn6yRNTZL4FCrn8MYj75egPB4q92/jHMppCHjPfgC/lC3lOOgcxcF5afzBsirGdJh7ANIxULoaTGfCN8zto7uufI1ezzUORL2G5hcMWxvoEXlMPuc7G+euCOGen6kj5MOsqflwbHsq+RrHkDqSSIptlWkWxNjw6uIXQ6JEPWxs13JupOErUXMGtV5rHAi+26iccnO5IdL5J0iJWS1KjAWd9TJ4kerNVoEaApQiJ56oFHDO4Ey66O0lTrbBRJg/SdBApz9ksgv1k/Dj6QmSbXa3+9sCTlzOCA+aODdxbC2XUmdz3KJTcZ1b9ecH5sbnRwzrEBMMbFpFkdYmkvc8NIWsjdaT8fQgXMJRal2Vk2T5KuINvcXLAKMZRIVoB7609Jdb4fPMaOOOoGg25MkjHEgdmFUj+sh6xvt0o6su7tJrIL4nJTEJJsj3Y78u5jSeo2/B8W4wrqZ67V+MlN+4vsw4FGjE49kbXhtfsCliTWFEemJKTv93u8lXTkZAhT4AyCg00gJdsP4bdDLpBPV5zlSzOUKGE93Khbo+/0s89hao74YH/kll8w1yFJlLTrdd2flBZ/k/zzyMXs9VJJsTZTG039BKSXhXxgfLS9/ESGhxBZ7G8eP+07dC+W6t6WBHHW8yjLXNBInSiLRTgxC06GQM9QAO5RnpCVkH9s0x2YnHFfwNJdE801oVSw0f/noXhUmoGS9mKzzfpukA3h09KOIABy5DuGIwCbKAfJjEkf7zXj+JJsAvn+g/dLQlejdKI/Q7C1tKy75NeNkKvjAnDj6ZgU/SfJNhneUbcrYG7+MVjrvKEUoqUZH6pni6b4Rgl/FvQdWVfz9okk6Ydvk0Bma3/LsiSki2wu7FC4Rzu5NtaoTN2m7r6J/F3u7mwtSY92TDO2bPt1rNPt3z2fBk+yO8oK0b7/wAMjaYP5CtfHkQzb8YHsx1zYlH/EBTuGNF/9i1o6JE8ntGncpNQr2rc4hAKGquQ0tyvrhJfc94DOMUskqfQhSzPmkz4edMshp6YA7kN8QCnO6S+OQqx0fCAbMhzlGh0lKWMKGEUNyVYccc6i9iGSEIan3sWf9PECr+HEbIA/FWKlKagHENuLEC8gVjYFKimxINmTRLxri6pyiiwkuVkDhbPA9gga8/aKs04uUCy/h8D6dPAoH+AaO7a81tKxloVvG2S1WEZnjKcsxliCqSDpMCFUgicpL075X9N+LW1OD97BhaEUHlynB8+3oMmMOkORNy612bXWYVfwU/gsG6ob2TKv52YEF9o+jOCBxMjOVcRSqJn9Gvq77/alGZpht9C93BozeKIktj2RybNLrsJai64TwVJfIddvbUdzWigi/+Kec2y+mDw+zuaAyXZLcvWnlk2e+acd+O1carD12i/TT0LhxUJttLTv52GyjC5q6giLxV3A4ZqzfrP5wMbMfn4hKpKLD+ZgrSTJpqBtGtfWQ72+tTmPMS+znU3etdLbgpqbzSe4VKCIJuZ3R32soMdEHHQwJopwrbPJk/Vsj25wRtP+LK4VRkpWErwDuwVT8ecXIrhHAdhGVxEfC2F5A26C6geyY5BRy+NkW7fICRs9xLvjN+p1CsifzYEGQ1PgiWnZkiiwKch9NiDfLTjG8hWslaL8W9dZUZl3NgpKJevHkNtNzwwd0wyZkAPbBz7GQmQiOjTWj6t45GfHzYoGRlw6K6ZofXU6s2HgOvgBvGSXKXZd7RpSmwJVmAE="
                             src="data:image/webp;base64,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"
@@ -165,11 +165,11 @@
             <div class="col-lg-6">
                 <div class="boxed shadow-custom bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.png"
-                            src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.png"
+                            data-src="<?php echo asset(); ?>images/agile-mindset/culture.png"
+                            src="<?php echo asset(); ?>images/agile-mindset/culture.png"
                             alt="Bacancy Cultures"
                             title="Bacancy Cultures"
                             class="mb-lg"
@@ -220,11 +220,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="slider-img"
@@ -248,11 +248,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="slider-img"
@@ -276,11 +276,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="slider-img"

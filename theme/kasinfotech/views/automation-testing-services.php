@@ -19,11 +19,11 @@
 <section class="header-spacing banner-main banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/banner.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/automation-testing/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/automation-testing/banner.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xbanner.jpg,qv-1.pagespeed.ic.lK-mfdabV4.webp"
-                src="<?php echo base_url();?>main-boot-5/images/automation-testing/xbanner.jpg,qv-1.pagespeed.ic.lK-mfdabV4.webp"
+                data-src="<?php echo asset();?>images/automation-testing/xbanner.jpg,qv-1.pagespeed.ic.lK-mfdabV4.webp"
+                src="<?php echo asset();?>images/automation-testing/xbanner.jpg,qv-1.pagespeed.ic.lK-mfdabV4.webp"
                 alt="Software Test Automation Services"
                 title="Software Test Automation Services"
                 data-pagespeed-url-hash="3700684924"
@@ -57,86 +57,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -211,11 +163,11 @@
 <section class="section-padding banner-post full-width-form section-paragraph pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/form-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                data-src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
                 alt="Cut Operational Cost With Automation Testing Services"
                 title="Cut Operational Cost With Automation Testing Services"
                 class="lazy"
@@ -311,11 +263,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-1.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-1.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-1.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-1.png.pagespeed.ic.LLG6si9bdY.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-1.png.pagespeed.ic.LLG6si9bdY.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-1.png.pagespeed.ic.LLG6si9bdY.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-1.png.pagespeed.ic.LLG6si9bdY.webp"
                             alt="Selenium"
                             title="Selenium"
                             class="lazy"
@@ -329,11 +281,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-2.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-2.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-2.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-2.png.pagespeed.ic.AGwgum0g7K.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-2.png.pagespeed.ic.AGwgum0g7K.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-2.png.pagespeed.ic.AGwgum0g7K.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-2.png.pagespeed.ic.AGwgum0g7K.webp"
                             alt="Appium"
                             title="Appium"
                             class="lazy"
@@ -347,11 +299,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-3.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-3.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-3.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-3.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-3.png.pagespeed.ic.5eRwjM05FE.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-3.png.pagespeed.ic.5eRwjM05FE.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-3.png.pagespeed.ic.5eRwjM05FE.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-3.png.pagespeed.ic.5eRwjM05FE.webp"
                             alt="Ranorex"
                             title="Ranorex"
                             class="lazy"
@@ -365,11 +317,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-4.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-4.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-4.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-4.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-4.png.pagespeed.ic.PtgtZnNo_-.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-4.png.pagespeed.ic.PtgtZnNo_-.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-4.png.pagespeed.ic.PtgtZnNo_-.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-4.png.pagespeed.ic.PtgtZnNo_-.webp"
                             alt="Test Complete"
                             title="Test Complete"
                             class="lazy"
@@ -383,11 +335,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-5.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-5.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-5.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-5.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-5.png.pagespeed.ic.S-ZvTqsFux.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-5.png.pagespeed.ic.S-ZvTqsFux.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-5.png.pagespeed.ic.S-ZvTqsFux.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-5.png.pagespeed.ic.S-ZvTqsFux.webp"
                             alt="Robot Framework"
                             title="Robot Framework"
                             class="lazy"
@@ -401,11 +353,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-6.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-6.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-6.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-6.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-6.png.pagespeed.ic.04jSNuEmao.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-6.png.pagespeed.ic.04jSNuEmao.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-6.png.pagespeed.ic.04jSNuEmao.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-6.png.pagespeed.ic.04jSNuEmao.webp"
                             alt="QuickTestPro"
                             title="QuickTestPro"
                             class="lazy"
@@ -419,11 +371,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-7.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-7.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-7.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-7.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-7.png.pagespeed.ic.Mdm-z64MYQ.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-7.png.pagespeed.ic.Mdm-z64MYQ.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-7.png.pagespeed.ic.Mdm-z64MYQ.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-7.png.pagespeed.ic.Mdm-z64MYQ.webp"
                             alt="NUnit"
                             title="NUnit"
                             class="lazy"
@@ -437,11 +389,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-8.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-8.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-8.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-8.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-8.png.pagespeed.ic.LSC4s5UlMl.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-8.png.pagespeed.ic.LSC4s5UlMl.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-8.png.pagespeed.ic.LSC4s5UlMl.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-8.png.pagespeed.ic.LSC4s5UlMl.webp"
                             alt="JUnit"
                             title="JUnit"
                             class="lazy"
@@ -455,11 +407,11 @@
             <div class="col-xl-3 col-md-3 col-6 text-center">
                 <div class="service-box bg-white shadow-custom">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-9.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/technology-9.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-9.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/technology-9.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-9.png.pagespeed.ic.a24tBXw1wk.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xtechnology-9.png.pagespeed.ic.a24tBXw1wk.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xtechnology-9.png.pagespeed.ic.a24tBXw1wk.webp"
+                            src="<?php echo asset();?>images/automation-testing/xtechnology-9.png.pagespeed.ic.a24tBXw1wk.webp"
                             alt="XCUITest"
                             title="XCUITest"
                             class="lazy"
@@ -488,11 +440,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-1.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-1.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-1.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-1.png.pagespeed.ic.IH9gEKpRPT.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-1.png.pagespeed.ic.IH9gEKpRPT.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-1.png.pagespeed.ic.IH9gEKpRPT.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-1.png.pagespeed.ic.IH9gEKpRPT.webp"
                             alt="Web Application Testing"
                             title="Web Application Testing"
                             class="lazy"
@@ -506,11 +458,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-2.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-2.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-2.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-2.png.pagespeed.ic.HRItyKvLwl.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-2.png.pagespeed.ic.HRItyKvLwl.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-2.png.pagespeed.ic.HRItyKvLwl.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-2.png.pagespeed.ic.HRItyKvLwl.webp"
                             alt="Mobile Application Testing"
                             title="Mobile Application Testing"
                             class="lazy"
@@ -524,11 +476,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-3.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-3.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-3.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-3.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-3.png.pagespeed.ic.VLArWbk9p5.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-3.png.pagespeed.ic.VLArWbk9p5.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-3.png.pagespeed.ic.VLArWbk9p5.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-3.png.pagespeed.ic.VLArWbk9p5.webp"
                             alt="Website Testing"
                             title="Website Testing"
                             class="lazy"
@@ -542,11 +494,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-4.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-4.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-4.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-4.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-4.png.pagespeed.ic.5ageXNFOPx.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-4.png.pagespeed.ic.5ageXNFOPx.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-4.png.pagespeed.ic.5ageXNFOPx.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-4.png.pagespeed.ic.5ageXNFOPx.webp"
                             alt="Desktop Testing"
                             title="Desktop Testing"
                             class="lazy"
@@ -560,11 +512,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-5.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-5.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-5.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-5.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-5.png.pagespeed.ic.Qkc5U01QOj.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-5.png.pagespeed.ic.Qkc5U01QOj.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-5.png.pagespeed.ic.Qkc5U01QOj.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-5.png.pagespeed.ic.Qkc5U01QOj.webp"
                             alt="Test Documentation"
                             title="Test Documentation"
                             class="lazy"
@@ -578,11 +530,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-6.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-6.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-6.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-6.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-6.png.pagespeed.ic.0aaXyqgNap.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-6.png.pagespeed.ic.0aaXyqgNap.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-6.png.pagespeed.ic.0aaXyqgNap.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-6.png.pagespeed.ic.0aaXyqgNap.webp"
                             alt="Cloud Solutions Testing"
                             title="Cloud Solutions Testing"
                             class="lazy"
@@ -596,11 +548,11 @@
             <div class="col-xl-3 col-md-4 col-6">
                 <div class="service-box bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-7.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/service-7.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-7.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/automation-testing/service-7.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-7.png.pagespeed.ic.r6wDVXbACv.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/automation-testing/xservice-7.png.pagespeed.ic.r6wDVXbACv.webp"
+                            data-src="<?php echo asset();?>images/automation-testing/xservice-7.png.pagespeed.ic.r6wDVXbACv.webp"
+                            src="<?php echo asset();?>images/automation-testing/xservice-7.png.pagespeed.ic.r6wDVXbACv.webp"
                             alt="Internet of Things Testing"
                             title="Internet of Things Testing"
                             class="lazy"
@@ -665,11 +617,11 @@
         <div class="row gy-4 align-items-lg-center">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/automation-testing/side-1.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/automation-testing/side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/automation-testing/side-1.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/automation-testing/xside-1.jpg.pagespeed.ic.h-Zd0arohv.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/automation-testing/xside-1.jpg.pagespeed.ic.h-Zd0arohv.webp"
+                        data-src="<?php echo asset();?>images/automation-testing/xside-1.jpg.pagespeed.ic.h-Zd0arohv.webp"
+                        src="<?php echo asset();?>images/automation-testing/xside-1.jpg.pagespeed.ic.h-Zd0arohv.webp"
                         alt="Automation Testing Company"
                         title="Automation Testing Company"
                         class="lazy w-100"
@@ -733,11 +685,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -761,11 +713,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -789,11 +741,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

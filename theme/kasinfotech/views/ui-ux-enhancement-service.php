@@ -19,11 +19,11 @@
 <section class="header-spacing banner-main banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/banner.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/ui-ux-enhancement/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/ui-ux-enhancement/banner.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
-                src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
+                data-src="<?php echo asset();?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
+                src="<?php echo asset();?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
                 alt="UX/UI Design and Development Services"
                 title="UX/UI Design and Development Services"
                 data-pagespeed-url-hash="3548773013"
@@ -54,86 +54,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -182,11 +134,11 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-1.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-1.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-1.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
+                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
+                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
                                     alt="UI/UX Design Services"
                                     title="UI/UX Design Services"
                                     class="lazy"
@@ -210,11 +162,11 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-2.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-2.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-2.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
+                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
+                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
                                     alt="Product Conceptualization"
                                     title="Product Conceptualization"
                                     class="lazy"
@@ -238,11 +190,11 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-3.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/icon-3.png" type="image/png" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-3.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
+                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
+                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
                                     alt="UX Strategy"
                                     title="UX Strategy"
                                     class="lazy"
@@ -268,11 +220,11 @@
 <section class="section-padding banner-post full-width-form section-paragraph pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/form-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                data-src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
                 alt="Request Free Consultation / Quote in 24 Hours"
                 title="Request Free Consultation / Quote in 24 Hours"
                 class="lazy"
@@ -368,11 +320,11 @@
         <div class="row gy-4 align-items-lg-center">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-1.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-1.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
+                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
+                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
                         alt="Wireframing"
                         title="Wireframing"
                         class="lazy"
@@ -443,11 +395,11 @@
             </div>
             <div class="col-lg-4 col-sm-6 mx-auto d-none d-lg-flex">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-2.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-2.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
+                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
+                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
                         alt="UI and UX Process"
                         title="UI and UX Process"
                         class="lazy"
@@ -507,11 +459,11 @@
         <div class="row gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-3.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-3.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-3.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
+                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
+                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
                         alt="UI &amp; UX Web Applications"
                         title="UI &amp; UX Web Applications"
                         class="lazy"
@@ -557,11 +509,11 @@
         <div class="row gy-4 gy-lg-0 align-items-lg-center flex-lg-row-reverse">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/side-4.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-4.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
+                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
+                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
                         alt="UI &amp; UX for Mobile Apps"
                         title="UI &amp; UX for Mobile Apps"
                         class="lazy"
@@ -623,11 +575,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -651,11 +603,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -679,11 +631,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

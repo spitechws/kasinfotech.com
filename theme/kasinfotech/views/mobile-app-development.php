@@ -19,11 +19,11 @@
 <section class="header-spacing banner-post banner-main not-after p-0">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/banner-2.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/banner-2.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/mobile-app-development/banner-2.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/mobile-app-development/banner-2.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbanner-2.jpg,qv-1.pagespeed.ic.UxdkSWveFA.webp"
-                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbanner-2.jpg,qv-1.pagespeed.ic.UxdkSWveFA.webp"
+                data-src="<?php echo asset();?>images/mobile-app-development/xbanner-2.jpg,qv-1.pagespeed.ic.UxdkSWveFA.webp"
+                src="<?php echo asset();?>images/mobile-app-development/xbanner-2.jpg,qv-1.pagespeed.ic.UxdkSWveFA.webp"
                 alt="Mobile App Development Company"
                 title="Mobile App Development Company"
                 data-pagespeed-url-hash="542405771"
@@ -35,11 +35,11 @@
         <div class="row align-items-md-center justify-content-between gy-4 gy-lg-0 flex-lg-row-reverse">
             <div class="col-lg-5 d-none d-lg-flex ml-auto">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/banner-side-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/banner-side-2.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/banner-side-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/banner-side-2.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbanner-side-2.png.pagespeed.ic.9tOu_18bJ8.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbanner-side-2.png.pagespeed.ic.9tOu_18bJ8.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xbanner-side-2.png.pagespeed.ic.9tOu_18bJ8.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xbanner-side-2.png.pagespeed.ic.9tOu_18bJ8.webp"
                         alt="Mobile App Development Company"
                         title="Mobile App Development Company"
                         data-pagespeed-url-hash="2716005376"
@@ -72,86 +72,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -168,7 +120,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -204,11 +156,11 @@
             </div>
             <div class="col-md-6 text-center mt-0">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/side-3.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/side-3.jpg?v-1" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/side-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/side-3.jpg?v-1" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xside-3.jpg,qv-1.pagespeed.ic.FD4Re-yT7K.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xside-3.jpg,qv-1.pagespeed.ic.FD4Re-yT7K.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xside-3.jpg,qv-1.pagespeed.ic.FD4Re-yT7K.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xside-3.jpg,qv-1.pagespeed.ic.FD4Re-yT7K.webp"
                         alt="Top Mobile App Development Company"
                         title="Top Mobile App Development Company"
                         class="ob-cover lazy"
@@ -278,11 +230,11 @@
                                             <ul class="d-flex flex-wrap text-center">
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-1.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-1.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-1.png,qv-1.pagespeed.ic.mdsYEOnlSr.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-1.png,qv-1.pagespeed.ic.mdsYEOnlSr.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-1.png,qv-1.pagespeed.ic.mdsYEOnlSr.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-1.png,qv-1.pagespeed.ic.mdsYEOnlSr.webp"
                                                             alt="Kotlin"
                                                             title="Kotlin"
                                                             class="lazy mb-sm"
@@ -294,11 +246,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-2.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-2.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-2.png,qv-1.pagespeed.ic.ceW-zTPmWi.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-2.png,qv-1.pagespeed.ic.ceW-zTPmWi.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-2.png,qv-1.pagespeed.ic.ceW-zTPmWi.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-2.png,qv-1.pagespeed.ic.ceW-zTPmWi.webp"
                                                             alt="Java"
                                                             title="Java"
                                                             class="lazy mb-sm"
@@ -310,11 +262,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-3.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-3.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-3.png,qv-1.pagespeed.ic.a7VxCJy58c.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-3.png,qv-1.pagespeed.ic.a7VxCJy58c.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-3.png,qv-1.pagespeed.ic.a7VxCJy58c.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-3.png,qv-1.pagespeed.ic.a7VxCJy58c.webp"
                                                             alt="Graddle"
                                                             title="Graddle"
                                                             class="lazy mb-sm"
@@ -326,11 +278,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-4.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-4.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-4.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-4.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-4.png,qv-1.pagespeed.ic.xHV0e52Z1s.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-4.png,qv-1.pagespeed.ic.xHV0e52Z1s.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-4.png,qv-1.pagespeed.ic.xHV0e52Z1s.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-4.png,qv-1.pagespeed.ic.xHV0e52Z1s.webp"
                                                             alt="Dagger2"
                                                             title="Dagger2"
                                                             class="lazy mb-sm"
@@ -342,11 +294,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-5.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-5.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-5.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-5.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-5.png,qv-1.pagespeed.ic.VtLcAtceL5.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-5.png,qv-1.pagespeed.ic.VtLcAtceL5.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-5.png,qv-1.pagespeed.ic.VtLcAtceL5.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-5.png,qv-1.pagespeed.ic.VtLcAtceL5.webp"
                                                             alt="JetPack"
                                                             title="JetPack"
                                                             class="lazy mb-sm"
@@ -358,11 +310,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-6.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-6.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-6.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-6.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-6.png,qv-1.pagespeed.ic.Dk4xO_3YNz.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-6.png,qv-1.pagespeed.ic.Dk4xO_3YNz.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-6.png,qv-1.pagespeed.ic.Dk4xO_3YNz.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-6.png,qv-1.pagespeed.ic.Dk4xO_3YNz.webp"
                                                             alt="Coroutines"
                                                             title="Coroutines"
                                                             class="lazy mb-sm"
@@ -374,11 +326,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-7.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/1-7.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-7.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/1-7.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-7.png,qv-1.pagespeed.ic.zXoESKAg45.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x1-7.png,qv-1.pagespeed.ic.zXoESKAg45.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x1-7.png,qv-1.pagespeed.ic.zXoESKAg45.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x1-7.png,qv-1.pagespeed.ic.zXoESKAg45.webp"
                                                             alt="Fastlane"
                                                             title="Fastlane"
                                                             class="lazy mb-sm"
@@ -409,11 +361,11 @@
                                             <ul class="d-flex flex-wrap text-center">
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-1.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-1.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-1.png,qv-1.pagespeed.ic.p4brNx4Q_m.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-1.png,qv-1.pagespeed.ic.p4brNx4Q_m.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-1.png,qv-1.pagespeed.ic.p4brNx4Q_m.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-1.png,qv-1.pagespeed.ic.p4brNx4Q_m.webp"
                                                             alt="Swift"
                                                             title="Swift"
                                                             class="lazy mb-sm"
@@ -425,11 +377,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-2.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-2.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-2.png,qv-1.pagespeed.ic.K0Sm7EJ8SS.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-2.png,qv-1.pagespeed.ic.K0Sm7EJ8SS.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-2.png,qv-1.pagespeed.ic.K0Sm7EJ8SS.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-2.png,qv-1.pagespeed.ic.K0Sm7EJ8SS.webp"
                                                             alt="Objective-C"
                                                             title="Objective-C"
                                                             class="lazy mb-sm"
@@ -441,11 +393,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-3.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-3.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-3.png,qv-1.pagespeed.ic.57lG1pklL0.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-3.png,qv-1.pagespeed.ic.57lG1pklL0.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-3.png,qv-1.pagespeed.ic.57lG1pklL0.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-3.png,qv-1.pagespeed.ic.57lG1pklL0.webp"
                                                             alt="SwiftUI"
                                                             title="SwiftUI"
                                                             class="lazy mb-sm"
@@ -457,11 +409,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-4.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-4.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-4.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-4.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-4.png,qv-1.pagespeed.ic.fiBMEBeQgI.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-4.png,qv-1.pagespeed.ic.fiBMEBeQgI.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-4.png,qv-1.pagespeed.ic.fiBMEBeQgI.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-4.png,qv-1.pagespeed.ic.fiBMEBeQgI.webp"
                                                             alt="CocoaPods"
                                                             title="CocoaPods"
                                                             class="lazy mb-sm"
@@ -473,11 +425,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-5.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-5.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-5.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-5.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-5.png,qv-1.pagespeed.ic.5wmIQNcveV.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-5.png,qv-1.pagespeed.ic.5wmIQNcveV.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-5.png,qv-1.pagespeed.ic.5wmIQNcveV.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-5.png,qv-1.pagespeed.ic.5wmIQNcveV.webp"
                                                             alt="RxSwift"
                                                             title="RxSwift"
                                                             class="lazy mb-sm"
@@ -489,11 +441,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-6.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-6.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-6.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-6.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-6.png,qv-1.pagespeed.ic.qaKTkYfqIl.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-6.png,qv-1.pagespeed.ic.qaKTkYfqIl.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-6.png,qv-1.pagespeed.ic.qaKTkYfqIl.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-6.png,qv-1.pagespeed.ic.qaKTkYfqIl.webp"
                                                             alt="SwiftLint"
                                                             title="SwiftLint"
                                                             class="lazy mb-sm"
@@ -505,11 +457,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-8.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/2-8.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-8.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/2-8.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-8.png,qv-1.pagespeed.ic.zEnq2bI04K.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x2-8.png,qv-1.pagespeed.ic.zEnq2bI04K.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x2-8.png,qv-1.pagespeed.ic.zEnq2bI04K.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x2-8.png,qv-1.pagespeed.ic.zEnq2bI04K.webp"
                                                             alt="CircleCI"
                                                             title="CircleCI"
                                                             class="lazy mb-sm"
@@ -540,11 +492,11 @@
                                             <ul class="d-flex flex-wrap text-center">
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-1.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-1.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x3-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x3-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
                                                             alt="React Native"
                                                             title="React Native"
                                                             class="lazy mb-sm"
@@ -556,11 +508,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-2.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-2.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-2.png,qv-1.pagespeed.ic.uHsHcRhNzA.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-2.png,qv-1.pagespeed.ic.uHsHcRhNzA.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x3-2.png,qv-1.pagespeed.ic.uHsHcRhNzA.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x3-2.png,qv-1.pagespeed.ic.uHsHcRhNzA.webp"
                                                             alt="Flutter"
                                                             title="Flutter"
                                                             class="lazy mb-sm"
@@ -572,11 +524,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-3.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-3.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-3.png,qv-1.pagespeed.ic.WzTqWsaNAx.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-3.png,qv-1.pagespeed.ic.WzTqWsaNAx.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x3-3.png,qv-1.pagespeed.ic.WzTqWsaNAx.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x3-3.png,qv-1.pagespeed.ic.WzTqWsaNAx.webp"
                                                             alt="Native Script"
                                                             title="Native Script"
                                                             class="lazy mb-sm"
@@ -588,11 +540,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-4.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-4.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-4.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-4.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-4.png,qv-1.pagespeed.ic.mAxft_L1SJ.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-4.png,qv-1.pagespeed.ic.mAxft_L1SJ.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x3-4.png,qv-1.pagespeed.ic.mAxft_L1SJ.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x3-4.png,qv-1.pagespeed.ic.mAxft_L1SJ.webp"
                                                             alt="Javascript"
                                                             title="Javascript"
                                                             class="lazy mb-sm"
@@ -604,11 +556,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-5.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/3-5.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-5.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/3-5.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-5.png,qv-1.pagespeed.ic.KkWtl5SkdF.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x3-5.png,qv-1.pagespeed.ic.KkWtl5SkdF.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x3-5.png,qv-1.pagespeed.ic.KkWtl5SkdF.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x3-5.png,qv-1.pagespeed.ic.KkWtl5SkdF.webp"
                                                             alt="TypeScript"
                                                             title="TypeScript"
                                                             class="lazy mb-sm"
@@ -639,11 +591,11 @@
                                             <ul class="d-flex flex-wrap text-center">
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-1.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-1.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-1.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-1.png,qv-1.pagespeed.ic.ETs-w-umKt.webp"
                                                             alt="React Native"
                                                             title="React Native"
                                                             class="lazy mb-sm"
@@ -655,11 +607,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-2.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-2.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-2.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-2.png,qv-1.pagespeed.ic.7ZpTtW6w3K.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-2.png,qv-1.pagespeed.ic.7ZpTtW6w3K.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-2.png,qv-1.pagespeed.ic.7ZpTtW6w3K.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-2.png,qv-1.pagespeed.ic.7ZpTtW6w3K.webp"
                                                             alt="Angular"
                                                             title="Angular"
                                                             class="lazy mb-sm"
@@ -671,11 +623,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-3.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-3.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-3.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-3.png,qv-1.pagespeed.ic.kVB0PBrL70.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-3.png,qv-1.pagespeed.ic.kVB0PBrL70.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-3.png,qv-1.pagespeed.ic.kVB0PBrL70.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-3.png,qv-1.pagespeed.ic.kVB0PBrL70.webp"
                                                             alt="Redux"
                                                             title="Redux"
                                                             class="lazy mb-sm"
@@ -687,11 +639,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-4.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-4.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-4.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-4.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-4.png,qv-1.pagespeed.ic.QnDEfHP-AP.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-4.png,qv-1.pagespeed.ic.QnDEfHP-AP.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-4.png,qv-1.pagespeed.ic.QnDEfHP-AP.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-4.png,qv-1.pagespeed.ic.QnDEfHP-AP.webp"
                                                             alt="Polymer"
                                                             title="Polymer"
                                                             class="lazy mb-sm"
@@ -703,11 +655,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-5.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-5.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-5.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-5.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-5.png,qv-1.pagespeed.ic.gqBy9Rx5Jl.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-5.png,qv-1.pagespeed.ic.gqBy9Rx5Jl.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-5.png,qv-1.pagespeed.ic.gqBy9Rx5Jl.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-5.png,qv-1.pagespeed.ic.gqBy9Rx5Jl.webp"
                                                             alt="Workbox"
                                                             title="Workbox"
                                                             class="lazy mb-sm"
@@ -719,11 +671,11 @@
                                                 </li>
                                                 <li class="m-1">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-6.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/4-6.png?v-1" type="image/jpeg" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-6.webp" type="image/webp" />
+                                                        <source srcset="<?php echo asset();?>images/mobile-app-development/4-6.png?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-6.png,qv-1.pagespeed.ic.dJwjrdtZrW.webp"
-                                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/x4-6.png,qv-1.pagespeed.ic.dJwjrdtZrW.webp"
+                                                            data-src="<?php echo asset();?>images/mobile-app-development/x4-6.png,qv-1.pagespeed.ic.dJwjrdtZrW.webp"
+                                                            src="<?php echo asset();?>images/mobile-app-development/x4-6.png,qv-1.pagespeed.ic.dJwjrdtZrW.webp"
                                                             alt="Lighthouse"
                                                             title="Lighthouse"
                                                             class="lazy mb-sm"
@@ -769,11 +721,11 @@
     <div id="schedule-interview" class="w-100 d-inline-block"></div>
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/form-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/form-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo base_url();?>main-boot-5/images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                data-src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
+                src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
                 alt="Best Mobile application Development Company"
                 title="Best Mobile application Development Company"
                 class="lazy"
@@ -874,11 +826,11 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jpg" type="image/jpeg" />
+                                        <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.jpg" type="image/jpeg" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbg-dark.jpg.pagespeed.ic.w94QbOdpfM.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xbg-dark.jpg.pagespeed.ic.w94QbOdpfM.webp"
+                                            data-src="<?php echo asset();?>images/mobile-app-development/xbg-dark.jpg.pagespeed.ic.w94QbOdpfM.webp"
+                                            src="<?php echo asset();?>images/mobile-app-development/xbg-dark.jpg.pagespeed.ic.w94QbOdpfM.webp"
                                             alt="eProdigy"
                                             title="eProdigy"
                                             data-pagespeed-url-hash="792172929"
@@ -887,11 +839,11 @@
                                     </picture>
                                     <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0 top-0 bottom-0 bg-dark">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/mobile-app-development/cs-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/mobile-app-development/cs-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-1.png.pagespeed.ic.S6L2TJ3QTp.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-1.png.pagespeed.ic.S6L2TJ3QTp.webp"
+                                                data-src="<?php echo asset();?>images/mobile-app-development/xcs-1.png.pagespeed.ic.S6L2TJ3QTp.webp"
+                                                src="<?php echo asset();?>images/mobile-app-development/xcs-1.png.pagespeed.ic.S6L2TJ3QTp.webp"
                                                 alt="eProdigy"
                                                 title="eProdigy"
                                                 data-pagespeed-url-hash="3244590355"
@@ -919,11 +871,11 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph" type="image/jpeg" />
+                                        <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.jph" type="image/jpeg" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph"
-                                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph"
+                                            data-src="<?php echo asset();?>images/mobile-app-development/bg-dark.jph"
+                                            src="<?php echo asset();?>images/mobile-app-development/bg-dark.jph"
                                             alt="Fyre"
                                             title="Fyre"
                                             data-pagespeed-url-hash="792172930"
@@ -932,11 +884,11 @@
                                     </picture>
                                     <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0 top-0 bottom-0 bg-dark">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-3.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-3.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/mobile-app-development/cs-3.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/mobile-app-development/cs-3.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-3.png.pagespeed.ic.xuyjs6CNZ8.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-3.png.pagespeed.ic.xuyjs6CNZ8.webp"
+                                                data-src="<?php echo asset();?>images/mobile-app-development/xcs-3.png.pagespeed.ic.xuyjs6CNZ8.webp"
+                                                src="<?php echo asset();?>images/mobile-app-development/xcs-3.png.pagespeed.ic.xuyjs6CNZ8.webp"
                                                 alt="Fyre"
                                                 title="Fyre"
                                                 data-pagespeed-url-hash="3833590197"
@@ -966,11 +918,11 @@
                     <div class="col-md-5 col-lg-12">
                         <div class="position-relative h-100">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/mobile-app-development/bg-dark.jph" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph"
-                                    src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/bg-dark.jph"
+                                    data-src="<?php echo asset();?>images/mobile-app-development/bg-dark.jph"
+                                    src="<?php echo asset();?>images/mobile-app-development/bg-dark.jph"
                                     alt="Homee App"
                                     title="Homee App"
                                     data-pagespeed-url-hash="792172930"
@@ -979,11 +931,11 @@
                             </picture>
                             <div class="position-absolute left-0 d-flex align-items-center justify-content-center p-4 right-0 top-0 bottom-0 bg-dark">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/cs-2.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/mobile-app-development/cs-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/mobile-app-development/cs-2.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-2.png.pagespeed.ic.P8SopRcAAJ.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xcs-2.png.pagespeed.ic.P8SopRcAAJ.webp"
+                                        data-src="<?php echo asset();?>images/mobile-app-development/xcs-2.png.pagespeed.ic.P8SopRcAAJ.webp"
+                                        src="<?php echo asset();?>images/mobile-app-development/xcs-2.png.pagespeed.ic.P8SopRcAAJ.webp"
                                         alt="Homee App"
                                         title="Homee App"
                                         data-pagespeed-url-hash="3539090276"
@@ -1031,11 +983,11 @@
             <div class="col-md-6 col-lg mb-lg-5">
                 <div class="service-box active">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-1.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-1.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-1.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-1.png.pagespeed.ic.LtQ8orGLVD.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-1.png.pagespeed.ic.LtQ8orGLVD.webp"
+                            data-src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-1.png.pagespeed.ic.LtQ8orGLVD.webp"
+                            src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-1.png.pagespeed.ic.LtQ8orGLVD.webp"
                             alt="Share Your Project Requirements"
                             title="Share Your Project Requirements"
                             class="mb-sm"
@@ -1049,11 +1001,11 @@
             <div class="col-md-6 col-lg mb-lg-5">
                 <div class="service-box active">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-2.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-2.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-2.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-2.png.pagespeed.ic.5xA2__kRLZ.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-2.png.pagespeed.ic.5xA2__kRLZ.webp"
+                            data-src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-2.png.pagespeed.ic.5xA2__kRLZ.webp"
+                            src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-2.png.pagespeed.ic.5xA2__kRLZ.webp"
                             alt="Ideation &amp; Preparation"
                             title="Ideation &amp; Preparation"
                             class="mb-sm"
@@ -1067,11 +1019,11 @@
             <div class="col-md-6 col-lg mb-lg-5">
                 <div class="service-box active">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-3.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-3.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-3.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-3.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-3.png.pagespeed.ic.yS93AypiEg.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-3.png.pagespeed.ic.yS93AypiEg.webp"
+                            data-src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-3.png.pagespeed.ic.yS93AypiEg.webp"
+                            src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-3.png.pagespeed.ic.yS93AypiEg.webp"
                             alt="Development &amp; Design"
                             title="Development &amp; Design"
                             class="mb-sm"
@@ -1085,11 +1037,11 @@
             <div class="col-md-6 col-lg">
                 <div class="service-box active">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-4.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-4.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-4.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-4.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-4.png.pagespeed.ic.CaYtb2a-mV.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-4.png.pagespeed.ic.CaYtb2a-mV.webp"
+                            data-src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-4.png.pagespeed.ic.CaYtb2a-mV.webp"
+                            src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-4.png.pagespeed.ic.CaYtb2a-mV.webp"
                             alt="Quality Control &amp; Testing"
                             title="Quality Control &amp; Testing"
                             class="mb-sm"
@@ -1103,11 +1055,11 @@
             <div class="col-md-6 col-lg">
                 <div class="service-box active">
                     <picture>
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-5.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/process-icon-5.png" type="image/png" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-5.webp" type="image/webp" />
+                        <source srcset="<?php echo asset();?>images/mobile-app-development/process-icon-5.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-5.png.pagespeed.ic.H32QCPvR-Y.webp"
-                            src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xprocess-icon-5.png.pagespeed.ic.H32QCPvR-Y.webp"
+                            data-src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-5.png.pagespeed.ic.H32QCPvR-Y.webp"
+                            src="<?php echo asset();?>images/mobile-app-development/xprocess-icon-5.png.pagespeed.ic.H32QCPvR-Y.webp"
                             alt="Application Deployment"
                             title="Application Deployment"
                             class="mb-sm"
@@ -1136,11 +1088,11 @@
             </div>
             <div class="col-sm-6 col-lg-3">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-1.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-1.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-1.jpg.pagespeed.ic.QK1mdONFdo.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-1.jpg.pagespeed.ic.QK1mdONFdo.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xsolutions-1.jpg.pagespeed.ic.QK1mdONFdo.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xsolutions-1.jpg.pagespeed.ic.QK1mdONFdo.webp"
                         alt="B2B and B2C Platform Solutions"
                         title="B2B and B2C Platform Solutions"
                         class="w-100"
@@ -1152,11 +1104,11 @@
             </div>
             <div class="col-sm-6 col-lg-3">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-2.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-2.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-2.jpg.pagespeed.ic.yBr2NLun92.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-2.jpg.pagespeed.ic.yBr2NLun92.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xsolutions-2.jpg.pagespeed.ic.yBr2NLun92.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xsolutions-2.jpg.pagespeed.ic.yBr2NLun92.webp"
                         alt="Enterprise Mobility App Development"
                         title="Enterprise Mobility App Development"
                         class="w-100"
@@ -1168,11 +1120,11 @@
             </div>
             <div class="col-sm-6 col-lg-3">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-3.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-3.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-3.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-3.jpg.pagespeed.ic.n4QxZWbp3o.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-3.jpg.pagespeed.ic.n4QxZWbp3o.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xsolutions-3.jpg.pagespeed.ic.n4QxZWbp3o.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xsolutions-3.jpg.pagespeed.ic.n4QxZWbp3o.webp"
                         alt="On- demand App solutions"
                         title="On- demand App solutions"
                         class="w-100"
@@ -1184,11 +1136,11 @@
             </div>
             <div class="col-sm-6 col-lg-3">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/solutions-4.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/solutions-4.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-4.jpg.pagespeed.ic.z_csTh_WOD.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xsolutions-4.jpg.pagespeed.ic.z_csTh_WOD.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xsolutions-4.jpg.pagespeed.ic.z_csTh_WOD.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xsolutions-4.jpg.pagespeed.ic.z_csTh_WOD.webp"
                         alt="IoT Application Development"
                         title="IoT Application Development"
                         class="w-100"
@@ -1206,11 +1158,11 @@
         <div class="row gy-4 align-items-lg-center">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/side-4.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/mobile-app-development/side-4.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xside-4.jpg.pagespeed.ic.8G6xiCcSJb.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xside-4.jpg.pagespeed.ic.8G6xiCcSJb.webp"
+                        data-src="<?php echo asset();?>images/mobile-app-development/xside-4.jpg.pagespeed.ic.8G6xiCcSJb.webp"
+                        src="<?php echo asset();?>images/mobile-app-development/xside-4.jpg.pagespeed.ic.8G6xiCcSJb.webp"
                         alt="Why Hire Mobile App Developers from Bacancy?"
                         title="Why Hire Mobile App Developers from Bacancy?"
                         class="lazy w-100"
@@ -1241,11 +1193,11 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/counting-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/counting-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                src="<?php echo base_url();?>main-boot-5/images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
+                data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
+                src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
                 alt="Our Development Center Strength"
                 title="Our Development Center Strength"
                 data-pagespeed-url-hash="102558019"
@@ -1269,11 +1221,11 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
+                        data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
+                        src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
                         alt="Our Development Center Strength"
                         title="Our Development Center Strength"
                         class="mb-5 mb-lg-0"
@@ -1287,11 +1239,11 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-developer.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-developer.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
+                                data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
+                                src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
                                 alt="Agile Developers"
                                 title="Agile Developers"
                                 data-pagespeed-url-hash="2109142817"
@@ -1303,11 +1255,11 @@
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/developer-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/developer-icon.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/developer-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/developer-icon.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
+                                data-src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
+                                src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
                                 alt="Mobile App Developers"
                                 title="Mobile App Developers"
                                 data-pagespeed-url-hash="3952180670"
@@ -1319,11 +1271,11 @@
                     </div>
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-coach.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-coach.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
+                                data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
+                                src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
                                 alt="Agile Coaches"
                                 title="Agile Coaches"
                                 data-pagespeed-url-hash="905832657"
@@ -1335,11 +1287,11 @@
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/certified-scrum-master.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/certified-scrum-master.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
+                                data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
+                                src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
                                 alt="Certified Scrum Masters"
                                 title="Certified Scrum Masters"
                                 data-pagespeed-url-hash="98509469"
@@ -1355,11 +1307,11 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-1.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
+                        data-src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
+                        src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
                         alt="Work at Your Time Zone"
                         title="Work at Your Time Zone"
                         class="mb-lg"
@@ -1371,11 +1323,11 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-2.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
+                        data-src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
+                        src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
                         alt="Easy Communication"
                         title="Easy Communication"
                         class="mb-lg"
@@ -1387,11 +1339,11 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-3.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-3.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
+                        data-src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
+                        src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
                         alt="Hire in 48 Hours"
                         title="Hire in 48 Hours"
                         class="mb-lg"
@@ -1403,11 +1355,11 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-4.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
+                        data-src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
+                        src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
                         alt="In Business Since 2011"
                         title="In Business Since 2011"
                         class="mb-lg"
@@ -1419,11 +1371,11 @@
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-5.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-5.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
+                        data-src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
+                        src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
                         alt="5/5 Pro User Rating"
                         title="5/5 Pro User Rating"
                         class="mb-lg"
@@ -1587,11 +1539,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-1.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-1.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp"
+                                data-src="<?php echo asset();?>images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp"
+                                src="<?php echo asset();?>images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp"
                                 alt="Hire Ionic Developer to Build Cross-platform, Feature-rich, and most advanced hybrid application Faster Than Ever Before"
                                 title="Hire Ionic Developer to Build Cross-platform, Feature-rich, and most advanced hybrid application Faster Than Ever Before"
                                 class="lazy"
@@ -1609,11 +1561,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-2.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-2.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp"
+                                data-src="<?php echo asset();?>images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp"
+                                src="<?php echo asset();?>images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp"
                                 alt="Getting Started with SwiftUI: A Comprehensive Guideline to Build A Form UI for iPhone Apps"
                                 title="Getting Started with SwiftUI: A Comprehensive Guideline to Build A Form UI for iPhone Apps"
                                 class="lazy"
@@ -1631,11 +1583,11 @@
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/mobile-app-development/blog-3.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/mobile-app-development/blog-3.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp"
+                                data-src="<?php echo asset();?>images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp"
+                                src="<?php echo asset();?>images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp"
                                 alt="12 Simple Steps to Prepare your iOS App for Development and Distribution"
                                 title="12 Simple Steps to Prepare your iOS App for Development and Distribution"
                                 class="lazy"
@@ -1687,11 +1639,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -1715,11 +1667,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -1743,11 +1695,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"
