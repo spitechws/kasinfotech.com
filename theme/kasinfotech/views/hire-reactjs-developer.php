@@ -19,11 +19,11 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
                 alt="Hire React Developer"
                 title="Hire React Developer"
                 data-pagespeed-url-hash="3945081738"
@@ -61,8 +61,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
                                         src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
@@ -81,8 +81,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/settings.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/settings.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-reactjs/settings.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-reactjs/settings.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA=="
                                         src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA=="
@@ -101,8 +101,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
                                         src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
@@ -121,11 +121,11 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
                         alt="Hire React Developer"
                         title="Hire React Developer"
                         data-pagespeed-url-hash="3978206547"
@@ -145,86 +145,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -241,7 +193,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -291,11 +243,11 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                 alt="Hire React Developers"
                                 title="Hire React Developers"
                                 data-pagespeed-url-hash="1220003641"
@@ -333,11 +285,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
                                                         alt="Stellantis"
                                                         title="Stellantis"
                                                         class="ob-cover"
@@ -391,11 +343,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
                                                         alt="SAMI Aid"
                                                         title="SAMI Aid"
                                                         class="ob-cover"
@@ -449,11 +401,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
                                                         alt="Shell TapUp"
                                                         title="Shell TapUp"
                                                         class="ob-cover"
@@ -508,11 +460,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
                                                         alt="Stellantis"
                                                         title="Stellantis"
                                                         class="ob-cover"
@@ -566,11 +518,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
                                                         alt="SAMI Aid"
                                                         title="SAMI Aid"
                                                         class="ob-cover"
@@ -624,11 +576,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
                                                         alt="Shell TapUp"
                                                         title="Shell TapUp"
                                                         class="ob-cover"
@@ -683,11 +635,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
+                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
                                                         alt="Stellantis"
                                                         title="Stellantis"
                                                         class="ob-cover"
@@ -774,11 +726,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -788,11 +740,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-5.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-5.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-5.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-5.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
                                                 alt="react node developer"
                                                 title="react node developer"
                                                 data-pagespeed-url-hash="2398003325"
@@ -815,11 +767,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -829,11 +781,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-6.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-6.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-6.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-6.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
                                                 alt="react rails developer"
                                                 title="react rails developer"
                                                 data-pagespeed-url-hash="2692503246"
@@ -856,11 +808,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React + Go"
                                                 title="React + Go"
                                                 data-pagespeed-url-hash="1220003641"
@@ -870,11 +822,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-2.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-2.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-2.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-2.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
                                                 alt="go react developer"
                                                 title="go react developer"
                                                 data-pagespeed-url-hash="1514503562"
@@ -897,11 +849,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -911,11 +863,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-7.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-7.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-7.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-7.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
                                                 alt="react redux developer"
                                                 title="react redux developer"
                                                 data-pagespeed-url-hash="2987003167"
@@ -938,11 +890,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -952,11 +904,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-3.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-3.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-3.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-3.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
                                                 alt="django react developer"
                                                 title="django react developer"
                                                 data-pagespeed-url-hash="1809003483"
@@ -979,11 +931,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -993,11 +945,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-4.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-4.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-4.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-4.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
                                                 alt="php react developer"
                                                 title="php react developer"
                                                 data-pagespeed-url-hash="2103503404"
@@ -1019,11 +971,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -1033,11 +985,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-8.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-8.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-8.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-8.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
                                                 alt="react .net developer "
                                                 title="react .net developer "
                                                 data-pagespeed-url-hash="3281503088"
@@ -1060,11 +1012,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -1074,11 +1026,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-9.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-9.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-9.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-9.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
                                                 alt="aws react developer"
                                                 title="aws react developer"
                                                 data-pagespeed-url-hash="3576003009"
@@ -1100,11 +1052,11 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
                                                 alt="React Developer"
                                                 title="React Developer"
                                                 data-pagespeed-url-hash="1220003641"
@@ -1114,11 +1066,11 @@
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-10.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/icon-10.png" type="image/png" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-10.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-10.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
-                                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
+                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
+                                                src="<?php echo asset();?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
                                                 alt="react docker developer"
                                                 title="react docker developer"
                                                 data-pagespeed-url-hash="1347348197"
@@ -1182,7 +1134,7 @@
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
                                         <img
-                                            src="main-boot-5/images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
+                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
                                             alt="starts with"
                                             title=""
                                             class="position-absolute top-0 left-0 right-0 m-auto"
@@ -1275,11 +1227,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
                                     alt="Bacancy Mail"
                                     title="Bacancy Mail"
                                     class="mr-3 mt-3 d-none d-md-block"
@@ -1460,11 +1412,11 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
                         alt="Why Hire React JS Developers from Bacancy?"
                         title="Why Hire React JS Developers from Bacancy?"
                         class=""
@@ -1495,11 +1447,11 @@
         <div class="row gy-4 gy-lg-0 align-items-md-center">
             <div class="col-lg-6 text-center text-lg-left mb-4 mb-lg-0">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/side-4.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/hire-reactjs/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-reactjs/side-4.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
+                        data-src="<?php echo asset();?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
+                        src="<?php echo asset();?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
                         alt="ReactJS Team Augmentation"
                         title="ReactJS Team Augmentation"
                         class="ob-cover"
@@ -1708,11 +1660,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
+                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
+                                src="<?php echo asset();?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
                                 alt="Here’s How to Dockerize React App [Containerize React App]"
                                 title="Here’s How to Dockerize React App [Containerize React App]"
                                 class=""
@@ -1730,11 +1682,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
+                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
+                                src="<?php echo asset();?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
                                 alt="ReactJS for Dashboards and Data Visualization: An Exceptional Choice"
                                 title="ReactJS for Dashboards and Data Visualization: An Exceptional Choice"
                                 class=""
@@ -1752,11 +1704,11 @@
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
+                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
+                                src="<?php echo asset();?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
                                 alt="A Comprehensive Guide on Developing Responsive and Common React Filter Component"
                                 title="A Comprehensive Guide on Developing Responsive and Common React Filter Component"
                                 class=""
@@ -1808,11 +1760,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="slider-img"
@@ -1836,11 +1788,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="slider-img"
@@ -1864,11 +1816,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="slider-img"

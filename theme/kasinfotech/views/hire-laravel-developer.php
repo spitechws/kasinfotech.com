@@ -19,11 +19,11 @@
 <section class="header-spacing banner-post section-padding section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
                 alt="Hire Laravel Developer"
                 title="Hire Laravel Developer"
                 data-pagespeed-url-hash="3945081738"
@@ -60,8 +60,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/ecommerce.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/ecommerce.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/ecommerce.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/ecommerce.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRjADAABXRUJQVlA4TCQDAAAvLUALEGfmOJIkJ8pe1JPgi1/4b8Vp0W44aBtJklw9C2P54zoW/3XBjiTJUZW9aPmH//ZhATxx07Aj227b4F2kB0pyzrkC1+E23Ly/cn6CgXcDQckFDnBCOAqvtNq1RX9/bun76l52erOBwSckBjYHsgpxy3QNXW68Sy9wFo0UhcoihDtChVKIJ51u3VP8609Zx6/W+very2f2Nd6JTtBhQomXC7VHAdAkARalqMSxLURTBQgkA1q2cK0HI8+Jv+o/TZrvmiwuRrI2uvT9v7lVB4kWxBpYyCgz0QBokSKRCIMHQpmEX80a0SByiwCERtEtkn0AIogGQUJEhSIBQAggiAmCIIgOooOYmPjGEIpUCJAeBE1VKCoEQKYUHQ7CrQmHlwABCGAiwODqq3BQgcY10N//ufSIQgayvS7CWwbd/dCdj6uLFHHENvT/2+7S9WCSyPj/58Lz83hPJWfD73McvMPvy93PxvNvf+xpkL9t2/knz7w8M7tvtq1lu2UOmbNtb++MbLds/lcvP2/4+Xki+j8B8L/5zTVooMODw74oBMYUJD5wODv/7BTJsEvMyqthog+NdjTuFLUzS68JQsna3lxfrZSEG9jZaKSXmblegLglzbHG0sNHEItTXYCIfuWOZY/53AM/T64+s3b9U/g6f6/qvlwTreMAEf3KGNE2N9CcbiLt4JLFtHR/PSM65KMTbkL5dB8Ysme3dPMvmK3XmHNdmM5dDoZRmUy63Rve631yveWDZ9UyosSpENwqaYxy+xWtFwHil/cYEW2A712StJnwLE4veugkfuKcWm4RYLyk/h2Mva+nexxw023xhScwvs2pClCPbDTRGL9iJS6LSePSX6ltZSZahwMivi7j6Pw6dxiwimh1NwR9TDLSEsD5Fwro6G9YzogqQ2BNHTPSmHDuLt3pSBUV/fxxjBHljXabl2pGu6AknYioKzaDWWHyH/Co0ZbGbg53NNnRsAuEviNmWDnyhchqN5+eFpPXgltXLKaoDGZ1RoNdyRftqtqYblPawucnGi061Q/eHKjJemhl882TjwHRM6z/NCsjJ3jAfyU="
                                         src="data:image/webp;base64,UklGRjADAABXRUJQVlA4TCQDAAAvLUALEGfmOJIkJ8pe1JPgi1/4b8Vp0W44aBtJklw9C2P54zoW/3XBjiTJUZW9aPmH//ZhATxx07Aj227b4F2kB0pyzrkC1+E23Ly/cn6CgXcDQckFDnBCOAqvtNq1RX9/bun76l52erOBwSckBjYHsgpxy3QNXW68Sy9wFo0UhcoihDtChVKIJ51u3VP8609Zx6/W+very2f2Nd6JTtBhQomXC7VHAdAkARalqMSxLURTBQgkA1q2cK0HI8+Jv+o/TZrvmiwuRrI2uvT9v7lVB4kWxBpYyCgz0QBokSKRCIMHQpmEX80a0SByiwCERtEtkn0AIogGQUJEhSIBQAggiAmCIIgOooOYmPjGEIpUCJAeBE1VKCoEQKYUHQ7CrQmHlwABCGAiwODqq3BQgcY10N//ufSIQgayvS7CWwbd/dCdj6uLFHHENvT/2+7S9WCSyPj/58Lz83hPJWfD73McvMPvy93PxvNvf+xpkL9t2/knz7w8M7tvtq1lu2UOmbNtb++MbLds/lcvP2/4+Xki+j8B8L/5zTVooMODw74oBMYUJD5wODv/7BTJsEvMyqthog+NdjTuFLUzS68JQsna3lxfrZSEG9jZaKSXmblegLglzbHG0sNHEItTXYCIfuWOZY/53AM/T64+s3b9U/g6f6/qvlwTreMAEf3KGNE2N9CcbiLt4JLFtHR/PSM65KMTbkL5dB8Ysme3dPMvmK3XmHNdmM5dDoZRmUy63Rve631yveWDZ9UyosSpENwqaYxy+xWtFwHil/cYEW2A712StJnwLE4veugkfuKcWm4RYLyk/h2Mva+nexxw023xhScwvs2pClCPbDTRGL9iJS6LSePSX6ltZSZahwMivi7j6Pw6dxiwimh1NwR9TDLSEsD5Fwro6G9YzogqQ2BNHTPSmHDuLt3pSBUV/fxxjBHljXabl2pGu6AknYioKzaDWWHyH/Co0ZbGbg53NNnRsAuEviNmWDnyhchqN5+eFpPXgltXLKaoDGZ1RoNdyRftqtqYblPawucnGi061Q/eHKjJemhl882TjwHRM6z/NCsjJ3jAfyU="
@@ -80,8 +80,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA=="
                                         src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA=="
@@ -100,8 +100,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
                                         src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
@@ -120,11 +120,11 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
                         alt="Hire Laravel Developer"
                         title="Hire Laravel Developer"
                         data-pagespeed-url-hash="3978206547"
@@ -144,86 +144,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -240,7 +192,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -291,11 +243,11 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/laravel-logo.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/laravel-logo.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/hire-laravel-developer/laravel-logo.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/hire-laravel-developer/laravel-logo.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xlaravel-logo.png.pagespeed.ic.IoIq8p8yd8.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xlaravel-logo.png.pagespeed.ic.IoIq8p8yd8.webp"
+                                data-src="<?php echo asset();?>images/hire-laravel-developer/xlaravel-logo.png.pagespeed.ic.IoIq8p8yd8.webp"
+                                src="<?php echo asset();?>images/hire-laravel-developer/xlaravel-logo.png.pagespeed.ic.IoIq8p8yd8.webp"
                                 alt="Hire Laravel Programmers"
                                 title="Hire Laravel Programmers"
                                 data-pagespeed-url-hash="1465687533"
@@ -333,11 +285,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
                                                         alt="eProdigy"
                                                         title="eProdigy"
                                                         class="lazy ob-cover"
@@ -391,11 +343,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
                                                         alt="Lacodix"
                                                         title="Lacodix"
                                                         class="lazy ob-cover"
@@ -450,11 +402,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
                                                         alt="44i"
                                                         title="44i"
                                                         class="lazy ob-cover"
@@ -508,11 +460,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
                                                         alt="eProdigy"
                                                         title="eProdigy"
                                                         class="lazy ob-cover"
@@ -566,11 +518,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
                                                         alt="Lacodix"
                                                         title="Lacodix"
                                                         class="lazy ob-cover"
@@ -625,11 +577,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp"
                                                         alt="44i"
                                                         title="44i"
                                                         class="lazy ob-cover"
@@ -683,11 +635,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
+                                                        src="<?php echo asset();?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp"
                                                         alt="eProdigy"
                                                         title="eProdigy"
                                                         class="lazy ob-cover"
@@ -785,7 +737,7 @@
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
                                         <img
-                                            src="main-boot-5/images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
+                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
                                             alt="starts with"
                                             title=""
                                             class="position-absolute top-0 left-0 right-0 m-auto"
@@ -878,11 +830,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
                                     alt="Bacancy Mail"
                                     title="Bacancy Mail"
                                     class="mr-3 mt-3 d-none d-md-block"
@@ -1095,11 +1047,11 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
                         alt="Hire Laravel Experts From us To Execute Your Vision with Confidence"
                         title="Hire Laravel Experts From us To Execute Your Vision with Confidence"
                         class="lazy"
@@ -1315,11 +1267,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-1.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-1.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp"
+                                data-src="<?php echo asset();?>images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp"
+                                src="<?php echo asset();?>images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp"
                                 alt="Everything You Need to Know About Laravel Microservices"
                                 title="Everything You Need to Know About Laravel Microservices"
                                 class="lazy"
@@ -1337,11 +1289,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-2.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-2.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp"
+                                data-src="<?php echo asset();?>images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp"
+                                src="<?php echo asset();?>images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp"
                                 alt="Laravel 10: New Features and Latest Updates"
                                 title="Laravel 10: New Features and Latest Updates"
                                 class="lazy"
@@ -1359,11 +1311,11 @@
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/laravel-development/blog-3.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/laravel-development/blog-3.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp"
+                                data-src="<?php echo asset();?>images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp"
+                                src="<?php echo asset();?>images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp"
                                 alt="Why Use Laravel in 2023?"
                                 title="Why Use Laravel in 2023?"
                                 class="lazy"
@@ -1415,11 +1367,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -1443,11 +1395,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -1471,11 +1423,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

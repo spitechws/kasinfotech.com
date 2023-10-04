@@ -9,6 +9,21 @@
         border-color: #fff;
         top: 54%
     }
+    .agile-mindset-page .agile-mindset-slider.bg-dark-blue {
+        background: #01182d;
+        position: relative;
+    }
+    .agile-mindset-page .agile-mindset-slider .background-slide {
+    position: absolute;
+    height: 0.625rem;
+    width: 0;
+    background-color: #f58220;
+    left: 0;
+    bottom: 3.125rem;
+    -webkit-transition: all ease-in .7s;
+    -o-transition: all ease-in .7s;
+    transition: all ease-in .7s;
+}
 </style>
 <header class="header-wrapper section-wrapper">
     <div class="header-main dark">
@@ -32,14 +47,14 @@
                     </div>
                 </div>
                 <div class="col-12">
-                    <div class="bg-fix banner-holder" style="background-image: url('<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp');">
+                    <div class="bg-fix banner-holder" style="background-image: url('<?php echo asset(); ?>images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp');">
                         <figure class="banner-holder-img">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/banner.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/banner.png" type="image/png" />
+                                <source srcset="<?php echo asset(); ?>images/agile-mindset/banner.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/agile-mindset/banner.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp"
+                                    data-src="<?php echo asset(); ?>images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp"
+                                    src="<?php echo asset(); ?>images/agile-mindset/xbanner.png.pagespeed.ic.FmlvoCopzk.webp"
                                     alt="Agile Mindset"
                                     title="Agile Mindset"
                                     data-pagespeed-url-hash="2289169910"
@@ -54,17 +69,17 @@
     </div>
 </section>
 <section class="verticle-slider">
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all agile-mindset-slider-1 active" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all agile-mindset-slider-1 active" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_1.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_1.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_1.png.pagespeed.ic.9a-dOMJly7.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_1.png.pagespeed.ic.9a-dOMJly7.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_1.png.pagespeed.ic.9a-dOMJly7.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_1.png.pagespeed.ic.9a-dOMJly7.webp"
                                 alt="Respect"
                                 title="Respect"
                                 data-pagespeed-url-hash="3696763207"
@@ -89,17 +104,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all agile-mindset-slider-2" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all agile-mindset-slider-2" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_2.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_2.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_2.png.pagespeed.ic.Kzs1GFpQoY.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_2.png.pagespeed.ic.Kzs1GFpQoY.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_2.png.pagespeed.ic.Kzs1GFpQoY.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_2.png.pagespeed.ic.Kzs1GFpQoY.webp"
                                 alt="Co-ordination and Collaboration"
                                 title="Co-ordination and Collaboration"
                                 data-pagespeed-url-hash="3991263128"
@@ -124,17 +139,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_3.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_3.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_3.png.pagespeed.ic.gqE9w_gjTH.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_3.png.pagespeed.ic.gqE9w_gjTH.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_3.png.pagespeed.ic.gqE9w_gjTH.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_3.png.pagespeed.ic.gqE9w_gjTH.webp"
                                 alt="Improvement Cycle"
                                 title="Improvement Cycle"
                                 data-pagespeed-url-hash="4285763049"
@@ -156,17 +171,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_4.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_4.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_4.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_4.png.pagespeed.ic.en_54Wx_n4.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_4.png.pagespeed.ic.en_54Wx_n4.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_4.png.pagespeed.ic.en_54Wx_n4.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_4.png.pagespeed.ic.en_54Wx_n4.webp"
                                 alt="Failures’ as Opportunities to Grow"
                                 title="Failures’ as Opportunities to Grow"
                                 data-pagespeed-url-hash="285295674"
@@ -190,17 +205,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_5.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_5.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_5.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_5.png.pagespeed.ic.hPZVKVuFLk.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_5.png.pagespeed.ic.hPZVKVuFLk.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_5.png.pagespeed.ic.hPZVKVuFLk.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_5.png.pagespeed.ic.hPZVKVuFLk.webp"
                                 alt="Pride in Ownership"
                                 title="Pride in Ownership"
                                 data-pagespeed-url-hash="579795595"
@@ -222,17 +237,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_6.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_6.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_6.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_6.png.pagespeed.ic.7F_GBrHiOe.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_6.png.pagespeed.ic.7F_GBrHiOe.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_6.png.pagespeed.ic.7F_GBrHiOe.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_6.png.pagespeed.ic.7F_GBrHiOe.webp"
                                 alt="Focus on Delivering Value"
                                 title="Focus on Delivering Value"
                                 data-pagespeed-url-hash="874295516"
@@ -254,17 +269,17 @@
             </div>
         </div>
     </div>
-    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px;">
+    <div class="header-spacing-padding agile-mindset-slider bg-dark-blue section-scroll-js horizontal-outer d-md-flex align-items-md-center full-height-section text-white-all" style="height: 940px; background: #01182d;">
         <div class="container section-padding py-lg-0">
             <div class="row gy-4 align-items-center flex-lg-row-reverse">
                 <div class="col-lg-6 text-center text-lg-right">
                     <figure>
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_7.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/service_7.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_7.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/service_7.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_7.png.pagespeed.ic.uFWYSRCvW9.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xservice_7.png.pagespeed.ic.uFWYSRCvW9.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xservice_7.png.pagespeed.ic.uFWYSRCvW9.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xservice_7.png.pagespeed.ic.uFWYSRCvW9.webp"
                                 alt="Ability to Adapt and Respond to Change"
                                 title="Ability to Adapt and Respond to Change"
                                 data-pagespeed-url-hash="1168795437"
@@ -293,11 +308,11 @@
             <div class="row">
                 <div class="col-sm-6 mx-auto col-lg-5">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/successful_project.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/successful_project.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/successful_project.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/successful_project.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xsuccessful_project.png.pagespeed.ic.FYgLCjslny.webp"
-                            src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xsuccessful_project.png.pagespeed.ic.FYgLCjslny.webp"
+                            data-src="<?php echo asset(); ?>images/agile-mindset/xsuccessful_project.png.pagespeed.ic.FYgLCjslny.webp"
+                            src="<?php echo asset(); ?>images/agile-mindset/xsuccessful_project.png.pagespeed.ic.FYgLCjslny.webp"
                             alt="Agile Helps in Successful Project Delivery: Whitepaper"
                             title="Agile Helps in Successful Project Delivery: Whitepaper"
                             class="img-sec"
@@ -333,11 +348,11 @@
                 <div class="col-lg-6">
                     <div class="boxed shadow-custom bg-white">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/value.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/value.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/value.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/value.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
                                 alt="Bacancy Values"
                                 title="Bacancy Values"
                                 class="mb-lg"
@@ -355,11 +370,11 @@
                 <div class="col-lg-6">
                     <div class="boxed shadow-custom bg-white">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/culture.png" type="image/png" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xculture.png.pagespeed.ic.iYWzkjAzQm.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xculture.png.pagespeed.ic.iYWzkjAzQm.webp"
+                                data-src="<?php echo asset(); ?>images/agile-mindset/xculture.png.pagespeed.ic.iYWzkjAzQm.webp"
+                                src="<?php echo asset(); ?>images/agile-mindset/xculture.png.pagespeed.ic.iYWzkjAzQm.webp"
                                 alt="Bacancy Cultures"
                                 title="Bacancy Cultures"
                                 class="mb-lg"
@@ -410,11 +425,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                         alt="Top 1% IT Talent"
                                                         title="Top 1% IT Talent"
                                                         class="slider-img"
@@ -438,11 +453,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                         alt="Time Zone Aligned"
                                                         title="Time Zone Aligned"
                                                         class="slider-img"
@@ -466,11 +481,11 @@
                                         <div class="row align-items-center">
                                             <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                        src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                        data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                        src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                         alt="Experienced Team"
                                                         title="Experienced Team"
                                                         class="slider-img"
@@ -571,11 +586,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/india-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/india-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/india-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/india-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xindia-flag.png.pagespeed.ic.aru_mCGM21.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xindia-flag.png.pagespeed.ic.aru_mCGM21.webp"
+                                        data-src="<?php echo asset(); ?>images/xindia-flag.png.pagespeed.ic.aru_mCGM21.webp"
+                                        src="<?php echo asset(); ?>images/xindia-flag.png.pagespeed.ic.aru_mCGM21.webp"
                                         alt="India (HQ)"
                                         title="India (HQ)"
                                         class="flag-img"
@@ -595,11 +610,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/usa-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/usa-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/usa-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/usa-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xusa-flag.png.pagespeed.ic.1rw5J9cY4X.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xusa-flag.png.pagespeed.ic.1rw5J9cY4X.webp"
+                                        data-src="<?php echo asset(); ?>images/xusa-flag.png.pagespeed.ic.1rw5J9cY4X.webp"
+                                        src="<?php echo asset(); ?>images/xusa-flag.png.pagespeed.ic.1rw5J9cY4X.webp"
                                         alt="Bacancy USA"
                                         title="Bacancy USA"
                                         class="flag-img"
@@ -618,11 +633,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/canada-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/canada-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/canada-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/canada-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xcanada-flag.png.pagespeed.ic.vqZ5gAyPy0.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xcanada-flag.png.pagespeed.ic.vqZ5gAyPy0.webp"
+                                        data-src="<?php echo asset(); ?>images/xcanada-flag.png.pagespeed.ic.vqZ5gAyPy0.webp"
+                                        src="<?php echo asset(); ?>images/xcanada-flag.png.pagespeed.ic.vqZ5gAyPy0.webp"
                                         alt="Bacancy Canada"
                                         title="Bacancy Canada"
                                         class="flag-img"
@@ -641,11 +656,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/australia-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/australia-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/australia-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/australia-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xaustralia-flag.png.pagespeed.ic.-2v1mE8iHx.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xaustralia-flag.png.pagespeed.ic.-2v1mE8iHx.webp"
+                                        data-src="<?php echo asset(); ?>images/xaustralia-flag.png.pagespeed.ic.-2v1mE8iHx.webp"
+                                        src="<?php echo asset(); ?>images/xaustralia-flag.png.pagespeed.ic.-2v1mE8iHx.webp"
                                         alt="Bacancy Australia"
                                         title="Bacancy Australia"
                                         class="flag-img"
@@ -664,11 +679,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/uar-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/uar-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/uar-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/uar-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xuar-flag.png.pagespeed.ic.hP6FGw1fFN.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xuar-flag.png.pagespeed.ic.hP6FGw1fFN.webp"
+                                        data-src="<?php echo asset(); ?>images/xuar-flag.png.pagespeed.ic.hP6FGw1fFN.webp"
+                                        src="<?php echo asset(); ?>images/xuar-flag.png.pagespeed.ic.hP6FGw1fFN.webp"
                                         alt="Bacancy UAE"
                                         title="Bacancy UAE"
                                         class="flag-img"
@@ -687,11 +702,11 @@
                         <div class="offices-detail-block">
                             <h5 class="h4 flag-text-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/sweden-flag.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/sweden-flag.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/sweden-flag.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/sweden-flag.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xsweden-flag.png.pagespeed.ic.Q2qPT6BVmt.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xsweden-flag.png.pagespeed.ic.Q2qPT6BVmt.webp"
+                                        data-src="<?php echo asset(); ?>images/xsweden-flag.png.pagespeed.ic.Q2qPT6BVmt.webp"
+                                        src="<?php echo asset(); ?>images/xsweden-flag.png.pagespeed.ic.Q2qPT6BVmt.webp"
                                         alt="Bacancy Sweden"
                                         title="Bacancy Sweden"
                                         class="flag-img"
@@ -712,7 +727,7 @@
                     <div class="mx-auto col-3 col-sm-2 col-lg-1">
                         <a href="https://www.greatplacetowork.in/great/company/bacancy-software-llp" target="_blank">
                             <img
-                                src="<?php echo base_url(); ?>main-boot-5/images/gpw.svg"
+                                src="<?php echo asset(); ?>images/gpw.svg"
                                 alt="Great Place to Work"
                                 title="Great Place to Work"
                                 class="footer-gptw"
@@ -730,8 +745,8 @@
                         <div class="get-in-touch-block">
                             <div class="icon-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/call-yellow-icon.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/call-yellow-icon.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/call-yellow-icon.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/call-yellow-icon.png" type="image/png" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRhgBAABXRUJQVlA4TAsBAAAvF8AFEAfBKJIkRelf6eKT4c6GgKDo/2gYN5LUqPLPjycZeDhv2TaSpKjyz+4ggvPOgmf+gP//H1ef13z4fa7LuAoFU3e/NEktmk/L4tqtV7hwYWBGwY+GHwEnKj7syPjwgWFtq0349i4m9sr+a4rEESL6PwGkyzb5wY3z9pBZVjauYrgcm93xsXPwrpz840lE4phTIO5NTohWZgaAxsQLCTNzBKC2sWyvHEAZsM2vCoi7gNm/OqDkQD+8uEDcBQxanyDruCvrpv/wCrcR4jIGEGt+0rhNoGvz9sF9YdueL+auyiOk2kOLwbwQifvDCRGdf5z03sN20i9ncwd9y2JZhMyyTX4Y/LTdpAMA"
                                         src="data:image/webp;base64,UklGRhgBAABXRUJQVlA4TAsBAAAvF8AFEAfBKJIkRelf6eKT4c6GgKDo/2gYN5LUqPLPjycZeDhv2TaSpKjyz+4ggvPOgmf+gP//H1ef13z4fa7LuAoFU3e/NEktmk/L4tqtV7hwYWBGwY+GHwEnKj7syPjwgWFtq0349i4m9sr+a4rEESL6PwGkyzb5wY3z9pBZVjauYrgcm93xsXPwrpz840lE4phTIO5NTohWZgaAxsQLCTNzBKC2sWyvHEAZsM2vCoi7gNm/OqDkQD+8uEDcBQxanyDruCvrpv/wCrcR4jIGEGt+0rhNoGvz9sF9YdueL+auyiOk2kOLwbwQifvDCRGdf5z03sN20i9ncwd9y2JZhMyyTX4Y/LTdpAMA"
@@ -755,8 +770,8 @@
                         <div class="get-in-touch-block">
                             <div class="icon-block">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/gmail-icon.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/gmail-icon.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/gmail-icon.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/gmail-icon.png" type="image/png" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRtACAABXRUJQVlA4TMMCAAAvF0AEED8GOZIkRVJkLf9Of3FOH+ahDDUgNpKkSIrqu3tm/41k/pmCHUmSo6p60PzhvzUYxNNiZberSLJdpd/7e8AqQBQasJjdgIglx/ArfwoKUAbdjqLMhuKwKUCVKEBdiQ1Qm9gAtQHSbcfaWGgsUfvtKMpAlSgIbIAqoSAhELAAahMOOK2DOZX7vhqFIiQkEQ5IhSUBSA5IZBRQ7nD5PeFdoRglkamEcMDLvPgUW4c/zdrut39ddKfnY649eZmX1XDcLrdcvPfDfxs+sOh6ZYtm/ZrWDD23pc3/f9PDthiy5OjmMfYuCLesGkZm5Mi2d1341yLDaev65cAyR6ZE/r6bzVRmwwRCaIyAFYJCoaCQGTAIRNlMJCpkCgsWZK2VCQk4QjHKKNvfVKYoe8pDSIK76wp6Xc9OxxA+6jtqcDF2b08/D6c5OH2fTAtoolxzMg5Ar3/nPHL37Hnv9scyr/0HX/BkAyJr43So9Uy9Pr6+Nq19H78RKNyhMDi1zhkNgCAAAOFktm0r2+Zl27Zdy7Zt23bLD5u+ENH/CdisioRBiTiDiVBYROVG+fpkKgSMwWP14rFgSMr4WvVuTcNKSTgITtBFQIDCCleaance97dbx1cTwWA8HovF4sHghN4J9dbe89PHQelo+3JOKAiFx6NBIdlLHSNlh+8vNz+XTllz6sm2ODAEAo5vnFLP5QZf/T7caI6CApL6hrsWM5GQjOmeocFk36Czr4cbzamzDRBdPNcyVZA/0zxbEQXYepx/armLTfxc08b6O7sHFtId/BViTz1CmaU9EFM3P18fCzhYyoSGyEwkgcK8IlNAbCIzQiazdLG3c7OUyYwyM1MJ+CqZUUoLLtdCptcQMzM2iWxtYdit5tTdSsoiM2lMmZkhd9ffx44cGpXJZFJZZkoD7t/+Tny86QxtCs9cri3yuvh/BQA="
                                         src="data:image/webp;base64,UklGRtACAABXRUJQVlA4TMMCAAAvF0AEED8GOZIkRVJkLf9Of3FOH+ahDDUgNpKkSIrqu3tm/41k/pmCHUmSo6p60PzhvzUYxNNiZberSLJdpd/7e8AqQBQasJjdgIglx/ArfwoKUAbdjqLMhuKwKUCVKEBdiQ1Qm9gAtQHSbcfaWGgsUfvtKMpAlSgIbIAqoSAhELAAahMOOK2DOZX7vhqFIiQkEQ5IhSUBSA5IZBRQ7nD5PeFdoRglkamEcMDLvPgUW4c/zdrut39ddKfnY649eZmX1XDcLrdcvPfDfxs+sOh6ZYtm/ZrWDD23pc3/f9PDthiy5OjmMfYuCLesGkZm5Mi2d1341yLDaev65cAyR6ZE/r6bzVRmwwRCaIyAFYJCoaCQGTAIRNlMJCpkCgsWZK2VCQk4QjHKKNvfVKYoe8pDSIK76wp6Xc9OxxA+6jtqcDF2b08/D6c5OH2fTAtoolxzMg5Ar3/nPHL37Hnv9scyr/0HX/BkAyJr43So9Uy9Pr6+Nq19H78RKNyhMDi1zhkNgCAAAOFktm0r2+Zl27Zdy7Zt23bLD5u+ENH/CdisioRBiTiDiVBYROVG+fpkKgSMwWP14rFgSMr4WvVuTcNKSTgITtBFQIDCCleaance97dbx1cTwWA8HovF4sHghN4J9dbe89PHQelo+3JOKAiFx6NBIdlLHSNlh+8vNz+XTllz6sm2ODAEAo5vnFLP5QZf/T7caI6CApL6hrsWM5GQjOmeocFk36Czr4cbzamzDRBdPNcyVZA/0zxbEQXYepx/armLTfxc08b6O7sHFtId/BViTz1CmaU9EFM3P18fCzhYyoSGyEwkgcK8IlNAbCIzQiazdLG3c7OUyYwyM1MJ+CqZUUoLLtdCptcQMzM2iWxtYdit5tTdSsoiM2lMmZkhd9ffx44cGpXJZFJZZkoD7t/+Tny86QxtCs9cri3yuvh/BQA="
@@ -836,7 +851,7 @@
                             <li class="social-item">
                                 <a href="https://www.behance.net/bacancytechnology" class="social-link" target="_blank">
                                     <img
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xbeahance-icon.png.pagespeed.ic.XKR-hjSMsS.webp"
+                                        src="<?php echo asset(); ?>images/xbeahance-icon.png.pagespeed.ic.XKR-hjSMsS.webp"
                                         alt="Bacancy Behance"
                                         data-pagespeed-url-hash="1859694701"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -846,7 +861,7 @@
                             <li class="social-item">
                                 <a href="https://www.uplabs.com/bacancy" class="social-link" target="_blank">
                                     <img
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xuplabs-icon.png.pagespeed.ic.TCUhelTVOp.webp"
+                                        src="<?php echo asset(); ?>images/xuplabs-icon.png.pagespeed.ic.TCUhelTVOp.webp"
                                         alt="Bacancy Uplabs"
                                         data-pagespeed-url-hash="2429893525"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -856,7 +871,7 @@
                             <li class="social-item">
                                 <a href="https://in.pinterest.com/bacancytech/" class="social-link" target="_blank">
                                     <img
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xpinterest-icon.png.pagespeed.ic.Zq_fYA66LJ.webp"
+                                        src="<?php echo asset(); ?>images/xpinterest-icon.png.pagespeed.ic.Zq_fYA66LJ.webp"
                                         alt="Bacancy Pinterest"
                                         data-pagespeed-url-hash="1278565614"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -868,7 +883,7 @@
                     <div class="col-lg-8 col-xl-9 tabs text-center justify-content-center justify-content-lg-end">
                         <ul class="footer-link-row -primary bacancy-rating-block justify-content-center justify-content-lg-start mt-0">
                             <li>
-                                <a href="<?php echo base_url(); ?>main-boot-5/images/Bacancy_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
+                                <a href="<?php echo asset(); ?>images/Bacancy_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
                                     Brochure
                                 </a>
                             </li>
@@ -937,11 +952,11 @@
                                 >
                                     <div class="d-flex align-items-center">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/star.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/star.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                data-src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
                                                 alt="Google"
                                                 title="Google"
                                                 class="align-top"
@@ -952,11 +967,11 @@
                                         <span class="text-white font-bold ml-2">4.6</span>
                                     </div>
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/google-2.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/google-2.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/google-2.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/google-2.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xgoogle-2.png.pagespeed.ic.qQi5DPZI_v.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/xgoogle-2.png.pagespeed.ic.qQi5DPZI_v.webp"
+                                            data-src="<?php echo asset(); ?>images/xgoogle-2.png.pagespeed.ic.qQi5DPZI_v.webp"
+                                            src="<?php echo asset(); ?>images/xgoogle-2.png.pagespeed.ic.qQi5DPZI_v.webp"
                                             alt="Google"
                                             title="Google"
                                             class="img-item d-block mt-2"
@@ -970,11 +985,11 @@
                                 <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Reviews-E755927.htm" target="_blank" rel="nofollow">
                                     <div class="d-flex align-items-center">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/star.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/star.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                data-src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
                                                 alt="Google"
                                                 title="Google"
                                                 class="align-top"
@@ -985,11 +1000,11 @@
                                         <span class="text-white font-bold ml-2">4.5</span>
                                     </div>
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/glassdoor.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/glassdoor.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/glassdoor.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/glassdoor.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xglassdoor.png.pagespeed.ic.QuaaY7L9Ys.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/xglassdoor.png.pagespeed.ic.QuaaY7L9Ys.webp"
+                                            data-src="<?php echo asset(); ?>images/xglassdoor.png.pagespeed.ic.QuaaY7L9Ys.webp"
+                                            src="<?php echo asset(); ?>images/xglassdoor.png.pagespeed.ic.QuaaY7L9Ys.webp"
                                             alt="glassdoor"
                                             title="glassdoor"
                                             class="img-item d-block mt-2"
@@ -1003,11 +1018,11 @@
                                 <a href="https://clutch.co/profile/bacancy" target="_blank" rel="nofollow">
                                     <div class="d-flex align-items-center">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/star.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/star.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                data-src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
                                                 alt="Google"
                                                 title="Google"
                                                 class="align-top"
@@ -1018,11 +1033,11 @@
                                         <span class="text-white font-bold ml-2">4.8</span>
                                     </div>
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/clutch.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/clutch.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/clutch.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/clutch.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xclutch.png.pagespeed.ic.4gGQfckDS0.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/xclutch.png.pagespeed.ic.4gGQfckDS0.webp"
+                                            data-src="<?php echo asset(); ?>images/xclutch.png.pagespeed.ic.4gGQfckDS0.webp"
+                                            src="<?php echo asset(); ?>images/xclutch.png.pagespeed.ic.4gGQfckDS0.webp"
                                             alt="clutch"
                                             title="clutch"
                                             class="img-item d-block mt-2"
@@ -1036,11 +1051,11 @@
                                 <a href="https://www.goodfirms.co/company/bacancy-technology" target="_blank" rel="nofollow">
                                     <div class="d-flex align-items-center">
                                         <picture>
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.webp" type="image/webp" />
-                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/star.png" type="image/png" />
+                                            <source srcset="<?php echo asset(); ?>images/star.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/star.png" type="image/png" />
                                             <img
-                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
-                                                src="<?php echo base_url(); ?>main-boot-5/images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                data-src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
+                                                src="<?php echo asset(); ?>images/xstar.png.pagespeed.ic.Dy5EPNpEO0.webp"
                                                 alt="Google"
                                                 title="Google"
                                                 class="align-top"
@@ -1051,11 +1066,11 @@
                                         <span class="text-white font-bold ml-2">4.8</span>
                                     </div>
                                     <picture>
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/goodfirms.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/goodfirms.png" type="image/png" />
+                                        <source srcset="<?php echo asset(); ?>images/goodfirms.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/goodfirms.png" type="image/png" />
                                         <img
-                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xgoodfirms.png.pagespeed.ic.-13GjcQeC6.webp"
-                                            src="<?php echo base_url(); ?>main-boot-5/images/xgoodfirms.png.pagespeed.ic.-13GjcQeC6.webp"
+                                            data-src="<?php echo asset(); ?>images/xgoodfirms.png.pagespeed.ic.-13GjcQeC6.webp"
+                                            src="<?php echo asset(); ?>images/xgoodfirms.png.pagespeed.ic.-13GjcQeC6.webp"
                                             alt="goodfirms"
                                             title="goodfirms"
                                             class="img-item d-block mt-2"
@@ -1067,11 +1082,11 @@
                             </div>
                             <div class="col-6 col-md-auto footer-review-all">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/iso.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/iso.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/iso.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/iso.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/xiso.png.pagespeed.ic.Awzkom9x3s.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/xiso.png.pagespeed.ic.Awzkom9x3s.webp"
+                                        data-src="<?php echo asset(); ?>images/xiso.png.pagespeed.ic.Awzkom9x3s.webp"
+                                        src="<?php echo asset(); ?>images/xiso.png.pagespeed.ic.Awzkom9x3s.webp"
                                         alt="iso"
                                         title="iso"
                                         class="img-item d-block mt-2"

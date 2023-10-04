@@ -19,11 +19,11 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
+                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
                 alt="Hire AngularJS Developer"
                 title="Hire AngularJS Developer"
                 data-pagespeed-url-hash="3945081738"
@@ -60,11 +60,11 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-python/xbanner-icon-1.png,qv-1.pagespeed.ic.g36H23lkOS.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/hire-python/xbanner-icon-1.png,qv-1.pagespeed.ic.g36H23lkOS.webp"
+                                        data-src="<?php echo asset();?>images/hire-python/xbanner-icon-1.png,qv-1.pagespeed.ic.g36H23lkOS.webp"
+                                        src="<?php echo asset();?>images/hire-python/xbanner-icon-1.png,qv-1.pagespeed.ic.g36H23lkOS.webp"
                                         alt="icon"
                                         data-pagespeed-url-hash="4181604599"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -80,11 +80,11 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xicon-2.png,qv-1.pagespeed.ic.kIe-F5gp1R.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/ruby-on-rails-development/xicon-2.png,qv-1.pagespeed.ic.kIe-F5gp1R.webp"
+                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xicon-2.png,qv-1.pagespeed.ic.kIe-F5gp1R.webp"
+                                        src="<?php echo asset();?>images/ruby-on-rails-development/xicon-2.png,qv-1.pagespeed.ic.kIe-F5gp1R.webp"
                                         alt="icon"
                                         data-pagespeed-url-hash="1296174570"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -100,11 +100,11 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xrisk-free.png,qv-1.pagespeed.ic.KYifQLFosw.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/xrisk-free.png,qv-1.pagespeed.ic.KYifQLFosw.webp"
+                                        data-src="<?php echo asset();?>images/hire-laravel-developer/xrisk-free.png,qv-1.pagespeed.ic.KYifQLFosw.webp"
+                                        src="<?php echo asset();?>images/hire-laravel-developer/xrisk-free.png,qv-1.pagespeed.ic.KYifQLFosw.webp"
                                         alt="icon"
                                         data-pagespeed-url-hash="1458408289"
                                         onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
@@ -120,11 +120,11 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/banner-side-1.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
                         alt="Hire AngularJS Developer"
                         title="Hire AngularJS Developer"
                         data-pagespeed-url-hash="3978206547"
@@ -144,86 +144,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -240,7 +192,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -292,11 +244,11 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                 alt="Hire Angular Developers"
                                 title="Hire Angular Developers"
                                 data-pagespeed-url-hash="3875766957"
@@ -334,11 +286,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
                                                         alt="The Credit Repairman"
                                                         title="The Credit Repairman"
                                                         class="ob-cover"
@@ -392,11 +344,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-3.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
                                                         alt="Portfolio Workbench for Cambridge"
                                                         title="Portfolio Workbench for Cambridge"
                                                         class="ob-cover"
@@ -450,11 +402,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-1.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
                                                         alt="UPS"
                                                         title="UPS"
                                                         class="ob-cover"
@@ -508,11 +460,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
                                                         alt="The Credit Repairman"
                                                         title="The Credit Repairman"
                                                         class="ob-cover"
@@ -566,11 +518,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-3.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-3.jpg,qv-4.pagespeed.ic.dpVQE0oUGk.webp"
                                                         alt="Portfolio Workbench for Cambridge"
                                                         title="Portfolio Workbench for Cambridge"
                                                         class="ob-cover"
@@ -624,11 +576,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-1.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
                                                         alt="UPS"
                                                         title="UPS"
                                                         class="ob-cover"
@@ -682,11 +634,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
+                                                        src="<?php echo asset();?>images/angular-js-dev/xcs-2.jpg,qv-4.pagespeed.ic.ZHzUm3W-dZ.webp"
                                                         alt="The Credit Repairman"
                                                         title="The Credit Repairman"
                                                         class="ob-cover"
@@ -773,11 +725,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -788,11 +740,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-2.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-2.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-2.png.pagespeed.ic.Jey8py4GED.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-2.png.pagespeed.ic.Jey8py4GED.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-2.png.pagespeed.ic.Jey8py4GED.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-2.png.pagespeed.ic.Jey8py4GED.webp"
                                                     alt="ANGULAR + AWS"
                                                     title="ANGULAR + AWS"
                                                     class="w-auto"
@@ -814,11 +766,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -829,11 +781,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-3.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-3.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-3.png.pagespeed.ic.01GQTBnW6y.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-3.png.pagespeed.ic.01GQTBnW6y.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-3.png.pagespeed.ic.01GQTBnW6y.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-3.png.pagespeed.ic.01GQTBnW6y.webp"
                                                     alt="ANGULAR + DOCKER"
                                                     title="ANGULAR + DOCKER"
                                                     class="w-auto"
@@ -855,11 +807,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -870,11 +822,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-4.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-4.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-4.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-4.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-4.png.pagespeed.ic.4SOwZEdWVF.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-4.png.pagespeed.ic.4SOwZEdWVF.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-4.png.pagespeed.ic.4SOwZEdWVF.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-4.png.pagespeed.ic.4SOwZEdWVF.webp"
                                                     alt="ANGULAR + ROR"
                                                     title="ANGULAR + ROR"
                                                     class="w-auto"
@@ -896,11 +848,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -911,11 +863,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-5.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-5.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-5.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-5.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-5.png.pagespeed.ic.NtLich0vR0.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-5.png.pagespeed.ic.NtLich0vR0.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-5.png.pagespeed.ic.NtLich0vR0.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-5.png.pagespeed.ic.NtLich0vR0.webp"
                                                     alt="ANGULAR + .NET"
                                                     title="ANGULAR + .NET"
                                                     class="w-auto"
@@ -936,11 +888,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -951,11 +903,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-6.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-6.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-6.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-6.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-6.png.pagespeed.ic.fBGi82Y4_I.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-6.png.pagespeed.ic.fBGi82Y4_I.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-6.png.pagespeed.ic.fBGi82Y4_I.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-6.png.pagespeed.ic.fBGi82Y4_I.webp"
                                                     alt="ANGULAR + NODE"
                                                     title="ANGULAR + NODE"
                                                     class="w-auto"
@@ -977,11 +929,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -992,11 +944,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-7.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-7.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-7.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-7.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-7.png.pagespeed.ic.V7A8DiEyF6.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-7.png.pagespeed.ic.V7A8DiEyF6.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-7.png.pagespeed.ic.V7A8DiEyF6.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-7.png.pagespeed.ic.V7A8DiEyF6.webp"
                                                     alt="ANGULAR + Laravel"
                                                     title="ANGULAR + Laravel"
                                                     class="w-auto"
@@ -1018,11 +970,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -1033,11 +985,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-8.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-8.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-8.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-8.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-8.png.pagespeed.ic.bbGAXOg4UT.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-8.png.pagespeed.ic.bbGAXOg4UT.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-8.png.pagespeed.ic.bbGAXOg4UT.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-8.png.pagespeed.ic.bbGAXOg4UT.webp"
                                                     alt="ANGULAR + Java"
                                                     title="ANGULAR + Java"
                                                     class="w-auto"
@@ -1059,11 +1011,11 @@
                                     <div class="d-flex">
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-1.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-1.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-1.png.pagespeed.ic.9wyASDGOw5.webp"
                                                     alt="Angular Js Combinations"
                                                     title="Angular Js Combinations"
                                                     class="w-auto"
@@ -1074,11 +1026,11 @@
                                         </div>
                                         <div class="align-items-center border-0 d-flex h-25 img-thumbnail justify-content-center mb-sm mr-3 p-3 rounded-circle w-25">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-9.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/tech-9.png" type="image/png" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-9.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/angular-js-dev/tech-9.png" type="image/png" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-9.png.pagespeed.ic.1nCy14Jq6r.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xtech-9.png.pagespeed.ic.1nCy14Jq6r.webp"
+                                                    data-src="<?php echo asset();?>images/angular-js-dev/xtech-9.png.pagespeed.ic.1nCy14Jq6r.webp"
+                                                    src="<?php echo asset();?>images/angular-js-dev/xtech-9.png.pagespeed.ic.1nCy14Jq6r.webp"
                                                     alt="ANGULAR + Golang"
                                                     title="ANGULAR + Golang"
                                                     class="w-auto"
@@ -1146,7 +1098,7 @@
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
                                         <img
-                                            src="main-boot-5/images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
+                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
                                             alt="starts with"
                                             title=""
                                             class="position-absolute top-0 left-0 right-0 m-auto"
@@ -1239,11 +1191,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
+                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
                                     alt="Bacancy Mail"
                                     title="Bacancy Mail"
                                     class="mr-3 mt-3 d-none d-md-block"
@@ -1438,11 +1390,11 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
+                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
                         alt="We Make Sure to Prioritize Your Satisfaction With Dedicated Angular Developers"
                         title="We Make Sure to Prioritize Your Satisfaction With Dedicated Angular Developers"
                         class=""
@@ -1646,11 +1598,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-img-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-img-1.png?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-img-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-img-1.png?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp"
+                                data-src="<?php echo asset();?>images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp"
+                                src="<?php echo asset();?>images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp"
                                 alt="What’s New in Angular 15: Deep Dive into Latest Features of Angular 15"
                                 title="What’s New in Angular 15: Deep Dive into Latest Features of Angular 15"
                             />
@@ -1665,11 +1617,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-img-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-img-2.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-img-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-img-2.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp"
+                                data-src="<?php echo asset();?>images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp"
+                                src="<?php echo asset();?>images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp"
                                 alt="All You Need To Know About Angular With AWS Combination"
                                 title="All You Need To Know About Angular With AWS Combination"
                             />
@@ -1684,11 +1636,11 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/angular-js-dev/blog-3.jpg?v-1" type="image/jpeg" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/angular-js-dev/blog-3.jpg?v-1" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp"
+                                data-src="<?php echo asset();?>images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp"
+                                src="<?php echo asset();?>images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp"
                                 alt="React vs Angular: Choose the Right to Uplift Your User Experience"
                                 title="React vs Angular: Choose the Right to Uplift Your User Experience"
                             />
@@ -1737,11 +1689,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="slider-img"
@@ -1763,11 +1715,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="slider-img"
@@ -1789,11 +1741,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="slider-img"

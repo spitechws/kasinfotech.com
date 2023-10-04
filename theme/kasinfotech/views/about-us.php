@@ -26,14 +26,11 @@
                 <p class="h3">Knowledge <a href="https://www.insightssuccess.in/agile-a-process-delivering-values-successful-products/" class="text-primary font-semibold" target="_blank">@Insights</a> Success Magazine</p>
             </div>
             <div class="col-12">
-                <div class="bg-fix banner-holder" style="background-image: url('<?php echo base_url(); ?>main-boot-5/images/about-us/xbanner.jpg.pagespeed.ic.0ru3p9EJ1k.webp');">
+                <div class="bg-fix banner-holder" style="background-image: url('<?php echo asset(); ?>images/about-us/xbanner.jpg.pagespeed.ic.0ru3p9EJ1k.webp');">
                     <figure class="banner-holder-img">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/banner.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/banner.jpg" type="image/jpeg" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xbanner.jpg.pagespeed.ic.0ru3p9EJ1k.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xbanner.jpg.pagespeed.ic.0ru3p9EJ1k.webp"
+                                src="<?php echo asset(); ?>images/about-us/banner.webp"
                                 alt="Agile, A Process Delivering Values &amp; Successful Products"
                                 title="Agile, A Process Delivering Values &amp; Successful Products"
                                 class=""
@@ -174,7 +171,7 @@
             </div>
         </div>
         <div class="row remote-agile-box-row">
-            <div class="col-lg-4 col-md-6" data-hover=".remote-agile-bg" data-src="main-boot-5/images/home/cult-1.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
+            <div class="col-lg-4 col-md-6" data-hover=".remote-agile-bg" data-src="images/home/cult-1.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
                 <div class="remote-agile-box pr-lg-4 border-0">
                     <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                         Experiences
@@ -185,7 +182,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6" data-hover=".remote-agile-bg" data-src="main-boot-5/images/home/cult-3.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
+            <div class="col-lg-4 col-md-6" data-hover=".remote-agile-bg" data-src="images/home/cult-3.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
                 <div class="remote-agile-box pr-lg-4">
                     <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                         importance
@@ -197,7 +194,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="remote-agile-box pr-lg-4 mb-0" data-hover=".remote-agile-bg" data-src="main-boot-5/images/home/cult-2.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
+                <div class="remote-agile-box pr-lg-4 mb-0" data-hover=".remote-agile-bg" data-src="images/home/cult-2.jpg?v-1" data-last=".remote-agile-bg-last" data-interact="">
                     <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                         entertainment
                     </p>
@@ -227,11 +224,8 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-1.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-1.png.pagespeed.ic.i_Vns6np_-.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-1.png.pagespeed.ic.i_Vns6np_-.webp"
+                                src="<?php echo asset(); ?>images/about-us/asset-1.webp"
                                 alt="Innovative Models"
                                 title="Innovative Models"
                                 class="svg-icon"
@@ -245,11 +239,8 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box boxed-2">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-2.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-2.png.pagespeed.ic.d0xsIY4jm3.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-2.png.pagespeed.ic.d0xsIY4jm3.webp"
+                                src="<?php echo asset(); ?>images/about-us/asset-2.webp"
                                 alt="Proven Development Records"
                                 title="Proven Development Records"
                                 class="svg-icon"
@@ -266,11 +257,8 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-3.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-3.png.pagespeed.ic.0QePkQ4sJQ.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-3.png.pagespeed.ic.0QePkQ4sJQ.webp"
+                                src="<?php echo asset(); ?>images/about-us/asset-3.webp"
                                 alt="Certified Developers"
                                 title="Certified Developers"
                                 class="svg-icon"
@@ -284,11 +272,8 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/asset-4.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-4.png.pagespeed.ic.H-oi-F1y_v.webp"
-                                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xasset-4.png.pagespeed.ic.H-oi-F1y_v.webp"
+                                src="<?php echo asset(); ?>images/about-us/asset-4.webp"
                                 alt="Cost Effective Services"
                                 title="Cost Effective Services"
                                 class="svg-icon"
@@ -307,11 +292,8 @@
 <section class="banner-post abt-cp">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/abt-img.webp" type="image/webp" />
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/abt-img.jpg?V-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xabt-img.jpg,qV-1.pagespeed.ic.hGRg7BK4wR.webp"
-                src="<?php echo base_url(); ?>main-boot-5/images/about-us/xabt-img.jpg,qV-1.pagespeed.ic.hGRg7BK4wR.webp"
+                src="<?php echo asset(); ?>images/about-us/abt-img.webp"
                 alt="Chandresh Patel"
                 title="Chandresh Patel"
                 class=""
@@ -322,22 +304,16 @@
         <div class="row align-items-center">
             <div class="col-md-5 d-lg-flex align-items-lg-end text-center mt-5 mt-lg-0">
                 <picture>
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/cp-image.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/cp-image.png?V-4" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xcp-image.png,qV-4.pagespeed.ic.V2XxD8THTK.webp"
-                        src="<?php echo base_url(); ?>main-boot-5/images/about-us/xcp-image.png,qV-4.pagespeed.ic.V2XxD8THTK.webp"
+                        src="<?php echo asset(); ?>images/about-us/cp-image.webp"
                         alt="Chandresh Patel"
                         title="Chandresh Patel"
                         class="cp-img d-none d-lg-block"
                     />
                 </picture>
                 <picture>
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/resp-img.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/resp-img.png?V-4" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xresp-img.png,qV-4.pagespeed.ic.AjmhnRsIUT.webp"
-                        src="<?php echo base_url(); ?>main-boot-5/images/about-us/xresp-img.png,qV-4.pagespeed.ic.AjmhnRsIUT.webp"
+                        src="<?php echo asset(); ?>images/about-us/resp-img.webp"
                         alt="Chandresh Patel"
                         title="Chandresh Patel"
                         class="cp-img d-lg-none"
@@ -379,22 +355,16 @@
                             target="_blank"
                         >
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/google.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/google.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoogle.png.pagespeed.ic.csvnAwcYy3.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoogle.png.pagespeed.ic.csvnAwcYy3.webp"
+                                    src="<?php echo asset(); ?>images/about-us/google.webp"
                                     alt="google-review"
                                     title="google-review"
                                     class=""
                                 />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/google-review.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/google-review.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoogle-review.jpg.pagespeed.ic.j4MCId-MUQ.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoogle-review.jpg.pagespeed.ic.j4MCId-MUQ.webp"
+                                    src="<?php echo asset(); ?>images/about-us/google-review.webp"
                                     alt="google-review"
                                     title="google-review"
                                     class=""
@@ -405,22 +375,16 @@
                     <li>
                         <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Technology-Reviews-E755927.htm" target="_blank">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/glassdor.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/glassdor.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xglassdor.png.pagespeed.ic.TNDwxcCsqJ.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xglassdor.png.pagespeed.ic.TNDwxcCsqJ.webp"
+                                    src="<?php echo asset(); ?>images/about-us/glassdor.webp"
                                     alt="glassdoor-review"
                                     title="glassdoor-review"
                                     class=""
                                 />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/glassdoor-review.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/glassdoor-review.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xglassdoor-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xglassdoor-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
+                                    src="<?php echo asset(); ?>images/about-us/glassdoor-review.webp"
                                     alt="glassdoor-review"
                                     title="glassdoor-review"
                                     class=""
@@ -431,22 +395,16 @@
                     <li>
                         <a href="https://clutch.co/profile/bacancy" target="_blank">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/clutch.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/clutch.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xclutch.png.pagespeed.ic.yEO8OIJkHU.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xclutch.png.pagespeed.ic.yEO8OIJkHU.webp"
+                                    src="<?php echo asset(); ?>images/about-us/clutch.webp"
                                     alt="clutch-review"
                                     title="clutch-review"
                                     class=""
                                 />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/clutch-review.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/clutch-review.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xclutch-review.jpg.pagespeed.ic.v4z2TWC23Z.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xclutch-review.jpg.pagespeed.ic.v4z2TWC23Z.webp"
+                                    src="<?php echo asset(); ?>images/about-us/clutch-review.webp"
                                     alt="clutch-review"
                                     title="clutch-review"
                                     class=""
@@ -457,22 +415,19 @@
                     <li>
                         <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/firms.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/firms.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xfirms.png.pagespeed.ic.JhLvgyD75a.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xfirms.png.pagespeed.ic.JhLvgyD75a.webp"
+                                    src="<?php echo asset(); ?>images/about-us/firms.webp"
                                     alt="goodfirms-review"
                                     title="goodfirms-review"
                                     class=""
                                 />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/goodfirms-review.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/goodfirms-review.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/about-us/goodfirms-review.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/about-us/goodfirms-review.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
+                                    data-src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
+                                    src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
                                     alt="goodfirms-review"
                                     title="goodfirms-review"
                                     class=""
@@ -487,11 +442,8 @@
 </section>
 <section class="abt-team section-padding pt-0">
     <picture>
-        <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/team-img-1.webp" type="image/webp" />
-        <source srcset="<?php echo base_url(); ?>main-boot-5/images/about-us/team-img-1.jpg" type="image/jpeg" />
         <img
-            data-src="<?php echo base_url(); ?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp"
-            src="<?php echo base_url(); ?>main-boot-5/images/about-us/xteam-img-1.jpg.pagespeed.ic.-S9Rm24pDV.webp"
+            src="<?php echo asset(); ?>images/about-us/team-img-1.webp"
             alt="Bacancy team"
             title="Bacancy team"
             class="w-100"
@@ -2589,7 +2541,7 @@
         </div>
     </div>
 </section>
-<section>
+<section> 
     <div class="container">
         <div class="row justify-content-md-center align-items-md-center">
             <div class="col-12 mb-lg">
@@ -2606,11 +2558,8 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner.jpg.pagespeed.ic.PGqhPYQ0uA.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/bill-meisner.webp"
                                     alt="Bill Meisner"
                                     title="Bill Meisner"
                                     class="w-100 testimonials__card-img"
@@ -2619,11 +2568,8 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/vCdHqrlAyjc">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/play-icon.webp"
                                     alt="Bryan Ashbaugh"
                                     title="Bryan Ashbaugh"
                                     class="play"
@@ -2636,11 +2582,8 @@
                         <div class="d-flex align-items-center">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/bill-meisner-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xbill-meisner-thumb.png.pagespeed.ic.ZIGse6C-R5.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/bill-meisner-thumb.webp"
                                         alt="Bill Meisner"
                                         title="Bill Meisner"
                                         class="profile-img rounded-circle"
@@ -2660,11 +2603,8 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-video.jpg.pagespeed.ic.QGhs5AtRY0.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/ryan-video.webp"
                                     alt="Ryan"
                                     title="Ryan"
                                     class="w-100 testimonials__card-img"
@@ -2673,11 +2613,8 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/3JLrI4-tBmM">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/play-icon.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="play"
@@ -2690,11 +2627,8 @@
                         <div class="d-flex align-items-center">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/ryan-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xryan-thumb.png.pagespeed.ic.tKGctHWj_L.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/ryan-thumb.webp"
                                         alt="Ryan"
                                         title="Ryan"
                                         class="profile-img rounded-circle"
@@ -2714,11 +2648,8 @@
                     <div class="banner-post d-flex justify-content-center">
                         <figure class="banner-post-img img-overlay">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-video.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-video.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-video.jpg.pagespeed.ic.oW6GOarX7Z.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/kyle-video.webp"
                                     alt="Kyle LeSueur"
                                     title="Kyle LeSueur"
                                     class="w-100 testimonials__card-img"
@@ -2727,11 +2658,8 @@
                         </figure>
                         <a href="#!" class="d-flex align-items-center" data-toggle="modal" data-target="#testimonial1" data-video="https://www.youtube.com/embed/nFW-nLZ-Wns">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/play-icon.png" type="image/png" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xplay-icon.png.pagespeed.ic.I9G1E4REbp.webp"
+                                    src="<?php echo asset(); ?>images/testimonials/play-icon.webp"
                                     alt="testimonials"
                                     title="testimonials"
                                     class="play"
@@ -2744,11 +2672,8 @@
                         <div class="d-flex align-items-center">
                             <div class="profile">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-thumb.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/testimonials/kyle-thumb.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/testimonials/xkyle-thumb.png.pagespeed.ic.oz0JqdXEA0.webp"
+                                        src="<?php echo asset(); ?>images/testimonials/kyle-thumb.webp"
                                         alt="Kyle LeSueur"
                                         title="Kyle LeSueur"
                                         class="profile-img rounded-circle"
@@ -2806,11 +2731,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
                                                             alt="Top 1% IT Talent"
                                                             title="Top 1% IT Talent"
                                                             class="slider-img"
@@ -2832,11 +2754,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-2.webp"
                                                             alt="Time Zone Aligned"
                                                             title="Time Zone Aligned"
                                                             class="slider-img"
@@ -2858,11 +2777,8 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                         <img
-                                                            data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                            src="<?php echo asset(); ?>images/insight-slide-3.webp"
                                                             alt="Experienced Team"
                                                             title="Experienced Team"
                                                             class="slider-img"

@@ -50,8 +50,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
                                         src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
@@ -70,8 +70,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
                                         src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
@@ -90,8 +90,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
                                         src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
@@ -110,11 +110,11 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/banner-side.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/banner-side.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xbanner-side.png.pagespeed.ic.U_zF3x1iPg.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xbanner-side.png.pagespeed.ic.U_zF3x1iPg.webp"
+                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xbanner-side.png.pagespeed.ic.U_zF3x1iPg.webp"
+                        src="<?php echo asset();?>images/hire-dot-net-developer/xbanner-side.png.pagespeed.ic.U_zF3x1iPg.webp"
                         alt="Hire .NET Developer"
                         title="Hire .NET Developer"
                         data-pagespeed-url-hash="2783153128"
@@ -134,86 +134,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRt4GAABXRUJQVlA4TNIGAAAvhcAREAckFkxmnD9E/7zN2wQkdLxD/rZta5I91Bwdiok02AF2oFgwBBNsUfyAD4MOwWLP/w7KOzd/j+j/BACPxYOewHW21CgX6/V8PLRolsDfq1q4zF5vjvTJoa18YHr77vV2TfenSCau0/4BkdK1chR/KlYa5fxDzD+mkph3Swkv9VdQa9lwv9gWekY2f32wtRmLBmOpOiLmQ1axOVrbUfwF4oWsnzYEamxywyoDAJAHlwAA1O7dNItlv0YTqG7IBM+UCdADl+zTigq+tSxEWlqV8w/4dWTQnuadwibZ/devu8AbG/x03v7wHQAYw5/NiMqSP6QETJvySzc+kmb4eain/iMAdbj5tkTtZ42CZX62GVJ1jwg6jOlQ9TOAvhT+M0xXXQI19qgffY+roONbHdo6AfF68328vzwnSNNJxXrTJ4KOlZc6XOoIwFxl9wz5BQEaS9K7H2NA0LpvxTAB0D0/xfT5OcEx/1eG32xAcnHdhgkSoMxcxIxlt8DoXrSb7yYgGp4awRoRoB8PYoM1o6BIU7aZphvIJszTiHIioClsh6eylJAE1vs+l4Dwq24B0UIGhirby+FDATEnu3JnQFjJStYQ5wjBXCZizzsFQ5zpYYo0KVsVthAZUnAVOncXZUKxvGtinUB6KQ1+xDtiqrqXOd0QCCorT50B8cg5BBBLxGD+2TdRUwjDxsr4l57cA0MxiNhFTPS4HGN2BUGa63oOA/n6qqbFRAycVc9KjRKC6aCjqSWnwsneFg85SC5GT+aEIK6/PgPyNjSZmXfEIAfjudnggwBoksqmlYNl1LiZBmKcA1HZeZ7T829ldbEk4uCwKZ5uqXAAu0d71+v8u9bfBYHDZBkWtxqISHPQ/zqcvuOd+En6aeeikYQNf4uZAygPZ+oSvplObZ8yDjQYg6C/jojzXBytR74sfJufW0kDhw4MwJG/iIghLuYuZnGRb4zl+JCLZVyGizb3XAwUejHEtxtleoWLAxyH+zY1LrpY6Uecb2koT3LhLgxBpk2UC3jVZvP8+7KQE2/5aCk8+ov4ZLPcDHCQ7b9/41umC/uJyeP44QbwLaeWxF0p/Jggl7JeIt8SNLmeHD4bQbzmkEgtlyOSPcQtEanESFS4XA2MyIC+qcxIJDNVPKYdNbygCCXd/PtPo5XMKvs2AdD9uOvOWCM76mCz4lTF8UlHJmu95N0/aI6RkJ5gWg9gP3FcIVqPsDbfd4eH9Hrz1UqkNhhv8O0/VJcIqNMYkAA4JvabiGhlEPHZNVEq2YaLX/MEZGjM5PkWp5+YzkyVVxcASNca2NoGMT60/RnWnGNY3FEfK63e8i00ELvtaOYzoQYQTRWx/TfIHg5fFW3zn/eKTqaLFDJ8W/RuPnUgDrJ+MYA5jd8W9aPlNojvm2O5sOml0NsBEzfhAt8sh6Mp3Y/k8bIFwHCB7d+PbSIAkSP62YJYmfM9Ow/fR36W2ZxHM98kGeWV9yfG3JUC5MwXtk3MUvAtPZ9qQXycjDEzDZ/oBwrWfPou5hvcGfbDP3DXlkSS5Tq2Fvx66NC4V8XW69nLyXRM9t3Mu7RyC7xfX2X2qXYi30s/jOYQEd+PLCIgKHaffyFiM+LbZv5rvrk+GcRV/umT1oC3jSx2RA0kEJG9m6GAuGIxg4hv25srT6Y28i/7DqvlHzz0BU9atIlJ9TGLmN/QAsd9wRpicXPxdqZluSQuJ0AA5yI7fhOA5arX/4FvB2YR/ELJ6MUXpqd8u2IQvSy7cVYIqPLQ2il4d7wVNj4lg1+rWMrg+XSEdlVliTolBLDr298+2M5kfRr45b2B0nE4vWrBLRBERXHkKHVtAT6K3edV678GLQywsRdeDAM/RfGlafSBQMpyk/4DMz/mbhTVglQowPkQGLqX86GnqDpDOwjn4XZs+FL8++gXuwcjIKDUs3/LE/p14tvV/s8XmZCAMX/o3vL/MnGUUZXee0BY3c/3feGdXyWJHtIZ1glCO5dLdwcOJb+Hjgepe/SA8C5Uct0r9+rf0v+yTP/DBRDiOfbV5Hxx/wrRYsGie2E9IMyu90+PJh5Vctd9F5U76u9OEGpjFk/kMzmfjBt6J+uW7rHZHhBu6hArE5Q/55OTU2/lV6XWLB5QIOiOAj6YupbTUaeEhGzkPL9KGS+w4AChl240MGEXDTKps4UByU8o0+plNeYWWS/Yhk8Kf6Bip465dQ1oZiOpTDwaYpjIWaL0erdjl3b7sljfkcMfSXkSiI/bDjmAetA5Ojrq6JODYTKcQzbhoeAv1a3dfiAW7453/Cur2/sXTx+IH7drOvh7JeaFUDzfQERs5OOhBbMEeAw="
-                                src="data:image/webp;base64,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"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRn4FAABXRUJQVlA4THEFAAAvhcAREOdDkG1T4/sj7ATzNm8CghLJOqANGhxT7XS5AORv27Y8yf1tDEaX3d06MEilVGK03Up3Mxbf9d8/77aPw3e/R/R/AvQf194d+ZujaPbX0O2kKm7zk/RaSNnhavppawXpmN/hFPc+dgWVoYnSN6c7+r4clAJcrAwdxQqL7x/Uy9memlwPi72uDJ/MyY83NxIqM3ln6FfW/KkIsWPgTkwRx+4AhWQFaOkF9nSK+8BQu9dil7o+7mFnSzg7JakhfTNWbA578Ln3StxTZ08o/qxI80zhWFILHE1fDxwph81d81MvJTa6OvNQBNjsrZfUXAJDfvpZZC39UO5RSoP8VJt0a+h31rXgpeo8hAvv7tWqxPKgMNUkKX6l72sOwqSHEl3AVxW/3xYRZPvisp+Ariq/1N1/t1AAeFUkPsqFyGDlnHkFkPs9cL3KG+sUb3e1LcG18v58K7jIvZB0ztjcb19QfFvO+gxwvbxR1Q8cOWA8UHBYBHxz0O9qAbgVhVQ9kHUwLfWthx5an0y1q6jjfjRS0ycHfZJq7wz9Cv1yrKKBpDrzICrp/r7Jn5cz65FcKddnJCVMKjo1bwJ8cQEnvjiAnCPoD5ckKQS6T0Eth0Ch1tQAh77YBBKS4t9hyxwDA6ehPoB7phXY9MUC0CopBhyZXWD0VO6ZV+YK8M8Xn4CrkpSFMJC0BsycyoDpNPeBz74YAx6bfaBJ0h/g62kkD8wt0wNM+KIbeGM2gGuSPgMLp5D4DZBPmgmgxxd3gVnzE3gqaRLYju7sCnZG9hdw3xdtwIqZBV5LGgHyUdW+y2OPGhyHwDlfBCdQiEsaAaYldQPURVI/fIwzf0u2CcjFfKEF4LKkTmBZ0kNzLoILEzncuXtyPgSW5c1RoEfSNSAXky6b22UtLFLiQ7lHgUl/PAa+SEoCXJIaTFdZpa8mXMtAyh9NQCYuaRfokoI8MHEqvHXUh0CbP7QBXJf0EfgsaQP4FUX49cXdgaw5SZgUsCePjgHvJXUBmZj0GdiNYL5Fkm4bbpjPwLRPbgE7gXQB4KY0CFBTzu4NuTfMS0nVOeCBT+IZ4JoU7AFp6ZG5Us6Ain4w3ZKeAPkan2gOmJY0DhxW6ZzpimzWpCT9BL7Kq7eBk2rpJsALXTezkS2ZK1JrCDz2S3wfeCnF9oD98wdmS+PRNIbAUVwaAU6q/aK3wEYgDQLkcTZNRPMaYFpKHAGT8mxbCNyTGvOU2PMvksS+uSm9BLjkG30DFiSlS3GW1w2wKsV3gEV59xbAbak5d0o1h+aZ1AHwyD9aAZYCadixHcGw4z3AekxV28B2zEOPAB5JiW3gV1NY3qg5XzB3pV6AF/JwsApsJ6QbsFyjpWiqVgG+SrVHwFbcR7oP8EbS8HajNBTNOECmSUoDpOTnv0CuTYq1SLoaSQc2JV0MgZXAU5cBfgZyBtsR3MibeSm2DHBdvp4BeO7SUHlXMgAbNVI/wCd5u/4YOGl1tZf1JwOQOSOdywGZRn+pE+BvzKGFcpzhXSm+AvBSHg++AQy6OiPpkvQO4HfgMzUdAeFNR3UmglFJdwAyzfL7I4CDJqP35X2JSS2H5pl8Pw6wWGUas+UsJKSqJYAZeb9qCWDeaKiMxaQUzAKsJfynlkOAAZPYKmkxKektwHG7KuG1PEC3JF0rlLCYlNQLEN5WZXxmSElSV7GFpKQUtkuVctCETyVpxPUjIelpaIZVOccAwpQk9ZjZuKTOECAdVJBgBtsrdyyQ1I+dC1RJYzOGdNwhKT6JnYupsgajhr9NrqZ/2HSgijtgOHxinh5hBwNV4FQe++3s2W/YfIcq89U9Q6GA3b+qSl3/3bh/NKpyB69OXNnuQP83AA=="
-                                src="data:image/webp;base64,UklGRn4FAABXRUJQVlA4THEFAAAvhcAREOdDkG1T4/sj7ATzNm8CghLJOqANGhxT7XS5AORv27Y8yf1tDEaX3d06MEilVGK03Up3Mxbf9d8/77aPw3e/R/R/AvQf194d+ZujaPbX0O2kKm7zk/RaSNnhavppawXpmN/hFPc+dgWVoYnSN6c7+r4clAJcrAwdxQqL7x/Uy9memlwPi72uDJ/MyY83NxIqM3ln6FfW/KkIsWPgTkwRx+4AhWQFaOkF9nSK+8BQu9dil7o+7mFnSzg7JakhfTNWbA578Ln3StxTZ08o/qxI80zhWFILHE1fDxwph81d81MvJTa6OvNQBNjsrZfUXAJDfvpZZC39UO5RSoP8VJt0a+h31rXgpeo8hAvv7tWqxPKgMNUkKX6l72sOwqSHEl3AVxW/3xYRZPvisp+Ariq/1N1/t1AAeFUkPsqFyGDlnHkFkPs9cL3KG+sUb3e1LcG18v58K7jIvZB0ztjcb19QfFvO+gxwvbxR1Q8cOWA8UHBYBHxz0O9qAbgVhVQ9kHUwLfWthx5an0y1q6jjfjRS0ycHfZJq7wz9Cv1yrKKBpDrzICrp/r7Jn5cz65FcKddnJCVMKjo1bwJ8cQEnvjiAnCPoD5ckKQS6T0Eth0Ch1tQAh77YBBKS4t9hyxwDA6ehPoB7phXY9MUC0CopBhyZXWD0VO6ZV+YK8M8Xn4CrkpSFMJC0BsycyoDpNPeBz74YAx6bfaBJ0h/g62kkD8wt0wNM+KIbeGM2gGuSPgMLp5D4DZBPmgmgxxd3gVnzE3gqaRLYju7sCnZG9hdw3xdtwIqZBV5LGgHyUdW+y2OPGhyHwDlfBCdQiEsaAaYldQPURVI/fIwzf0u2CcjFfKEF4LKkTmBZ0kNzLoILEzncuXtyPgSW5c1RoEfSNSAXky6b22UtLFLiQ7lHgUl/PAa+SEoCXJIaTFdZpa8mXMtAyh9NQCYuaRfokoI8MHEqvHXUh0CbP7QBXJf0EfgsaQP4FUX49cXdgaw5SZgUsCePjgHvJXUBmZj0GdiNYL5Fkm4bbpjPwLRPbgE7gXQB4KY0CFBTzu4NuTfMS0nVOeCBT+IZ4JoU7AFp6ZG5Us6Ain4w3ZKeAPkan2gOmJY0DhxW6ZzpimzWpCT9BL7Kq7eBk2rpJsALXTezkS2ZK1JrCDz2S3wfeCnF9oD98wdmS+PRNIbAUVwaAU6q/aK3wEYgDQLkcTZNRPMaYFpKHAGT8mxbCNyTGvOU2PMvksS+uSm9BLjkG30DFiSlS3GW1w2wKsV3gEV59xbAbak5d0o1h+aZ1AHwyD9aAZYCadixHcGw4z3AekxV28B2zEOPAB5JiW3gV1NY3qg5XzB3pV6AF/JwsApsJ6QbsFyjpWiqVgG+SrVHwFbcR7oP8EbS8HajNBTNOECmSUoDpOTnv0CuTYq1SLoaSQc2JV0MgZXAU5cBfgZyBtsR3MibeSm2DHBdvp4BeO7SUHlXMgAbNVI/wCd5u/4YOGl1tZf1JwOQOSOdywGZRn+pE+BvzKGFcpzhXSm+AvBSHg++AQy6OiPpkvQO4HfgMzUdAeFNR3UmglFJdwAyzfL7I4CDJqP35X2JSS2H5pl8Pw6wWGUas+UsJKSqJYAZeb9qCWDeaKiMxaQUzAKsJfynlkOAAZPYKmkxKektwHG7KuG1PEC3JF0rlLCYlNQLEN5WZXxmSElSV7GFpKQUtkuVctCETyVpxPUjIelpaIZVOccAwpQk9ZjZuKTOECAdVJBgBtsrdyyQ1I+dC1RJYzOGdNwhKT6JnYupsgajhr9NrqZ/2HSgijtgOHxinh5hBwNV4FQe++3s2W/YfIcq89U9Q6GA3b+qSl3/3bh/NKpyB69OXNnuQP83AA=="
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,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"
-                                src="data:image/webp;base64,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"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,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"
-                                src="data:image/webp;base64,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"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRpgFAABXRUJQVlA4TIsFAAAvhcAREAckFkxmnD9E/7zN2wQkdLyD2q1ti9rqHoGgcXcPlbjR1OLehjgn3hC3EsMH7v8+L8yQ4fiXiP5PAP7/au9ZPH5OMhO72Zyo/NNq3kgx57vxoj+j2kMaj/mVPxtlOk1Tb2oK0Hg+3CGanerPgzxukZftesms8jDz+MUsufng2iIH5MuUOc752QPTQmsXflOk5SgZsIj7kmSrKZCc+KCZkuyGU6pymPGB5InDIlA79vjFDNu3V544ejQTkm3ecz75FTPmudkmw7Jl4ZcSI1Lv5mmMJM8dvowhrdt9T5KRX+s+QxWRGw8s2xELlcCgJ8TsZ7ZRQ/2uG2Y/LDKAiuuXBquUJPcU5OryT44HmesfUsDAsnzCXAP+yVF7LrCfRpwWCYTtyLX8kYZn1OuczpUFGr4tzgWe6KI1vOkBZJUdpSOvNLGtIZNDuqaDJoYHvA45Cz6nHJboZrWoalejyWH7Yg4zatgMfWqrVNTGJkvU06eT/CmaP+OIZYna/TQ/MSAYZoklpPOrJpfceMx8JpyTWSalcB7IYI3sbgvvw5olV8z/iCsjyLiamP9fbotAahnzf7/NzzZCgjN8z8/5N/9oowRLB/KxzmssCZawq23mYwHWnxWkEwY03Uv5XkoaEQzjLlCd1GkGoqJPBaBXcB0yEAyRfIzNsqJFUGdPz728kvy9amD3VdBWALyCtaAoLVpZY5Tk/tWnIo1kVP54cEEyyr0pQSYj+rEv8FjNXl4/IGj+EBU8b5Fc+FAfmK0lmYmd4IDkBrZjJNk5GWju/U5yNSl4aX8n6K8vUy11Q/H3hgaoJS1Dy+ueJ3J1eQTopT6CGZJ+3FDvB3w7k+StZ2txoNmrorVmVUfyxEptFE+3JhuRtSbOVPsVaiKCS7WXZCdOBYlGHPgifC1FVl+8cVnEaouU3k967wTRldVUSNE5alWgmxwOK8NpwWmFn+RQyY6AX/D7PbUmwF7r0tlvk0uBuODMOXXhtsDE+XicWQ++OaBv55UNOOaXA4cvJeDYEcmT7pQgM4jQILcAZ5h9OhR//8Wskb7z/jdX11XUEiEZ73PYKjuRVYlyW7IfczcszfFl/WvA97x89Mq74NdYT+Dr2iM3cLXDXZtyTM0hAKSeMtU1qpF8aLK/r3hjx99nydj1QwcMul95nWD6shFVXQoAuD5XjvGd95sXAKT2OlSdakzcM1kCg70P1wnS/3PnjWltjwzZYeIX8tVfBDQqcHzaXF2qBt6zC2jdCh5+K0FRF2AbeSQXYaLzlpcfUm9sUm70uWBqRaMKV99a+jmUIsnM+XqCqaNn6jMPCR5MVEOur5LMgLenUVp4Y3kOMs99+JN0XOdnW/qzgPsyH7sK/jwde+atyPgzlT6lzIl9wJ9t2Y4J6VU3/oSrVuO5ReZK8SettM/uh+Nk/CE41Szjv/3NB8HdwNKwxxQfY7O6Af2HCiMBstRBBguFj8LUhDlc1FG85/gTIHvyx50CF0DxNrmXl3hp+TcyYyt0KCHv8xIDkCRdBa+WvAFQOeR/7xDUjfV5DLSQNyhwdQN35E8oGyQZewfYdklqJ7k0x0h2AGQYcJBXBSlAMlKKRfJiM8VUGdZJpslcWknyyFvwoj9K4NR4LeMjOePOkGNK7XUu5YsrD+RpwYuXAp1kIhx+Io/ayBsArbkAUH+TxYVtmDyR0Eu+XOl/dpIhAHUGcEDWFjYpRE6gkTwA5E4JZaRWDXkzN+m9Rnrj1DxoJM8LEqo1pqqlBzI4csjbBlyQWuiFOWTC4QjJM5yS9yvP5GphwjR5pTYmqD8rQk2UJB9zEN+Xoy1DfbKi4NQsLvYC6mYw2IXS+dDt0ZgKoHj2aG+4Ihgc0gWFP/tUAE37USb364DexUWnbXFxqFD89x8A"
-                                src="data:image/webp;base64,UklGRpgFAABXRUJQVlA4TIsFAAAvhcAREAckFkxmnD9E/7zN2wQkdLyD2q1ti9rqHoGgcXcPlbjR1OLehjgn3hC3EsMH7v8+L8yQ4fiXiP5PAP7/au9ZPH5OMhO72Zyo/NNq3kgx57vxoj+j2kMaj/mVPxtlOk1Tb2oK0Hg+3CGanerPgzxukZftesms8jDz+MUsufng2iIH5MuUOc752QPTQmsXflOk5SgZsIj7kmSrKZCc+KCZkuyGU6pymPGB5InDIlA79vjFDNu3V544ejQTkm3ecz75FTPmudkmw7Jl4ZcSI1Lv5mmMJM8dvowhrdt9T5KRX+s+QxWRGw8s2xELlcCgJ8TsZ7ZRQ/2uG2Y/LDKAiuuXBquUJPcU5OryT44HmesfUsDAsnzCXAP+yVF7LrCfRpwWCYTtyLX8kYZn1OuczpUFGr4tzgWe6KI1vOkBZJUdpSOvNLGtIZNDuqaDJoYHvA45Cz6nHJboZrWoalejyWH7Yg4zatgMfWqrVNTGJkvU06eT/CmaP+OIZYna/TQ/MSAYZoklpPOrJpfceMx8JpyTWSalcB7IYI3sbgvvw5olV8z/iCsjyLiamP9fbotAahnzf7/NzzZCgjN8z8/5N/9oowRLB/KxzmssCZawq23mYwHWnxWkEwY03Uv5XkoaEQzjLlCd1GkGoqJPBaBXcB0yEAyRfIzNsqJFUGdPz728kvy9amD3VdBWALyCtaAoLVpZY5Tk/tWnIo1kVP54cEEyyr0pQSYj+rEv8FjNXl4/IGj+EBU8b5Fc+FAfmK0lmYmd4IDkBrZjJNk5GWju/U5yNSl4aX8n6K8vUy11Q/H3hgaoJS1Dy+ueJ3J1eQTopT6CGZJ+3FDvB3w7k+StZ2txoNmrorVmVUfyxEptFE+3JhuRtSbOVPsVaiKCS7WXZCdOBYlGHPgifC1FVl+8cVnEaouU3k967wTRldVUSNE5alWgmxwOK8NpwWmFn+RQyY6AX/D7PbUmwF7r0tlvk0uBuODMOXXhtsDE+XicWQ++OaBv55UNOOaXA4cvJeDYEcmT7pQgM4jQILcAZ5h9OhR//8Wskb7z/jdX11XUEiEZ73PYKjuRVYlyW7IfczcszfFl/WvA97x89Mq74NdYT+Dr2iM3cLXDXZtyTM0hAKSeMtU1qpF8aLK/r3hjx99nydj1QwcMul95nWD6shFVXQoAuD5XjvGd95sXAKT2OlSdakzcM1kCg70P1wnS/3PnjWltjwzZYeIX8tVfBDQqcHzaXF2qBt6zC2jdCh5+K0FRF2AbeSQXYaLzlpcfUm9sUm70uWBqRaMKV99a+jmUIsnM+XqCqaNn6jMPCR5MVEOur5LMgLenUVp4Y3kOMs99+JN0XOdnW/qzgPsyH7sK/jwde+atyPgzlT6lzIl9wJ9t2Y4J6VU3/oSrVuO5ReZK8SettM/uh+Nk/CE41Szjv/3NB8HdwNKwxxQfY7O6Af2HCiMBstRBBguFj8LUhDlc1FG85/gTIHvyx50CF0DxNrmXl3hp+TcyYyt0KCHv8xIDkCRdBa+WvAFQOeR/7xDUjfV5DLSQNyhwdQN35E8oGyQZewfYdklqJ7k0x0h2AGQYcJBXBSlAMlKKRfJiM8VUGdZJpslcWknyyFvwoj9K4NR4LeMjOePOkGNK7XUu5YsrD+RpwYuXAp1kIhx+Io/ayBsArbkAUH+TxYVtmDyR0Eu+XOl/dpIhAHUGcEDWFjYpRE6gkTwA5E4JZaRWDXkzN+m9Rnrj1DxoJM8LEqo1pqqlBzI4csjbBlyQWuiFOWTC4QjJM5yS9yvP5GphwjR5pTYmqD8rQk2UJB9zEN+Xoy1DfbKi4NQsLvYC6mYw2IXS+dDt0ZgKoHj2aG+4Ihgc0gWFP/tUAE37USb364DexUWnbXFxqFD89x8A"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRswCAABXRUJQVlA4TMACAAAvhcAREH+jqG0byIzL/7+TwbzNG4GkLbx7Yhl0hOCEAAfAAQEAIISgIgAEgAAQAACCL4IBkASAMSSlu9e2bdu2bdvdPfn/eaaTVKXntoeI/k8A/Gud0Ty6cfHhI2Lwcbs711WUjjK79v+QfT9ZFNGDsi+c6uCb+fGSbFXe9DfKhmuFRrCYMYGyFnnDPyj/N2ikj3GhrOQSzW54BjZoeQldLT9oeteT+6B1o6r2AM2vymE5aV1VU4A2DssNUpxPTfkfaGW4JLZFqUdNu6j8yyFMaWpF9VWEK01n+oaj8lFRFQq+He4cPCQs2ovq0TTFO6iF5LyRX2t+3YhNTVesWQcim6zBulTutyLX55w6QLy2ZjxVIyoqRW4rUPetOUo1o6mOE3qkR2v8jBS3mip2mCtArUN7m5IKUJPJnFuLppL646UpsvcRuX8mzpJ24gXFgxUTQRaA95seRidNYCtAC6aFRcfMLMBcOnjqBmD5tCuAB5IfVxe1Ahc+KZFTjOTDuMJwmHdyRML2QVJiOLYQp3njtPk90lVPjOENq4H26JOmY4194v6SmE1xsJO8d28DHIj9evblcD2ILju1YFhsF+xDbg8BMq7M1YgNKgg5/RRoMud+S5UoeOPMk5wfY7Aj9AwKzjjXJLgzNyS0pGGRg1WkV3OVQh0aelnHDqEQzTmfImGOhkIWzhKWLYAtkTPQANcs3C5KkT2PNgyITOgY4mHidH5yYf8PrSgTqdWR88OzNgneBb5cHTCja11gE5Rkv6vqE+jTAh3WvIsUCRSqgXlLFnpE4IV1D3rcXStWHKFV1rwi8LYtWHNBqJvVpgmcWVOJCQekCjh+piqA5mcjd/UAYvDIOAJlkDn0IXbb44CJJcaIOoCMjh1f4GmuASJLepitqQqa6Lmp8pu4VgGA1zC2dv7+jYjh9+P5xkRnAfwrDA=="
-                                src="data:image/webp;base64,UklGRswCAABXRUJQVlA4TMACAAAvhcAREH+jqG0byIzL/7+TwbzNG4GkLbx7Yhl0hOCEAAfAAQEAIISgIgAEgAAQAACCL4IBkASAMSSlu9e2bdu2bdvdPfn/eaaTVKXntoeI/k8A/Gud0Ty6cfHhI2Lwcbs711WUjjK79v+QfT9ZFNGDsi+c6uCb+fGSbFXe9DfKhmuFRrCYMYGyFnnDPyj/N2ikj3GhrOQSzW54BjZoeQldLT9oeteT+6B1o6r2AM2vymE5aV1VU4A2DssNUpxPTfkfaGW4JLZFqUdNu6j8yyFMaWpF9VWEK01n+oaj8lFRFQq+He4cPCQs2ovq0TTFO6iF5LyRX2t+3YhNTVesWQcim6zBulTutyLX55w6QLy2ZjxVIyoqRW4rUPetOUo1o6mOE3qkR2v8jBS3mip2mCtArUN7m5IKUJPJnFuLppL646UpsvcRuX8mzpJ24gXFgxUTQRaA95seRidNYCtAC6aFRcfMLMBcOnjqBmD5tCuAB5IfVxe1Ahc+KZFTjOTDuMJwmHdyRML2QVJiOLYQp3njtPk90lVPjOENq4H26JOmY4194v6SmE1xsJO8d28DHIj9evblcD2ILju1YFhsF+xDbg8BMq7M1YgNKgg5/RRoMud+S5UoeOPMk5wfY7Aj9AwKzjjXJLgzNyS0pGGRg1WkV3OVQh0aelnHDqEQzTmfImGOhkIWzhKWLYAtkTPQANcs3C5KkT2PNgyITOgY4mHidH5yYf8PrSgTqdWR88OzNgneBb5cHTCja11gE5Rkv6vqE+jTAh3WvIsUCRSqgXlLFnpE4IV1D3rcXStWHKFV1rwi8LYtWHNBqJvVpgmcWVOJCQekCjh+piqA5mcjd/UAYvDIOAJlkDn0IXbb44CJJcaIOoCMjh1f4GmuASJLepitqQqa6Lmp8pu4VgGA1zC2dv7+jYjh9+P5xkRnAfwrDA=="
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -230,7 +182,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -361,11 +313,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
                                         alt=".Net developer Dhaval"
                                         title=".Net developer Dhaval"
                                         class="w-auto mr-3"
@@ -405,8 +357,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -432,8 +384,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
                                             src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
@@ -445,8 +397,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
                                             src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
@@ -458,8 +410,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
                                             src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
@@ -481,11 +433,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/rohit.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/rohit.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/rohit.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/rohit.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
                                         alt=".Net developer Rohit"
                                         title=".Net developer Rohit"
                                         class="w-auto mr-3"
@@ -527,8 +479,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -553,8 +505,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/national.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/national.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/national.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/national.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRoIAAABXRUJQVlA4THUAAAAvHUAHEG+gJJIkN3n54GnI9OkrjSQpzs/9ByiywCHxhEAgCW3z1QIYyIf3EHwh3KWJgS62PP4HRo1ttQoOuKjBAnIQQdK3zREeCGrK72Ub0f8JoNhOcHulR75qfQwbrNa6bmEA5M+wWuu6pY8bYhnF6r50BwEA"
                                             src="data:image/webp;base64,UklGRoIAAABXRUJQVlA4THUAAAAvHUAHEG+gJJIkN3n54GnI9OkrjSQpzs/9ByiywCHxhEAgCW3z1QIYyIf3EHwh3KWJgS62PP4HRo1ttQoOuKjBAnIQQdK3zREeCGrK72Ub0f8JoNhOcHulR75qfQwbrNa6bmEA5M+wWuu6pY8bYhnF6r50BwEA"
@@ -566,8 +518,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/city-falcon.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/city-falcon.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/city-falcon.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/city-falcon.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiICAABXRUJQVlA4TBYCAAAvHUAHEIfkuJEkRaoe2GP269w8z/iey9td5YYj23bTRl+hMsOQ1tXFd8ZMRkmOa9t2knt/ALOj3JXd24LLIRnee5cg26ZoQ7/Z47n/XwYwkYEEKCKIMkGBKjKRghGJXSqJ76I/hzDntAoRpIQamEniFnVWBrkGDJbk3AXCpCo4DFUiCUVKbqWUKDTmf5BACsUcHUxUOSKkOiy2sJ4juVInYDKQ86x/GlwaTs5cAr8XJKaQiyKBDFDKLDGlMvmfemJDFZnkwijuTXkWToTA7GRUYsNAfexRggQ8ORgsYkQSHAJBEJEQkliqJaM4GISESIEiMJiLWR2asRyhcmBIoOEQWnTCBArBq+hOSkMbPno/fkSweDdh4mKCzH31UbvZWq8y03ZYWUHJkqabqJm1cda5zn5Ll/RWl5NUZtd16zyL1XwL970bHqxnMJoAtCpbj90XYN22bbw5+WLbtm2jtlMjqW3bX90//ekprxH9nwAUKEWhhab/xKJUXDeW78ljxRcbTTtJNHNmZmEu2kSIcNh8ucnRNT4xeWcDEAJRfyXX3jMwcvHw8f72C0R1guTzwdHp+dnJ3u7KDWAz9X889Wsg+F0tdPYNj9WnZpduESyJr9Q99H9YU6T2N9fXVrPpSMICOMUMVX7wKeTSlDv657e2dx4/gbD2y+t5Od4Ij9anr6xAptRdbOu9dMpEQDbXYFQi0Oqj1KA="
                                             src="data:image/webp;base64,UklGRiICAABXRUJQVlA4TBYCAAAvHUAHEIfkuJEkRaoe2GP269w8z/iey9td5YYj23bTRl+hMsOQ1tXFd8ZMRkmOa9t2knt/ALOj3JXd24LLIRnee5cg26ZoQ7/Z47n/XwYwkYEEKCKIMkGBKjKRghGJXSqJ76I/hzDntAoRpIQamEniFnVWBrkGDJbk3AXCpCo4DFUiCUVKbqWUKDTmf5BACsUcHUxUOSKkOiy2sJ4juVInYDKQ86x/GlwaTs5cAr8XJKaQiyKBDFDKLDGlMvmfemJDFZnkwijuTXkWToTA7GRUYsNAfexRggQ8ORgsYkQSHAJBEJEQkliqJaM4GISESIEiMJiLWR2asRyhcmBIoOEQWnTCBArBq+hOSkMbPno/fkSweDdh4mKCzH31UbvZWq8y03ZYWUHJkqabqJm1cda5zn5Ll/RWl5NUZtd16zyL1XwL970bHqxnMJoAtCpbj90XYN22bbw5+WLbtm2jtlMjqW3bX90//ekprxH9nwAUKEWhhab/xKJUXDeW78ljxRcbTTtJNHNmZmEu2kSIcNh8ucnRNT4xeWcDEAJRfyXX3jMwcvHw8f72C0R1guTzwdHp+dnJ3u7KDWAz9X889Wsg+F0tdPYNj9WnZpduESyJr9Q99H9YU6T2N9fXVrPpSMICOMUMVX7wKeTSlDv657e2dx4/gbD2y+t5Od4Ij9anr6xAptRdbOu9dMpEQDbXYFQi0Oqj1KA="
@@ -579,8 +531,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dayo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dayo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/dayo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/dayo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRp4CAABXRUJQVlA4TJICAAAvHUAHEOcEN7ZdB5Gkb/DepISUQMdUxBCSEbv1K72nNiA0kuRIit49y+xgP4Gn4/87IQZgm0aypGPef7hbAB7LIBFk2xTt6DN7ZHkKMilSfPnDgGZeqcdC5t97Z1iJVjkLmYUyL1KRAFHsxvg4aOfosS+j64/rR0NFHgOZQQodU6CkjeTRYOV/foSJTdiYTphSgKEKDBRUgKECCrj9Tb5rff1Rtdd76K5MZKS2bECS+++Xv138bvzUm97+1bPx8Qf7Z+NwH7x9m/il/gVz5lbBnIlwFkxEKsGcuZWzECIiUIBAAJYQIWGEFSapMOFSKkywwigFEwGIuIIECZfIsi1GvmAIkQBGqXAFCSKuIGKCFURMkGCJCSK+vzq9pi2uMHDBqN2f8mxMr5PNlY5nmbOKGmmooUoaurz1nb/fING2bWNvVmzbtm3btvWbQdvkr53azNO299zvzxtE9J+R2zaONjxsb/Yrbo6PDg/293a2NtfXVleWF+ZnZ6anJr99//Hz1+8/f80mA4sLc3pWi+lWqzZjS/9Wv04Idj8sj0XSJFZdfhgHGsVBtx8ygAZxgccPAPXiZl5jGwB14jmnxrYBapdUZ8Z2AWpWlpQ4LrRORouLSr4AVIs47ugUBCCnSsRxT/qYhm4qRZiXUizaqRBV8F2pugHicvPjlaVchPnAp64GA9k2q9lUCFAmsn6oegdEu9rTP1lMUUCpyPqRqg/ocXdCmyUPaBZZP1b1A72eDsKGrTlAi8j6ieotEOod6XLabSHA50PVUyEcSP7/vxOBCFmFZ8IAQGBmVhBAq0l4LqWgmQRNFV5I9zWSHDbppYZvMBUgZkhbpFdal3c/vD836NlrHRmm1rWBK0Nvrm+zar4B"
                                             src="data:image/webp;base64,UklGRp4CAABXRUJQVlA4TJICAAAvHUAHEOcEN7ZdB5Gkb/DepISUQMdUxBCSEbv1K72nNiA0kuRIit49y+xgP4Gn4/87IQZgm0aypGPef7hbAB7LIBFk2xTt6DN7ZHkKMilSfPnDgGZeqcdC5t97Z1iJVjkLmYUyL1KRAFHsxvg4aOfosS+j64/rR0NFHgOZQQodU6CkjeTRYOV/foSJTdiYTphSgKEKDBRUgKECCrj9Tb5rff1Rtdd76K5MZKS2bECS+++Xv138bvzUm97+1bPx8Qf7Z+NwH7x9m/il/gVz5lbBnIlwFkxEKsGcuZWzECIiUIBAAJYQIWGEFSapMOFSKkywwigFEwGIuIIECZfIsi1GvmAIkQBGqXAFCSKuIGKCFURMkGCJCSK+vzq9pi2uMHDBqN2f8mxMr5PNlY5nmbOKGmmooUoaurz1nb/fING2bWNvVmzbtm3btvWbQdvkr53azNO299zvzxtE9J+R2zaONjxsb/Yrbo6PDg/293a2NtfXVleWF+ZnZ6anJr99//Hz1+8/f80mA4sLc3pWi+lWqzZjS/9Wv04Idj8sj0XSJFZdfhgHGsVBtx8ygAZxgccPAPXiZl5jGwB14jmnxrYBapdUZ8Z2AWpWlpQ4LrRORouLSr4AVIs47ugUBCCnSsRxT/qYhm4qRZiXUizaqRBV8F2pugHicvPjlaVchPnAp64GA9k2q9lUCFAmsn6oegdEu9rTP1lMUUCpyPqRqg/ocXdCmyUPaBZZP1b1A72eDsKGrTlAi8j6ieotEOod6XLabSHA50PVUyEcSP7/vxOBCFmFZ8IAQGBmVhBAq0l4LqWgmQRNFV5I9zWSHDbppYZvMBUgZkhbpFdal3c/vD836NlrHRmm1rWBK0Nvrm+zar4B"
@@ -602,11 +554,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hetvi.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hetvi.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hetvi.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hetvi.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
                                         alt=".Net developer Hetvi"
                                         title=".Net developer Hetvi"
                                         class="w-auto mr-3"
@@ -646,8 +598,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -673,8 +625,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
                                             src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
@@ -686,8 +638,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
                                             src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
@@ -699,8 +651,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
                                             src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
@@ -722,11 +674,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hardik.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hardik.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hardik.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hardik.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
                                         alt=".Net developer Hardik"
                                         title=".Net developer Hardik"
                                         class="w-auto mr-3"
@@ -766,8 +718,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -793,8 +745,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/verizon.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/verizon.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/verizon.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/verizon.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
                                             src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
@@ -806,8 +758,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/kpmg.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/kpmg.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/kpmg.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/kpmg.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRngBAABXRUJQVlA4TGwBAAAvHUAHEC/jqI0kSY6ms6r2/C2Jddy2kSRHLbmqZq/vOmojSZKT4Zxzl8XiW4FAEtrmq8U//yXf/EqQIB0KdUKmACZQCGGmQ5idg6Tl7tBhnA5IQklLO7sTIpk9VGpmB1Ruh+wOkYR8fre7Q6VlZmZICJEQwEgCkr1DDQi5PbTMDAL2mUKFkOfrQCSghSAJU3bn7vB4HUJ+/6+9w+N1AAhghBBJSAIC6LZtG2+CHdt2Uhu3tlO7jbXf/xk6zq31N6L/ZJM2DR19xIBP9fJ/ObP0Eac/5ZOm/OKSEXHuIXFRfZobt4iLu8TZCuKCP2HKUVTO/SWVg9p1YU4Vbcurh+uxoO47eY6Bx6ccIV0VcmSCK7Nc07f1yEmM0rr3vPFAb+2GHm7bw2G3vnr3aXr6stdunNTOeVe/6FR5cNbjzrA8yxLLaM0DAabJRHVzhtNQfWgtXuH+NjMIAYtNcAH9Rcs1OTjCJzKb8E9n/NyN"
                                             src="data:image/webp;base64,UklGRngBAABXRUJQVlA4TGwBAAAvHUAHEC/jqI0kSY6ms6r2/C2Jddy2kSRHLbmqZq/vOmojSZKT4Zxzl8XiW4FAEtrmq8U//yXf/EqQIB0KdUKmACZQCGGmQ5idg6Tl7tBhnA5IQklLO7sTIpk9VGpmB1Ruh+wOkYR8fre7Q6VlZmZICJEQwEgCkr1DDQi5PbTMDAL2mUKFkOfrQCSghSAJU3bn7vB4HUJ+/6+9w+N1AAhghBBJSAIC6LZtG2+CHdt2Uhu3tlO7jbXf/xk6zq31N6L/ZJM2DR19xIBP9fJ/ObP0Eac/5ZOm/OKSEXHuIXFRfZobt4iLu8TZCuKCP2HKUVTO/SWVg9p1YU4Vbcurh+uxoO47eY6Bx6ccIV0VcmSCK7Nc07f1yEmM0rr3vPFAb+2GHm7bw2G3vnr3aXr6stdunNTOeVe/6FR5cNbjzrA8yxLLaM0DAabJRHVzhtNQfWgtXuH+NjMIAYtNcAH9Rcs1OTjCJzKb8E9n/NyN"
@@ -819,8 +771,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/bangkok-bank.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/bangkok-bank.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/bangkok-bank.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/bangkok-bank.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
                                             src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
@@ -842,11 +794,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/konik.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/konik.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/konik.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/konik.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
                                         alt=".Net developer Konik"
                                         title=".Net developer Konik"
                                         class="w-auto mr-3"
@@ -888,8 +840,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -915,8 +867,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/renault.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/renault.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/renault.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/renault.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
                                             src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
@@ -928,8 +880,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/infosys.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/infosys.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/infosys.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/infosys.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
                                             src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
@@ -941,8 +893,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/3m.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/3m.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/3m.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/3m.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
                                             src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
@@ -964,11 +916,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
                                         alt=".Net developer Dhaval"
                                         title=".Net developer Dhaval"
                                         class="w-auto mr-3"
@@ -1008,8 +960,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1035,8 +987,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
                                             src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
@@ -1048,8 +1000,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
                                             src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
@@ -1061,8 +1013,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
                                             src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
@@ -1084,11 +1036,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/rohit.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/rohit.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/rohit.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/rohit.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xrohit.png.pagespeed.ic.vPHBX5vh9U.webp"
                                         alt=".Net developer Rohit"
                                         title=".Net developer Rohit"
                                         class="w-auto mr-3"
@@ -1130,8 +1082,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1156,8 +1108,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/national.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/national.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/national.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/national.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRoIAAABXRUJQVlA4THUAAAAvHUAHEG+gJJIkN3n54GnI9OkrjSQpzs/9ByiywCHxhEAgCW3z1QIYyIf3EHwh3KWJgS62PP4HRo1ttQoOuKjBAnIQQdK3zREeCGrK72Ub0f8JoNhOcHulR75qfQwbrNa6bmEA5M+wWuu6pY8bYhnF6r50BwEA"
                                             src="data:image/webp;base64,UklGRoIAAABXRUJQVlA4THUAAAAvHUAHEG+gJJIkN3n54GnI9OkrjSQpzs/9ByiywCHxhEAgCW3z1QIYyIf3EHwh3KWJgS62PP4HRo1ttQoOuKjBAnIQQdK3zREeCGrK72Ub0f8JoNhOcHulR75qfQwbrNa6bmEA5M+wWuu6pY8bYhnF6r50BwEA"
@@ -1169,8 +1121,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/city-falcon.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/city-falcon.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/city-falcon.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/city-falcon.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiICAABXRUJQVlA4TBYCAAAvHUAHEIfkuJEkRaoe2GP269w8z/iey9td5YYj23bTRl+hMsOQ1tXFd8ZMRkmOa9t2knt/ALOj3JXd24LLIRnee5cg26ZoQ7/Z47n/XwYwkYEEKCKIMkGBKjKRghGJXSqJ76I/hzDntAoRpIQamEniFnVWBrkGDJbk3AXCpCo4DFUiCUVKbqWUKDTmf5BACsUcHUxUOSKkOiy2sJ4juVInYDKQ86x/GlwaTs5cAr8XJKaQiyKBDFDKLDGlMvmfemJDFZnkwijuTXkWToTA7GRUYsNAfexRggQ8ORgsYkQSHAJBEJEQkliqJaM4GISESIEiMJiLWR2asRyhcmBIoOEQWnTCBArBq+hOSkMbPno/fkSweDdh4mKCzH31UbvZWq8y03ZYWUHJkqabqJm1cda5zn5Ll/RWl5NUZtd16zyL1XwL970bHqxnMJoAtCpbj90XYN22bbw5+WLbtm2jtlMjqW3bX90//ekprxH9nwAUKEWhhab/xKJUXDeW78ljxRcbTTtJNHNmZmEu2kSIcNh8ucnRNT4xeWcDEAJRfyXX3jMwcvHw8f72C0R1guTzwdHp+dnJ3u7KDWAz9X889Wsg+F0tdPYNj9WnZpduESyJr9Q99H9YU6T2N9fXVrPpSMICOMUMVX7wKeTSlDv657e2dx4/gbD2y+t5Od4Ij9anr6xAptRdbOu9dMpEQDbXYFQi0Oqj1KA="
                                             src="data:image/webp;base64,UklGRiICAABXRUJQVlA4TBYCAAAvHUAHEIfkuJEkRaoe2GP269w8z/iey9td5YYj23bTRl+hMsOQ1tXFd8ZMRkmOa9t2knt/ALOj3JXd24LLIRnee5cg26ZoQ7/Z47n/XwYwkYEEKCKIMkGBKjKRghGJXSqJ76I/hzDntAoRpIQamEniFnVWBrkGDJbk3AXCpCo4DFUiCUVKbqWUKDTmf5BACsUcHUxUOSKkOiy2sJ4juVInYDKQ86x/GlwaTs5cAr8XJKaQiyKBDFDKLDGlMvmfemJDFZnkwijuTXkWToTA7GRUYsNAfexRggQ8ORgsYkQSHAJBEJEQkliqJaM4GISESIEiMJiLWR2asRyhcmBIoOEQWnTCBArBq+hOSkMbPno/fkSweDdh4mKCzH31UbvZWq8y03ZYWUHJkqabqJm1cda5zn5Ll/RWl5NUZtd16zyL1XwL970bHqxnMJoAtCpbj90XYN22bbw5+WLbtm2jtlMjqW3bX90//ekprxH9nwAUKEWhhab/xKJUXDeW78ljxRcbTTtJNHNmZmEu2kSIcNh8ucnRNT4xeWcDEAJRfyXX3jMwcvHw8f72C0R1guTzwdHp+dnJ3u7KDWAz9X889Wsg+F0tdPYNj9WnZpduESyJr9Q99H9YU6T2N9fXVrPpSMICOMUMVX7wKeTSlDv657e2dx4/gbD2y+t5Od4Ij9anr6xAptRdbOu9dMpEQDbXYFQi0Oqj1KA="
@@ -1182,8 +1134,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dayo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dayo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/dayo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/dayo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRp4CAABXRUJQVlA4TJICAAAvHUAHEOcEN7ZdB5Gkb/DepISUQMdUxBCSEbv1K72nNiA0kuRIit49y+xgP4Gn4/87IQZgm0aypGPef7hbAB7LIBFk2xTt6DN7ZHkKMilSfPnDgGZeqcdC5t97Z1iJVjkLmYUyL1KRAFHsxvg4aOfosS+j64/rR0NFHgOZQQodU6CkjeTRYOV/foSJTdiYTphSgKEKDBRUgKECCrj9Tb5rff1Rtdd76K5MZKS2bECS+++Xv138bvzUm97+1bPx8Qf7Z+NwH7x9m/il/gVz5lbBnIlwFkxEKsGcuZWzECIiUIBAAJYQIWGEFSapMOFSKkywwigFEwGIuIIECZfIsi1GvmAIkQBGqXAFCSKuIGKCFURMkGCJCSK+vzq9pi2uMHDBqN2f8mxMr5PNlY5nmbOKGmmooUoaurz1nb/fING2bWNvVmzbtm3btvWbQdvkr53azNO299zvzxtE9J+R2zaONjxsb/Yrbo6PDg/293a2NtfXVleWF+ZnZ6anJr99//Hz1+8/f80mA4sLc3pWi+lWqzZjS/9Wv04Idj8sj0XSJFZdfhgHGsVBtx8ygAZxgccPAPXiZl5jGwB14jmnxrYBapdUZ8Z2AWpWlpQ4LrRORouLSr4AVIs47ugUBCCnSsRxT/qYhm4qRZiXUizaqRBV8F2pugHicvPjlaVchPnAp64GA9k2q9lUCFAmsn6oegdEu9rTP1lMUUCpyPqRqg/ocXdCmyUPaBZZP1b1A72eDsKGrTlAi8j6ieotEOod6XLabSHA50PVUyEcSP7/vxOBCFmFZ8IAQGBmVhBAq0l4LqWgmQRNFV5I9zWSHDbppYZvMBUgZkhbpFdal3c/vD836NlrHRmm1rWBK0Nvrm+zar4B"
                                             src="data:image/webp;base64,UklGRp4CAABXRUJQVlA4TJICAAAvHUAHEOcEN7ZdB5Gkb/DepISUQMdUxBCSEbv1K72nNiA0kuRIit49y+xgP4Gn4/87IQZgm0aypGPef7hbAB7LIBFk2xTt6DN7ZHkKMilSfPnDgGZeqcdC5t97Z1iJVjkLmYUyL1KRAFHsxvg4aOfosS+j64/rR0NFHgOZQQodU6CkjeTRYOV/foSJTdiYTphSgKEKDBRUgKECCrj9Tb5rff1Rtdd76K5MZKS2bECS+++Xv138bvzUm97+1bPx8Qf7Z+NwH7x9m/il/gVz5lbBnIlwFkxEKsGcuZWzECIiUIBAAJYQIWGEFSapMOFSKkywwigFEwGIuIIECZfIsi1GvmAIkQBGqXAFCSKuIGKCFURMkGCJCSK+vzq9pi2uMHDBqN2f8mxMr5PNlY5nmbOKGmmooUoaurz1nb/fING2bWNvVmzbtm3btvWbQdvkr53azNO299zvzxtE9J+R2zaONjxsb/Yrbo6PDg/293a2NtfXVleWF+ZnZ6anJr99//Hz1+8/f80mA4sLc3pWi+lWqzZjS/9Wv04Idj8sj0XSJFZdfhgHGsVBtx8ygAZxgccPAPXiZl5jGwB14jmnxrYBapdUZ8Z2AWpWlpQ4LrRORouLSr4AVIs47ugUBCCnSsRxT/qYhm4qRZiXUizaqRBV8F2pugHicvPjlaVchPnAp64GA9k2q9lUCFAmsn6oegdEu9rTP1lMUUCpyPqRqg/ocXdCmyUPaBZZP1b1A72eDsKGrTlAi8j6ieotEOod6XLabSHA50PVUyEcSP7/vxOBCFmFZ8IAQGBmVhBAq0l4LqWgmQRNFV5I9zWSHDbppYZvMBUgZkhbpFdal3c/vD836NlrHRmm1rWBK0Nvrm+zar4B"
@@ -1205,11 +1157,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hetvi.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hetvi.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hetvi.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hetvi.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xhetvi.png.pagespeed.ic.032xJGh4EH.webp"
                                         alt=".Net developer Hetvi"
                                         title=".Net developer Hetvi"
                                         class="w-auto mr-3"
@@ -1249,8 +1201,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1276,8 +1228,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
                                             src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
@@ -1289,8 +1241,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
                                             src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
@@ -1302,8 +1254,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
                                             src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
@@ -1325,11 +1277,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hardik.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/hardik.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hardik.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/hardik.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xhardik.png.pagespeed.ic.51VFSJd6bU.webp"
                                         alt=".Net developer Hardik"
                                         title=".Net developer Hardik"
                                         class="w-auto mr-3"
@@ -1369,8 +1321,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1396,8 +1348,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/verizon.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/verizon.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/verizon.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/verizon.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
                                             src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
@@ -1409,8 +1361,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/kpmg.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/kpmg.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/kpmg.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/kpmg.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRngBAABXRUJQVlA4TGwBAAAvHUAHEC/jqI0kSY6ms6r2/C2Jddy2kSRHLbmqZq/vOmojSZKT4Zxzl8XiW4FAEtrmq8U//yXf/EqQIB0KdUKmACZQCGGmQ5idg6Tl7tBhnA5IQklLO7sTIpk9VGpmB1Ruh+wOkYR8fre7Q6VlZmZICJEQwEgCkr1DDQi5PbTMDAL2mUKFkOfrQCSghSAJU3bn7vB4HUJ+/6+9w+N1AAhghBBJSAIC6LZtG2+CHdt2Uhu3tlO7jbXf/xk6zq31N6L/ZJM2DR19xIBP9fJ/ObP0Eac/5ZOm/OKSEXHuIXFRfZobt4iLu8TZCuKCP2HKUVTO/SWVg9p1YU4Vbcurh+uxoO47eY6Bx6ccIV0VcmSCK7Nc07f1yEmM0rr3vPFAb+2GHm7bw2G3vnr3aXr6stdunNTOeVe/6FR5cNbjzrA8yxLLaM0DAabJRHVzhtNQfWgtXuH+NjMIAYtNcAH9Rcs1OTjCJzKb8E9n/NyN"
                                             src="data:image/webp;base64,UklGRngBAABXRUJQVlA4TGwBAAAvHUAHEC/jqI0kSY6ms6r2/C2Jddy2kSRHLbmqZq/vOmojSZKT4Zxzl8XiW4FAEtrmq8U//yXf/EqQIB0KdUKmACZQCGGmQ5idg6Tl7tBhnA5IQklLO7sTIpk9VGpmB1Ruh+wOkYR8fre7Q6VlZmZICJEQwEgCkr1DDQi5PbTMDAL2mUKFkOfrQCSghSAJU3bn7vB4HUJ+/6+9w+N1AAhghBBJSAIC6LZtG2+CHdt2Uhu3tlO7jbXf/xk6zq31N6L/ZJM2DR19xIBP9fJ/ObP0Eac/5ZOm/OKSEXHuIXFRfZobt4iLu8TZCuKCP2HKUVTO/SWVg9p1YU4Vbcurh+uxoO47eY6Bx6ccIV0VcmSCK7Nc07f1yEmM0rr3vPFAb+2GHm7bw2G3vnr3aXr6stdunNTOeVe/6FR5cNbjzrA8yxLLaM0DAabJRHVzhtNQfWgtXuH+NjMIAYtNcAH9Rcs1OTjCJzKb8E9n/NyN"
@@ -1422,8 +1374,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/bangkok-bank.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/bangkok-bank.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/bangkok-bank.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/bangkok-bank.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
                                             src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
@@ -1445,11 +1397,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/konik.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/konik.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/konik.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/konik.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xkonik.png.pagespeed.ic.PjMx5FPPdl.webp"
                                         alt=".Net developer Konik"
                                         title=".Net developer Konik"
                                         class="w-auto mr-3"
@@ -1491,8 +1443,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1518,8 +1470,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/renault.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/renault.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/renault.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/renault.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
                                             src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
@@ -1531,8 +1483,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/infosys.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/infosys.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/infosys.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/infosys.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
                                             src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
@@ -1544,8 +1496,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/3m.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/3m.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/3m.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/3m.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
                                             src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
@@ -1567,11 +1519,11 @@
                         <div class="boxed bg-white">
                             <div class="d-flex align-items-center mb-lg">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/dhaval.png" type="image/png" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/net-core-ppc/dhaval.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
-                                        src="<?php echo base_url();?>main-boot-5/images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        data-src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
+                                        src="<?php echo asset();?>images/net-core-ppc/xdhaval.png.pagespeed.ic.fK6TDoUX4l.webp"
                                         alt=".Net developer Dhaval"
                                         title=".Net developer Dhaval"
                                         class="w-auto mr-3"
@@ -1611,8 +1563,8 @@
                                     />
                                     Expert in
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/react-ppc/holder.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
                                             src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
@@ -1638,8 +1590,8 @@
                                 <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                                 <div class="d-flex">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/game-changer.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/game-changer.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
                                             src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
@@ -1651,8 +1603,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/acr.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/acr.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
                                             src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
@@ -1664,8 +1616,8 @@
                                         />
                                     </picture>
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/net-core-ppc/sami-aid.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/net-core-ppc/sami-aid.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
                                             src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
@@ -1721,8 +1673,8 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
                                             src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
@@ -1745,8 +1697,8 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
                                             src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
@@ -1772,8 +1724,8 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
                                             src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
@@ -1797,8 +1749,8 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-dot-net-developer/dot-net-logo.png" type="image/png" />
                                         <img
                                             data-src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
                                             src="data:image/webp;base64,UklGRrAEAABXRUJQVlA4TKMEAAAvOkAGEGcGoY0kSZKXvxbxqDLuPwoM27YNw/2PXVzEYti2bRjuf+ziIhYE2bbTNn6SbCUpMzPz/rdBO2BmEF6CSZpqOwZNJegfYWEgWFgIHQRhGHreM9UvqBKoAGBbApiHqa4rAKYhqMoAr1Wt1qGq4q2qGIWqUoHPCoBv7EBVxRe+t31tA2sYvL7vH2z72uYxwHW1WPkKgP/qr/LwFRXw+MBn9YGjquJz23/VYaoCEQFx2/g2h58q4LHa3XZdTWNQvVf9CrQVlavAX+Uq4PC1bbwCuQJuW6p8xTaQkStfWYQK+G0gVF1lEVC29StQKioLuw3cVfPbgN1GxTZTxaqtYtVWZht3p6pUZhuV2cbdCWFbd3faxvfj/O7O7o5tujuqWPm7Y5vujm163mvujm3aFu7OP+81v3z//xWygaK17YkkJS1juDvr7u6K+/ouzrq7u7u7j1tvsz1NQ22gNiQUpd3AXSVVcA438P0R/Z8Alrzq+1MXDy1dSESbTjXRoXFvDcyw5FXrTv/425/6rnE0KFFmbvsfHqBy9eDhX1QJ1LZpg6qTpMeefySko5dWfjCte5Ka9Y89+DoPK3rZ97YtGl+ToFcrF1IZLiz+Ysa7CZ7aKXyz8Cso64EnN6BnXNV1iwvp6NaNxd90Y/HV+x/55mK99CMDeW79tm9rYsZ0leyYlgsrZ1fHVS382fUREFHpxoWT0g8jHY44ue/jmKtFEnB0u+3whj4sNjXhgQqM4sbJ6aMsxw+NSrZcWFFteKIjbwlpKOT3LsjGvXLPDoxO7vD7z7/Wyh0/0JUo3b08wDCzI2cLR5fFlu2fMaQMNWtLTqh7hbZZNSxzrShcX3c42lpWa+ktbTmhDBZdmJeOSQ3usEM9sIr7BjJgVa4kXCO38rkDWQZMvVxfkI5LRMouHnmPxfa+UHIN0up6mwHo35jjytFtq1RoHM6AyTfvWsrVpV3/CYutHdkiwoiIPI6OOu2Zyy2WMEhulQqTGDDvwg3hGmEdzcS9ejLvRbrg2ML0mt31BW4gWER7GNK7T9a7RiUedGOxdaPvikh3bRQnGLCxJceVqwvLxp0n0932HbY83ZX21nTcy9vqPS2UZOd7mL5qy1u2pysu8PCN10duO+z5uiMfvsBiM+NPFqMyAFfBvvyc6cnmgsVdH4BnCyVGvblogx3ovvp1OYt/btZJtwwgdEny+RlT6lzJIhnoSji0st/igh/qrmzIJOi17UZZD3xXlLqx2B8sIh6EROQJx20ZVa9CPXB+msLiU4O3FcoVoBwGyr43IG5qpw2uIiIKAc8+qdxI935flkpQPXtbUAEQkSf4p9m49GZJNg/LAHyJ0FFRGUDgHPuaJRyxpKWil6HEzZdYwgFdSnKhwQ2iwAWAyL//bOYf4BcibfIGafJEfkg6CX2kHMGpAqAcEVX04PZzbIK36C7dyP/NgJn1jiGUjd0zLDF999iVXFUQ6Zq3o5ZhQpHq0W9lLQNW2G4FCMWVL59OsX+ZWnPr0rETZ6+fB0BEZza9k2bA8aN0sLnv7BoGDJ344ecL5wx7sY79t6lsVcaYRV2a6ZmskRlTAPufAgA="
@@ -1843,11 +1795,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
                                                         alt="DCS – Digital Channel Services"
                                                         title="DCS – Digital Channel Services"
                                                         class="lazy ob-cover"
@@ -1901,11 +1853,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-3.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
                                                         alt="iKPI"
                                                         title="iKPI"
                                                         class="lazy ob-cover"
@@ -1959,11 +1911,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-1.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
                                                         alt="UPS | Global Shipping and Logistics"
                                                         title="UPS | Global Shipping and Logistics"
                                                         class="lazy ob-cover"
@@ -2016,11 +1968,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
                                                         alt="DCS – Digital Channel Services"
                                                         title="DCS – Digital Channel Services"
                                                         class="lazy ob-cover"
@@ -2074,11 +2026,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-3.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-3.jpg,qv-4.pagespeed.ic.uHe4zK-qZI.webp"
                                                         alt="iKPI"
                                                         title="iKPI"
                                                         class="lazy ob-cover"
@@ -2132,11 +2084,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-1.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-1.jpg,qv-4.pagespeed.ic.kklgPgNTk4.webp"
                                                         alt="UPS | Global Shipping and Logistics"
                                                         title="UPS | Global Shipping and Logistics"
                                                         class="lazy ob-cover"
@@ -2189,11 +2141,11 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/cs-2.jpg?v-4" type="image/jpeg" />
                                                     <img
-                                                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
-                                                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
+                                                        src="<?php echo asset();?>images/hire-dot-net-developer/xcs-2.jpg,qv-4.pagespeed.ic.COUybdTw-M.webp"
                                                         alt="DCS – Digital Channel Services"
                                                         title="DCS – Digital Channel Services"
                                                         class="lazy ob-cover"
@@ -2382,8 +2334,8 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/form-mail.png?v-4" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img
                                     data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
                                     src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
@@ -2410,11 +2362,11 @@
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse align-items-lg-end">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/upgrade-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/upgrade-2.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/upgrade-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-dot-net-developer/upgrade-2.png" type="image/png" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xupgrade-2.png.pagespeed.ic.fgQzRtMZCm.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-dot-net-developer/xupgrade-2.png.pagespeed.ic.fgQzRtMZCm.webp"
+                        data-src="<?php echo asset();?>images/hire-dot-net-developer/xupgrade-2.png.pagespeed.ic.fgQzRtMZCm.webp"
+                        src="<?php echo asset();?>images/hire-dot-net-developer/xupgrade-2.png.pagespeed.ic.fgQzRtMZCm.webp"
                         alt="Outsource NET Developers To Leverage the Power Of .NET 8"
                         title="Outsource NET Developers To Leverage the Power Of .NET 8"
                         class="lazy"
@@ -2532,11 +2484,11 @@
         <div class="row gy-4">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/data-scientist/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/data-scientist/side-4.jpg?v-2" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/data-scientist/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/data-scientist/side-4.jpg?v-2" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp"
+                        data-src="<?php echo asset();?>images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp"
+                        src="<?php echo asset();?>images/data-scientist/xside-4.jpg,qv-2.pagespeed.ic.fShsJqB-fn.webp"
                         alt="Why Hire .NET Developers from Bacancy?"
                         title="Why Hire .NET Developers from Bacancy?"
                         class="lazy ob-cover"
@@ -2567,11 +2519,11 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/counting-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/counting-bg.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                src="<?php echo base_url();?>main-boot-5/images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
+                data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
+                src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
                 alt="Our Development Center Strength"
                 title="Our Development Center Strength"
                 data-pagespeed-url-hash="102558019"
@@ -2595,11 +2547,11 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/engagement-model/side-img-5.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
+                        data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
+                        src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
                         alt="Our Development Center Strength"
                         title="Our Development Center Strength"
                         class="mb-5 mb-lg-0"
@@ -2613,11 +2565,11 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-developer.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-developer.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
+                                data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
+                                src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
                                 alt="Agile Developers"
                                 title="Agile Developers"
                                 data-pagespeed-url-hash="2109142817"
@@ -2629,11 +2581,11 @@
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/developer-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/developer-icon.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/developer-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/developer-icon.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
+                                data-src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
+                                src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
                                 alt=".Net Developers"
                                 title=".Net Developers"
                                 data-pagespeed-url-hash="3952180670"
@@ -2645,11 +2597,11 @@
                     </div>
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-coach.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/agile-coach.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
+                                data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
+                                src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
                                 alt="Agile Coaches"
                                 title="Agile Coaches"
                                 data-pagespeed-url-hash="905832657"
@@ -2661,11 +2613,11 @@
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/certified-scrum-master.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/certified-scrum-master.png" type="image/png" />
+                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp" />
+                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png" />
                             <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
+                                data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
+                                src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
                                 alt="Certified Scrum Masters"
                                 title="Certified Scrum Masters"
                                 data-pagespeed-url-hash="98509469"
@@ -2681,8 +2633,8 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-1.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-1.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png" />
                     <img
                         data-src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
                         src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
@@ -2697,8 +2649,8 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-2.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-2.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png" />
                     <img
                         data-src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
                         src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
@@ -2713,8 +2665,8 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-3.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-3.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png" />
                     <img
                         data-src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
                         src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
@@ -2729,8 +2681,8 @@
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-4.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-4.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png" />
                     <img
                         data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
                         src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
@@ -2745,8 +2697,8 @@
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-5.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/country-icon-5.png" type="image/png" />
+                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png" />
                     <img
                         data-src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
                         src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
@@ -2915,11 +2867,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -2943,11 +2895,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -2971,11 +2923,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

@@ -20,11 +20,11 @@
 <section class="home-section hero-banner content-center banner-post header-spacing-padding">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/banner.jpg" type="image/jpeg" />
+            <source srcset="<?php echo asset(); ?>images/infrastructure/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/infrastructure/banner.jpg" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
-                src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
+                data-src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
+                src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
                 alt="INFRASTRUCTURE @ Bacancy"
                 title="INFRASTRUCTURE @ Bacancy"
                 data-pagespeed-url-hash="3627330988"
@@ -58,11 +58,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-1.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-1.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-1.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-1.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png"
                                         alt="Network Systems"
                                         title="Network Systems"
                                         class="lazy svg-icon"
@@ -79,11 +79,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-2.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-2.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-2.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-2.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png"
                                         alt="Secured Network"
                                         title="Secured Network"
                                         class="lazy svg-icon"
@@ -100,11 +100,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-3.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-3.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-3.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-3.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png"
                                         alt="Regular"
                                         title="Regular"
                                         class="lazy svg-icon"
@@ -121,11 +121,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-4.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-4.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-4.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-4.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-4.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-4.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png"
                                         alt="Applications"
                                         title="Applications"
                                         class="lazy svg-icon"
@@ -142,11 +142,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-5.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-5.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-5.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-5.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-5.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-5.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png"
                                         alt="Firewall"
                                         title="Firewall"
                                         class="lazy svg-icon"
@@ -163,11 +163,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-6.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-6.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-6.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-6.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-6.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-6.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png"
                                         alt="Internet"
                                         title="Internet"
                                         class="lazy svg-icon"
@@ -184,11 +184,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-7.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-7.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-7.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-7.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-7.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-7.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png"
                                         alt="Fully"
                                         title="Fully"
                                         class="lazy svg-icon"
@@ -205,11 +205,11 @@
                         <div class="service-box text-center">
                             <div class="svg-icon-box">
                                 <picture>
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-8.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-8.png" type="image/png" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-8.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-8.png" type="image/png" />
                                     <img
-                                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-8.png"
-                                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/services-icon-8.png"
+                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png"
+                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png"
                                         alt="Pantry Areas"
                                         title="Pantry Areas"
                                         class="lazy svg-icon"
@@ -2343,11 +2343,11 @@
                     <div class="carousel-inner">
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-1.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-1.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-1.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2358,11 +2358,11 @@
                         </div>
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-2.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-2.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-2.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2373,11 +2373,11 @@
                         </div>
                         <div class="carousel-item active">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-3.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-3.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-3.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2388,11 +2388,11 @@
                         </div>
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-4.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-4.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-4.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-4.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2403,11 +2403,11 @@
                         </div>
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-5.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/office-5.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-5.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/office-5.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2462,11 +2462,11 @@
         <div class="row align-items-center flex-md-row-reverse">
             <div class="col-md-6">
                 <picture>
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/cctv.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/cctv.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset(); ?>images/infrastructure/cctv.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/infrastructure/cctv.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
-                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
+                        data-src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
+                        src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
                         alt="Security &amp; Surveillance"
                         title="Security &amp; Surveillance"
                         class="w-100"
@@ -2522,11 +2522,11 @@
                     <div class="carousel-inner">
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-1.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-1.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-1.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2537,11 +2537,11 @@
                         </div>
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-2.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-2.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-2.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
+                                    src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2552,11 +2552,11 @@
                         </div>
                         <div class="carousel-item">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-3.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-3.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-3.jpg"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-3.jpg"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/device-3.jpg"
+                                    src="<?php echo asset(); ?>images/infrastructure/device-3.jpg"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2567,11 +2567,11 @@
                         </div>
                         <div class="carousel-item active">
                             <picture>
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-4.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-4.jpg" type="image/jpeg" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-4.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/infrastructure/device-4.jpg" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-4.jpg"
-                                    src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/device-4.jpg"
+                                    data-src="<?php echo asset(); ?>images/infrastructure/device-4.jpg"
+                                    src="<?php echo asset(); ?>images/infrastructure/device-4.jpg"
                                     alt="Our Office"
                                     title="Our Office"
                                     class="d-block w-100"
@@ -2623,11 +2623,11 @@
         <div class="row align-items-center flex-md-row-reverse">
             <div class="col-md-6">
                 <picture>
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/network.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url(); ?>main-boot-5/images/infrastructure/network.jpg" type="image/jpeg" />
+                    <source srcset="<?php echo asset(); ?>images/infrastructure/network.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/infrastructure/network.jpg" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
-                        src="<?php echo base_url(); ?>main-boot-5/images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
+                        data-src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
+                        src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
                         alt="Networks &amp; Servers"
                         title="Networks &amp; Servers"
                         class="w-100"
@@ -2693,11 +2693,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="slider-img"
@@ -2721,11 +2721,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="slider-img"
@@ -2749,11 +2749,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="slider-img"

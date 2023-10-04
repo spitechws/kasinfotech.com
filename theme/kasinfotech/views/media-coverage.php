@@ -19,11 +19,8 @@
 <section class="header-spacing section-padding-md banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/banner.jpg?v-1" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/banner.jpg?v-1"
-                src="<?php echo base_url();?>main-boot-5/images/media-covrage/banner.jpg?v-1"
+                src="<?php echo asset();?>images/media-covrage/banner.webp"
                 alt="Media Coverage"
                 title="Media Coverage"
                 data-pagespeed-url-hash="628981218"
@@ -102,11 +99,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/geeksaroundglobe.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/geeksaroundglobe.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/geeksaroundglobe.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/geeksaroundglobe.png"
+                                                            src="<?php echo asset();?>images/media-covrage/geeksaroundglobe.webp"
                                                             alt="How To Become An Organized &amp; Connected Non-Profit Business With Salesforce"
                                                             title="How To Become An Organized &amp; Connected Non-Profit Business With Salesforce"
                                                             class="w-auto"
@@ -131,11 +125,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/deadlinenews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/deadlinenews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/deadlinenews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/deadlinenews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/deadlinenews.webp"
                                                             alt="Is Your Rails Project Showing These 5 Alarming Signs? Be Alert And Avoid Failure "
                                                             title="Is Your Rails Project Showing These 5 Alarming Signs? Be Alert And Avoid Failure "
                                                             class="w-auto"
@@ -160,11 +151,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/thehackpostbg.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/thehackpostbg.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/thehackpostbg.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/thehackpostbg.png"
+                                                            src="<?php echo asset();?>images/media-covrage/thehackpostbg.webp"
                                                             alt="Reasons To Hire Golang Developers For Fintech Projects"
                                                             title="Reasons To Hire Golang Developers For Fintech Projects"
                                                             class="w-auto"
@@ -187,11 +175,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/snooth.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/snooth.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/snooth.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/snooth.png"
+                                                            src="<?php echo asset();?>images/media-covrage/snooth.webp"
                                                             alt="Vue Native For Mobile App Development – A Crisp Guide To Refer"
                                                             title="Vue Native For Mobile App Development – A Crisp Guide To Refer"
                                                             class="w-auto"
@@ -216,11 +201,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/datafilehost.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/datafilehost.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/datafilehost.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/datafilehost.png"
+                                                            src="<?php echo asset();?>images/media-covrage/datafilehost.webp"
                                                             alt="Decoding Everything About  Python vs .NET in 2023 for Businesses"
                                                             title="Decoding Everything About  Python vs .NET in 2023 for Businesses"
                                                             class="w-auto"
@@ -245,11 +227,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2023" style="">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ichart.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ichart.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/ichart.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/ichart.png"
+                                                            src="<?php echo asset();?>images/media-covrage/ichart.webp"
                                                             alt="How Much Does It Cost to Maintain an Angular App in 2023?"
                                                             title="How Much Does It Cost to Maintain an Angular App in 2023?"
                                                             class="w-auto"
@@ -272,11 +251,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2023" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/metapress.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/metapress.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/metapress.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/metapress.png"
+                                                            src="<?php echo asset();?>images/media-covrage/metapress.webp"
                                                             alt="Node Is A Better Choice Over PHP : Here Is Why?"
                                                             title="Node Is A Better Choice Over PHP : Here Is Why?"
                                                             class="w-auto"
@@ -299,11 +275,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2023" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/digitaljournal.webp"
                                                             alt="TOP 7 THINGS TO TAKE INTO ACCOUNT WHEN DEVELOPING AN APP WITH REACT NATIVE"
                                                             title="TOP 7 THINGS TO TAKE INTO ACCOUNT WHEN DEVELOPING AN APP WITH REACT NATIVE"
                                                             class="w-auto"
@@ -328,11 +301,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/digitaljournal.webp"
                                                             alt="Top 9 Emerging Laravel Trends and Future to Expect in 2023"
                                                             title="Top 9 Emerging Laravel Trends and Future to Expect in 2023"
                                                             class="w-auto"
@@ -357,11 +327,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/solutionhow.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/solutionhow.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/solutionhow.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/solutionhow.png"
+                                                            src="<?php echo asset();?>images/media-covrage/solutionhow.webp"
                                                             alt="Using Ruby On Rails App? This Is How You Can Upgrade It"
                                                             title="Using Ruby On Rails App? This Is How You Can Upgrade It"
                                                             class="w-auto"
@@ -386,11 +353,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/foreign-policy-logo.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/foreign-policy-logo.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/foreign-policy-logo.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/foreign-policy-logo.png"
+                                                            src="<?php echo asset();?>images/media-covrage/foreign-policy-logo.webp"
                                                             alt="TypeScript In NodeJS – What Does It Means And Why To Use it"
                                                             title="TypeScript In NodeJS – What Does It Means And Why To Use it"
                                                             class="w-auto"
@@ -413,11 +377,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marketguest.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marketguest.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/marketguest.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/marketguest.png"
+                                                            src="<?php echo asset();?>images/media-covrage/marketguest.webp"
                                                             alt="Salesforce – The Future of CRM in 2023"
                                                             title="Salesforce – The Future of CRM in 2023"
                                                             class="w-auto"
@@ -440,11 +401,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/complextime.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/complextime.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/complextime.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/complextime.png"
+                                                            src="<?php echo asset();?>images/media-covrage/complextime.png"
                                                             alt="Ruby On Rails – Why It’s A Great Choice For Machine Learning Development?"
                                                             title="Ruby On Rails – Why It’s A Great Choice For Machine Learning Development?"
                                                             class="w-auto"
@@ -469,11 +427,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/pantheonuk.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/pantheonuk.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/pantheonuk.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/pantheonuk.png"
+                                                            src="<?php echo asset();?>images/media-covrage/pantheonuk.png"
                                                             alt="Top 5 Golang Web Frameworks To Try Out In 2023"
                                                             title="Top 5 Golang Web Frameworks To Try Out In 2023"
                                                             class="w-auto"
@@ -496,11 +451,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techonlineblog.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techonlineblog.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techonlineblog.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techonlineblog.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techonlineblog.png"
                                                             alt="Flutter App Development Best Practices to follow in 2023"
                                                             title="Flutter App Development Best Practices to follow in 2023"
                                                             class="w-auto"
@@ -525,11 +477,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/timebusinessnews.png"
                                                             alt="Everything About the Newly Launched Node.js 19 Summarized"
                                                             title="Everything About the Newly Launched Node.js 19 Summarized"
                                                             class="w-auto"
@@ -554,11 +503,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/latestphonezone.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/latestphonezone.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/latestphonezone.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/latestphonezone.png"
+                                                            src="<?php echo asset();?>images/media-covrage/latestphonezone.png"
                                                             alt="Laravel For B2B – Is It the Right Choice To Make?"
                                                             title="Laravel For B2B – Is It the Right Choice To Make?"
                                                             class="w-auto"
@@ -581,11 +527,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businesstomark.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businesstomark.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/businesstomark.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/businesstomark.png"
+                                                            src="<?php echo asset();?>images/media-covrage/businesstomark.png"
                                                             alt="6 Full Stack Development Trends to Keep an Eye On [List For 2023]"
                                                             title="6 Full Stack Development Trends to Keep an Eye On [List For 2023]"
                                                             class="w-auto"
@@ -610,11 +553,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techbehindit.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techbehindit.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techbehindit.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techbehindit.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techbehindit.png"
                                                             alt="Node.Js Vs Ruby On Rails: Know The Differences And Make A Right Choice "
                                                             title="Node.Js Vs Ruby On Rails: Know The Differences And Make A Right Choice "
                                                             class="w-auto"
@@ -637,11 +577,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
+                                                            src="<?php echo asset();?>images/media-covrage/DZone.png"
                                                             alt="React or Angular for Frontend Development"
                                                             title="React or Angular for Frontend Development"
                                                             class="w-auto"
@@ -664,11 +601,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dodbuzz.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dodbuzz.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/dodbuzz.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/dodbuzz.png"
+                                                            src="<?php echo asset();?>images/media-covrage/dodbuzz.png"
                                                             alt="APP OWNERS WILL CONTINUE TO BUILD CROSS PLATFORM MOBILE APPS WITH REACT NATIVE IN 2023"
                                                             title="APP OWNERS WILL CONTINUE TO BUILD CROSS PLATFORM MOBILE APPS WITH REACT NATIVE IN 2023"
                                                             class="w-auto"
@@ -691,11 +625,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marifilmines.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marifilmines.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/marifilmines.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/marifilmines.png"
+                                                            src="<?php echo asset();?>images/media-covrage/marifilmines.png"
                                                             alt="Angular or React - Which One To Pick When"
                                                             title="Angular or React - Which One To Pick When"
                                                             class="w-auto"
@@ -718,11 +649,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/timebusinessnews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/timebusinessnews.png"
                                                             alt="Golang For Web Development – Everything That’s Worth Noting"
                                                             title="Golang For Web Development – Everything That’s Worth Noting"
                                                             class="w-auto"
@@ -745,11 +673,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/theinspirespy.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/theinspirespy.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/theinspirespy.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/theinspirespy.png"
+                                                            src="<?php echo asset();?>images/media-covrage/theinspirespy.png"
                                                             alt="Python for Mobile App Development: How Good is it?"
                                                             title="Python for Mobile App Development: How Good is it?"
                                                             class="w-auto"
@@ -772,11 +697,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/allneedy.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/allneedy.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/allneedy.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/allneedy.png"
+                                                            src="<?php echo asset();?>images/media-covrage/allneedy.png"
                                                             alt="What Makes React Native a Preferred Choice for Startups?"
                                                             title="What Makes React Native a Preferred Choice for Startups?"
                                                             class="w-auto"
@@ -799,11 +721,8 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/europeanbusinessreview.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/europeanbusinessreview.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/europeanbusinessreview.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/europeanbusinessreview.png"
+                                                            src="<?php echo asset();?>images/media-covrage/europeanbusinessreview.png"
                                                             alt="Node.js vs Python Comparison: Which One is Ideal Backend Framework for Web Development"
                                                             title="Node.js vs Python Comparison: Which One is Ideal Backend Framework for Web Development"
                                                             class="w-auto"
@@ -832,11 +751,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hammburg.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hammburg.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/hammburg.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/hammburg.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/hammburg.png"
+                                                            src="<?php echo asset();?>images/media-covrage/hammburg.png"
                                                             alt="Why Is Golang The Preferred Choice For Machine Learning?"
                                                             title="Why Is Golang The Preferred Choice For Machine Learning?"
                                                             class="w-auto"
@@ -859,11 +776,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/adclays.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/adclays.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/adclays.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/adclays.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/adclays.png"
+                                                            src="<?php echo asset();?>images/media-covrage/adclays.png"
                                                             alt="Angular And Laravel: A perfect Combination For Web Development"
                                                             title="Angular And Laravel: A perfect Combination For Web Development"
                                                             class="w-auto"
@@ -888,11 +803,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marketbusinessnews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/marketbusinessnews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/marketbusinessnews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/marketbusinessnews.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/marketbusinessnews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/marketbusinessnews.png"
                                                             alt="What Makes React Native An Ideal Choice For Web Development?"
                                                             title="What Makes React Native An Ideal Choice For Web Development?"
                                                             class="w-auto"
@@ -917,11 +830,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/barbaraiweins.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/barbaraiweins.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/barbaraiweins.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/barbaraiweins.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/barbaraiweins.png"
+                                                            src="<?php echo asset();?>images/media-covrage/barbaraiweins.png"
                                                             alt="Top Ruby on Rails IDEs And Editors To Consider For Web Development"
                                                             title="Top Ruby on Rails IDEs And Editors To Consider For Web Development"
                                                             class="w-auto"
@@ -946,11 +857,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/onlinegeeks.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/onlinegeeks.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/onlinegeeks.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/onlinegeeks.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/onlinegeeks.png"
+                                                            src="<?php echo asset();?>images/media-covrage/onlinegeeks.png"
                                                             alt="How Healthscare Industry Leverages Machine Learning Through Wearables"
                                                             title="How Healthscare Industry Leverages Machine Learning Through Wearables"
                                                             class="w-auto"
@@ -975,11 +884,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/modcanyon.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/modcanyon.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/modcanyon.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/modcanyon.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/modcanyon.png"
+                                                            src="<?php echo asset();?>images/media-covrage/modcanyon.png"
                                                             alt="WHY IS GOLANG POPULAR FOR ARTIFICIAL INTELLIGENCE APP DEVELOPMENT?"
                                                             title="WHY IS GOLANG POPULAR FOR ARTIFICIAL INTELLIGENCE APP DEVELOPMENT?"
                                                             class="w-auto"
@@ -1004,11 +911,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/digitaljournal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/digitaljournal.png"
                                                             alt="What Makes Flutter An Ideal Choice For IoT App Development?"
                                                             title="What Makes Flutter An Ideal Choice For IoT App Development?"
                                                             class="w-auto"
@@ -1033,11 +939,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/greenrecord.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/greenrecord.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/greenrecord.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/greenrecord.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/greenrecord.png"
+                                                            src="<?php echo asset();?>images/media-covrage/greenrecord.png"
                                                             alt="Laravel Vs Django: Which One To Choose For Web Development?"
                                                             title="Laravel Vs Django: Which One To Choose For Web Development?"
                                                             class="w-auto"
@@ -1060,11 +965,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/thenewsgod.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/thenewsgod.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/thenewsgod.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/thenewsgod.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/thenewsgod.png"
+                                                            src="<?php echo asset();?>images/media-covrage/thenewsgod.png"
                                                             alt="Laravel With Vue Js For Full Stack Development"
                                                             title="Laravel With Vue Js For Full Stack Development"
                                                             class="w-auto"
@@ -1087,11 +991,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/citygoldmedia.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/citygoldmedia.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/citygoldmedia.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/citygoldmedia.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/citygoldmedia.png"
+                                                            src="<?php echo asset();?>images/media-covrage/citygoldmedia.png"
                                                             alt="React Native: The Best Framework To Choose For MVP Development"
                                                             title="React Native: The Best Framework To Choose For MVP Development"
                                                             class="w-auto"
@@ -1116,11 +1019,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/odyssey.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/odyssey.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/odyssey.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/odyssey.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/odyssey.png"
+                                                            src="<?php echo asset();?>images/media-covrage/odyssey.png"
                                                             alt="Vue Native: Perfect Choice For Mobile App Development"
                                                             title="Vue Native: Perfect Choice For Mobile App Development"
                                                             class="w-auto"
@@ -1145,11 +1047,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tnehiu.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tnehiu.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/tnehiu.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/tnehiu.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/tnehiu.png"
+                                                            src="<?php echo asset();?>images/media-covrage/tnehiu.png"
                                                             alt="What Makes Golang The Ideal Choice For Front-End Application Development?"
                                                             title="What Makes Golang The Ideal Choice For Front-End Application Development?"
                                                             class="w-auto"
@@ -1174,11 +1075,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/business-news.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/business-news.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/business-news.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/business-news.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/business-news.png"
+                                                            src="<?php echo asset();?>images/media-covrage/business-news.png"
                                                             alt="Key Tips For Ruby on Rails Scalability Issues"
                                                             title="Key Tips For Ruby on Rails Scalability Issues"
                                                             class="w-auto"
@@ -1201,11 +1101,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/nazing.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/nazing.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/nazing.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/nazing.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/nazing.png"
+                                                            src="<?php echo asset();?>images/media-covrage/nazing.png"
                                                             alt="Angular With .Net Core For Full Stack Development"
                                                             title="Angular With .Net Core For Full Stack Development"
                                                             class="w-auto"
@@ -1228,11 +1127,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/cosipex.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/cosipex.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/cosipex.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/cosipex.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/cosipex.png"
+                                                            src="<?php echo asset();?>images/media-covrage/cosipex.png"
                                                             alt="React Staff Augmentation The Best Choice For Web Development"
                                                             title="React Staff Augmentation The Best Choice For Web Development"
                                                             class="w-auto"
@@ -1257,11 +1155,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techtimes.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techtimes.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techtimes.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techtimes.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techtimes.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techtimes.png"
                                                             alt=" Build An Ecommerce Web App Using MEAN Stack"
                                                             title=" Build An Ecommerce Web App Using MEAN Stack"
                                                             class="w-auto"
@@ -1284,11 +1181,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/the-pk-times.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/the-pk-times.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/the-pk-times.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/the-pk-times.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/the-pk-times.png"
+                                                            src="<?php echo asset();?>images/media-covrage/the-pk-times.png"
                                                             alt=" Data Science for Small Businesses"
                                                             title=" Data Science for Small Businesses"
                                                             class="w-auto"
@@ -1311,11 +1207,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/enterpreneurs.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/enterpreneurs.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/enterpreneurs.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/enterpreneurs.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/enterpreneurs.png"
+                                                            src="<?php echo asset();?>images/media-covrage/enterpreneurs.png"
                                                             alt=" Compelling Reasons to Choose Python For Web Development"
                                                             title=" Compelling Reasons to Choose Python For Web Development"
                                                             class="w-auto"
@@ -1340,11 +1235,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techzimo.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techzimo.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techzimo.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techzimo.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techzimo.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techzimo.png"
                                                             alt="ReactJs With Django For Application Development"
                                                             title="ReactJs With Django For Application Development"
                                                             class="w-auto"
@@ -1367,11 +1261,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/gistrat.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/gistrat.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/gistrat.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/gistrat.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/gistrat.png"
+                                                            src="<?php echo asset();?>images/media-covrage/gistrat.png"
                                                             alt="React With Node Js For Full Stack Web Application Development"
                                                             title="React With Node Js For Full Stack Web Application Development"
                                                             class="w-auto"
@@ -1396,11 +1289,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ridzeal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ridzeal.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/ridzeal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/ridzeal.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/ridzeal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/ridzeal.png"
                                                             alt="Laravel – The Best PHP Framework For Web Development"
                                                             title="Laravel – The Best PHP Framework For Web Development"
                                                             class="w-auto"
@@ -1423,11 +1315,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/publicist.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/publicist.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/publicist.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/publicist.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/publicist.png"
+                                                            src="<?php echo asset();?>images/media-covrage/publicist.png"
                                                             alt="Staff Augmentation: How to Extend Development Team and Solve Hiring Problems"
                                                             title="Staff Augmentation: How to Extend Development Team and Solve Hiring Problems"
                                                             class="w-auto"
@@ -1452,11 +1343,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/updated.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/updated.png" type="image/png" />
+                                                       
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/updated.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/updated.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/updated.png"
+                                                            src="<?php echo asset();?>images/media-covrage/updated.png"
                                                             alt="Angular With .net Core For Next-Gen Full-Stack Web App Development"
                                                             title="Angular With .net Core For Next-Gen Full-Stack Web App Development"
                                                             class="w-auto"
@@ -1481,11 +1371,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dailysayonet.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dailysayonet.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/dailysayonet.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/dailysayonet.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/dailysayonet.png"
+                                                            src="<?php echo asset();?>images/media-covrage/dailysayonet.png"
                                                             alt="Tips Worth Considering For Ruby On Rails Performance"
                                                             title="Tips Worth Considering For Ruby On Rails Performance"
                                                             class="w-auto"
@@ -1508,11 +1397,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tech.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tech.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/tech.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/tech.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/tech.png"
+                                                            src="<?php echo asset();?>images/media-covrage/tech.png"
                                                             alt="Ultimate Guide On Application Development Using Python"
                                                             title="Ultimate Guide On Application Development Using Python"
                                                             class="w-auto"
@@ -1535,11 +1423,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/scoopearth.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/scoopearth.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/scoopearth.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/scoopearth.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/scoopearth.png"
+                                                            src="<?php echo asset();?>images/media-covrage/scoopearth.png"
                                                             alt="Comparison of Dedicated Developers V/s Freelance Developers"
                                                             title="Comparison of Dedicated Developers V/s Freelance Developers"
                                                             class="w-auto"
@@ -1564,11 +1451,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techmagzinepure.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techmagzinepure.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techmagzinepure.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techmagzinepure.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techmagzinepure.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techmagzinepure.png"
                                                             alt="What’s New In React 18 Release Candidate?"
                                                             title="What’s New In React 18 Release Candidate?"
                                                             class="w-auto"
@@ -1591,11 +1477,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/editorialge.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/editorialge.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/editorialge.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/editorialge.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/editorialge.png"
+                                                            src="<?php echo asset();?>images/media-covrage/editorialge.png"
                                                             alt="Flutter Mobile App Development: The Perfect Fit For Cross Platform App Development"
                                                             title="Flutter Mobile App Development: The Perfect Fit For Cross Platform App Development"
                                                             class="w-auto"
@@ -1618,11 +1503,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitalglobaltimes.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitalglobaltimes.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitalglobaltimes.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitalglobaltimes.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/digitalglobaltimes.png"
+                                                            src="<?php echo asset();?>images/media-covrage/digitalglobaltimes.png"
                                                             alt="React Native vs Xamarin: What’s the Best Cross-Platform App Development Framework?"
                                                             title="React Native vs Xamarin: What’s the Best Cross-Platform App Development Framework?"
                                                             class="w-auto"
@@ -1645,11 +1529,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ventsmagazine.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ventsmagazine.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/ventsmagazine.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/ventsmagazine.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/ventsmagazine.png"
+                                                            src="<?php echo asset();?>images/media-covrage/ventsmagazine.png"
                                                             alt="What Are The Popular Full Stack Combination To Consider In 2022"
                                                             title="What Are The Popular Full Stack Combination To Consider In 2022"
                                                             class="w-auto"
@@ -1674,11 +1557,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/edumanias.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/edumanias.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/edumanias.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/edumanias.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/edumanias.png"
+                                                            src="<?php echo asset();?>images/media-covrage/edumanias.png"
                                                             alt="HOW REACT NATIVE IS EMPOWERING UBER EATS AND AIRBNB"
                                                             title="HOW REACT NATIVE IS EMPOWERING UBER EATS AND AIRBNB"
                                                             class="w-auto"
@@ -1701,11 +1583,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/makeanapp.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/makeanapp.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/makeanapp.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/makeanapp.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/makeanapp.png"
+                                                            src="<?php echo asset();?>images/media-covrage/makeanapp.png"
                                                             alt="7 Tips to Improve the Performance Of  Your Flutter Web App &amp; Desktop"
                                                             title="7 Tips to Improve the Performance Of  Your Flutter Web App &amp; Desktop"
                                                             class="w-auto"
@@ -1730,11 +1611,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/visualmodo-logo-color.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/visualmodo-logo-color.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/visualmodo-logo-color.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/visualmodo-logo-color.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/visualmodo-logo-color.png"
+                                                            src="<?php echo asset();?>images/media-covrage/visualmodo-logo-color.png"
                                                             alt="Top 15 React Native Tools"
                                                             title="Top 15 React Native Tools"
                                                             class="w-auto"
@@ -1757,11 +1637,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2022" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/entrepreneurs-break.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/entrepreneurs-break.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/entrepreneurs-break.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/entrepreneurs-break.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/entrepreneurs-break.png"
+                                                            src="<?php echo asset();?>images/media-covrage/entrepreneurs-break.png"
                                                             alt="How Flutter for Web Helps to Reduce App Development Cost"
                                                             title="How Flutter for Web Helps to Reduce App Development Cost"
                                                             class="w-auto"
@@ -1786,11 +1665,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 12 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/knowtechie.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/knowtechie.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/knowtechie.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/knowtechie.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/knowtechie.png"
+                                                            src="<?php echo asset();?>images/media-covrage/knowtechie.png"
                                                             alt="What makes React Native suitable for Uber Eats and other online food delivery apps?"
                                                             title="What makes React Native suitable for Uber Eats and other online food delivery apps?"
                                                             class="w-auto"
@@ -1815,11 +1693,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/bmmagazine.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/bmmagazine.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/bmmagazine.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/bmmagazine.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/bmmagazine.png"
+                                                            src="<?php echo asset();?>images/media-covrage/bmmagazine.png"
                                                             alt="AWS IoT Use Case: How to Build an EV Charging App Flawlessly?"
                                                             title="AWS IoT Use Case: How to Build an EV Charging App Flawlessly?"
                                                             class="w-auto"
@@ -1842,11 +1719,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 11 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techgenyz.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techgenyz.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techgenyz.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techgenyz.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techgenyz.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techgenyz.png"
                                                             alt="Top six languages for Web App Development in 2022"
                                                             title="Top six languages for Web App Development in 2022"
                                                             class="w-auto"
@@ -1869,11 +1745,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techdee.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techdee.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techdee.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techdee.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techdee.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techdee.png"
                                                             alt="How Salesforce Integration with Twilio Boosts Customer Satisfaction"
                                                             title="How Salesforce Integration with Twilio Boosts Customer Satisfaction"
                                                             class="w-auto"
@@ -1896,11 +1771,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/whatsontech.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/whatsontech.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/whatsontech.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/whatsontech.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/whatsontech.png"
+                                                            src="<?php echo asset();?>images/media-covrage/whatsontech.png"
                                                             alt="Vue Storefront – Headless PWA for any eCommerce"
                                                             title="Vue Storefront – Headless PWA for any eCommerce"
                                                             class="w-auto"
@@ -1923,11 +1797,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/nasdaq.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/nasdaq.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/nasdaq.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/nasdaq.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/nasdaq.png"
+                                                            src="<?php echo asset();?>images/media-covrage/nasdaq.png"
                                                             alt="What’s the Most Searched Cryptocurrency in the U.S. This Year?"
                                                             title="What’s the Most Searched Cryptocurrency in the U.S. This Year?"
                                                             class="w-auto"
@@ -1952,11 +1825,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/londonlovesbusiness.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/londonlovesbusiness.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/londonlovesbusiness.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/londonlovesbusiness.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/londonlovesbusiness.png"
+                                                            src="<?php echo asset();?>images/media-covrage/londonlovesbusiness.png"
                                                             alt="The sectors which have seen the highest pay increases during pandemic"
                                                             title="The sectors which have seen the highest pay increases during pandemic"
                                                             class="w-auto"
@@ -1981,11 +1853,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businessnewswales.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businessnewswales.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/businessnewswales.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/businessnewswales.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/businessnewswales.png"
+                                                            src="<?php echo asset();?>images/media-covrage/businessnewswales.png"
                                                             alt="Science and Technical Industries See Highest Pay Increases"
                                                             title="Science and Technical Industries See Highest Pay Increases"
                                                             class="w-auto"
@@ -2010,11 +1881,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/intelligenthq.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/intelligenthq.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/intelligenthq.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/intelligenthq.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/intelligenthq.png"
+                                                            src="<?php echo asset();?>images/media-covrage/intelligenthq.png"
                                                             alt="Facebook Dominated “App War” During Lockdown, But Public Opinion Tells A Different Story"
                                                             title="Facebook Dominated “App War” During Lockdown, But Public Opinion Tells A Different Story"
                                                             class="w-auto"
@@ -2039,11 +1909,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/capitalcom.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/capitalcom.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/capitalcom.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/capitalcom.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/capitalcom.png"
+                                                            src="<?php echo asset();?>images/media-covrage/capitalcom.png"
                                                             alt="Most-searched stocks on Google in 2021"
                                                             title="Most-searched stocks on Google in 2021"
                                                             class="w-auto"
@@ -2066,11 +1935,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/digitaljournal.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/digitaljournal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/digitaljournal.png"
                                                             alt="Around 26 million people are at increased risk of hacking"
                                                             title="Around 26 million people are at increased risk of hacking"
                                                             class="w-auto"
@@ -2095,11 +1963,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 10 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/wallstreetitalia.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/wallstreetitalia.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/wallstreetitalia.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/wallstreetitalia.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/wallstreetitalia.png"
+                                                            src="<?php echo asset();?>images/media-covrage/wallstreetitalia.png"
                                                             alt="Tesla è il titolo più ricercato su Google nel 2021"
                                                             title="Tesla è il titolo più ricercato su Google nel 2021"
                                                             class="w-auto"
@@ -2122,11 +1988,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techolac.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techolac.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techolac.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techolac.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techolac.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techolac.png"
                                                             alt="React Concurrent Mode: The future of Web Apps"
                                                             title="React Concurrent Mode: The future of Web Apps"
                                                             class="w-auto"
@@ -2149,11 +2013,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/savedelete.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/savedelete.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/savedelete.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/savedelete.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/savedelete.png"
+                                                            src="<?php echo asset();?>images/media-covrage/savedelete.png"
                                                             alt="Golang Error Handling Best Practices to Adopt in 2021!"
                                                             title="Golang Error Handling Best Practices to Adopt in 2021!"
                                                             class="w-auto"
@@ -2176,11 +2038,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/security-online.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/security-online.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/security-online.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/security-online.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/security-online.png"
+                                                            src="<?php echo asset();?>images/media-covrage/security-online.png"
                                                             alt="Golang vs Python: Which One to Choose for AI Development?"
                                                             title="Golang vs Python: Which One to Choose for AI Development?"
                                                             class="w-auto"
@@ -2203,11 +2063,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/business-express.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/business-express.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/business-express.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/business-express.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/business-express.png"
+                                                            src="<?php echo asset();?>images/media-covrage/business-express.png"
                                                             alt="REVEALED: FACEBOOK DOMINATES APP MARKET DURING LOCKDOWN"
                                                             title="REVEALED: FACEBOOK DOMINATES APP MARKET DURING LOCKDOWN"
                                                             class="w-auto"
@@ -2230,11 +2088,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/openbusinesscouncil.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/openbusinesscouncil.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/openbusinesscouncil.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/openbusinesscouncil.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/openbusinesscouncil.png"
+                                                            src="<?php echo asset();?>images/media-covrage/openbusinesscouncil.png"
                                                             alt="Facebook Dominates App Market During Lockdown"
                                                             title="Facebook Dominates App Market During Lockdown"
                                                             class="w-auto"
@@ -2257,11 +2113,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/westwales.png"
+                                                            src="<?php echo asset();?>images/media-covrage/westwales.png"
                                                             alt="REVEALED: FACEBOOK DOMINATES APP MARKET DURING LOCKDOWN"
                                                             title="REVEALED: FACEBOOK DOMINATES APP MARKET DURING LOCKDOWN"
                                                             class="w-auto"
@@ -2286,11 +2140,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ffnews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/ffnews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/ffnews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/ffnews.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/ffnews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/ffnews.png"
                                                             alt="Facebook dominates App Market during lockdown"
                                                             title="Facebook dominates App Market during lockdown"
                                                             class="w-auto"
@@ -2313,11 +2165,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businessofapps.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/businessofapps.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/businessofapps.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/businessofapps.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/businessofapps.png"
+                                                            src="<?php echo asset();?>images/media-covrage/businessofapps.png"
                                                             alt="Facebook-owned apps saw nearly 2 billion downloads in 2020"
                                                             title="Facebook-owned apps saw nearly 2 billion downloads in 2020"
                                                             class="w-auto"
@@ -2342,11 +2192,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 9 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/westwales.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/westwales.png"
+                                                            src="<?php echo asset();?>images/media-covrage/westwales.png"
                                                             alt="TOP 10 MOST GOOGLED STOCKS REVEALED"
                                                             title="TOP 10 MOST GOOGLED STOCKS REVEALED"
                                                             class="w-auto"
@@ -2369,11 +2217,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techwibe.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techwibe.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techwibe.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techwibe.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techwibe.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techwibe.png"
                                                             alt="How to Choose an Outsourcing Software development team."
                                                             title="How to Choose an Outsourcing Software development team."
                                                             class="w-auto"
@@ -2396,11 +2242,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/computertechreviews.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/computertechreviews.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/computertechreviews.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/computertechreviews.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/computertechreviews.png"
+                                                            src="<?php echo asset();?>images/media-covrage/computertechreviews.png"
                                                             alt="Top 7 Sales Cloud Features To Boost Your Business Sales."
                                                             title="Top 7 Sales Cloud Features To Boost Your Business Sales."
                                                             class="w-auto"
@@ -2425,11 +2269,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 8 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/european.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/european.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/european.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/european.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/european.png"
+                                                            src="<?php echo asset();?>images/media-covrage/european.png"
                                                             alt="Why Choose React Native For Your Mobile Tech Stack?"
                                                             title="Why Choose React Native For Your Mobile Tech Stack?"
                                                             class="w-auto"
@@ -2454,11 +2296,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/smartdata-collective.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/smartdata-collective.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/smartdata-collective.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/smartdata-collective.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/smartdata-collective.png"
+                                                            src="<?php echo asset();?>images/media-covrage/smartdata-collective.png"
                                                             alt="Top 10 Big Data CRM Tools To Increase Business Sales"
                                                             title="Top 10 Big Data CRM Tools To Increase Business Sales"
                                                             class="w-auto"
@@ -2481,11 +2321,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 7 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/justwebworld.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/justwebworld.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/justwebworld.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/justwebworld.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/justwebworld.png"
+                                                            src="<?php echo asset();?>images/media-covrage/justwebworld.png"
                                                             alt="5 Best Salesforce Security Best Practices: Every Business Should Consider"
                                                             title="5 Best Salesforce Security Best Practices: Every Business Should Consider"
                                                             class="w-auto"
@@ -2508,11 +2346,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/dev-to.png"
+                                                            src="<?php echo asset();?>images/media-covrage/dev-to.png"
                                                             alt="Top 10 Web Development Frameworks to Use in 2021"
                                                             title="Top 10 Web Development Frameworks to Use in 2021"
                                                             class="w-auto"
@@ -2535,11 +2371,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techstory.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techstory.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techstory.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techstory.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techstory.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techstory.png"
                                                             alt="Everything About Non-Disclosure Agreements – NDA for Agile Software Development"
                                                             title="Everything About Non-Disclosure Agreements – NDA for Agile Software Development"
                                                             class="w-auto"
@@ -2564,11 +2398,9 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/technofaq.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/technofaq.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/technofaq.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/technofaq.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/technofaq.png"
+                                                            src="<?php echo asset();?>images/media-covrage/technofaq.png"
                                                             alt="CEO’s Guide on How to Develop a HIPAA Compliant Cross-Platform Mobile Application"
                                                             title="CEO’s Guide on How to Develop a HIPAA Compliant Cross-Platform Mobile Application"
                                                             class="w-auto"
@@ -2593,11 +2425,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 6 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techicy.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techicy.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techicy.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techicy.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techicy.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techicy.png"
                                                             alt="WebApps Vs Native Apps Vs. Cross-Platform Apps: What’s the Difference?"
                                                             title="WebApps Vs Native Apps Vs. Cross-Platform Apps: What’s the Difference?"
                                                             class="w-auto"
@@ -2622,11 +2453,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tweakyourbiz.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tweakyourbiz.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/tweakyourbiz.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/tweakyourbiz.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/tweakyourbiz.png"
+                                                            src="<?php echo asset();?>images/media-covrage/tweakyourbiz.png"
                                                             alt="Most Common Mistakes Angular Developers Make"
                                                             title="Most Common Mistakes Angular Developers Make"
                                                             class="w-auto"
@@ -2649,11 +2479,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techlogitic.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techlogitic.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techlogitic.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techlogitic.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techlogitic.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techlogitic.png"
                                                             alt="Top 5 Reasons Why Ruby On Rails Is Relevant For Your MVP In 2021"
                                                             title="Top 5 Reasons Why Ruby On Rails Is Relevant For Your MVP In 2021"
                                                             class="w-auto"
@@ -2678,11 +2507,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tech-patio.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/tech-patio.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/tech-patio.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/tech-patio.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/tech-patio.png"
+                                                            src="<?php echo asset();?>images/media-covrage/tech-patio.png"
                                                             alt="Top React Native Libraries Worth Checking Out In 2021"
                                                             title="Top React Native Libraries Worth Checking Out In 2021"
                                                             class="w-auto"
@@ -2707,11 +2535,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 5 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hellbound-bloggers.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hellbound-bloggers.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/hellbound-bloggers.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/hellbound-bloggers.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/hellbound-bloggers.png"
+                                                            src="<?php echo asset();?>images/media-covrage/hellbound-bloggers.png"
                                                             alt="Top 8 Back-End Frameworks to Explore in 2021"
                                                             title="Top 8 Back-End Frameworks to Explore in 2021"
                                                             class="w-auto"
@@ -2734,11 +2561,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/vocal.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/vocal.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/vocal.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/vocal.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/vocal.png"
+                                                            src="<?php echo asset();?>images/media-covrage/vocal.png"
                                                             alt="Agile SDLC and Its Phases: A Promising Software Development Life Cycle Model"
                                                             title="Agile SDLC and Its Phases: A Promising Software Development Life Cycle Model"
                                                             class="w-auto"
@@ -2763,11 +2589,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 4 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/DZone.png"
+                                                            src="<?php echo asset();?>images/media-covrage/DZone.png"
                                                             alt="Top 10 Key Elements for Successful SAFe Implementation"
                                                             title="Top 10 Key Elements for Successful SAFe Implementation"
                                                             class="w-auto"
@@ -2790,11 +2615,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/DZone.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/DZone.png"
+                                                            src="<?php echo asset();?>images/media-covrage/DZone.png"
                                                             alt="The Scaled Agile Framework (SAFe): Everything You Need to Know"
                                                             title="The Scaled Agile Framework (SAFe): Everything You Need to Know"
                                                             class="w-auto"
@@ -2819,11 +2643,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techcrack.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/techcrack.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/techcrack.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/techcrack.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/techcrack.png"
+                                                            src="<?php echo asset();?>images/media-covrage/techcrack.png"
                                                             alt="Top 10 Web Development Frameworks to Choose in 2021"
                                                             title="Top 10 Web Development Frameworks to Choose in 2021"
                                                             class="w-auto"
@@ -2846,11 +2669,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hackernoon.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hackernoon.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/hackernoon.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/hackernoon.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/hackernoon.png"
+                                                            src="<?php echo asset();?>images/media-covrage/hackernoon.png"
                                                             alt="Google Releases Flutter 2 with Support for Different Platforms"
                                                             title="Google Releases Flutter 2 with Support for Different Platforms"
                                                             class="w-auto"
@@ -2875,11 +2697,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/dev-to.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/dev-to.png"
+                                                            src="<?php echo asset();?>images/media-covrage/dev-to.png"
                                                             alt="ReactJS Pagination Using Material UI"
                                                             title="ReactJS Pagination Using Material UI"
                                                             class="w-auto"
@@ -2902,11 +2723,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 3 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hashnode.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/hashnode.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/hashnode.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/hashnode.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/hashnode.png"
+                                                            src="<?php echo asset();?>images/media-covrage/hashnode.png"
                                                             alt="How Much Does It Cost to Build An App 2021?"
                                                             title="How Much Does It Cost to Build An App 2021?"
                                                             class="w-auto"
@@ -2929,11 +2749,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/steemit.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/steemit.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/steemit.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/steemit.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/steemit.png"
+                                                            src="<?php echo asset();?>images/media-covrage/steemit.png"
                                                             alt="Top 08 Cross-Platform App Development Tools To Use In 2021"
                                                             title="Top 08 Cross-Platform App Development Tools To Use In 2021"
                                                             class="w-auto"
@@ -2958,11 +2777,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 2 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/noupe.png"
+                                                            src="<?php echo asset();?>images/media-covrage/noupe.png"
                                                             alt="What’s New in Laravel 8?"
                                                             title="What’s New in Laravel 8?"
                                                             class="w-auto"
@@ -2985,11 +2803,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png" type="image/png" />
+                                                        
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/noupe.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/noupe.png"
+                                                            src="<?php echo asset();?>images/media-covrage/noupe.png"
                                                             alt="Top 7 Fullstack Development Trends To Follow In 2021"
                                                             title="Top 7 Fullstack Development Trends To Follow In 2021"
                                                             class="w-auto"
@@ -3012,11 +2829,10 @@
                                             <div class="col-lg-4 col-md-6 show-more-boxed item 0 1 2021" style="display: none;">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/morioh.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/morioh.png" type="image/png" />
+                                                       
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/morioh.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/morioh.png"
+                                                            data-src="<?php echo asset();?>images/media-covrage/morioh.png"
+                                                            src="<?php echo asset();?>images/media-covrage/morioh.png"
                                                             alt="Build Your Apps Using Salesforce AppExchange"
                                                             title="Build Your Apps Using Salesforce AppExchange"
                                                             class="w-auto"
@@ -3062,11 +2878,8 @@
                                             <div class="col-lg-4 col-md-6 item 0 1 2021">
                                                 <div class="service-box bg-white shadow-custom">
                                                     <picture>
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/e-vehicle-info.webp" type="image/webp" />
-                                                        <source srcset="<?php echo base_url();?>main-boot-5/images/media-covrage/e-vehicle-info.png" type="image/png" />
                                                         <img
-                                                            data-src="<?php echo base_url();?>main-boot-5/images/media-covrage/e-vehicle-info.png"
-                                                            src="<?php echo base_url();?>main-boot-5/images/media-covrage/e-vehicle-info.png"
+                                                            src="<?php echo asset();?>images/media-covrage/e-vehicle-info.webp"
                                                             alt="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
                                                             title="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
                                                             class="w-auto"

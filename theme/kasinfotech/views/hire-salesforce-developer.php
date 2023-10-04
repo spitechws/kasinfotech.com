@@ -20,11 +20,11 @@
 <section class="header-spacing section-padding banner-post banner-main">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/banner.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/banner.jpg?v-2" type="image/jpeg" />
+            <source srcset="<?php echo asset();?>images/hire-salesforce/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/hire-salesforce/banner.jpg?v-2" type="image/jpeg" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
-                src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
+                data-src="<?php echo asset();?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
+                src="<?php echo asset();?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
                 alt="Hire Salesforce Developer"
                 title="Hire Salesforce Developer"
                 data-pagespeed-url-hash="3928554189"
@@ -36,11 +36,11 @@
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse align-items-lg-center">
             <div class="col-lg-5 text-center">
                 <picture>
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/banner-side.png?v-4" type="image/jpeg" />
+                    <source srcset="<?php echo asset();?>images/hire-salesforce/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-salesforce/banner-side.png?v-4" type="image/jpeg" />
                     <img
-                        data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
-                        src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
+                        data-src="<?php echo asset();?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
+                        src="<?php echo asset();?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
                         alt="Salesforce Developer"
                         title="Salesforce Developer "
                         data-pagespeed-url-hash="99794267"
@@ -75,8 +75,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
                                         src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
@@ -95,8 +95,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
                                         src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
@@ -115,8 +115,8 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
-                                    <source srcset="<?php echo base_url();?>main-boot-5/images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
+                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
                                     <img
                                         data-src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
                                         src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
@@ -145,86 +145,38 @@
                     <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-1.png.pagespeed.ic.JRkjGoJnv-.webp"
-                                alt="mercedes"
-                                title="mercedes"
-                                data-pagespeed-url-hash="1598795654"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes" data-pagespeed-url-hash="1598795654" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-2.png.pagespeed.ic.9sbHW7pdTB.webp"
-                                alt="Warner Bros"
-                                title="Warner Bros"
-                                data-pagespeed-url-hash="1893295575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros" data-pagespeed-url-hash="1893295575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-3.png.pagespeed.ic.mF-IwFZDaq.webp"
-                                alt="disney"
-                                title="disney"
-                                data-pagespeed-url-hash="2187795496"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-3.png'); ?>" src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney" data-pagespeed-url-hash="2187795496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-4.png.pagespeed.ic.NKWqzDihq-.webp"
-                                alt="dubai bazaar"
-                                title="dubai bazaar"
-                                data-pagespeed-url-hash="2482295417"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-4.png'); ?>" src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar" data-pagespeed-url-hash="2482295417" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-5.png.pagespeed.ic.Wds-vYemON.webp"
-                                alt="red bull"
-                                title="red bull"
-                                data-pagespeed-url-hash="2776795338"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-5.png'); ?>" src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull" data-pagespeed-url-hash="2776795338" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                     <li>
                         <picture>
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.webp" type="image/webp" />
-                            <source srcset="<?php echo base_url();?>main-boot-5/images/trust-by/logo-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                src="<?php echo base_url();?>main-boot-5/images/trust-by/xlogo-6.png.pagespeed.ic.k51njrcn0F.webp"
-                                alt="3m"
-                                title="3m"
-                                data-pagespeed-url-hash="3071295259"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset('images/logo-6.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/logo-6.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/logo-6.png'); ?>" src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m" data-pagespeed-url-hash="3071295259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </li>
                 </ul>
@@ -241,7 +193,7 @@
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
                                 <img
-                                    src="main-boot-5/images/bacancy-icon.svg?v-1"
+                                    src="images/bacancy-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -438,11 +390,11 @@
 <section class="section-padding pt-200 banner-post full-width-form pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo base_url();?>main-boot-5/images/spring-boot-ppc/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo base_url();?>main-boot-5/images/spring-boot-ppc/form-bg.png" type="image/png" />
+            <source srcset="<?php echo asset();?>images/spring-boot-ppc/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/spring-boot-ppc/form-bg.png" type="image/png" />
             <img
-                data-src="<?php echo base_url();?>main-boot-5/images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
-                src="<?php echo base_url();?>main-boot-5/images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
+                data-src="<?php echo asset();?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
+                src="<?php echo asset();?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
                 alt="Hire Salesforce Developer Within 48 Hours"
                 title="Hire Salesforce Developer Within 48 Hours"
                 class="lazy"
@@ -700,11 +652,11 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-1.jpg?v-2" type="image/jpeg" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-1.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-1.jpg?v-2" type="image/jpeg" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
+                                            data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
+                                            src="<?php echo asset();?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
                                             alt="Healthcare Solution"
                                             title="Healthcare Solution"
                                             class="ob-cover"
@@ -731,11 +683,11 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-3.jpg?v-6" type="image/jpeg" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-3.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-3.jpg?v-6" type="image/jpeg" />
                                         <img
-                                            data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
-                                            src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
+                                            data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
+                                            src="<?php echo asset();?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
                                             alt="Salesforce Lighting"
                                             title="Salesforce Lighting"
                                             class="ob-cover"
@@ -764,11 +716,11 @@
                     <div class="col-md-5 col-lg-12">
                         <div class="position-relative h-100">
                             <picture>
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-2.webp" type="image/webp" />
-                                <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/cs-img-2.jpg?v-7" type="image/jpeg" />
+                                <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-2.jpg?v-7" type="image/jpeg" />
                                 <img
-                                    data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
-                                    src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
+                                    data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
+                                    src="<?php echo asset();?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
                                     alt="Real Estate Solution"
                                     title="Real Estate Solution"
                                     class="ob-cover"
@@ -798,11 +750,11 @@
 </section>
 <section class="abt-team section-paragraph section-padding-bottom pt-0">
     <picture>
-        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/hire-img.webp" type="image/webp" />
-        <source srcset="<?php echo base_url();?>main-boot-5/images/hire-salesforce/hire-img.jpg" type="image/jpeg" />
+        <source srcset="<?php echo asset();?>images/hire-salesforce/hire-img.webp" type="image/webp" />
+        <source srcset="<?php echo asset();?>images/hire-salesforce/hire-img.jpg" type="image/jpeg" />
         <img
-            data-src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
-            src="<?php echo base_url();?>main-boot-5/images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
+            data-src="<?php echo asset();?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
+            src="<?php echo asset();?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
             alt="Hire Salesforce Developers From Bacancy"
             title="Hire Salesforce Developers From Bacancy"
             class="lazy w-100"
@@ -1045,11 +997,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                     alt="Top 1% IT Talent"
                                                     title="Top 1% IT Talent"
                                                     class="lazy slider-img"
@@ -1073,11 +1025,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                     alt="Time Zone Aligned"
                                                     title="Time Zone Aligned"
                                                     class="lazy slider-img"
@@ -1101,11 +1053,11 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo base_url();?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                 <img
-                                                    data-src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo base_url();?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                     alt="Experienced Team"
                                                     title="Experienced Team"
                                                     class="lazy slider-img"

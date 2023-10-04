@@ -26,11 +26,11 @@
                         <p class="career__banner-subtitle h3 pb-0">Core Team will work as Scrum Team where Team will have quarterly goal to make sure that we run financial, administrative and project management prospective.</p>
                     </div>
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/bacancy-culture/banner.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/bacancy-culture/banner.jpg" type="image/jpeg" />
+                        <source srcset="<?php echo asset(); ?>images/bacancy-culture/banner.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/bacancy-culture/banner.jpg" type="image/jpeg" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
-                            src="<?php echo base_url(); ?>main-boot-5/images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
+                            data-src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
+                            src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
                             alt="Bacancy Culture"
                             title="Bacancy Culture"
                             data-pagespeed-url-hash="1951740093"
@@ -175,11 +175,11 @@
             <div class="col-lg-6">
                 <div class="boxed shadow-custom bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/mindset.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/mindset.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
-                            src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
+                            data-src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
+                            src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
                             alt="Agile Mindset"
                             title="Agile Mindset"
                             class="mb-lg"
@@ -195,11 +195,11 @@
             <div class="col-lg-6">
                 <div class="boxed shadow-custom bg-white">
                     <picture>
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/value.webp" type="image/webp" />
-                        <source srcset="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/value.png" type="image/png" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/value.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/agile-mindset/value.png" type="image/png" />
                         <img
-                            data-src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
-                            src="<?php echo base_url(); ?>main-boot-5/images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
+                            data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
+                            src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
                             alt="Bacancy Values"
                             title="Bacancy Values"
                             class="mb-lg"
@@ -253,11 +253,11 @@
                                                 <div class="row align-items-center">
                                                     <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                         <picture>
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.webp" type="image/webp" />
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
                                                             <img
-                                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                                src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                                src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
                                                                 alt="Top 1% IT Talent"
                                                                 title="Top 1% IT Talent"
                                                                 class="slider-img"
@@ -281,11 +281,11 @@
                                                 <div class="row align-items-center">
                                                     <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                         <picture>
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.webp" type="image/webp" />
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
                                                             <img
-                                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                                src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                                src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
                                                                 alt="Time Zone Aligned"
                                                                 title="Time Zone Aligned"
                                                                 class="slider-img"
@@ -309,11 +309,11 @@
                                                 <div class="row align-items-center">
                                                     <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                         <picture>
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.webp" type="image/webp" />
-                                                            <source srcset="<?php echo base_url(); ?>main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                            <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
                                                             <img
-                                                                data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                                src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                                src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
                                                                 alt="Experienced Team"
                                                                 title="Experienced Team"
                                                                 class="slider-img"
