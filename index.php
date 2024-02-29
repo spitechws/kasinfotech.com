@@ -26,7 +26,6 @@ if (is_localhost()) {
 switch (ENVIRONMENT) {
     case 'development':
         ini_set('display_errors', 1);
-        error_reporting(E_ALL & ~E_DEPRECATED & ~E_NOTICE);
         break;
     case 'testing':
         break;
@@ -38,7 +37,8 @@ switch (ENVIRONMENT) {
         echo 'The application environment is not set correctly.';
         exit(1); // EXIT_ERROR
 }
-error_reporting(E_ALL);
+error_reporting(E_ALL & ~E_DEPRECATED & ~E_NOTICE);
+
 /*
  * ---------------------------------------------------------------
  * SYSTEM DIRECTORY NAME

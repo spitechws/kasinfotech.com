@@ -30,7 +30,7 @@ SET time_zone = "+00:00";
 CREATE TABLE `banner` (
   `banner_id` int(11) NOT NULL,
   `image` mediumtext DEFAULT NULL,
-  `caption` varchar(300) DEFAULT NULL,
+  `caption` varchar(190) DEFAULT NULL,
   `pk` int(11) DEFAULT NULL COMMENT 'Service or Product Table PK',
   `type` enum('product','service','other') NOT NULL DEFAULT 'product',
   `edited_date` datetime NOT NULL,
@@ -54,7 +54,7 @@ INSERT INTO `banner` (`banner_id`, `image`, `caption`, `pk`, `type`, `edited_dat
 
 CREATE TABLE `career` (
   `career_id` int(11) NOT NULL,
-  `job_title` varchar(300) DEFAULT NULL,
+  `job_title` varchar(190) DEFAULT NULL,
   `job_description` mediumtext DEFAULT NULL,
   `posts` int(11) DEFAULT NULL,
   `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
@@ -154,7 +154,7 @@ CREATE TABLE `comments` (
 
 CREATE TABLE `config` (
   `id` int(11) NOT NULL,
-  `name` varchar(300) NOT NULL,
+  `name` varchar(190) NOT NULL,
   `value` mediumtext DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci COMMENT='Framework Table';
 
@@ -229,7 +229,7 @@ CREATE TABLE `enquiry` (
   `service_id` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
   `mobile` varchar(100) NOT NULL,
-  `email` varchar(300) NOT NULL,
+  `email` varchar(190) NOT NULL,
   `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
@@ -256,7 +256,7 @@ INSERT INTO `enquiry` (`id`, `service_id`, `name`, `mobile`, `email`, `message`,
 
 CREATE TABLE `gallery` (
   `gallery_id` int(11) NOT NULL,
-  `title` varchar(300) DEFAULT NULL,
+  `title` varchar(190) DEFAULT NULL,
   `sequence_no` int(11) DEFAULT NULL,
   `created_date` date DEFAULT NULL,
   `status` int(11) NOT NULL,
@@ -330,9 +330,9 @@ INSERT INTO `job_application` (`application_id`, `career_id`, `name`, `mobile`, 
 
 CREATE TABLE `message_templates` (
   `template_id` int(11) NOT NULL,
-  `template` varchar(300) NOT NULL,
+  `template` varchar(190) NOT NULL,
   `subject` mediumtext NOT NULL,
-  `from_name` varchar(300) NOT NULL,
+  `from_name` varchar(190) NOT NULL,
   `from_email` varchar(100) NOT NULL,
   `bcc` varchar(100) NOT NULL,
   `cc` varchar(100) NOT NULL,
@@ -507,7 +507,7 @@ CREATE TABLE `product` (
   `id` int(11) NOT NULL,
   `slug` varchar(100) NOT NULL,
   `demo_url` varchar(150) DEFAULT NULL,
-  `name` varchar(300) DEFAULT NULL,
+  `name` varchar(190) DEFAULT NULL,
   `details` text DEFAULT NULL,
   `image1` varchar(150) DEFAULT NULL,
   `image2` varchar(150) DEFAULT NULL,
@@ -585,7 +585,7 @@ INSERT INTO `subscriber` (`subscriber_id`, `name`, `email`, `created_date`) VALU
 CREATE TABLE `testimonial` (
   `id` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
-  `video_url` varchar(300) DEFAULT NULL,
+  `video_url` varchar(190) DEFAULT NULL,
   `message` mediumtext NOT NULL,
   `created_date` datetime DEFAULT NULL,
   `edited_date` datetime DEFAULT NULL,
@@ -612,9 +612,9 @@ INSERT INTO `testimonial` (`id`, `name`, `video_url`, `message`, `created_date`,
 CREATE TABLE `user` (
   `user_id` int(11) NOT NULL,
   `role_id` int(11) NOT NULL COMMENT 'User role id',
-  `name` varchar(300) NOT NULL,
+  `name` varchar(190) NOT NULL,
   `mobile` varchar(20) NOT NULL,
-  `email` varchar(300) NOT NULL,
+  `email` varchar(190) NOT NULL,
   `status` int(11) NOT NULL DEFAULT 1,
   `photo` text NOT NULL,
   `quote` varchar(200) NOT NULL,
@@ -758,7 +758,7 @@ INSERT INTO `user_role` (`role_id`, `role`, `created_date`, `edited_date`, `crea
 
 CREATE TABLE `video` (
   `video_id` int(11) NOT NULL,
-  `title` varchar(300) DEFAULT NULL,
+  `title` varchar(190) DEFAULT NULL,
   `link` text DEFAULT NULL,
   `status` int(11) NOT NULL DEFAULT 1 COMMENT '0=Inactive,1=Active',
   `edited_date` datetime NOT NULL,
