@@ -11,7 +11,7 @@
             <div class="col-lg-8 section-paragraph">
                 <style type="text/css">
                     .inquiry-form-block .btn-outline-primary {
-                        background-color: #f58220;
+                        background-color: #dc3545;
                         color: #fff
                     }
 
@@ -20,11 +20,11 @@
                     }
 
                     .trust-by-1 li:first-child {
-                        color: #f58220
+                        color: #dc3545
                     }
 
                     .full-icon-form {
-                        border-top: 10px solid #f58220
+                        border-top: 10px solid #dc3545
                     }
                 </style>
                 <div class="boxed shadow-custom bg-white full-icon-form">
