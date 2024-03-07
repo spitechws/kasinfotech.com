@@ -591,156 +591,156 @@
                 </div>
             </div>
         </div>
-        <div class="client-list-block  d-inline-block w-100 ">
+        <!-- <div class="client-list-block  d-inline-block w-100 ">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-6 col-lg-4 section-padding-sm">
                         <div class="row align-items-center gy-4 gy-md-5 text-center">
-                            <div class="col-12">
+                            <!-- <div class="col-12">
                                 <h3 class="text-primary">Americas</h3>
-                            </div>
+                            </div> -->
                             <div class="col-6 mt-5">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-1.webp') ?>" src="<?php echo asset('images/client-icon-1.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6 mt-5">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-2.webp') ?>" src="<?php echo asset('images/client-icon-2.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-3.webp') ?>" src="<?php echo asset('images/client-icon-3.webp') ?>" alt="Verizon" title="Verizon" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-4.webp') ?>" src="<?php echo asset('images/client-icon-4.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
 
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-6.webp') ?>" src="<?php echo asset('images/client-icon-6.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 section-padding-sm border-lg-left border-lg-right">
                         <div class="row align-items-center gy-4 gy-md-5 text-center ">
-                            <div class="col-12">
+                            <!-- <div class="col-12">
                                 <h3 class="text-primary">EMEA</h3>
-                            </div>
+                            </div> -->
                             <div class="col-6 mt-5">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/png">
                                     <img src="<?php echo asset('images/client-6.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6 mt-5">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-5.webp') ?>" src="<?php echo asset('images/client-5.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-7.webp') ?>" src="<?php echo asset('images/client-icon-7.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-8.webp') ?>" src="<?php echo asset('images/client-icon-8.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-9.webp') ?>" src="<?php echo asset('images/client-icon-9.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-10.webp') ?>" src="images/client-icon-10.png" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 section-padding-sm">
                         <div class="row align-items-center gy-4 gy-md-5 text-center">
-                            <div class="col-12">
+                            <!-- <div class="col-12">
                                 <h3 class="text-primary">APAC</h3>
-                            </div>
-                            <div class="col-6 mt-5">
-                                <picture>
+                            </div> -->
+                            <!-- <div class="col-6 mt-5">
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-11.webp') ?>" src="<?php echo asset('images/client-icon-11.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> --> -->
                             </div>
-                            <div class="col-6 mt-5">
-                                <picture>
+                            <!-- <div class="col-6 mt-5">
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-12.webp') ?>" src="<?php echo asset('images/client-icon-12.webp') ?>" class="lazy">
-                                </picture>
-                            </div>
+                                </picture> -->
+                            </div> -->
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-13.webp') ?>" src="<?php echo asset('images/client-icon-13.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-14.webp') ?>" src="<?php echo asset('images/client-icon-14.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/png">
                                     <img data-src="<?php echo asset('images/client-icon-15.webp') ?>" src="<?php echo asset('images/client-icon-15.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                             <div class="col-6">
-                                <picture>
+                                <!-- <picture>
                                     <source srcset="<?php echo asset('images/client-icon-16.webp') ?>" type="image/webp">
                                     <source srcset="<?php echo asset('images/client-icon-16.webp') ?>">
                                     <img data-src="<?php echo asset('images/client-icon-16.webp') ?>" src="<?php echo asset('images/client-icon-16.webp') ?>" class="lazy">
-                                </picture>
+                                </picture> -->
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </section>
-    <section class="section-padding section-paragraph home-page-system-slider">
+    <!-- <section class="section-padding section-paragraph home-page-system-slider">
         <div class="container">
             <div class="row ">
                 <div class="col-lg-7">
@@ -829,7 +829,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section>
         <div class="container">
             <div class="section-title-and-desc">
@@ -848,54 +848,54 @@
             <div class="insight-box-row row justify-content-center g-4 gy-md-0 gx-md-4 mb-xl-3">
                 <div class="col-sm-6 col-md-4 insight-box-col">
                     <div class="insight-box">
-                        <div class="img-box">
+                        <!-- <div class="img-box">
                             <picture>
                                 <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/jpeg">
                                 <img data-src="<?php echo asset('images/insight-box-1.webp') ?>" src="<?php echo asset('images/insight-box-1.webp') ?>" alt="White Paper" title="White Paper" class="lazy ob-cover ">
                             </picture>
-                        </div>
+                        </div> -->
                         <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">White Paper</h3>
+                            <!-- <h3 class="text-white h4 title my-auto">White Paper</h3>
                             <a href="<?php echo base_url(); ?>resources/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
+                    <!-- <div class="insight-box">
                         <div class="img-box">
                             <picture>
                                 <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/jpeg">
                                 <img data-src="<?php echo asset('images/insight-box-2.webp') ?>" src="<?php echo asset('images/insight-box-2.webp') ?>" alt="Case Study" title="Case Study" class="lazy ob-cover ">
                             </picture>
-                        </div>
+                        </div> -->
                         <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">Case Study</h3>
+                            <!-- <h3 class="text-white h4 title my-auto">Case Study</h3>
                             <a href="<?php echo base_url(); ?>case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 insight-box-col">
                     <div class="insight-box">
-                        <div class="img-box">
-                            <picture>
+                        <!-- <div class="img-box">
+                            <!-- <picture>
                                 <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/insight-box-3.webp'); ?>" src="<?php echo asset('images/insight-box-3.webp'); ?>" alt="Blogs" title="Blogs" class="lazy ob-cover ">
-                            </picture>
-                        </div>
+                            </picture> -->
+                        </div> -->
                         <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">Blogs</h3>
+                            <!-- <h3 class="text-white h4 title my-auto">Blogs</h3>
                             <a href="<?php echo base_url(); ?>blog/" class="text-sm text-item-center cta-item long-arrow-hover">
                                 <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
                                 <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
