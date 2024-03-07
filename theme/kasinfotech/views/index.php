@@ -396,14 +396,14 @@
                             <div class=" bg-white row flex-md-row-reverse gx-0">
                                 <div class="col-md-5 position-relative">
                                     <picture>
-                                        <source srcset="<?php echo asset('images/cs-1.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/cs-1.webp'); ?>">
-                                        <img data-src="<?php echo asset('images/cs-1.webp'); ?>" src="<?php echo asset('images/cs-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
+                                        <source srcset="<?php echo asset('images/verizon.jpg'); ?>" type="image/webp">
+                                        <source srcset="<?php echo asset('images/verizon.jpg'); ?>">
+                                        <img data-src="<?php echo asset('images/verizon.jpg'); ?>" src="<?php echo asset('images/verizon.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
                                         <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/webp">
                                         <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/png">
-                                        <img data-src="<?php echo asset('images/cs-logo-1.webp'); ?>" src="<?php echo asset('images/cs-logo-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo">
+                                        <!-- <img data-src="<?php echo asset('images/cs-logo-1.webp'); ?>" src="<?php echo asset('images/cs-logo-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo"> -->
                                     </picture>
                                 </div>
                                 <div class="col-md-7">
