@@ -540,7 +540,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center text-white-all">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Schedule A Developer Interview and Get 15 Days Risk-Free Trial</h2>
+                        <h2 class="section-title-text h1">Schedule A Developer Interview and Get 15 Days Them</h2>
                         <h3 class="mb-lg">We ensure you’re matched with the right talent based on your requirement.</h3>
                     </div>
                 </div>

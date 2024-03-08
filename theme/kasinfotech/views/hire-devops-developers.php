@@ -74,7 +74,7 @@
                                 </picture>
                             </div>
                             <div class="col-9">
-                                <p>15 Days Risk-Free Trial</p>
+                                <p>15 Days Them</p>
                             </div>
                         </div>
                     </div>
@@ -555,7 +555,7 @@
                                 <div class="section-title-and-desc text-center text-white-all">
                                     <div class="section-title-block">
                                         <h2 class="section-title-text h1">
-                                            Schedule A Developer Interview and Get 15 Days Risk-Free Trial
+                                            Schedule A Developer Interview and Get 15 Days Them
                                         </h2>
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>
@@ -1378,7 +1378,7 @@
             <div class="col-md-6 col-lg-3">
                 <span class="d-inline-flex lh-1-8 px-3 py-1 bg-dark text-white mb-sm rounded-circle text-18">4</span>
                 <h3 class="h5 font-bold mb-sm small-heading" style="height: 31.5px;">Begin your project</h3>
-                <p class="small-heading-two" style="height: 60px;">Avail a 15 Days Risk-Free trial period.</p>
+                <p class="small-heading-two" style="height: 60px;">Avail a 15 Days Them period.</p>
             </div>
             <div class="col-12 mt-lg text-center">
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">HIRE devops DEVELOPERS</a>
@@ -1422,7 +1422,7 @@
                             <li>160 Working Hours/Month with Flexible Hiring Models</li>
                             <li>Simple &amp; Transparent Pricing</li>
                             <li>Agile Methodology</li>
-                            <li>15 Days Risk-Free Trial</li>
+                            <li>15 Days Them</li>
                             <li>Strict NDA Signed for Complete Privacy</li>
                             <li>Faster Resource Accessibility</li>
                             <li>Focus on Your Core Business</li>
@@ -1533,7 +1533,7 @@
                 <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">How does a 15 day risk-free trial work?</a>
+                            <a href="#a" itemprop="name">How does a 15 day Them work?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                             <p itemprop="text">

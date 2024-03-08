@@ -408,7 +408,7 @@
             <div class="col-lg-10 mx-auto text-center">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1 text-white">Schedule A Developer Interview and Get 15 Days Risk-Free Trial</h2>
+                        <h2 class="section-title-text h1 text-white">Schedule A Developer Interview and Get 15 Days Them</h2>
                         <p class="h3 section-short-desc text-white mb-lg">We ensure you’re matched with the right talent based on your requirement.</p>
                         <p class="mb-lg text-white text-18">
                             Hire dedicated salesforce Programmers with our best peer-to-peer screening process. We always keep our bar high and ensure that you will get the salesforce experts that help you with result-driven solutions.
@@ -862,7 +862,7 @@
                     <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                         <div class="accordion-item bg-graylight accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name" class="">How does a 15 days risk-free trial work?</a>
+                                <a href="#a" itemprop="name" class="">How does a 15 days Them work?</a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                                 <p itemprop="text">

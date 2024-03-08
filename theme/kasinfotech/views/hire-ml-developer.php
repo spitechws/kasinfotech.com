@@ -31,7 +31,7 @@
                         <h1 class="section-title-text h1-xl lh-normal text-white">Hire Machine Learning Engineers </h1>
                         <p class="text-xxl text-white mb-lg">Our ML Developers are well versed with the required frameworks, algorithms, tools, and modern programming languages to develop industry-specific ML solutions. Hire Machine Learning (ML) engineers and data scientists from us to create the best ML models. </p>
                         <p class="text-xxl text-white">Save up to 40% on Development/Maintenance/Support Cost</p>
-                        <a href="#form" class="btn btn-primary text-uppercase ls-xs  mt-lg"><span>Start 15 Days Risk-Free Trial </span></a>
+                        <a href="#form" class="btn btn-primary text-uppercase ls-xs  mt-lg"><span>Start 15 Days Them </span></a>
                     </div>
                 </div>
             </div>
@@ -450,7 +450,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center text-white-all">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Schedule A Developer Interview and Get 15 Days Risk-Free Trial</h2>
+                        <h2 class="section-title-text h1">Schedule A Developer Interview and Get 15 Days Them</h2>
                         <h3 class="mb-lg">We ensure you’re matched with the right talent based on your requirement.</h3>
                     </div>
                 </div>
