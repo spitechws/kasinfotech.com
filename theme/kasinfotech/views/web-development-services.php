@@ -1074,7 +1074,7 @@
                                             <div class="col-md-6 col-lg-3">
                                                 <h5 class="text-primary h2 font-bold">90%</h5>
                                                 <p class="text-white">Accuracy in Solving User’s Query </p>
-                                            </div>
+                                          </div>
                                             <div class="col-12">
                                                 <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A
                                                     QUOTE FOR YOUR PROJECT</a>
