@@ -22,7 +22,7 @@
     <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
         <ul class="navbar-nav mr-auto navbar-nav-destop">
 
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">HR Consultancy</a>
                 <ul class="dropdown-menu submenu">
                     <div class="container-fluid submenu-inner">
@@ -42,7 +42,7 @@
                     </div>
                     <?php require('menu_contact_info.php'); ?>
                 </ul>
-            </li>
+            </li> -->
 
             <li class="nav-item">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">what we do</a>
@@ -159,14 +159,14 @@
                                         <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
                                             <div>
                                                 <p class="font-bold h5">WE ARE</p>
-                                                <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK - CERTIFIED<sup class="text-18">TM</sup></p>
+                                                <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK<sup class="text-18"></sup></p>
                                                 <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
                                             </div>
-                                            <picture>
-                                                <source srcset="<?php echo asset('images/gptw.webp'); ?>" type="image/webp">
+                                             <picture>
+                                                <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
                                                 <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD Great Place to Work" title="KAS PVT LTD Great Place to Work">
                                             </picture>
-                                        </div>
+                                        </div> 
                                     </a>
                                 </div>
                             </div>

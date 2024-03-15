@@ -721,8 +721,8 @@
                             <div class=" bg-white row flex-md-row-reverse gx-0">
                                 <div class="col-md-5 position-relative">
                                     <picture>
-                                        <source srcset="images/cs-1.webp" type="image/webp">
-                                        <source srcset="images/cs-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/cs-1.jpg" src="images/cs-1.jpg" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
+                                        <source srcset="images/verizon.jpg" type="image/webp">
+                                        <source srcset="images/verizon.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/verizon.jpg" src="images/verizon.jpg" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
                                     </picture>
                                     <picture>
                                         <source srcset="images/cs-logo-1.webp" type="image/webp">

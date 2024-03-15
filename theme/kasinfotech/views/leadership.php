@@ -80,16 +80,16 @@
             <div class="container">
                 <div class="row gy-4">
                     <div class="col-lg-12">
-                        <div class="section-title-and-desc">
+                        <!-- <div class="section-title-and-desc">
                             <div class="section-title-block text-center">
                                 <h2 class="section-title-text h1 text-white">Bacancy Software</h2>
                                 <p class="section-short-desc h3 text-white">A global leader in next-generation digital services and consulting</p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6">
                         <figure class="">
-                            <picture>
+                            <!-- <picture>
                                 <source srcset="<?php echo asset(); ?>images/leadership/cp-thumb.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/leadership/cp-thumb.png?v-1" type="image/jpeg" />
                                 <img
@@ -99,17 +99,17 @@
                                     title="Chandresh Patel M. D. &amp; Agile Coach | India"
                                     class="mb-sm"
                                 />
-                            </picture>
-                        </figure>
-                    </div>
-                    <div class="col-lg-5 offset-lg-1 d-md-flex justify-content-md-center flex-column">
+                            </picture> -->
+                        <!-- </figure>
+                    </div> -->
+                    <!-- <div class="col-lg-5 offset-lg-1 d-md-flex justify-content-md-center flex-column">
                         <h3 class="text-white font-bold">I&nbsp;am as good as any individual Bacancyer. I fail If my team fails, I win if my team wins, I feel content if my team achieve the desired result.</h3>
-                        <p class="text-xxl text-dark-secondary mb-y">
+                        <!-- <p class="text-xxl text-dark-secondary mb-y">
                             Chandresh Patel is a founder and M.D of Bacancy who has adopted a modern leadership style, implementing agile and design thinking to create a culture of excellence where empowered teams succeed.
                             <a href="#" class="text-primary" data-toggle="modal" data-target="#exampleModalCenter">Read More</a>
-                        </p>
+                        </p> -->
                         <div class="bt-name">
-                            <p class="h4 text-primary">
+                            <!-- <p class="h4 text-primary">
                                 Chandresh Patel
                                 <a href="https://www.linkedin.com/in/agilechandreshpatel" target="_blank">
                                     <picture>
@@ -124,15 +124,15 @@
                                         />
                                     </picture>
                                 </a>
-                            </p>
-                            <p class="text-white text-xxl">M. D. &amp; Agile Coach | India</p>
+                            </p> -->
+                            <!-- <p class="text-white text-xxl">M. D. &amp; Agile Coach | India</p> -->
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="row section-padding flex-md-row-reverse">
-                    <div class="col-lg-6 offset-lg-1">
-                        <figure class="">
-                            <picture>
+                    <!-- <div class="col-lg-6 offset-lg-1">
+                        <figure class=""> -->
+                            <!-- <picture>
                                 <source srcset="<?php echo asset(); ?>images/leadership/bp-thumb.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/leadership/bp-thumb.png?v-1" type="image/jpeg" />
                                 <img
@@ -142,17 +142,17 @@
                                     title="Binal Patel CTO &amp; President | Canada"
                                     class="mb-sm"
                                 />
-                            </picture>
-                        </figure>
-                    </div>
+                            </picture> -->
+                        <!-- </figure>
+                    </div> -->
                     <div class="col-lg-5 d-md-flex justify-content-md-center flex-column">
-                        <h3 class="text-white font-bold">I am evolving every single day as an individual, leader, and mentor. Every day is a new experience with lots of learning.</h3>
+                        <!-- <h3 class="text-white font-bold">I am evolving every single day as an individual, leader, and mentor. Every day is a new experience with lots of learning.</h3>
                         <p class="text-xxl text-dark-secondary mb-y">
                             Binal Patel is a President and CTO of Bacancy; he drives organizational focus towards executing strategies for delivering greater client value by accelerating technological innovation, operational excellence, and
                             strategic execution. <a href="#" class="text-primary" data-toggle="modal" data-target="#exampleModalCenterbp">Read More</a>
-                        </p>
+                        </p> -->
                         <div class="bt-name">
-                            <p class="h4 text-primary">
+                            <!-- <p class="h4 text-primary">
                                 Binal Patel
                                 <a href="https://ca.linkedin.com/in/binalvpatel" target="_blank">
                                     <picture>
@@ -168,14 +168,14 @@
                                     </picture>
                                 </a>
                             </p>
-                            <p class="text-white text-xxl">CTO &amp; President | Canada</p>
+                            <p class="text-white text-xxl">CTO &amp; President | Canada</p> -->
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
                         <figure class="">
-                            <picture>
+                            <!-- <picture>
                                 <source srcset="<?php echo asset(); ?>images/leadership/ap-thumb.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/leadership/ap-thumb.png?v-1" type="image/jpeg" />
                                 <img
@@ -185,10 +185,10 @@
                                     title="Amit Patel Co-founder"
                                     class="mb-sm"
                                 />
-                            </picture>
+                            </picture> -->
                         </figure>
                     </div>
-                    <div class="col-lg-5 offset-lg-1 d-md-flex justify-content-md-center flex-column">
+                    <!-- <div class="col-lg-5 offset-lg-1 d-md-flex justify-content-md-center flex-column">
                         <h3 class="text-white font-bold">I live in the dream and dream of meeting reality. The power lies in believing dreams, working upon them, indulging, and reviving them.</h3>
                         <p class="text-xxl text-dark-secondary mb-y">
                             Amit Patel is a partner/director responsible for sales and business development. He is a visionary having adroit faith in technology and he drives new sales delivering business growth.
@@ -198,7 +198,7 @@
                             <p class="h4 text-primary">Amit Patel</p>
                             <p class="text-white text-xxl">Co-founder</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

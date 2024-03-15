@@ -1042,7 +1042,7 @@
                                 <div class="section-title-and-desc text-center text-white-all">
                                     <div class="section-title-block">
                                         <h2 class="section-title-text h1">
-                                            Schedule A Developer Interview and Get 15 Days Risk-Free Trial
+                                            Schedule A Developer Interview and Get 15 Days them
                                         </h2>
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>

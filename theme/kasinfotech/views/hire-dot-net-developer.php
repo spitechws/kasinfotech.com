@@ -2298,7 +2298,7 @@
                                 <div class="section-title-and-desc text-center text-white-all">
                                     <div class="section-title-block">
                                         <h2 class="section-title-text h1">
-                                            Schedule A Developer Interview and Get 15 Days Risk-Free Trial
+                                            Schedule A Developer Interview and Get 15 Days Them
                                         </h2>
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>
@@ -2501,7 +2501,7 @@
                 <h3 class="h5 font-bold mb-sm">Perks You Enjoy When You Outsource NET developers from Us:</h3>
                 <ul class="text-18 text-secondary style-check mb-lg row px-3">
                     <li>Agile Methodology</li>
-                    <li>15 Days Risk-Free Trial</li>
+                    <li>15 Days Them</li>
                     <li>Skilled and experienced .NET programmers</li>
                     <li>Faster Resource Accessibility</li>
                     <li>Large Technical Pool with wider Technology Stack</li>
@@ -2734,7 +2734,7 @@
                     <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                         <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name" class="">How does a 15 days risk-free trial work?</a>
+                                <a href="#a" itemprop="name" class="">How does a 15 days Them work?</a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                                 <p itemprop="text">

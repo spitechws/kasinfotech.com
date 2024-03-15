@@ -463,7 +463,7 @@
                 <div class="section-title-and-desc ">
                     <div class="section-title-block ">
                         <h2 class="section-title-text h1 mb-lg">Schedule A Developer Interview and Get 15 Days
-                            Risk-Free Trial</h2>
+                            Them</h2>
                         <h3 class="mb-lg">Let's get to know each other with a Free call.</h3>
                         <p class="mb-xl">Share your business requirements and the results you'd want to achieve. Our
                             Salesforce consulting experts helps you maximize your investment with the right

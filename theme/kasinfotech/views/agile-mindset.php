@@ -17,7 +17,7 @@
     position: absolute;
     height: 0.625rem;
     width: 0;
-    background-color: #f58220;
+    background-color: #dc3545;
     left: 0;
     bottom: 3.125rem;
     -webkit-transition: all ease-in .7s;
@@ -1175,7 +1175,7 @@
             <g id="double-quote">
                 <style>
                     #double-quote .st0 {
-                        fill: #f58220;
+                        fill: #dc3545;
                     }
                 </style>
                 <path

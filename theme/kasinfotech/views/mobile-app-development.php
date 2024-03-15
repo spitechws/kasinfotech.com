@@ -1409,7 +1409,7 @@
                         <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
                                 <a href="#a" itemprop="name" class="">
-                                    How does a 15 days risk-free trial work?
+                                   How does a 15 days risk-free trial work?
                                 </a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
