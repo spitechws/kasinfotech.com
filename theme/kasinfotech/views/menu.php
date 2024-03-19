@@ -145,7 +145,7 @@
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('testimonials') ?>">Customer Reviews</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('media-coverage') ?>">Media Coverage</a>
+                                <!-- <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('media-coverage') ?>">Media Coverage</a> -->
                             </div>
                             <div class=" col-lg-3 col-xl d-none d-xl-block">
                                 <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
