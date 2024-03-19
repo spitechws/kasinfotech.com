@@ -254,8 +254,8 @@
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTD Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTD Culture</a></li>
                         </ul>
                     </ul>
                 </li>

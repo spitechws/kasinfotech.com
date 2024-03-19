@@ -251,8 +251,8 @@
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTD Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTD Culture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -692,7 +692,7 @@
                             Success Magazine
                         </h4>
                         <p class="text-secondary  desc-margin">
-                            KAS PVT LTDrepresents the connected world, offering innovative and
+                            KAS PVT LTD represents the connected world, offering innovative and
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
@@ -854,7 +854,7 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDValues</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
@@ -869,7 +869,7 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDCultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.

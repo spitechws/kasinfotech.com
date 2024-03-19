@@ -142,8 +142,8 @@
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold"></p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('testimonials') ?>">Customer Reviews</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
+                                <!-- <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('testimonials') ?>">Customer Reviews</a> -->
+                                <!-- <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a> -->
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
                                 <!-- <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('media-coverage') ?>">Media Coverage</a> -->
                             </div>
@@ -163,7 +163,7 @@
                                                 <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
                                             </div>
                                              <picture>
-                                                <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
+                                                <source srcset="<?php echo asset('images/small-gptw.png'); ?>" type="image/webp">
                                                 <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD Great Place to Work" title="KAS PVT LTD Great Place to Work">
                                             </picture>
                                         </div> 

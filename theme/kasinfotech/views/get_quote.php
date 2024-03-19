@@ -77,9 +77,9 @@
                 <div class="boxed bg-white shadow-custom trust-by-1">
                     <div class="row text-center">
                         <div class="col-12">
-                            <span class="h4 font-bold text-center d-block d-lg-none mb-3">Trusted By</span>
+                            <span class="h4 font-bold text-center d-block d-lg-none mb-3">Inspired By</span>
                             <ul>
-                                <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
+                                <li class="h4 font-medium d-none d-lg-block">Inspired By</li>
                                 <li>
                                     <picture>
                                         <img src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes">

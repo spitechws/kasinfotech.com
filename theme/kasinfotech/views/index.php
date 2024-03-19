@@ -538,7 +538,7 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDValues</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
@@ -553,7 +553,7 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDCultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
