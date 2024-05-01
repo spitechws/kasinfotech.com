@@ -2730,14 +2730,16 @@
                                         <div class="item">
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <img
-                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                        />
-                                                    </picture>
+                                                <picture>
+        <img style="width: 20px;">
+            src="<?php echo asset(); ?>images/insight-slide-1.jpg"
+            alt="Top 1% IT Talent"
+            title="Top 1% IT Talent"
+            class="slider-img"
+            loading="lazy"
+            style="max-width: 50%; height: 50%;" 
+        />
+    </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>

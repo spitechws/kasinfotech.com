@@ -377,7 +377,7 @@
             </div>
         </div>
     </section>
-    <section class="section-padding bg-graylight home-page-cs" id="case-study">
+    <!-- <section class="section-padding bg-graylight home-page-cs" id="case-study">
         <div class="container">
             <div class="row">
                 <div class="col-lg-11 mx-auto">
@@ -404,7 +404,7 @@
                                         <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/webp">
                                         <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/png">
                                         <!-- <img data-src="<?php echo asset('images/cs-logo-1.webp'); ?>" src="<?php echo asset('images/cs-logo-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo"> -->
-                                    </picture>
+                                    <!-- </picture>
                                 </div>
                                 <div class="col-md-7">
                                     <div class="boxed pt-lg-0">
@@ -422,8 +422,8 @@
                                         </a>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+                            </div> -->
+                        <!-- </div>
                         <div class="col-12">
                             <div class=" bg-white row  gx-0">
                                 <div class="col-md-5 position-relative">
@@ -499,7 +499,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --> -->
     <section class="section-padding position-relative section-paragraph">
         <div class="container position-relative">
             <div class="row">
@@ -591,194 +591,8 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="client-list-block  d-inline-block w-100 ">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-4 section-padding-sm">
-                        <div class="row align-items-center gy-4 gy-md-5 text-center">
-                            <!-- <div class="col-12">
-                                <h3 class="text-primary">Americas</h3>
-                            </div> -->
-                            <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-1.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-1.webp') ?>" src="<?php echo asset('images/client-icon-1.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-2.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-2.webp') ?>" src="<?php echo asset('images/client-icon-2.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-3.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-3.webp') ?>" src="<?php echo asset('images/client-icon-3.webp') ?>" alt="Verizon" title="Verizon" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-4.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-4.webp') ?>" src="<?php echo asset('images/client-icon-4.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-6.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-6.webp') ?>" src="<?php echo asset('images/client-icon-6.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-md-6 col-lg-4 section-padding-sm border-lg-left border-lg-right">
                         <div class="row align-items-center gy-4 gy-md-5 text-center ">
-                            <!-- <div class="col-12">
-                                <h3 class="text-primary">EMEA</h3>
-                            </div> -->
-                            <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-6.webp') ?>" type="image/png">
-                                    <img src="<?php echo asset('images/client-6.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-5.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-5.webp') ?>" src="<?php echo asset('images/client-5.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-7.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-7.webp') ?>" src="<?php echo asset('images/client-icon-7.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-8.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-8.webp') ?>" src="<?php echo asset('images/client-icon-8.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-9.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-9.webp') ?>" src="<?php echo asset('images/client-icon-9.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-10.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-10.webp') ?>" src="images/client-icon-10.png" class="lazy">
-                                </picture> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 section-padding-sm">
-                        <div class="row align-items-center gy-4 gy-md-5 text-center">
-                            <!-- <div class="col-12">
-                                <h3 class="text-primary">APAC</h3>
-                            </div> -->
-                            <!-- <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-11.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-11.webp') ?>" src="<?php echo asset('images/client-icon-11.webp') ?>" class="lazy">
-                                </picture> --> -->
-                            </div>
-                            <!-- <div class="col-6 mt-5">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-12.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-12.webp') ?>" src="<?php echo asset('images/client-icon-12.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div> -->
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-13.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-13.webp') ?>" src="<?php echo asset('images/client-icon-13.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-14.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-14.webp') ?>" src="<?php echo asset('images/client-icon-14.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-15.webp') ?>" type="image/png">
-                                    <img data-src="<?php echo asset('images/client-icon-15.webp') ?>" src="<?php echo asset('images/client-icon-15.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                            <div class="col-6">
-                                <!-- <picture>
-                                    <source srcset="<?php echo asset('images/client-icon-16.webp') ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/client-icon-16.webp') ?>">
-                                    <img data-src="<?php echo asset('images/client-icon-16.webp') ?>" src="<?php echo asset('images/client-icon-16.webp') ?>" class="lazy">
-                                </picture> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </section>
-    <!-- <section class="section-padding section-paragraph home-page-system-slider">
-        <div class="container">
-            <div class="row ">
-                <div class="col-lg-7">
-                    <div class="section-title-and-desc">
-                        <div class="section-title-block ">
-                            <h2 class="section-title-text h1">KAS PVT LTDSystems' Elite Hardware Products</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <p>Associate with the innovative team of embedded engineers, designers and consultants to ace your embedded development processes.</p>
-                    <a href="<?php echo base_url(); ?>systems/products" class="text-sm text-item-center long-arrow-hover">
-                        <span class="text-primary text-uppercase ls-xs font-semibold">discover All </span>
-                        <span class="long-arrow-icon-css icon-item right"></span>
-                    </a>
-                </div>
-            </div>
-            <div class="row ">
-                <div class="col-12">
-                    <div class="owl-carousel owl-theme home-slider-system">
-                        <div class="item">
-                            <picture>
-                                <source srcset="<?php echo asset('images/slider-6.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/slider-6.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/slider-6.webp') ?>" src="<?php echo asset('images/slider-6.webp') ?>" alt="AC Charge Controller" title="AC Charge Controller" class="lazy system-slider-img">
-                            </picture>
-                            <div class="boxed">
-                                <p class="text-primary mb-2 font-bold">E-Mobility</p>
-                                <h3 class="h2 font-bold mb-3">AC Charge Controller</h3>
-                                <p>With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. KAS PVT LTDbrings in a top-notch solution to your consumers’ troubles.</p>
-                                <a href="systems/ac-charge-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <picture>
-                                <source srcset="<?php echo asset('images/dc-charge.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/dc-charge.webp') ?>" type="image/jpeg"><img data-src="<?php echo asset('images/dc-charge.webp') ?>" src="<?php echo asset('images/dc-charge.webp') ?>" class="lazy system-slider-img">
-                            </picture>
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">DC Fast Charger</h3>
@@ -829,7 +643,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
     <section>
         <div class="container">
             <div class="section-title-and-desc">
@@ -842,61 +656,6 @@
                             Stay updated with the latest happenings in the world of mobile, cloud, AI, ML, and
                             emerging technologies.
                         </p>
-                    </div>
-                </div>
-            </div>
-            <div class="insight-box-row row justify-content-center g-4 gy-md-0 gx-md-4 mb-xl-3">
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
-                        <!-- <div class="img-box">
-                            <picture>
-                                <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/insight-box-1.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/insight-box-1.webp') ?>" src="<?php echo asset('images/insight-box-1.webp') ?>" alt="White Paper" title="White Paper" class="lazy ob-cover ">
-                            </picture>
-                        </div> -->
-                        <div class="text-content text-center">
-                            <!-- <h3 class="text-white h4 title my-auto">White Paper</h3>
-                            <a href="<?php echo base_url(); ?>resources/" class="text-sm text-item-center cta-item long-arrow-hover">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <!-- <div class="insight-box">
-                        <div class="img-box">
-                            <picture>
-                                <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/insight-box-2.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/insight-box-2.webp') ?>" src="<?php echo asset('images/insight-box-2.webp') ?>" alt="Case Study" title="Case Study" class="lazy ob-cover ">
-                            </picture>
-                        </div> -->
-                        <div class="text-content text-center">
-                            <!-- <h3 class="text-white h4 title my-auto">Case Study</h3>
-                            <a href="<?php echo base_url(); ?>case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
-                        <!-- <div class="img-box">
-                            <!-- <picture>
-                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/insight-box-3.webp'); ?>" src="<?php echo asset('images/insight-box-3.webp'); ?>" alt="Blogs" title="Blogs" class="lazy ob-cover ">
-                            </picture> -->
-                        </div> -->
-                        <div class="text-content text-center">
-                            <!-- <h3 class="text-white h4 title my-auto">Blogs</h3>
-                            <a href="<?php echo base_url(); ?>blog/" class="text-sm text-item-center cta-item long-arrow-hover">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a> -->
-                        </div>
                     </div>
                 </div>
             </div>
@@ -928,13 +687,25 @@
                     <div class="owl-carousel owl-nav-top-right" id="insight-owl-carousel" data-sync="#insight-navigation-block">
                         <div class="item">
                             <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/jpeg">
-                                        <img data-src="<?php echo asset('images/insight-slide-1.webp'); ?>" src="<?php echo asset('images/insight-slide-1.webp'); ?>" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
-                                    </picture>
-                                </div>
+                            <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                            <picture>
+    <!-- Original image in WebP format
+    <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/webp"> -->
+    <!-- Original image in JPEG format -->
+    <source srcset="<?php echo asset('images/insight-slide-1.jpg'); ?>" type="image/jpeg">
+    <!-- Original image loaded for browsers that don't support <picture> element -->
+    <img 
+        data-src="<?php echo asset('images/insight-slide-1.jpg'); ?>" 
+        src="<?php echo asset('images/insight-slide-1.jpg'); ?>" 
+        alt="Top 1% IT Talent" 
+        title="Top 1% IT Talent" 
+        class="lazy slider-img"
+        loading="lazy" 
+        style="max-width: 250px; height: auto;" 
+    >
+</picture>
+
+</div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                     <p class="text-lg text-secondary    ">KAS PVT LTDTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.

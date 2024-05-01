@@ -243,8 +243,8 @@
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
                                                         <img
-                                                            data-src="<?php echo asset(); ?>images/insight-slide-1.webp"
-                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
+                                                            data-src="<?php echo asset(); ?>images/insight-slide-1.jpg"
+                                                            src="<?php echo asset(); ?>images/insight-slide-1.jpg"
                                                             alt="Top 1% IT Talent"
                                                             title="Top 1% IT Talent"
                                                             class="lazy slider-img"
