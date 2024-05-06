@@ -31,33 +31,33 @@
                     <div class="section-title-and-desc  section-paragraph">
                         <div class="section-title-block">
                             <h1 class="section-title-text h2 mb-lg">Get Quote / Get in Touch with Technical Experts</h1>
-                            <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
+                            <form method="post" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
                                 <div class="row">
                                     <div class="col-12">
 
                                         <div class="row">
                                             <div class="col-md-6 col-lg-4">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;">
+                                                    <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="name" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;">
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-4">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20">
+                                                    <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="email" size="20">
                                                 </div>
                                             </div>
                                             <div class="col-md-12 col-lg-4">
                                                 <div class="form-group">
-                                                    <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)">
+                                                    <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="mobile" maxlength="40" name="mobile" size="20" nkeypress="return isNumberKey(event)">
                                                 </div>
                                             </div>
                                             <div class="col-12">
                                                 <div class="form-group">
-                                                    <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
+                                                    <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="message"></textarea>
                                                 </div>
                                             </div>
                                             <div class="col-12 text-center">
-                                                <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire
+                                                <button class="btn btn-primary text-uppercase ls-xs" name="submit">inquire
                                                     now</button>
                                             </div>
                                         </div>
@@ -65,7 +65,6 @@
                                     </div>
                                 </div>
                             </form>
-
                             <div class="col-12 text-center mt-5">
                                 <p>We guarantee 100% security of your information. We will not share the details you provide above with anyone. Your email won’t be used for spamming.</p>
                             </div>
@@ -161,30 +160,30 @@
                 <ul class="text-18 text-center">
                     <li class="mx-1 my-1 w-md-auto w-100 text-center mb-4">
                         <picture>
-                            <img src="<?php echo asset();?>images/call-yellow-icon.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
+                            <img src="<?php echo asset(); ?>images/call-yellow-icon.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
                         </picture>
                     </li>
                     <li class="mx-3 my-1 mb-4">
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
-                            <picture>
-                                <img src="<?php echo asset();?>images/usa-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
-                            </picture>
+                                <picture>
+                                    <img src="<?php echo asset(); ?>images/usa-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
+                                </picture>
                             </div>
                             <div class="col-lg-7 text-left">
-                                <a href="tel:+<?php echo $contact_number?>" class="h4"><?php echo $contact_number?></a>
+                                <a href="tel:+<?php echo $contact_number ?>" class="h4"><?php echo $contact_number ?></a>
                             </div>
                         </div>
                     </li>
                     <li class="mx-3 my-1 mb-4">
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
-                            <picture>
-                                <img src="<?php echo asset();?>images/india-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
-                            </picture>
+                                <picture>
+                                    <img src="<?php echo asset(); ?>images/india-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
+                                </picture>
                             </div>
                             <div class="col-lg-7 text-left">
-                                <a href="tel:+<?php echo $whatsapp?>" class="h4"><?php echo $whatsapp?></a>
+                                <a href="tel:+<?php echo $whatsapp ?>" class="h4"><?php echo $whatsapp ?></a>
                             </div>
                         </div>
                     </li>
@@ -196,11 +195,11 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
                                 <picture>
-                                    <img src="<?php echo asset();?>images/skype-icon.webp" alt="KAS Skype" title="KAS Skype" class="mr-3">
+                                    <img src="<?php echo asset(); ?>images/skype-icon.webp" alt="KAS Skype" title="KAS Skype" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
-                                <span class="font-bold h4">Skype : </span> <a href="skype:<?php echo $skype_id?>?call" class="h4"><?php echo $skype_id?></a>
+                                <span class="font-bold h4">Skype : </span> <a href="skype:<?php echo $skype_id ?>?call" class="h4"><?php echo $skype_id ?></a>
                             </div>
                         </div>
                     </li>
@@ -208,11 +207,11 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
                                 <picture>
-                                    <img src="<?php echo asset();?>images/gmail-icon.webp" alt="KAS Sales Mail" title="KAS Sales Mail" class="mr-3">
+                                    <img src="<?php echo asset(); ?>images/gmail-icon.webp" alt="KAS Sales Mail" title="KAS Sales Mail" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
-                                <span class="font-bold h4">Sales : </span><span class="h4"><a href="mailto:<?php echo $contact_email?>" class="mail-id"><?php echo $contact_email?></a></span>
+                                <span class="font-bold h4">Sales : </span><span class="h4"><a href="mailto:<?php echo $contact_email ?>" class="mail-id"><?php echo $contact_email ?></a></span>
                             </div>
                         </div>
                     </li>
@@ -220,11 +219,11 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
                                 <picture>
-                                    <img src="<?php echo asset();?>images/gmail-icon.webp" alt="KAS Sales Mail" title="KAS Sales Mail" class="mr-3">
+                                    <img src="<?php echo asset(); ?>images/gmail-icon.webp" alt="KAS Sales Mail" title="KAS Sales Mail" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
-                                <span class="font-bold h4">Career : </span><span class="h4"><a href="mailto:<?php echo $career_email?>"><?php echo $career_email?></a></span>
+                                <span class="font-bold h4">Career : </span><span class="h4"><a href="mailto:<?php echo $career_email ?>"><?php echo $career_email ?></a></span>
                             </div>
                         </div>
                     </li>
@@ -237,8 +236,8 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp">
-            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="">
+            <source srcset="<?php echo asset(); ?>images/counting-bg.webp" type="image/webp">
+            <source srcset="<?php echo asset(); ?>images/counting-bg.jpg" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="">
         </picture>
     </figure>
     <div class="container">
@@ -255,8 +254,8 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg"><img data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="mb-5 mb-lg-0">
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.jpg" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="mb-5 mb-lg-0">
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -264,24 +263,24 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png"><img data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Developers" title="Agile Developers" class="">
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Developers" title="Agile Developers" class="">
                         </picture>
                         <h4 class="h1 font-bold mt-3">1050+</h4>
                         <p>Agile Developers</p>
                     </div>
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png"><img data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" alt="Agile Coaches" title="Agile Coaches" class="">
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" alt="Agile Coaches" title="Agile Coaches" class="">
                         </picture>
                         <h4 class="h1 font-bold mt-3">05</h4>
                         <p>Agile Coaches</p>
                     </div>
                     <div class="col-6 col-lg-4 ">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png"><img data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" alt="Certified Scrum Masters" title="Certified Scrum Masters" class="">
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" alt="Certified Scrum Masters" title="Certified Scrum Masters" class="">
                         </picture>
                         <h4 class="h1 font-bold mt-3">14</h4>
                         <p>Certified Scrum Masters</p>
@@ -292,36 +291,36 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png"><img data-src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" src="<?php echo asset(); ?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg">
                 </picture>
                 <p>Work at Your Time Zone</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png"><img data-src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" alt="Easy Communication" title="Easy Communication" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" src="<?php echo asset(); ?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" alt="Easy Communication" title="Easy Communication" class="mb-lg">
                 </picture>
                 <p>Easy Communication</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png"><img data-src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" alt="Hire in 24 Hours" title="Hire in 24 Hours" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" src="<?php echo asset(); ?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" alt="Hire in 24 Hours" title="Hire in 24 Hours" class="mb-lg">
                 </picture>
                 <p>Hire in 48 Hours</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg">
                 </picture>
                 <p>In Business Since 2011</p>
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp">
-                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png"><img data-src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.webp" type="image/webp">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" src="<?php echo asset(); ?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg">
                 </picture>
                 <p>5/5 Pro User Rating</p>
             </div>
@@ -366,8 +365,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp">
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -383,8 +382,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp">
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
@@ -400,8 +399,8 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp">
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp">
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img">
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

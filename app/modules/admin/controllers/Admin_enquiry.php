@@ -3,17 +3,22 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Admin_enquiry extends MY_Controller {
+class Admin_enquiry extends MY_Controller
+{
 
-    function __construct() {
+    function __construct()
+    {
         parent::__construct();
         checkAdminLogin();
         parent::setModuleUrl('admin_enquiry');
         $this->load->model('Enquiry_model', 'oMainModel');
     }
 
-    function index() {       
+    function index()
+    {
+
         $data['aGrid'] = $this->oMainModel->get_list();
+        // debug("ok");
         $data['moduleUrl'] = $this->moduleUrl;
         $data['title'] = 'Enquiry';
         $data['menu'] = 'modules';
@@ -22,7 +27,8 @@ class Admin_enquiry extends MY_Controller {
         hide_message();
     }
 
-    function add($editId = 0) {
+    function add($editId = 0)
+    {
         if (isset($_POST['submitform'])) {
             $response = $this->oMainModel->add();
             if ($response['is_error'] == 0) {
@@ -40,12 +46,12 @@ class Admin_enquiry extends MY_Controller {
         load_admin_view('enquiry/form', $data);
     }
 
-    function delete($delete_id) {
+    function delete($delete_id)
+    {
         if ($delete_id > 0) {
-            $this->db->delete('enquiry',['id'=>$delete_id]);
+            $this->db->delete('enquiry', ['id' => $delete_id]);
             set_message('Enquiry deleted successfully');
         }
         redirect($this->moduleUrl);
     }
-
 }
