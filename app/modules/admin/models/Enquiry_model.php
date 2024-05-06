@@ -48,7 +48,7 @@ class Enquiry_model extends MY_Model
 	{
 
 		if ($str_select == '') {
-			$str_select = 't1.*,t2.title as service_name';
+			$str_select = 't1.*,t2.name as service_name';
 		}
 		$this->db->select($str_select);
 		$this->db->from(tbl_prefix() . 'enquiry as t1');
@@ -58,7 +58,7 @@ class Enquiry_model extends MY_Model
 			$this->db->like('t1.name', $_GET['search_key']);
 			$this->db->or_like('t1.mobile', $_GET['search_key']);
 			$this->db->or_like('t1.email', $_GET['search_key']);
-			$this->db->or_like('t2.title', $_GET['search_key']);
+			$this->db->or_like('t2.name', $_GET['search_key']);
 		}
 		if (isset($_GET['from_date']) && $_GET['from_date'] != '') {
 			$this->db->where('DATE(t1.created_date) >=', $_GET['from_date']);

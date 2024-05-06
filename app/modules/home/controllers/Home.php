@@ -11,8 +11,6 @@
             parent::__construct();
             parent::setModuleUrl('home');
             $this->load->model('Home_model', 'oMainModel');
-
-            
         }
 
         function load_common_data($page_name)
@@ -23,14 +21,14 @@
                 $aInput = array(
                     "page_name" => filterValue($page_name),
                     "menu" => filterValue($page_name),
-                    "page_title" => ucwords(strtolower(str_replace('-', ' ',$page_name))),
+                    "page_title" => ucwords(strtolower(str_replace('-', ' ', $page_name))),
                     "page_content" => '',
                     "meta_keywords" => $page_name,
                     "meta_description" => $page_name,
                     "meta_robots" => ''
                 );
-                $this->db->insert(tbl_prefix().'cms',$aInput);   
-                $cms = get_row('cms', array('page_name' => $page_name));             
+                $this->db->insert(tbl_prefix() . 'cms', $aInput);
+                $cms = get_row('cms', array('page_name' => $page_name));
             }
             $data['cms'] = $cms;
             $data['title'] = $cms->page_title;
@@ -89,12 +87,16 @@
             load_home_view($view_name, $data);
         }
 
-        function get_quote(){
+        function get_quote()
+        {
             $view_name = 'get_quote';
             $data = $this->load_common_data($view_name);
+            if (isset($_POST['submit'])) {
+                $res = $this->oMainModel->save_enquiry();
+                set_message($res['msg']);
+            }
             load_home_view($view_name, $data);
         }
-
 
         function blog($slug = '')
         {
