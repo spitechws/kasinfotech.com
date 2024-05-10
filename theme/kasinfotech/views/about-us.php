@@ -70,7 +70,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        12+
+                        7+
                     </h2>
                     <p class="counter-desc text-md">
                         countries where we have
@@ -82,7 +82,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        1050+
+                        50+
                     </h2>
                     <p class="counter-desc text-md">
                         Agile enabled employees
@@ -92,7 +92,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        06
+                        4
                     </h2>
                     <p class="counter-desc text-md">
                         World wide offices
