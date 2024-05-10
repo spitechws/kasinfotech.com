@@ -702,7 +702,7 @@
             </div>
         </div>
     </section>
-    <section class="section-padding bg-graylight home-page-cs" id="case-study">
+    <!-- <section class="section-padding bg-graylight home-page-cs" id="case-study">
         <div class="container">
             <div class="row">
                 <div class="col-lg-11 mx-auto">
@@ -815,7 +815,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="section-padding position-relative section-paragraph">
         <div class="container position-relative">
             <div class="row">
