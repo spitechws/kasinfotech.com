@@ -1,42 +1,54 @@
 <?php
 
-function get_base_url()
+function debug($arg, $is_die = 1)
 {
-    if (ENVIRONMENT == 'production') {
-        $protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === 0 ? 'https://' : 'http://';
-        $root = $protocol . $_SERVER['HTTP_HOST'] . '/';
+    echo "<pre>";
+    if ($arg == "qry") {
+        $ci = &get_instance();
+        echo $ci->db->last_query();
     } else {
-        $root = "http://" . $_SERVER['HTTP_HOST'];
-        $root .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
+        if (is_array($arg) || is_object($arg)) {
+            print_r($arg);
+        } else {
+            echo $arg;
+        }
     }
-    return $root;
+    if ($is_die) {
+        echo exit;
+    }
 }
-
-function is_localhost()
+function getBaseUrl()
 {
-    return $_SERVER['REMOTE_ADDR'] == '::1' || $_SERVER['REMOTE_ADDR'] == '127.0.0.1';
+    $isHttps = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on';
+    $protocol = $isHttps ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'];
+    $baseUrl = $protocol . $host;
+    if (isset($_SERVER['SERVER_PORT']) && (!$isHttps && $_SERVER['SERVER_PORT'] != 80) || ($isHttps && $_SERVER['SERVER_PORT'] != 443)) {
+        $baseUrl .= ':' . $_SERVER['SERVER_PORT'];
+    }
+    $baseUrl .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
+    return $baseUrl;
 }
 
-if (is_localhost()) {
-    define('ENVIRONMENT', 'development');  // testing/ development / production
-} else {
-    define('ENVIRONMENT', 'production');
+function setEnvironment()
+{
+    $url = parse_url($_SERVER['HTTP_HOST']);
+    $parts = explode('.', $url['path']);
+    if ($parts[0] == 'localhost') {
+        $domain = 'localhost';
+    } else {
+        $domain = $parts[count($parts) - 2] . '.' . $parts[count($parts) - 1];
+    }
+    if ($domain == 'pronerotest.in') {
+        define("ENVIRONMENT", "testing");
+    } elseif ($domain == 'localhost') {
+        define("ENVIRONMENT", "development");
+    } else {
+        define("ENVIRONMENT", "production");
+    }
 }
+setEnvironment();
 
-switch (ENVIRONMENT) {
-    case 'development':
-        ini_set('display_errors', 1);
-        break;
-    case 'testing':
-        break;
-    case 'production':
-        ini_set('display_errors', 1);
-        break;
-    default:
-        header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
-        echo 'The application environment is not set correctly.';
-        exit(1); // EXIT_ERROR
-}
 error_reporting(E_ALL & ~E_DEPRECATED & ~E_NOTICE);
 
 /*

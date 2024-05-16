@@ -173,27 +173,7 @@ if (!function_exists('getUser')) {
     }
 }
 
-if (!function_exists('debug')) {
 
-    function debug($arg,$is_die=1) {
-        echo "<pre>";
-        if ($arg == "qry") {
-            $ci = & get_instance();
-            echo $ci->db->last_query();
-        } else {
-            if (is_array($arg) || is_object($arg)) {
-                print_r($arg);
-            } else {
-                echo $arg;
-            }
-        }
-        echo "</pre>";
-        if($is_die){
-             echo exit;
-         }       
-    }
-
-}
 if (!function_exists('selected')) {
 
     function selected($left, $right) {
