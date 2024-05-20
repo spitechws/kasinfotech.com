@@ -137,8 +137,6 @@
                                 <p class="dropdown-item nav-link font-semibold">About Company</p>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('leadership') ?>">Leadership Team</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('awards-recognition') ?>">Awards Recognition</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('infrastructure') ?>">Infrastructure</a>
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold"></p>
