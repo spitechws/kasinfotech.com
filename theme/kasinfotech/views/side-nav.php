@@ -14,19 +14,19 @@
                 <div class="header_company ">
                     <div class="row gy-md-4 gy-lg-5">
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">7+</h3>
                             <p>Countries where we have happy customers</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1050+</h3>
+                            <h3 class="font-bold mb-2">50+</h3>
                             <p>Agile enabled employees</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">06</h3>
+                            <h3 class="font-bold mb-2">04</h3>
                             <p>World wide offices</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">20+</h3>
                             <p>Years of Experience</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -38,11 +38,11 @@
                             <p>Certified Scrum Masters</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1000+</h3>
+                            <h3 class="font-bold mb-2">200+</h3>
                             <p>Clients projects</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1458</h3>
+                            <h3 class="font-bold mb-2">700+</h3>
                             <p>Happy customers</p>
                         </div>
                     </div>
