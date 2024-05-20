@@ -211,7 +211,7 @@
                                 onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                             />
                         </picture>
-                        <h4 class="h1 font-bold mt-3">1050+</h4>
+                        <h4 class="h1 font-bold mt-3">50+</h4>
                         <p>Agile Developers</p>
                     </div>
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">

@@ -6933,7 +6933,7 @@ lesshat-selector {
 }
 
 .header-main.fixed .navbar .right-nav-elements .menu-icon-block {
-  border-left-color: #dadada;
+  border-left-color: #1c437f;
 }
 
 .header-main.fixed .btn.CTA-button {
@@ -7469,8 +7469,12 @@ lesshat-selector {
   top: 0.3125rem;
 }
 
-.header-main .navbar.navbar-light {
-  background-color: #fff;
+.header-main .navbar .navbar-light {
+  background-color: #1c437f;
+}
+
+.header-main .navbar .navbar-light .nav-link {
+  color: #fff !important;
 }
 
 .header-main .navbar.navbar-dark .navbar-brand .logo-black {

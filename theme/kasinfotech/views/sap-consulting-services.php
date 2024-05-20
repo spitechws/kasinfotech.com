@@ -397,7 +397,7 @@
                         <source srcset="<?php echo asset();?>images/icon-11bag.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-11bag.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-1.png.pagespeed.ic.CkRWZwDiWS.webp" src="<?php echo asset();?>images/xicon-1.png.pagespeed.ic.CkRWZwDiWS.webp" alt="11+ Years of Experience" title="11+ Years of Experience" class="mb-lg" data-pagespeed-url-hash="3039835708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">12+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">7+</h3>
                     <p class="small-heading-two" style="height: 30px;">Years of Experience</p>
                 </div>
             </div>
@@ -407,7 +407,7 @@
                         <source srcset="<?php echo asset();?>images/icon-21.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-21.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-2.png.pagespeed.ic.hGdtRuuiPv.webp" src="<?php echo asset();?>images/xicon-2.png.pagespeed.ic.hGdtRuuiPv.webp" alt="1050+ Agile Employees" title="1050+ Agile Employees" class="mb-lg" data-pagespeed-url-hash="3334335629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">1050+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">50+</h3>
                     <p class="small-heading-two" style="height: 30px;">Agile Employees</p>
                 </div>
             </div>
@@ -427,7 +427,7 @@
                         <source srcset="<?php echo asset();?>images/icon-41.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-41.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-4.png.pagespeed.ic.ICMaiiD9AI.webp" src="<?php echo asset();?>images/xicon-4.png.pagespeed.ic.ICMaiiD9AI.webp" alt="100+ Clients Projects" title="100+ Clients Projects" class="mb-lg" data-pagespeed-url-hash="3923335471" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">100+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">200+</h3>
                     <p class="small-heading-two" style="height: 30px;">Clients Projects</p>
                 </div>
             </div>
@@ -447,7 +447,7 @@
                         <source srcset="<?php echo asset();?>images/icon-61.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-61.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-6.png.pagespeed.ic.EEaXoygwa0.webp" src="<?php echo asset();?>images/xicon-6.png.pagespeed.ic.EEaXoygwa0.webp" alt="6+ Global Offices" title="6+ Global Offices" class="mb-lg" data-pagespeed-url-hash="217368017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">06</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">04</h3>
                     <p class="small-heading-two" style="height: 60px;">Global Offices</p>
                 </div>
             </div>

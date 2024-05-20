@@ -16,8 +16,8 @@
         }
     </style>
     <a class="navbar-brand" href="<?php echo base_url(); ?>">
-        <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-black">
-        <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS PVT LTD" title="KAS PVT LTD" class="logo-img logo-white">
+        <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS PVT LTD " title="KAS PVT LTD " class="logo-img logo-black">
+        <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS PVT LTD " title="KAS PVT LTD " class="logo-img logo-white">
     </a>
     <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
         <ul class="navbar-nav mr-auto navbar-nav-destop">
@@ -71,7 +71,7 @@
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">Accelerate</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('cloud-native-application-development') ?>">Cloud - KAS PVT LTD Combat</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('cloud-native-application-development') ?>">Cloud - KAS PVT LTD  Combat</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-process-automation') ?>">Digital Process Automation </a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('open-source-web-development') ?>">Open Source </a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('dynamics-365-consulting') ?>">Microsoft Dynamics</a>
@@ -109,7 +109,7 @@
                                 <div class="img-text position-relative">
                                     <picture>
                                         <source srcset="<?php echo asset('images/www-img.webp'); ?>" type="image/webp">
-                                        <source srcset="images/www-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" src="images/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" alt="KAS PVT LTD" title="KAS PVT LTD">
+                                        <source srcset="images/www-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" src="images/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
                                     </picture>
                                     <div class="img-text-inner">
                                         <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>
@@ -130,15 +130,14 @@
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">Culture</p>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('agile-mindset') ?>">Agile Mindset</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS PVT LTD Values</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS PVT LTD Culture</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS PVT LTD  Values</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS PVT LTD  Culture</a>
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">About Company</p>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('leadership') ?>">Leadership Team</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('awards-recognition') ?>">Awards Recognition</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('infrastructure') ?>">Infrastructure</a>
+
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold"></p>
@@ -153,7 +152,7 @@
                                         <figure class="banner-post-img">
                                             <picture>
                                                 <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
-                                                <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS PVT LTD" title="KAS PVT LTD">
+                                                <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
                                             </picture>
                                         </figure>
                                         <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
@@ -164,7 +163,7 @@
                                             </div>
                                              <picture>
                                                 <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
-                                                <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD Great Place to Work" title="KAS PVT LTD Great Place to Work">
+                                                <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD  Great Place to Work" title="KAS PVT LTD  Great Place to Work">
                                             </picture>
                                         </div> 
                                     </a>
@@ -220,7 +219,7 @@
                                     <figure class="banner-post-img">
                                         <picture>
                                             <source srcset="<?php echo asset('images/banner.webp'); ?>" type="image/webp">
-                                            <source srcset="images/banner.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" src="images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" alt="KAS PVT LTD" title="KAS PVT LTD">
+                                            <source srcset="images/banner.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" src="images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
                                         </picture>
                                     </figure>
                                     <div class="img-text-inner img-text-trans-none">

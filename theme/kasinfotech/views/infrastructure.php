@@ -2289,7 +2289,7 @@
             <div class="col-6 col-sm-4 col-md mt-md-0">
                 <div class="counter-block text-center">
                     <h3 class="counter-number h1">
-                        12+
+                        7+
                     </h3>
                     <p class="counter-desc text-md">
                         countries where we have
@@ -2309,7 +2309,7 @@
             <div class="col-6 col-sm-4 col-md mt-md-0">
                 <div class="counter-block text-center">
                     <h4 class="counter-number h1">
-                        1050+
+                        50+
                     </h4>
                     <p class="counter-desc text-md">
                         Strength
@@ -2329,7 +2329,7 @@
             <div class="col-6 col-sm-4 col-md mt-md-0">
                 <div class="counter-block text-center">
                     <h3 class="counter-number h1">
-                        06
+                        04
                     </h3>
                     <p class="counter-desc text-md">
                         World wide offices

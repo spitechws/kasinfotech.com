@@ -245,8 +245,8 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc mb-0">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">12+ Years and Counting...</h2>
-                        <p class="h3 section-title-text-two font-light top-line">By establishing a IT development center, we offer our tailored engagement models cater to the unique needs by providing <b>B2B</b> and <b>B2C</b> Dedicated development support.</p>
+                        <h2 class="section-title-text h1">20+ Years and Counting...</h2>
+                        <p class="h3 section-title-text-two font-light top-line">By establishing a IT development, we offer our tailored engagement models cater to the unique needs by providing <b>B2B</b> and <b>B2C</b> Dedicated development support.</p>
                     </div>
                 </div>
             </div>
@@ -259,14 +259,14 @@
                 </picture>
             </div>
             <div class="col-lg-6">
-                <h3 class="mb-xl font-bold">Our Development Center Strength</h3>
+                <h3 class="mb-xl font-bold">Our Development Strength</h3>
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp">
                             <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Developers" title="Agile Developers" class="">
                         </picture>
-                        <h4 class="h1 font-bold mt-3">1050+</h4>
+                        <h4 class="h1 font-bold mt-3">50+</h4>
                         <p>Agile Developers</p>
                     </div>
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">
