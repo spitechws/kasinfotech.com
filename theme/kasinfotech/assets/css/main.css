@@ -7471,7 +7471,10 @@ lesshat-selector {
 
 .header-main .navbar .navbar-light {
   background-color: #1c437f;
-  color: white;
+}
+
+.header-main .navbar .navbar-light .nav-link {
+  color: #fff !important;
 }
 
 .header-main .navbar.navbar-dark .navbar-brand .logo-black {
