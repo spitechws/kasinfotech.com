@@ -266,7 +266,7 @@
                             <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp">
                             <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Developers" title="Agile Developers" class="">
                         </picture>
-                        <h4 class="h1 font-bold mt-3">1050+</h4>
+                        <h4 class="h1 font-bold mt-3">50+</h4>
                         <p>Agile Developers</p>
                     </div>
                     <div class="col-6 col-lg-4 mb-4 mb-lg-0">

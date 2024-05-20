@@ -102,7 +102,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        12+
+                        20+
                     </h2>
                     <p class="counter-desc text-md">
                         Years of Experience
@@ -133,7 +133,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        1000+
+                        200+
                     </h2>
                     <p class="counter-desc text-md">
                         Clients projects
@@ -143,7 +143,7 @@
             <div class="col-6 col-sm-4 col-md-3">
                 <div class="counter-block">
                     <h2 class="counter-number h1">
-                        1458
+                        700+
                     </h2>
                     <p class="counter-desc text-md">
                         Happy customers
