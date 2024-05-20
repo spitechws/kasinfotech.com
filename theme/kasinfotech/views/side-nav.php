@@ -7,8 +7,8 @@
                         <img src="<?php echo asset('images/small-gptw.webp') ?>">
                     </div>
                     <div class="col-xl-10">
-                        <h3 class="font-bold mb-sm">KAS PVT LTD</h3>
-                        <p class="text-18">KAS PVT LTDrepresents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
+                        <h3 class="font-bold mb-sm">KAS PVT LTD </h3>
+                        <p class="text-18">KAS PVT LTD represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
                     </div>
                 </div>
                 <div class="header_company ">
@@ -58,14 +58,14 @@
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://twitter.com/KAS PVT LTDTech" class="social-link" target="_blank">
+                        <a href="https://twitter.com/KAS PVT LTD Tech" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon svg-pt">
                                 <use xlink:href="#twitter-svg" />
                             </svg>
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://www.linkedin.com/company/KAS PVT LTD-technology/" class="social-link" target="_blank">
+                        <a href="https://www.linkedin.com/company/KAS PVT LTD -technology/" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#linkedin-svg" />
                             </svg>
@@ -93,7 +93,7 @@
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://clutch.co/profile/KAS PVT LTD" class="social-link" target="_blank" rel="nofollow">
+                        <a href="https://clutch.co/profile/KAS PVT LTD " class="social-link" target="_blank" rel="nofollow">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#clutch-svg" />
                             </svg>
@@ -193,7 +193,7 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTD Combalt</a> </li>
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
                             <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
                             <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
@@ -254,8 +254,8 @@
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD -values">KAS PVT LTD Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD -culture">KAS PVT LTD Culture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -339,12 +339,12 @@
             </ul>
             <ul>
                 <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
-                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD ">Work @ KAS PVT LTD </a></li>
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-                <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
+                <li><a href="https://calendly.com/KAS PVT LTD meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>
     </div>

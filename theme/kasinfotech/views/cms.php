@@ -25,8 +25,8 @@
                         <img src="<?php echo asset('images/small-gptw.webp') ?>">
                     </div>
                     <div class="col-xl-10">
-                        <h3 class="font-bold mb-sm">KAS PVT LTD</h3>
-                        <p class="text-18">KAS PVT LTDrepresents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
+                        <h3 class="font-bold mb-sm">KAS PVT LTD </h3>
+                        <p class="text-18">KAS PVT LTD represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
                     </div>
                 </div>
                 <div class="header_company ">
@@ -190,7 +190,7 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTD Combalt</a> </li>
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
                             <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
                             <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
@@ -251,8 +251,8 @@
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTDValues</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTDCulture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD -values">KAS PVT LTD Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD -culture">KAS PVT LTD Culture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -336,12 +336,12 @@
             </ul>
             <ul>
                 <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
-                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD ">Work @ KAS PVT LTD </a></li>
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-                <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
+                <li><a href="https://calendly.com/KAS PVT LTD meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>
     </div>
@@ -445,11 +445,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-one.webp" type="image/webp">
-                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
+                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTD Tech Agility " title="KAS PVT LTD Tech Agility " class="lazy">
                             </picture>
                         </figure>
-                        <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
+                        <h3 class="card-title text-white h5-2">KAS PVT LTD Tech Agility – Q3, 2023</h3>
+                        <a href="<?php echo base_url(); ?>KAS PVT LTD -tech-agility" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">new edition out now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -464,7 +464,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
+                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD _Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">visit now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -527,7 +527,7 @@
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="<?php echo base_url(); ?>development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>development-center-KAS PVT LTD " class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">Let's connect </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -692,7 +692,7 @@
                             Success Magazine
                         </h4>
                         <p class="text-secondary  desc-margin">
-                            KAS PVT LTDrepresents the connected world, offering innovative and
+                            KAS PVT LTD represents the connected world, offering innovative and
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
@@ -854,12 +854,12 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDValues</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS PVT LTD -values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -869,12 +869,12 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTDCultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS PVT LTD -culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -1043,7 +1043,7 @@
                 <div class="col-lg-7">
                     <div class="section-title-and-desc">
                         <div class="section-title-block ">
-                            <h2 class="section-title-text h1">KAS PVT LTDSystems' Elite Hardware Products</h2>
+                            <h2 class="section-title-text h1">KAS PVT LTD Systems' Elite Hardware Products</h2>
                         </div>
                     </div>
                 </div>
@@ -1066,7 +1066,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">AC Charge Controller</h3>
-                                <p>With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. KAS PVT LTDbrings in a top-notch solution to your consumers’ troubles.</p>
+                                <p>With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. KAS PVT LTD brings in a top-notch solution to your consumers’ troubles.</p>
                                 <a href="systems/ac-charge-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1078,7 +1078,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">DC Fast Charger</h3>
-                                <p>Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with KAS PVT LTDtoday!</p>
+                                <p>Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with KAS PVT LTD today!</p>
                                 <a href="systems/dc-fast-charger" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1090,7 +1090,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">Battery Management System - BMS</h3>
-                                <p>KAS PVT LTD’s BMS helps to estimate the battery's State of Health SoH and State of Charge SoC. It identifies the state of the battery, whether active or dead, as well as, supports passive Cell Balancing.</p>
+                                <p>KAS PVT LTD ’s BMS helps to estimate the battery's State of Health SoH and State of Charge SoC. It identifies the state of the battery, whether active or dead, as well as, supports passive Cell Balancing.</p>
                                 <a href="systems/battery-management-system" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1102,7 +1102,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">Motor Controller</h3>
-                                <p>KAS PVT LTD’s Motor controller fine-tunes with the electric motor to improve vehicle performance. Its fine-tuning capability supports various applications for different vehicles, incorporating an optimized control algorithm.</p>
+                                <p>KAS PVT LTD ’s Motor controller fine-tunes with the electric motor to improve vehicle performance. Its fine-tuning capability supports various applications for different vehicles, incorporating an optimized control algorithm.</p>
                                 <a href="systems/motor-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1114,7 +1114,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">CCS2 Controller</h3>
-                                <p>KAS PVT LTD’s CCS2CON is the most viable solution to build Level 3 chargers for Electric Vehicles. Compliant with DIN 70121 & ISO-15118 (PnC), it integrates DC fast charging with Power Module, RFID, HMI, etc.</p>
+                                <p>KAS PVT LTD ’s CCS2CON is the most viable solution to build Level 3 chargers for Electric Vehicles. Compliant with DIN 70121 & ISO-15118 (PnC), it integrates DC fast charging with Power Module, RFID, HMI, etc.</p>
                                 <a href="systems/ccs2-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1127,7 +1127,7 @@
         <div class="container">
             <div class="section-title-and-desc">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Insights by KAS PVT LTD</h2>
+                    <h2 class="section-title-text h1">Insights by KAS PVT LTD </h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-10 mx-auto">
@@ -1227,7 +1227,7 @@
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                    <p class="text-lg text-secondary    ">KAS PVT LTDTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                    <p class="text-lg text-secondary    ">KAS PVT LTD Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                     </p>
                                 </div>
                             </div>
@@ -1242,7 +1242,7 @@
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS PVT LTDTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS PVT LTD Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                     </p>
                                 </div>
                             </div>
