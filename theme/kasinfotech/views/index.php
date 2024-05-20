@@ -445,31 +445,7 @@
             </div>
         </div>
     </section>
-    <section class="fortune-clients-section section-padding section-padding-bottom banner-post">
-        <figure class="banner-post-img">
-            <picture>
-                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/webp">
-                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/jpeg">
-                <img data-src="<?php echo asset('images/fortune-client-bg.webp'); ?>" src="<?php echo asset('images/fortune-client-bg.webp'); ?>" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
-            </picture>
-        </figure>
-        <div class="container section-padding pt-0">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="section-title-and-desc mb-0">
-                        <div class="section-title-block text-left">
-                            <h2 class="section-title-text h1 text-white ">Fortune-500 Clients</h2>
-                            <p class="text-left h3 section-short-desc text-white mb-50">
-                                The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2011.
-                            </p>
-                            <a href="<?php echo base_url(); ?>clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
    
     <section>
         <div class="container">
