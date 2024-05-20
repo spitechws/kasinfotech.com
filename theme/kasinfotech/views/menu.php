@@ -1,6 +1,6 @@
 <header class="header-wrapper section-wrapper">
     <div class="header-main dark">
-        <nav class="navbar navbar-expand-xl navbar-dark header-navbar text-uppercase">
+        <nav class="navbar navbar-expand-xl navbar-dark header-navbar text-uppercase text-white">
         <div class="container-fluid px-0">
     <style>
         #collapse-mobile-siderbar .position-absolute {
