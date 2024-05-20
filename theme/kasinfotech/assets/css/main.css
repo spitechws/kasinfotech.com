@@ -7471,9 +7471,10 @@ lesshat-selector {
 
 .header-main .navbar .navbar-light {
   background-color: #1c437f;
+  color: white;
 }
 
-.header-main .navbar .navbar-light .nav-link {
+.header-main .navbar .navbar-light li a {
   color: #fff !important;
 }
 
@@ -7488,9 +7489,21 @@ lesshat-selector {
 .header-main .navbar.navbar-dark .navbar-nav .nav-item > .nav-link {
   color: #fff;
 }
+.header-main .navbar.navbar-light .navbar-nav .nav-item > .nav-link {
+  color: #fff;
+}
 
 .header-main
   .navbar.navbar-dark
+  .right-nav-elements
+  .menu-icon-block
+  .hamburger-icon
+  .bars {
+  background-color: #fff;
+}
+
+.header-main
+  .navbar.navbar-light
   .right-nav-elements
   .menu-icon-block
   .hamburger-icon
