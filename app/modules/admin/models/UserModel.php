@@ -50,7 +50,7 @@ class UserModel extends MY_Model
                 $row = get_row('user', array('email' => $email));
                 if (!empty($row->email)) {
                     $this->response['msg'] = $row;
-                } else {
+                } else {                   
                     $this->response['is_error']=1;
                     $this->response['msg']='User not exist in project';
                 }
