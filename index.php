@@ -1,4 +1,5 @@
 <?php
+require_once 'constants.php';
 
 function debug($arg, $is_die = 1)
 {
