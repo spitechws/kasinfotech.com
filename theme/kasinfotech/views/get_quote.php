@@ -58,8 +58,8 @@
                                             <div class="col-md-12 col-lg-4">
                                                 <div class="form-group">
                                                     <label for="service_id">Service<span class="required">*</span></label>
-                                                    <select class="form-select" aria-label="Default select example" id="service_id" name="service_id" required>
-                                                        <option value="">-Select Service-</option>
+                                                    <select class="form-select form-select-lg mb-3 " style="background: #f9f9f9;border: 1px solid black;" aria-label="Default select example" id="service_id" name="service_id" required>
+                                                        <option value="">Select Service</option>
                                                         <?php
                                                         if (!empty($aService)) {
                                                             foreach ($aService as $row) {
