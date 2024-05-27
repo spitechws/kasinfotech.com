@@ -9087,7 +9087,6 @@ lesshat-selector {
   .inquiry-form-block
   [class*="col-"]:nth-child(1)
   .form-group::after {
-  background: url(../images/xperson.png.pagespeed.ic.EsGLyEpgO6.png);
   position: absolute;
   content: "";
   width: 1rem;
@@ -9100,7 +9099,6 @@ lesshat-selector {
   .inquiry-form-block
   [class*="col-"]:nth-child(2)
   .form-group::after {
-  background: url(../images/xemail.png.pagespeed.ic.N4P9p1OV2G.png);
   position: absolute;
   content: "";
   width: 1.0625rem;
@@ -9113,7 +9111,6 @@ lesshat-selector {
   .inquiry-form-block
   [class*="col-"]:nth-child(3)
   .form-group::after {
-  background: url(../images/xphone-call.png.pagespeed.ic.9xYNApJRwM.png);
   position: absolute;
   content: "";
   width: 1rem;
@@ -9126,7 +9123,6 @@ lesshat-selector {
   .inquiry-form-block
   [class*="col-"]:nth-child(4)
   .form-group::after {
-  background: url(../images/xmessage.png.pagespeed.ic.CYwRZFgduS.png);
   position: absolute;
   content: "";
   width: 1rem;
@@ -9137,7 +9133,7 @@ lesshat-selector {
 
 .full-icon-form .form-group .form-control {
   border: 1px solid #222;
-  padding-left: 2.8125rem;
+
   background-color: #f9f9f9 !important;
 }
 
