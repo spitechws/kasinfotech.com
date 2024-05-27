@@ -16,4 +16,9 @@
 
 
 # SonarQube Scanner
-- sonar-scanner -Dsonar.token=squ_b65540fd522373f831d435c76f2dde85d73e4c26
+- sonar-scanner -Dsonar.token=<Your token>
+
+
+# Environments
+- Testing : http://kasinfotech.pronerotest.in/
+- Production: http://kasinfotech.com/
