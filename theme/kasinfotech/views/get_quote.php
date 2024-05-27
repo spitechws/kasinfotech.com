@@ -31,35 +31,35 @@
                     <div class="section-title-and-desc  section-paragraph">
                         <div class="section-title-block">
                             <h1 class="section-title-text h2 mb-lg">Get Quote / Get in Touch with Technical Experts</h1>
-                            <form method="post" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
+                            <form method="post" class="inquiry-form-block form--square tech-form">
                                 <div class="row">
                                     <div class="col-12">
-
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-4">
-                                                <div class="form-group">
-                                                    <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="name" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;">
-                                                </div>
+                                        <div class="col-md-6 col-lg-4">
+                                            <div class="form-group">
+                                                <label for="name">Name<span class="required">*</span></label>
+                                                <input id="name" name="name" type="text" class="form-control bg-graylight validate-required focus-class">
                                             </div>
-                                            <div class="col-md-6 col-lg-4">
-                                                <div class="form-group">
-                                                    <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="email" size="20">
-                                                </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4">
+                                            <div class="form-group">
+                                                <label for="name">Email<span class="required">*</span></label>
+                                                <input id="email" name="email" type="email" class="form-control bg-graylight validate-required">
                                             </div>
-                                            <div class="col-md-12 col-lg-4">
-                                                <div class="form-group">
-                                                    <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="mobile" maxlength="40" name="mobile" size="20" nkeypress="return isNumberKey(event)">
-                                                </div>
+                                        </div>
+                                        <div class="col-md-12 col-lg-4">
+                                            <div class="form-group">
+                                                <label for="mobile">Mobile Number<span class="required">*</span></label>
+                                                <input id="mobile" name="mobile" type="text" class="form-control bg-graylight validate-required">
                                             </div>
-                                            <div class="col-12">
-                                                <div class="form-group">
-                                                    <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="message"></textarea>
-                                                </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <label for="message">Message (Describe Your Requirements)<span class="required">*</span></label>
+                                                <textarea id="message" name="message" class="form-control bg-graylight validate-required" rows="3"></textarea>
                                             </div>
-                                            <div class="col-12 text-center">
-                                                <button class="btn btn-primary text-uppercase ls-xs" name="submit">inquire
-                                                    now</button>
-                                            </div>
+                                        </div>
+                                        <div class="col-12 text-center">
+                                            <button class="btn btn-primary text-uppercase ls-xs" name="submit">Submit</button>
                                         </div>
 
                                     </div>
