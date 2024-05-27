@@ -33,7 +33,55 @@
                             <h1 class="section-title-text h2 mb-lg">Get Quote / Get in Touch with Technical Experts</h1>
                             <form method="post" class="inquiry-form-block form--square tech-form">
                                 <div class="row">
+                                    <?php show_message(); ?>
                                     <div class="col-12">
+
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-4">
+                                                <div class="form-group">
+                                                    <label for="name">Name<span class="required">*</span></label>
+                                                    <input id="name" name="name" type="text" class="form-control bg-graylight validate-required focus-class">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-lg-4">
+                                                <div class="form-group">
+                                                    <label for="name">Email<span class="required">*</span></label>
+                                                    <input id="email" name="email" type="email" class="form-control bg-graylight validate-required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 col-lg-4">
+                                                <div class="form-group">
+                                                    <label for="mobile">Mobile Number<span class="required">*</span></label>
+                                                    <input id="mobile" name="mobile" type="text" class="form-control bg-graylight validate-required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 col-lg-4">
+                                                <div class="form-group">
+                                                    <label for="service_id">Service<span class="required">*</span></label>
+                                                    <select class="form-select" aria-label="Default select example" id="service_id" name="service_id" required>
+                                                        <option value="">-Select Service-</option>
+                                                        <?php
+                                                        if (!empty($aService)) {
+                                                            foreach ($aService as $row) {
+                                                        ?>
+                                                                <option value="<?php echo $row->id ?>"><?php echo $row->name ?></option>
+                                                        <?php
+                                                            }
+                                                        }
+                                                        ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <label for="message">Message (Describe Your Requirements)<span class="required">*</span></label>
+                                                    <textarea id="message" name="message" class="form-control bg-graylight validate-required" rows="3"></textarea>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 text-center">
+                                                <button class="btn btn-primary text-uppercase ls-xs" id="submit" value="Submit" name="submit">Submit</button>
+                                            </div>
+                                        </div>
                                         <div class="col-md-6 col-lg-4">
                                             <div class="form-group">
                                                 <label for="name">Name<span class="required">*</span></label>
@@ -61,8 +109,7 @@
                                         <div class="col-12 text-center">
                                             <button class="btn btn-primary text-uppercase ls-xs" name="submit">Submit</button>
                                         </div>
-
-                                    </div>
+         </div>
                                 </div>
                             </form>
                             <div class="col-12 text-center mt-5">

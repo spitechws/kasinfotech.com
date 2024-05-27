@@ -114,10 +114,12 @@ class Home_model extends MY_Model
             $mobile = $this->input->post('mobile', TRUE);
             $email = $this->input->post('email', TRUE);
             $service_id = $this->input->post('service_id', TRUE);
+            $message = $this->input->post('message', TRUE);
             $aInput = array(
                 "name" => filterValue($name),
                 "mobile" => filterValue($mobile),
                 "email" => filterValue($email),
+                "message" => filterValue($message),
                 "service_id" => filterValue($service_id),
                 'created_date' => date('Y-m-d H:i:s')
             );
@@ -129,5 +131,4 @@ class Home_model extends MY_Model
         }
         return $response;
     }
-    
 }
