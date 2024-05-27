@@ -1,7 +1,4 @@
 
-
-
-
 <div class="common-reusable-icons d-none">
     <svg version="1.1" class="svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96.1 96.1" style="enable-background:new 0 0 96.1 96.1;" xml:space="preserve">
         <g id="facebook-svg">
