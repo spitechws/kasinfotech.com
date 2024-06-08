@@ -263,13 +263,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer">
-                <div class="service-box bg-white m-0">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-consulting-service" class="text-primary">Salesforce Consulting</a></h3>
-                    <p>
-                        Partner with the most brilliant team of salesforce consultants holding years of experience in various industries and domains. Our certified Salesforce professionals will hear you thoroughly, learn your business model
-                        and requirements and deliver you the best-in-class suggestions, recommendations and action plans.
-                    </p>
-                </div>
+                
                 <div class="service-box bg-white">
                     <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-integration-services" class="text-primary">Salesforce Integration</a></h3>
                     <p>

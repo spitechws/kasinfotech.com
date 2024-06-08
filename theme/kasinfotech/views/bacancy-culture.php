@@ -575,11 +575,7 @@
                                     Tutorials
                                 </a>
                             </li>
-                            <li>
-                                <a href="<?php echo asset();?>testimonials" class="col footer-link-item text-sm">
-                                    Customer Reviews
-                                </a>
-                            </li>
+                            
                             <li>
                                 <a href="<?php echo asset();?>investor-relations" rel="nofollow" class="col footer-link-item text-sm">
                                     Investor Relations

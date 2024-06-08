@@ -917,12 +917,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="<?php echo asset();?>hire-data-analyst">
-                    <div class="boxed bg-white shadow-custom d-flex align-items-center justify-content-between">
-                        <p class="text-black text-18 small-heading d-flex align-items-center" style="height: 30px;">Hire Data Analyst</p>
-                        <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                    </div>
-                </a>
+                
             </div>
             <div class="col-lg-4">
                 <a href="<?php echo asset();?>hire-tableau-consultant">

@@ -54,8 +54,8 @@
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Digital Workplace Services</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Product Enhancement</a>
                                 <p class="dropdown-item nav-link font-semibold">Insights</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ai-ml-development-services') ?>">AI & Automation </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('data-analytics-services') ?>">Data Analytics</a>
+                                
+                               
                                 <p class="dropdown-item nav-link font-semibold">SAP Solutions</p>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">SAP Consultation</a>
                             </div>
@@ -71,11 +71,11 @@
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">Accelerate</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('cloud-native-application-development') ?>">Cloud - KAS PVT LTD  Combat</a>
+                               
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-process-automation') ?>">Digital Process Automation </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('open-source-web-development') ?>">Open Source </a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('dynamics-365-consulting') ?>">Microsoft Dynamics</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('salesforce-consulting-service') ?>">Salesforce</a>
+                                
+                                
+                               
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">Assure</p>
@@ -136,15 +136,15 @@
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold">About Company</p>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('leadership') ?>">Leadership Team</a>
+                                
 
                             </div>
                             <div class="col-lg-2">
                                 <p class="dropdown-item nav-link font-semibold"></p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('testimonials') ?>">Customer Reviews</a>
+                                
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('media-coverage') ?>">Media Coverage</a>
+
                             </div>
                             <div class=" col-lg-3 col-xl d-none d-xl-block">
                                 <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
@@ -236,39 +236,7 @@
                     <?php require('menu_contact_info.php'); ?>
                 </ul>
             </li>
-            <li class="nav-item">
-                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
-                <ul class="dropdown-menu submenu">
-                    <div class="container-fluid submenu-inner">
-                        <div class="row">
-                            <div class="col-lg-3">
-                                <p class="dropdown-item nav-link font-semibold">EV Products</p>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('battery-management-system') ?>">Battery Management System</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('motor-controller') ?>">Motor Controller</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ccs2-controller') ?>">CCS2 Controller</a>
-                                <a href="<?php echo base_url('products') ?>" class="btn btn-primary text-uppercase ls-xs">Explore All</a>
-                            </div>
-                            <div class="col-lg-3">
-                                <p class="dropdown-item nav-link font-semibold opacity-0">0</p>
-
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('dc-fast-charger') ?>">DC Fast Charger</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ac-charge-controller') ?>">AC Charge Controller</a>
-
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="img-text position-relative h-100">
-                                    <img src="<?php echo asset('images/logo.png') ?>" class="ob-cover" width="100">
-                                    <div class="img-text-inner">
-                                        <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>
-                                        <a href="<?php echo base_url('get-quote') ?>" class="text-uppercase text-primary">get quote<span class="long-arrow-icon-css icon-item right mt-0"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <?php require('menu_contact_info.php'); ?>
-                </ul>
-            </li>
+            
         </ul>
     </div>
     <div class="sidebar-backdrop"></div>
