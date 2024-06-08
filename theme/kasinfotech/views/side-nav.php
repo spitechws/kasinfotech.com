@@ -114,7 +114,7 @@
                             <li><a href="<?php echo base_url(); ?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
                             <li><a href="<?php echo base_url(); ?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
                             <li><a href="<?php echo base_url(); ?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
-                            <li><a href="<?php echo base_url(); ?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
+                            
                             <li><a href="<?php echo base_url(); ?>case-study/" rel="nofollow">Explore All</a></li>
                         </ul>
                     </ul>
@@ -168,8 +168,8 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>data-analytics-services">Data Analytics</a></li>
+                           
+                            
                         </ul>
                     </ul>
                     <ul class="sub-side">
@@ -193,11 +193,11 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTD Combalt</a> </li>
+                            
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
-                            <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="<?php echo base_url(); ?>salesforce-consulting-service">Salesforce</a></li>
+                            
+                           
+                           
                             <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
@@ -242,12 +242,10 @@
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>about-us">About Us</a></li>
-                            <li><a href="<?php echo base_url(); ?>leadership">Leadership Team</a></li>
                             <li><a href="<?php echo base_url(); ?>awards-recognition">Awards & Recognition</a></li>
                             <li><a href="<?php echo base_url(); ?>infrastructure">Infrastructure </a></li>
                             <li><a href="<?php echo base_url(); ?>locations">Our Locations</a></li>
                             <li><a href="<?php echo base_url(); ?>partnership">Partnership</a></li>
-                            <li><a href="<?php echo base_url(); ?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
@@ -322,27 +320,13 @@
                         <a href="<?php echo base_url(); ?>technologies" class>Explore All</a>
                     </ul>
                 </li>
-                <li class="menu_parent">
-                    <a href="#" class="res-submenu">Products</a>
-                    <ul class="sub-side">
-                        <li><a href="<?php echo base_url(); ?>systems/battery-management-system">Battery Management System</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/motor-controller">Motor Controller</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ccs2-controller">CCS2 Controller</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/dc-fast-charger">DC Fast Charger</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ac-charge-controller">AC Charge Controller</a></li>
-                        <a href="<?php echo base_url(); ?>systems/products" class>Explore All</a>
-                    </ul>
-                </li>
+                
             </ul>
             <ul>
                 <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
                 <li><a href="<?php echo base_url(); ?>about-us">Work @ KAS PVT LTD </a></li>
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
-                <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
                 <li><a href="https://calendly.com/KAS PVT LTD meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>

@@ -111,7 +111,6 @@
                             <li><a href="<?php echo base_url('case-study/angularjs/'); ?>">Angular JS</a></li>
                             <li><a href="<?php echo base_url('case-study/vuejs/'); ?>">Vue JS</a></li>
                             <li><a href="<?php echo base_url('case-study/nodejs/'); ?>">Node JS</a></li>
-                            <li><a href="<?php echo base_url('case-study/ai-ml/'); ?>">AI & ML</a></li>
                             <li><a href="<?php echo base_url('case-study/'); ?>">Explore All</a></li>
                         </ul>
                     </ul>
@@ -165,8 +164,8 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>data-analytics-services">Data Analytics</a></li>
+                           
+                            
                         </ul>
                     </ul>
                     <ul class="sub-side">
@@ -190,11 +189,11 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTD Combalt</a> </li>
+                            
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
-                            <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="<?php echo base_url(); ?>salesforce-consulting-service">Salesforce</a></li>
+                            
+                            
+                           
                             <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
@@ -239,12 +238,11 @@
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>about-us">About Us</a></li>
-                            <li><a href="<?php echo base_url(); ?>leadership">Leadership Team</a></li>
+                            
                             <li><a href="<?php echo base_url(); ?>awards-recognition">Awards & Recognition</a></li>
                             <li><a href="<?php echo base_url(); ?>infrastructure">Infrastructure </a></li>
                             <li><a href="<?php echo base_url(); ?>locations">Our Locations</a></li>
                             <li><a href="<?php echo base_url(); ?>partnership">Partnership</a></li>
-                            <li><a href="<?php echo base_url(); ?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
