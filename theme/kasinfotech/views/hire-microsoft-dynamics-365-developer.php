@@ -301,10 +301,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer">
-                    <div class="service-box bg-white mt-0">
-                        <h3 class="h5 font-bold mb-sm"><a class="text-primary" href="https://www.bacancytechnology.com/dynamics-365-consulting">Microsoft Dynamics CRM Consulting</a></h3>
-                        <p>We’ll help you to use dynamics CRM to its fullest. Our dynamic CRM consultants have vast industry experience which helps you to use the optimum level of MS CRM to achieve your business goals.</p>
-                    </div>
+                   
                     <div class="service-box bg-white">
                         <h3 class="h5 font-bold mb-sm">Dynamics CRM Customization</h3>
                         <p>
