@@ -64,7 +64,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">what we do</a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
@@ -107,6 +107,7 @@
                                 <?php require('menu_contact_info.php'); ?>
                             </ul>
                         </li>
+                       
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">who we work with</a>
                             <ul class="dropdown-menu submenu">

@@ -45,7 +45,7 @@
             </li> -->
 
             <li class="nav-item">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">what we do</a>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
                 <ul class="dropdown-menu submenu">
                     <div class="container-fluid submenu-inner">
                         <div class="row">
@@ -82,12 +82,35 @@
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Quality Assurance </a>
                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('it-staff-augmentation-services') ?>">IT Staff Augmentation </a>
                             </div>
+                            <div class="col-lg-2">
+                                <p class="dropdown-item nav-link font-semibold">What We Offer</p>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Website Development</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Android App Development</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">Digital Marketing</a>
+                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">Customize Software Development</a>
+                            </div>
 
                         </div>
                     </div>
                     <?php require('menu_contact_info.php'); ?>
                 </ul>
             </li>
+            <li class="nav-item">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Products</a>
+                            <ul class="dropdown-menu submenu">
+                                <div class="container-fluid submenu-inner">
+                                    <div class="row">
+                                        <div class="col-lg-2">
+                                            <p class="dropdown-item nav-link font-semibold">Our Star Products</p>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">PMSGo</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Real Estate Marketing Software</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">School Management Software</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">E-Commerce Portal</a>
+                                    </div>
+                                </div>
+                                <?php require('menu_contact_info.php'); ?>
+                            </ul>
+                        </li>
             <li class="nav-item">
                 <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">who we work with</a>
                 <ul class="dropdown-menu submenu">
