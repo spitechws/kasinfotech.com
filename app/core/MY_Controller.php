@@ -67,4 +67,32 @@ class MY_Controller extends CI_Controller
             debug("Theme Folder not exit, please check or change the site theme from admin > System Settings");
         }
     }
+
+    protected function curlCall($end_point, $param=[], $method = 'GET')
+    {
+        $curl = curl_init();
+        $baseUrl = "https://pronero.in/api/";
+        curl_setopt_array($curl, array(
+            CURLOPT_URL => $baseUrl . $end_point,
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_SSL_VERIFYPEER => false,
+            CURLOPT_ENCODING => '',
+            CURLOPT_MAXREDIRS => 10,
+            CURLOPT_TIMEOUT => 0,
+            CURLOPT_FOLLOWLOCATION => true,
+            CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+            CURLOPT_CUSTOMREQUEST => $method,
+            CURLOPT_POSTFIELDS => json_encode($param),
+            CURLOPT_HTTPHEADER => array(
+                'Content-Type: application/json'
+            ),
+        ));
+        $response = curl_exec($curl);
+        if ($response === false) {
+            debug(curl_error($curl));
+        }
+        curl_close($curl);
+        return json_decode($response);
+    }
 }
+

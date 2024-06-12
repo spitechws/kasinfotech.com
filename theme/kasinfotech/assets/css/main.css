@@ -10362,3 +10362,19 @@ body.modal-open {
 .scale-down {
   width: 75%;
 }
+
+.services-name {
+  background-color: #eee;
+  padding: 15px;
+  border-radius: 10px;
+  color: #000;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+}
+
+.services-name:hover{
+  background-color: #ec6100;
+  transition: 0.5s;
+  color: white;
+}

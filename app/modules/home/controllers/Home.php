@@ -35,7 +35,9 @@
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
             $data['aService'] = $this->oMainModel->service_list();
-            $data['aProductList'] = get_rows('product');
+          $data['aProductList'] = $this->curlCall('product');
+          $data['aService'] = $this->curlCall('service');
+        //   debug($data['aService']);
             return $data;
         }
 
@@ -64,7 +66,7 @@
             load_home_view($page_name, $data);
         }
 
-        function services($slug = '')
+        function services1($slug = '')
         {
             if (isset($_POST['submit'])) {
                 $res = $this->oMainModel->save_enquiry();
