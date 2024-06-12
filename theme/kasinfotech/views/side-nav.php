@@ -157,7 +157,7 @@
                 </li>
 
                 <li class="menu_parent">
-                    <a href="#" class="res-submenu">What we do</a>
+                    <a href="#" class="res-submenu">Services</a>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Experience</a>
                         <ul class="sub-side-two">
@@ -220,8 +220,88 @@
                             <li><a href="<?php echo base_url(); ?>systems/power-engineering-services">Power Engineering</a></li>
                             <li><a href="<?php echo base_url(); ?>systems/iot-hardware-solutions">IoT Hardware</a></li>
                         </ul>
+
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">What We Offer</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Website Development </a></li>
+                            <li><a href="<?php echo base_url(); ?>software-engineering">Andriod App Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Digital Marketing</a></li>
+                            <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Customize Software Development</a></li>
+                           
+                        </ul>
                     </ul>
                 </li>
+                <li class="menu_parent">
+                    <a href="#" class="res-submenu">Products</a>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Our Star Products</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>digital-workplace-services">PMSGo</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">Real Estate Marketing Software</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">School Management Software</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">E-Commerce Portal</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Insights</a>
+                        <ul class="sub-side-two">
+                           
+                            
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">SAP Solutions</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>sap-consulting-services">SAP Consultation</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Innovate</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Blockchain </a></li>
+                            <li><a href="<?php echo base_url(); ?>software-engineering">Software Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Web Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-data-scientist">Data Scientist</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ai-developer">AI Developer</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ml-developer">ML Developer</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Accelerate</a>
+                        <ul class="sub-side-two">
+                            
+                            <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
+                            
+                           
+                           
+                            <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Assure</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>quality-assurance-testing-services">Quality Assurance</a></li>
+                            <li><a href="<?php echo base_url(); ?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>systems/">Product Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/analog-design-services">Analog Design Services</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/wireless-design-services">Wireless Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/embedded-software-design">Embedded Software Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/power-engineering-services">Power Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/iot-hardware-solutions">IoT Hardware</a></li>
+                        </ul>
+                    </ul>
+                </li>
+
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">who we work with</a>
                     <ul class="sub-side">
