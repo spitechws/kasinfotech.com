@@ -13,7 +13,7 @@
                             <picture>
                                 <source srcset="<?php echo asset('images/call-yellow-icon.webp'); ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png">
-                                <img alt="KAS PVT LTD" title="KAS PVT LTD" class="lazy img-item">
+                                <img alt="KAS Pvt Ltd" title="KAS Pvt Ltd" class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">
@@ -45,9 +45,9 @@
             <div class="row flex-lg-row-reverse">
 
                 <div class="col-lg-12 tabs text-center justify-content-center justify-content-lg-end">
-                    <ul class="footer-link-row -primary KAS PVT LTD-rating-block justify-content-center justify-content-lg-start mt-0">
+                    <ul class="footer-link-row -primary KAS Pvt Ltd-rating-block justify-content-center justify-content-lg-start mt-0">
                         <li>
-                            <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
+                            <a href="<?php echo base_url(); ?>main-boot-5/images/KAS Pvt Ltd_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
                                 Brochure
                             </a>
                         </li>
@@ -397,7 +397,21 @@
         return new Promise(resolve => setTimeout(resolve, ms))
     }
 </script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/666c2836981b6c56477d2988/1i0b7q68v';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

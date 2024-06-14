@@ -1570,20 +1570,20 @@ a:hover {
 .btn.btn-primary:not(:disabled):not(.disabled):active,
 .btn.btn-primary:not(:disabled):not(.disabled):active:focus,
 .btn.btn-primary:not(:disabled):not(.disabled):focus {
-  background-color: #ec6100;
-  border-color: #ec6100;
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 
 .btn.btn-primary:hover {
-  background-color: #ec6100;
-  border-color: #ec6100;
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 
 .btn.btn-primary:active,
 .btn.btn-primary:focus {
-  border-color: #ec6100;
+  border-color: #dc3545;
   color: #fff;
-  background-color: #ec6100;
+  background-color: #dc3545;
   -webkit-box-shadow: 0 0 0 0.28rem rgba(245, 130, 32, 0.3);
   box-shadow: 0 0 0 0.28rem rgba(245, 130, 32, 0.3);
 }
@@ -1633,21 +1633,21 @@ a:hover {
 }
 
 .btn.btn-bg-white:hover {
-  background-color: #ec6100;
+  background-color: #dc3545;
   color: #fff;
 }
 
 .btn.btn-bg-white:not(:disabled):not(.disabled):active,
 .btn.btn-bg-white:not(:disabled):not(.disabled):active:focus,
 .btn.btn-bg-white:not(:disabled):not(.disabled):focus {
-  background-color: #ec6100;
-  border-color: #ec6100;
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 
 .btn.btn-bg-white:active,
 .btn.btn-bg-white:focus {
-  border-color: #ec6100;
-  background-color: #ec6100;
+  border-color: #dc3545;
+  background-color: #dc3545;
   -webkit-box-shadow: 0 0 0 0.28rem rgba(236, 97, 0, 0.3);
   box-shadow: 0 0 0 0.28rem rgba(236, 97, 0, 0.3);
 }
@@ -1666,9 +1666,9 @@ a:hover {
 
 .btn.btn-outline-primary:active,
 .btn.btn-outline-primary:focus {
-  border-color: #ec6100;
+  border-color: #dc3545;
   color: #fff;
-  background-color: #ec6100;
+  background-color: #dc3545;
   -webkit-box-shadow: 0 0 0 0.28rem rgba(245, 130, 32, 0.3);
   box-shadow: 0 0 0 0.28rem rgba(245, 130, 32, 0.3);
 }
@@ -6943,7 +6943,7 @@ lesshat-selector {
 }
 
 .header-main.fixed .btn.CTA-button:hover {
-  background-color: #ec6100;
+  background-color: #dc3545;
 }
 
 .header-main .navbar {
@@ -8875,7 +8875,7 @@ lesshat-selector {
 
 .full-width-form .tech-form input.error,
 .full-width-form .tech-form textarea.error {
-  border-color: #ec6100;
+  border-color: #dc3545;
 }
 
 .full-width-form .tech-form .form-group {
@@ -10373,8 +10373,8 @@ body.modal-open {
   margin: 10px;
 }
 
-.services-name:hover{
-  background-color: #ec6100;
+.services-name:hover {
+  background-color: #dc3545;
   transition: 0.5s;
   color: white;
 }

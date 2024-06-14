@@ -111,11 +111,11 @@
                             <picture>
                                 <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-one.webp'); ?>" src="<?php echo asset('images/home-cards-one.webp'); ?>" alt="KAS PVT LTD Tech Agility " title="KAS PVT LTD Tech Agility " class="lazy">
+                                <img data-src="<?php echo asset('images/home-cards-one.webp'); ?>" src="<?php echo asset('images/home-cards-one.webp'); ?>" alt="KAS Pvt Ltd Tech Agility " title="KAS Pvt Ltd Tech Agility " class="lazy">
                             </picture>
                         </figure>
-                        <h3 class="card-title text-white h5-2">KAS PVT LTD Tech Agility – Q3, 2023</h3>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD -tech-agility" class="text-sm text-item-center long-arrow-hover">
+                        <h3 class="card-title text-white h5-2">KAS Pvt Ltd Tech Agility – Q3, 2023</h3>
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -tech-agility" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">new edition out now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -131,7 +131,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD _Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
+                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS Pvt Ltd _Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">visit now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -197,7 +197,7 @@
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="<?php echo base_url(); ?>development-center-KAS PVT LTD " class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>development-center-KAS Pvt Ltd " class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">Let's connect </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -224,7 +224,7 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row digital-tranformation-row g-0 digital-transformation-bg-last bg-behind-section">
-                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg')?>)"></div>
+                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg') ?>)"></div>
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
@@ -367,7 +367,7 @@
                             Success Magazine
                         </h4>
                         <p class="text-secondary  desc-margin">
-                            KAS PVT LTD represents the connected world, offering innovative and
+                            KAS Pvt Ltd represents the connected world, offering innovative and
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
@@ -377,7 +377,7 @@
             </div>
         </div>
     </section>
-  
+
     <section class="section-padding position-relative section-paragraph">
         <div class="container position-relative">
             <div class="row">
@@ -416,12 +416,12 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD -values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -431,12 +431,12 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD -culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -445,13 +445,13 @@
             </div>
         </div>
     </section>
-    
-   
+
+
     <section>
         <div class="container">
             <div class="section-title-and-desc mt-5">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Insights by KAS PVT LTD </h2>
+                    <h2 class="section-title-text h1">Insights by KAS Pvt Ltd </h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-10 mx-auto">
@@ -462,7 +462,7 @@
                     </div>
                 </div>
             </div>
-           
+
             <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
                 <div class="insight-slider-navigation" id="insight-navigation-block">
                     <ul class="nav-block">
@@ -500,7 +500,7 @@
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                    <p class="text-lg text-secondary    ">KAS PVT LTD Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                    <p class="text-lg text-secondary    ">KAS Pvt Ltd Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                     </p>
                                 </div>
                             </div>
@@ -516,7 +516,7 @@
                                 </div>
                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS PVT LTD Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Pvt Ltd Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                     </p>
                                 </div>
                             </div>

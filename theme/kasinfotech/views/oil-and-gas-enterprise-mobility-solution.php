@@ -21,14 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/oil-gas/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/oil-gas/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/oil-gas/banner.jpg?v-1"
-                src="<?php echo asset(); ?>images/oil-gas/banner.jpg?v-1"
-                alt="Oil and Gas Enterprise Mobility Solution"
-                title="Oil and Gas Enterprise Mobility Solution"
-                data-pagespeed-url-hash="2412341970"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/oil-gas/banner.jpg?v-1" src="<?php echo asset(); ?>images/oil-gas/banner.jpg?v-1" alt="Oil and Gas Enterprise Mobility Solution" title="Oil and Gas Enterprise Mobility Solution" data-pagespeed-url-hash="2412341970" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container-fluid">
@@ -103,7 +96,7 @@
                     </div>
                 </div>
                 <p>
-                    Bacancy offers end-to-end custom tailored oil and gas IT engineering services to streamline the production, distribution and trading processes for varied oil &amp; gas companies need. Our goal is to help oil &amp; gas
+                    KAS Pvt Ltdoffers end-to-end custom tailored oil and gas IT engineering services to streamline the production, distribution and trading processes for varied oil &amp; gas companies need. Our goal is to help oil &amp; gas
                     businesses to attain operational excellence by achieving higher levels of proficiency and capability in rendering remarkable customer services. The oil &amp; gas software solutions built by our programmers ensure capital
                     project execution, supply chain optimization and improved exploration to help you get better returns on investment.
                 </p>
@@ -187,15 +180,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/oil-gas/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/oil-gas/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/oil-gas/form-bg.jpg"
-                src="<?php echo asset(); ?>images/oil-gas/form-bg.jpg"
-                alt="Leverage Our Oil and Gas Enterprise Mobility Solutions"
-                title="Leverage Our Oil and Gas Enterprise Mobility Solutions"
-                class=""
-                data-pagespeed-url-hash="2098636221"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/oil-gas/form-bg.jpg" src="<?php echo asset(); ?>images/oil-gas/form-bg.jpg" alt="Leverage Our Oil and Gas Enterprise Mobility Solutions" title="Leverage Our Oil and Gas Enterprise Mobility Solutions" class="" data-pagespeed-url-hash="2098636221" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -215,16 +200,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
+                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -274,15 +250,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/oil-gas/side-img-2.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/oil-gas/side-img-2.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/oil-gas/side-img-2.jpg"
-                        src="<?php echo asset(); ?>images/oil-gas/side-img-2.jpg"
-                        alt="Our Competency In The Oil &amp; Gas Industry "
-                        title="Our Competency In The Oil &amp; Gas Industry "
-                        class="w-100"
-                        data-pagespeed-url-hash="2914312161"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/oil-gas/side-img-2.jpg" src="<?php echo asset(); ?>images/oil-gas/side-img-2.jpg" alt="Our Competency In The Oil &amp; Gas Industry " title="Our Competency In The Oil &amp; Gas Industry " class="w-100" data-pagespeed-url-hash="2914312161" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -325,15 +293,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/oil-gas/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/oil-gas/side-img-1.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/oil-gas/side-img-1.jpg"
-                        src="<?php echo asset(); ?>images/oil-gas/side-img-1.jpg"
-                        alt="Why You Should Develop Your Oil And Gas Industry Enterprise Mobile Application Solution With Us? "
-                        title="Why You Should Develop Your Oil And Gas Industry Enterprise Mobile Application Solution With Us? "
-                        class="w-100"
-                        data-pagespeed-url-hash="2619812240"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/oil-gas/side-img-1.jpg" src="<?php echo asset(); ?>images/oil-gas/side-img-1.jpg" alt="Why You Should Develop Your Oil And Gas Industry Enterprise Mobile Application Solution With Us? " title="Why You Should Develop Your Oil And Gas Industry Enterprise Mobile Application Solution With Us? " class="w-100" data-pagespeed-url-hash="2619812240" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -399,7 +359,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -576,7 +536,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at Bacancy to know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -594,7 +554,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    Bacancy shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>
@@ -644,21 +604,13 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="2883500071"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                        KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
                                                         come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
@@ -672,21 +624,13 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3304062408"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
+                                                        Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
                                                         and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
@@ -700,15 +644,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3724624745"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
