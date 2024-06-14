@@ -17,143 +17,9 @@
 </header>
 <?php require_once('side-nav.php'); ?>
 
-<section class="abt-banner text-center header-spacing">
-    <div class="container">
-        <div class="row justify-content-center pt-lg-2">
-            <div class="col-lg-10 section-padding-md">
-                <p class="text-sm text-uppercase d-inline-block text-black small-text-item ls-lg">Award-winning Offshore Software Development Company Since 2011</p>
-                <h1 class="banner-spacing h1-xl font-bold lh-normal"><span class="text-primary">Agile</span>, A Process Delivering Values &amp; Successful Products</h1>
-                <p class="h3">Knowledge <a href="https://www.insightssuccess.in/agile-a-process-delivering-values-successful-products/" class="text-primary font-semibold" target="_blank">@Insights</a> Success Magazine</p>
-            </div>
-            <div class="col-12">
-                <div class="bg-fix banner-holder" style="background-image: url('<?php echo asset(); ?>images/about-us/xbanner.jpg.pagespeed.ic.0ru3p9EJ1k.webp');">
-                    <figure class="banner-holder-img">
-                        <picture>
-                            <img
-                                src="<?php echo asset(); ?>images/about-us/banner.webp"
-                                alt="Agile, A Process Delivering Values &amp; Successful Products"
-                                title="Agile, A Process Delivering Values &amp; Successful Products"
-                                class=""
-                            />
-                        </picture>
-                    </figure>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding abt-com-detail section-padding-bottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Our Story</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <p class="text-18 text-black font-semibold">
-                    Our very first project was a webcam solution for one of our US based client "Chillcam". We developed a webcam software solution to record videos and take pictures. It was developed as a security system to monitor the
-                    residence, office premises or a retail store with high-end security.
-                </p>
-            </div>
-            <div class="col-lg-6">
-                <p class="text-18 mt-4 mt-lg-0">
-                    Based on the specific client requirement, we developed a webcam-based software solution in such a specific way as it can simultaneously monitor and record multiple webcams. With support for both motion detection and
-                    sound detection, the webcam lets you keep an eye on your property from a remote location. WOW right? We strive to provide every single project with the same encouragement and wish to deliver the same remarkable web
-                    development service of creating something original, superior and exceptional. Since then, we’ve successfully implemented over 500 projects for more than different clients in almost all the industries.
-                </p>
-            </div>
-        </div>
-        <div class="row counter-block-row mb-0 justify-content-center g-4 mt-3 mt-md-5">
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        7+
-                    </h2>
-                    <p class="counter-desc text-md">
-                        countries where we have
-                        <br class="d-sm-none" />
-                        happy customers
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        50+
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Agile enabled employees
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        4
-                    </h2>
-                    <p class="counter-desc text-md">
-                        World wide offices
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        20+
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Years of Experience
-                    </p>
-                </div>
-            </div>
-            <div class="col-12 d-none d-md-block"></div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        05
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Agile Coaches
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        14
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Certified Scrum Masters
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        200+
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Clients projects
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-sm-4 col-md-3">
-                <div class="counter-block">
-                    <h2 class="counter-number h1">
-                        700+
-                    </h2>
-                    <p class="counter-desc text-md">
-                        Happy customers
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding section-padding-bottom bg-graylight bg-behind-section remote-agile-bg-last position-relative">
+
+
+<section class="mt-5 section-padding section-padding-bottom bg-graylight bg-behind-section remote-agile-bg-last position-relative">
     <div class="remote-agile-bg bg-behind-content"></div>
     <div class="container position-relative">
         <div class="row justify-content-xl-between">
@@ -166,7 +32,7 @@
             </div>
             <div class="col-lg-5 mt-lg-2">
                 <p class="text-18">
-                    Each Bacancyer always believes in putting the customer first, above all else. Customer satisfaction is our highest priority.
+                    Each KAS Pvt Ltd always believes in putting the customer first, above all else. Customer satisfaction is our highest priority.
                 </p>
             </div>
         </div>
@@ -224,12 +90,7 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <img
-                                src="<?php echo asset(); ?>images/about-us/asset-1.webp"
-                                alt="Innovative Models"
-                                title="Innovative Models"
-                                class="svg-icon"
-                            />
+                            <img src="<?php echo asset(); ?>images/about-us/asset-1.webp" alt="Innovative Models" title="Innovative Models" class="svg-icon" />
                         </picture>
                     </div>
                     <h3 class="text-xxl font-semibold small-heading" style="height: 60px;">Innovative Models</h3>
@@ -239,12 +100,7 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box boxed-2">
                         <picture>
-                            <img
-                                src="<?php echo asset(); ?>images/about-us/asset-2.webp"
-                                alt="Proven Development Records"
-                                title="Proven Development Records"
-                                class="svg-icon"
-                            />
+                            <img src="<?php echo asset(); ?>images/about-us/asset-2.webp" alt="Proven Development Records" title="Proven Development Records" class="svg-icon" />
                         </picture>
                     </div>
                     <h3 class="text-xxl font-semibold small-heading" style="height: 60px;">
@@ -257,12 +113,7 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <img
-                                src="<?php echo asset(); ?>images/about-us/asset-3.webp"
-                                alt="Certified Developers"
-                                title="Certified Developers"
-                                class="svg-icon"
-                            />
+                            <img src="<?php echo asset(); ?>images/about-us/asset-3.webp" alt="Certified Developers" title="Certified Developers" class="svg-icon" />
                         </picture>
                     </div>
                     <h3 class="text-xxl font-semibold small-heading" style="height: 60px;">Certified Developers</h3>
@@ -272,12 +123,7 @@
                 <div class="service-box text-center">
                     <div class="svg-icon-box">
                         <picture>
-                            <img
-                                src="<?php echo asset(); ?>images/about-us/asset-4.webp"
-                                alt="Cost Effective Services"
-                                title="Cost Effective Services"
-                                class="svg-icon"
-                            />
+                            <img src="<?php echo asset(); ?>images/about-us/asset-4.webp" alt="Cost Effective Services" title="Cost Effective Services" class="svg-icon" />
                         </picture>
                     </div>
                     <h3 class="text-xxl font-semibold small-heading" style="height: 60px;">
@@ -292,32 +138,17 @@
 <section class="banner-post abt-cp">
     <figure class="banner-post-img">
         <picture>
-            <img
-                src="<?php echo asset(); ?>images/about-us/abt-img.webp"
-                alt="Chandresh Patel"
-                title="Chandresh Patel"
-                class=""
-            />
+            <img src="<?php echo asset(); ?>images/about-us/abt-img.webp" alt="Chandresh Patel" title="Chandresh Patel" class="" />
         </picture>
     </figure>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-5 d-lg-flex align-items-lg-end text-center mt-5 mt-lg-0">
                 <picture>
-                    <img
-                        src="<?php echo asset(); ?>images/about-us/cp-image.webp"
-                        alt="Chandresh Patel"
-                        title="Chandresh Patel"
-                        class="cp-img d-none d-lg-block"
-                    />
+                    <img src="<?php echo asset(); ?>images/about-us/cp-image.webp" alt="Chandresh Patel" title="Chandresh Patel" class="cp-img d-none d-lg-block" />
                 </picture>
                 <picture>
-                    <img
-                        src="<?php echo asset(); ?>images/about-us/resp-img.webp"
-                        alt="Chandresh Patel"
-                        title="Chandresh Patel"
-                        class="cp-img d-lg-none"
-                    />
+                    <img src="<?php echo asset(); ?>images/about-us/resp-img.webp" alt="Chandresh Patel" title="Chandresh Patel" class="cp-img d-lg-none" />
                 </picture>
             </div>
             <div class="col-md-7 abt-cp-contain">
@@ -350,88 +181,44 @@
                         </h5>
                     </li>
                     <li>
-                        <a
-                            href="https://www.google.com/search?q=bacancytechnology&amp;oq=bacancytechnology&amp;aqs=chrome..69i57j69i60l3j0l2.7015j1j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x395e9b596be1e50d:0x9b14edd4c5fa8634,1,,,"
-                            target="_blank"
-                        >
+                        <a href="https://www.google.com/search?q=bacancytechnology&amp;oq=bacancytechnology&amp;aqs=chrome..69i57j69i60l3j0l2.7015j1j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x395e9b596be1e50d:0x9b14edd4c5fa8634,1,,," target="_blank">
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/google.webp"
-                                    alt="google-review"
-                                    title="google-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/google.webp" alt="google-review" title="google-review" class="" />
                             </picture>
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/google-review.webp"
-                                    alt="google-review"
-                                    title="google-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/google-review.webp" alt="google-review" title="google-review" class="" />
                             </picture>
                         </a>
                     </li>
                     <li>
                         <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Technology-Reviews-E755927.htm" target="_blank">
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/glassdor.webp"
-                                    alt="glassdoor-review"
-                                    title="glassdoor-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/glassdor.webp" alt="glassdoor-review" title="glassdoor-review" class="" />
                             </picture>
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/glassdoor-review.webp"
-                                    alt="glassdoor-review"
-                                    title="glassdoor-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/glassdoor-review.webp" alt="glassdoor-review" title="glassdoor-review" class="" />
                             </picture>
                         </a>
                     </li>
                     <li>
                         <a href="https://clutch.co/profile/bacancy" target="_blank">
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/clutch.webp"
-                                    alt="clutch-review"
-                                    title="clutch-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/clutch.webp" alt="clutch-review" title="clutch-review" class="" />
                             </picture>
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/clutch-review.webp"
-                                    alt="clutch-review"
-                                    title="clutch-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/clutch-review.webp" alt="clutch-review" title="clutch-review" class="" />
                             </picture>
                         </a>
                     </li>
                     <li>
                         <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
                             <picture>
-                                <img
-                                    src="<?php echo asset(); ?>images/about-us/firms.webp"
-                                    alt="goodfirms-review"
-                                    title="goodfirms-review"
-                                    class=""
-                                />
+                                <img src="<?php echo asset(); ?>images/about-us/firms.webp" alt="goodfirms-review" title="goodfirms-review" class="" />
                             </picture>
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/about-us/goodfirms-review.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/about-us/goodfirms-review.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
-                                    src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp"
-                                    alt="goodfirms-review"
-                                    title="goodfirms-review"
-                                    class=""
-                                />
+                                <img data-src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp" src="<?php echo asset(); ?>images/about-us/xgoodfirms-review.jpg.pagespeed.ic.F_KEwtRhnk.webp" alt="goodfirms-review" title="goodfirms-review" class="" />
                             </picture>
                         </a>
                     </li>
@@ -442,21 +229,16 @@
 </section>
 <section class="abt-team section-padding pt-0">
     <picture>
-        <img
-            src="<?php echo asset(); ?>images/about-us/team-img-1.webp"
-            alt="Bacancy team"
-            title="Bacancy team"
-            class="w-100"
-        />
+        <img src="<?php echo asset(); ?>images/about-us/team-img-1.webp" alt="KAS Pvt Ltdteam" title="KAS Pvt Ltdteam" class="w-100" />
     </picture>
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="boxed text-center">
-                
+
+                </div>
             </div>
         </div>
-    </div>
 </section>
 
 
@@ -498,18 +280,13 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                        />
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                        KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
                                                         come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
@@ -521,18 +298,13 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            src="<?php echo asset(); ?>images/insight-slide-2.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="slider-img"
-                                                        />
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-2.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
+                                                        Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
                                                         and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
@@ -544,12 +316,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            src="<?php echo asset(); ?>images/insight-slide-3.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="slider-img"
-                                                        />
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-3.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">

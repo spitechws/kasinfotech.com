@@ -19,16 +19,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/software-dev-org/banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/software-dev-org/banner.png?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
-                src="<?php echo asset();?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp"
-                alt="Hire Flutter Developer"
-                title="Hire Flutter Developer"
-                data-pagespeed-url-hash="1045423400"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/software-dev-org/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/software-dev-org/banner.png?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp" src="<?php echo asset(); ?>images/software-dev-org/xbanner.png,qv-1.pagespeed.ic.Nog9_6BEKp.webp" alt="Hire Flutter Developer" title="Hire Flutter Developer" data-pagespeed-url-hash="1045423400" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -38,7 +31,7 @@
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl lh-normal text-white">Hire Flutter Developer</h1>
                         <p class="text-white mb-lg">
-                            Hire Flutter developers from Bacancy to build intuitive, visually appealing, user-friendly, and scalable applications. Our certified Flutter developers have in-depth knowledge of Flutter SQLite and extensive
+                            Hire Flutter developers from KAS Pvt Ltdto build intuitive, visually appealing, user-friendly, and scalable applications. Our certified Flutter developers have in-depth knowledge of Flutter SQLite and extensive
                             experience of working with SOLID principles &amp; Restful API. Access 80+ dedicated Flutter developers with a strong understanding of Flutter's layered architecture to build advanced Flutter-based mobile &amp;
                             web apps.
                         </p>
@@ -50,15 +43,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA="
-                                        src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="635440846"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA=" src="data:image/webp;base64,UklGRpwAAABXRUJQVlA4TI8AAAAvLUALEIdgIG2b1PqF7zbIJm2k/7/bsXRADEKS8gjlTxFJDBl0BBfItQACCMI/hJhw19jix5kCG0mS2izem/+/1y2gUEFE/ycAq8kJqkvgRkGPHDPSWNQjwxFjVeq0qJE4QmVpT9W8DGr+PzKBanj8j5E5y5s60G8CgJsa0G4yKZljemXXciIvchAtx0asAgA=" alt="icon" data-pagespeed-url-hash="635440846" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -70,15 +57,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA=="
-                                        src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1056003183"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-2.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA==" src="data:image/webp;base64,UklGRl4BAABXRUJQVlA4TFEBAAAvLUALEN9gIG2bbNIv/LOhuG0bh0mu7D/sveqAIIhsQzQQUWUJ3DXwErxA3CqAAILgPiR9QFxI7JO+CmKGDXhujc93le116iBgS5LkqOk6f4A0aDA7i/7/S3GzmPeI/k+AvuBCa3srtx/4sdyJwez0hHSCk3IXFmWCv1THPgksZWHOCTimGNSUC5SUgHnN7JmUO5HtSZ411CRNSa7syFmU7xldaaCf57pQ059nulDj/WNdqLk/0oVecH+vC73kcOei17Q79ZWG11mZYAF/jQsY2EBfXsFhEtgR5trOoYsrGfTR6g+60A3toY82Bl3ojhz6aOEwFD0gh7HmlZ4u9JActnkrnCSp/MF8qJK0Ac86gkk6rNzsd0WqA2PWTFfL78ij60EOnlNg3fL0+Nuz5hj5NWVpcEzpG1gKDZeM00vF+b/FeD6XJxZa21vFqXV54nUBAA==" alt="icon" data-pagespeed-url-hash="1056003183" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -90,15 +71,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-ico-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a"
-                                        src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1476565520"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-ico-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a" src="data:image/webp;base64,UklGRhQCAABXRUJQVlA4TAgCAAAvL8ALEPeAoG3buIN+3ldoKG7bxmHK7T9te10IBCFiif8nKWobybnGH8qhul/NIEigvD0RiEBk2IikEQhGNR/JjipwKBDVRyhwVB8/oOBh61N1QZZt223bnAuoQLQYETbhoCXznydAkFTKd0T/J4D/8fLz9VBry5s4bf8+r7wesAz8Oqu+JBXywI+TopUkD27Ln1I/1LWVYjbiGdlqc4GwkU4IGk0QevW4oK65NTZDvkm6cPhLkowvQHSSzUBwmg97SpLJ9BfJftKWo7zaDPnz+QVMkq7fHB/UzhAk6V4pau0z70pf3xWSuoliGy0wNVIaq59WclBsD4K6V/CdC8P5KskUuGuX2QpDyUpShKc2E7k3wdw4RoPaCaK2F1gaU6i2KSNBralUO2ArxMktFbwkeQaDuit8aPRe6QdJujFY1L1B1Pj1uylPSTJlpBoZ51zeJ9nH465uYrgWNsOewcChJUO4LN7P+wLHzjbTz2bHwrFFchv4sZWDZ90qxLtsIg0FjtatwixJHgZM5PCpwqw2kLduhVNntaaybsyVU1d1I8SOCZyb1A0AQdJUoYYTiu0EyBWCiUCy7gQnSSZDtvdKW1/SdFyQpFuGbKWliVdJ63FG0lQhWrkElA9JMvWwLJkIUH0AKFat5/h1rQwntbd6wu61MYX39ZJM5o1nyWTe2clk3jr7zD8a" alt="icon" data-pagespeed-url-hash="1476565520" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -110,16 +85,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-side-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-side-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
-                        src="<?php echo asset();?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp"
-                        alt="Hire Flutter Developer"
-                        title="Hire Flutter Developer"
-                        data-pagespeed-url-hash="1395492025"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-side-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-side-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xbanner-side-img.png.pagespeed.ic.U4JFqmijxl.webp" alt="Hire Flutter Developer" title="Hire Flutter Developer" data-pagespeed-url-hash="1395492025" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -181,14 +149,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -234,16 +195,9 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            alt="Mid-Senior Flutter Developer"
-                                            title="Mid-Senior Flutter Developer"
-                                            data-pagespeed-url-hash="2684957369"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" alt="Mid-Senior Flutter Developer" title="Mid-Senior Flutter Developer" data-pagespeed-url-hash="2684957369" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </div>
                             </div>
@@ -257,16 +211,9 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            alt="Senior Flutter Developer"
-                                            title="Senior Flutter Developer"
-                                            data-pagespeed-url-hash="2684957369"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" alt="Senior Flutter Developer" title="Senior Flutter Developer" data-pagespeed-url-hash="2684957369" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </div>
                             </div>
@@ -283,16 +230,9 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            alt="Full Stack Flutter Developer"
-                                            title="Full Stack Flutter Developer"
-                                            data-pagespeed-url-hash="2684957369"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" alt="Full Stack Flutter Developer" title="Full Stack Flutter Developer" data-pagespeed-url-hash="2684957369" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </div>
                             </div>
@@ -307,16 +247,9 @@
                                 </ul>
                                 <div class="bottom-0 position-absolute right-0">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp"
-                                            alt="Lead Flutter Developer"
-                                            title="Lead Flutter Developer"
-                                            data-pagespeed-url-hash="2684957369"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/flutter_logo.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xflutter_logo.png.pagespeed.ic.IvBLuKqQ-c.webp" alt="Lead Flutter Developer" title="Lead Flutter Developer" data-pagespeed-url-hash="2684957369" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </div>
                             </div>
@@ -340,17 +273,9 @@
             </div>
             <div class="col-lg-6 text-center text-lg-left">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/side-img-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/side-img-2.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
-                        src="<?php echo asset();?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp"
-                        alt="Technical Skills of Our Flutter Developers"
-                        title="Technical Skills of Our Flutter Developers"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="2600214829"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/side-img-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/side-img-2.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xside-img-2.jpg.pagespeed.ic.qksS42TYct.webp" alt="Technical Skills of Our Flutter Developers" title="Technical Skills of Our Flutter Developers" class="lazy ob-cover" data-pagespeed-url-hash="2600214829" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -393,17 +318,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        alt="Sportify Hub"
-                                                        title="Sportify Hub"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1919553793"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" alt="Sportify Hub" title="Sportify Hub" class="lazy ob-cover" data-pagespeed-url-hash="1919553793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -411,7 +328,7 @@
                                                 <h3 class="h2 text-white font-bold">Sportify Hub</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to Bacancy as they faced several issues in their core features like inconsistency in
+                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to KAS Pvt Ltdas they faced several issues in their core features like inconsistency in
                                                         recording, Firebase link malfunction, ending live room when the host kills the app, and data clearing issues with GetX. Our proficient Flutter developers carefully reviewed
                                                         documentation, employed the API’s layout configuration option, utilized the onUserOffline event to detect when a user goes offline, implemented GetPage binding, and utilized Get.create
                                                         to ensure data consistency and persistence.
@@ -431,17 +348,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        alt="EZExchange"
-                                                        title="EZExchange"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2340116130"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp" alt="EZExchange" title="EZExchange" class="lazy ob-cover" data-pagespeed-url-hash="2340116130" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -469,17 +378,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        alt="TaskProX"
-                                                        title="TaskProX"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1498991456"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp" alt="TaskProX" title="TaskProX" class="lazy ob-cover" data-pagespeed-url-hash="1498991456" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -487,7 +388,7 @@
                                                 <h3 class="h2 text-white font-bold">TaskProX</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        TaskProX, a leading enterprise software solution provider across various industries, reached out to Bacancy because they were facing issues in incorporating support for desktop,
+                                                        TaskProX, a leading enterprise software solution provider across various industries, reached out to KAS Pvt Ltdbecause they were facing issues in incorporating support for desktop,
                                                         Android, and iOS Flutter applications. They were willing to upgrade their old Flutter project to the latest version. Our skillful Flutter developers cater to new packages tailored to
                                                         desktop-specific requirements that adapt to respective operating systems and utilize the Flutter migration command with required modifications to align with updated packages.
                                                     </p>
@@ -506,17 +407,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        alt="Sportify Hub"
-                                                        title="Sportify Hub"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1919553793"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" alt="Sportify Hub" title="Sportify Hub" class="lazy ob-cover" data-pagespeed-url-hash="1919553793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -524,7 +417,7 @@
                                                 <h3 class="h2 text-white font-bold">Sportify Hub</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to Bacancy as they faced several issues in their core features like inconsistency in
+                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to KAS Pvt Ltdas they faced several issues in their core features like inconsistency in
                                                         recording, Firebase link malfunction, ending live room when the host kills the app, and data clearing issues with GetX. Our proficient Flutter developers carefully reviewed
                                                         documentation, employed the API’s layout configuration option, utilized the onUserOffline event to detect when a user goes offline, implemented GetPage binding, and utilized Get.create
                                                         to ensure data consistency and persistence.
@@ -544,17 +437,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp"
-                                                        alt="EZExchange"
-                                                        title="EZExchange"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2340116130"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-3.jpg,qv-3.pagespeed.ic.dBybnYa6hU.webp" alt="EZExchange" title="EZExchange" class="lazy ob-cover" data-pagespeed-url-hash="2340116130" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -582,17 +467,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp"
-                                                        alt="TaskProX"
-                                                        title="TaskProX"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1498991456"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-1.jpg,qv-3.pagespeed.ic.iTGA9QFzzV.webp" alt="TaskProX" title="TaskProX" class="lazy ob-cover" data-pagespeed-url-hash="1498991456" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -600,7 +477,7 @@
                                                 <h3 class="h2 text-white font-bold">TaskProX</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        TaskProX, a leading enterprise software solution provider across various industries, reached out to Bacancy because they were facing issues in incorporating support for desktop,
+                                                        TaskProX, a leading enterprise software solution provider across various industries, reached out to KAS Pvt Ltdbecause they were facing issues in incorporating support for desktop,
                                                         Android, and iOS Flutter applications. They were willing to upgrade their old Flutter project to the latest version. Our skillful Flutter developers cater to new packages tailored to
                                                         desktop-specific requirements that adapt to respective operating systems and utilize the Flutter migration command with required modifications to align with updated packages.
                                                     </p>
@@ -619,17 +496,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 532px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        src="<?php echo asset();?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp"
-                                                        alt="Sportify Hub"
-                                                        title="Sportify Hub"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1919553793"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xcase-2.jpg,qv-3.pagespeed.ic.sTC8om6JeU.webp" alt="Sportify Hub" title="Sportify Hub" class="lazy ob-cover" data-pagespeed-url-hash="1919553793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 532px;">
@@ -637,7 +506,7 @@
                                                 <h3 class="h2 text-white font-bold">Sportify Hub</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to Bacancy as they faced several issues in their core features like inconsistency in
+                                                        Sportify Hub, a dedicated social media platform designed specifically for sports fans, reached out to KAS Pvt Ltdas they faced several issues in their core features like inconsistency in
                                                         recording, Firebase link malfunction, ending live room when the host kills the app, and data clearing issues with GetX. Our proficient Flutter developers carefully reviewed
                                                         documentation, employed the API’s layout configuration option, utilized the onUserOffline event to detect when a user goes offline, implemented GetPage binding, and utilized Get.create
                                                         to ensure data consistency and persistence.
@@ -698,15 +567,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="<?php echo asset(); ?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2800
                                         </h3>
@@ -792,17 +653,9 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
                         </div>
@@ -992,16 +845,9 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-1.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp"
-                                            alt="Flutter Team Augmentation"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="151603601"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-1.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-1.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-1.png.pagespeed.ic.cKizKg-pyU.webp" alt="Flutter Team Augmentation" class="mb-sm w-auto" data-pagespeed-url-hash="151603601" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Flutter Team Augmentation</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1013,16 +859,9 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-2.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-2.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp"
-                                            alt="Flutter 3.10 App Upgrade Services"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="446103522"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-2.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-2.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-2.png.pagespeed.ic.D3x3yc_nlq.webp" alt="Flutter 3.10 App Upgrade Services" class="mb-sm w-auto" data-pagespeed-url-hash="446103522" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Flutter 3.10 App Upgrade Services</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1033,16 +872,9 @@
                             <div class="owl-item active" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-3.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp"
-                                            alt="Flutter Migration"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="740603443"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-3.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-3.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-3.png.pagespeed.ic.iMA_1-0vME.webp" alt="Flutter Migration" class="mb-sm w-auto" data-pagespeed-url-hash="740603443" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Flutter Migration</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1053,16 +885,9 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-4.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-4.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp"
-                                            alt="Server-Side Mobile APIs"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="1035103364"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-4.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-4.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-4.png.pagespeed.ic.irvvp0gb56.webp" alt="Server-Side Mobile APIs" class="mb-sm w-auto" data-pagespeed-url-hash="1035103364" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Server-Side Mobile APIs</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1074,16 +899,9 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-5.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-5.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp"
-                                            alt="Flutter Testing and Debugging"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="1329603285"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-5.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-5.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-5.png.pagespeed.ic.bgSf16QSWz.webp" alt="Flutter Testing and Debugging" class="mb-sm w-auto" data-pagespeed-url-hash="1329603285" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Flutter Testing and Debugging</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1095,16 +913,9 @@
                             <div class="owl-item" style="width: 719.667px; margin-right: 30px;">
                                 <div class="item boxed bg-white">
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-6.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/hire-flutter-developer/icon-f-6.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
-                                            src="<?php echo asset();?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp"
-                                            alt="Flutter Backend Integration"
-                                            class="mb-sm w-auto"
-                                            data-pagespeed-url-hash="1624103206"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-6.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/icon-f-6.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xicon-f-6.png.pagespeed.ic.U1HiO2Raxk.webp" alt="Flutter Backend Integration" class="mb-sm w-auto" data-pagespeed-url-hash="1624103206" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Flutter Backend Integration</h3>
                                     <p class="small-heading-two" style="height: 90px;">
@@ -1131,18 +942,11 @@
 <section class="section-padding section-paragraph text-center banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-4.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/hire-flutter-developer/banner-4.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
-                src="<?php echo asset();?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp"
-                alt="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
-            "
-                title="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
-            "
-                data-pagespeed-url-hash="444810809"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-4.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/banner-4.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xbanner-4.jpg,qv-1.pagespeed.ic.6_Hb_QFxP2.webp" alt="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
+            " title="Save 60% on Development Costs And Turn Your Ideas into Brilliant Applications by Hiring Our Skilled Flutter Developer
+            " data-pagespeed-url-hash="444810809" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -1159,23 +963,15 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        alt="Hire Flutter Developer From Bacancy &amp; Extent Your Team with Top Class Talent"
-                        title="Hire Flutter Developer From Bacancy &amp; Extent Your Team with Top Class Talent"
-                        class="lazy"
-                        data-pagespeed-url-hash="184066017"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" alt="Hire Flutter Developer From KAS Pvt Ltd&amp; Extent Your Team with Top Class Talent" title="Hire Flutter Developer From KAS Pvt Ltd&amp; Extent Your Team with Top Class Talent" class="lazy" data-pagespeed-url-hash="184066017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Hire Flutter Developer From Bacancy &amp; Extent Your Team with Top Class Talent</h2>
+                        <h2 class="section-title-text h1">Hire Flutter Developer From KAS Pvt Ltd&amp; Extent Your Team with Top Class Talent</h2>
                     </div>
                 </div>
                 <p>
@@ -1307,7 +1103,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
+                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
                                 help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                             </p>
                         </div>
@@ -1394,23 +1190,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1422,23 +1210,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -1450,17 +1230,9 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

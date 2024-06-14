@@ -34,8 +34,10 @@
             $data['title'] = $cms->page_title;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
-            $data['aService'] = $this->oMainModel->service_list();
-            $data['aProductList'] = get_rows('product');
+            $data['aProductList'] = $this->curlCall('product');
+            $data['aProductDetails'] = $this->curlCall('product/1');
+
+            $data['aServiceList'] = $this->curlCall('service');
             return $data;
         }
 
@@ -64,7 +66,7 @@
             load_home_view($page_name, $data);
         }
 
-        function services($slug = '')
+        function services1($slug = '')
         {
             if (isset($_POST['submit'])) {
                 $res = $this->oMainModel->save_enquiry();

@@ -1,4 +1,109 @@
+<div class="footer-wrapper section-wrapper">
+    <div class="footer-main section-padding bg-dark">
+        <div class="container footer-bg">
+            <div class="row g-4 gy-lg-0 align-items-md-center">
+                <div class="col-md-12 col-lg-3 d-lg-flex">
+                    <div class="get-in-touch-block">
+                        <h5 class="h3-2  font-semibold footer-title mb-0 text-white right-content"><a href="<?php echo base_url(); ?>contactus" class="text-white">Get in Touch</a></h5>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 ">
+                    <div class="get-in-touch-block">
+                        <div class="icon-block">
+                            <picture>
+                                <source srcset="<?php echo asset('images/call-yellow-icon.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png">
+                                <img alt="KAS Pvt Ltd" title="KAS Pvt Ltd" class="lazy img-item">
+                            </picture>
+                        </div>
+                        <div class="right-content">
+                            <p class="text-dark-secondary text-md">Contact Number</p>
+                            <h4 class="h4 text-white">
+                                <a href="tel:<?php echo $contact_number; ?>" class="text-white"><?php echo $contact_number; ?></a>
 
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="get-in-touch-block">
+                        <div class="icon-block">
+                            <picture>
+                                <source srcset="<?php echo asset('images/gmail-icon.webp'); ?>" type="image/webp">
+                                <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png">
+                            </picture>
+                        </div>
+                        <div class="right-content">
+                            <p class="text-dark-secondary text-md">Email Us</p>
+                            <span class="h4 text-white-all"><a href="mailto:<?php echo $contact_email; ?>" class="mail-id">
+                                    <span><?php echo $contact_email; ?></span></a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr class="hr-footer">
+            <div class="row flex-lg-row-reverse">
+
+                <div class="col-lg-12 tabs text-center justify-content-center justify-content-lg-end">
+                    <ul class="footer-link-row -primary KAS Pvt Ltd-rating-block justify-content-center justify-content-lg-start mt-0">
+                        <li>
+                            <a href="<?php echo base_url(); ?>main-boot-5/images/KAS Pvt Ltd_Technology_Brochure.pdf" class="col footer-link-item text-sm" target="_blank">
+                                Brochure
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>quality-assurance-testing-services" class="col footer-link-item text-sm">
+                                Quality Assurance
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>resources/" class="col footer-link-item text-sm">
+                                Resources
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>tutorials/" class="col footer-link-item text-sm">
+                                Tutorials
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>testimonials" class="col footer-link-item text-sm">
+                                Customer Reviews
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>investor-relations" rel="nofollow" class="col footer-link-item text-sm">
+                                Investor Relations
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>privacy-policy" class="col footer-link-item text-sm">
+                                Privacy Policy
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>faqs" class="col footer-link-item text-sm">
+                                FAQs
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>qanda" class="col footer-link-item text-sm">
+                                QandA
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url('contact-us') ?>" class="col footer-link-item text-sm">
+                                Contact Us
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="common-reusable-icons d-none">
     <svg version="1.1" class="svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96.1 96.1" style="enable-background:new 0 0 96.1 96.1;" xml:space="preserve">
         <g id="facebook-svg">
@@ -292,7 +397,21 @@
         return new Promise(resolve => setTimeout(resolve, ms))
     }
 </script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/666c2836981b6c56477d2988/1i0b7q68v';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>
