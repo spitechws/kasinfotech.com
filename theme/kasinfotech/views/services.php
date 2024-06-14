@@ -10,16 +10,9 @@
 <section class="header-spacing section-padding banner-post banner-main">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/partnership/banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/partnership/banner.jpg?v-2" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp"
-                src="<?php echo asset();?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp"
-                alt="Bacancy Partner"
-                title="Bacancy Partner"
-                data-pagespeed-url-hash="1027017593"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/partnership/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/partnership/banner.jpg?v-2" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" alt="KAS Pvt LtdPartner" title="KAS Pvt LtdPartner" data-pagespeed-url-hash="1027017593" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -39,33 +32,33 @@
 
 <div class="container">
     <div class="row mt-5">
-        <div class="col-md-6 text-center mt-5"> 
-            <?php 
-            $total_services = count($aService->data); 
-            $half_services = ceil($total_services / 2); 
-            
-            
+        <div class="col-md-6 text-center mt-5">
+            <?php
+            $total_services = count($aService->data);
+            $half_services = ceil($total_services / 2);
+
+
             for ($i = 0; $i < $half_services; $i++) {
                 $service = $aService->data[$i];
             ?>
-            <h3 class="services-name"><?php echo $service->service_name; ?></h3>
+                <h3 class="services-name"><?php echo $service->service_name; ?></h3>
             <?php } ?>
         </div>
-        <div class="col-md-6 text-center mt-5"> 
-            <?php 
-           
+        <div class="col-md-6 text-center mt-5">
+            <?php
+
             for ($i = $half_services; $i < $total_services; $i++) {
-                $service = $aService->data[$i]; 
+                $service = $aService->data[$i];
             ?>
-            <h3 class="services-name"><?php echo $service->service_name; ?></h3>
+                <h3 class="services-name"><?php echo $service->service_name; ?></h3>
             <?php } ?>
         </div>
     </div>
 </div>
 
-        
 
-        
+
+
 <section class="section-padding" id="footer-form-id">
     <div class="container">
         <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">

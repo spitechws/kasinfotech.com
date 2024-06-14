@@ -21,14 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/real-estate/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/real-estate/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/real-estate/banner.jpg?v-1"
-                src="<?php echo asset(); ?>images/real-estate/banner.jpg?v-1"
-                alt="Real Estate Software Development and Software Solutions"
-                title="Real Estate Software Development and Software Solutions"
-                data-pagespeed-url-hash="1530044045"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/real-estate/banner.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/banner.jpg?v-1" alt="Real Estate Software Development and Software Solutions" title="Real Estate Software Development and Software Solutions" data-pagespeed-url-hash="1530044045" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container-fluid">
@@ -112,15 +105,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/side-img-1.jpg?v-1" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/side-img-1.jpg?v-1"
-                        src="<?php echo asset(); ?>images/real-estate/side-img-1.jpg?v-1"
-                        alt="Build Advanced Real Estate Solutions Leveraging Our Top-Notch Real Estate Software Development Services"
-                        title="Build Advanced Real Estate Solutions Leveraging Our Top-Notch Real Estate Software Development Services"
-                        class=""
-                        data-pagespeed-url-hash="3437227326"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/side-img-1.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/side-img-1.jpg?v-1" alt="Build Advanced Real Estate Solutions Leveraging Our Top-Notch Real Estate Software Development Services" title="Build Advanced Real Estate Solutions Leveraging Our Top-Notch Real Estate Software Development Services" class="" data-pagespeed-url-hash="3437227326" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -130,7 +115,7 @@
                     developments, among many others. Thus, the use of technology and automation is indeed required to improve communication and reduce friction for real estate businesses.
                 </p>
                 <p>
-                    Bacancy provides innovative <a href="https://www.bacancytechnology.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
+                    KAS Pvt Ltdprovides innovative <a href="https://www.bacancytechnology.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
                     Whether you are a leading real estate company, a small agency associated with property business, or an individual real estate agent, leverage our custom software development for the real estate industry to build advanced
                     real estate solutions to offer improved property buying experience to both buyers as well as sellers.
                 </p>
@@ -450,15 +435,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                alt="Real Estate Software Development Company"
-                title="Real Estate Software Development Company"
-                class=""
-                data-pagespeed-url-hash="1445677510"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Real Estate Software Development Company" title="Real Estate Software Development Company" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -480,16 +457,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
+                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -541,15 +509,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/side-img-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/side-img-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/side-img-2.png"
-                                src="<?php echo asset(); ?>images/real-estate/side-img-2.png"
-                                alt="Influence of Blockchain in Real Estate Industry."
-                                title="Influence of Blockchain in Real Estate Industry."
-                                class="mb-4 mb-lg-0"
-                                data-pagespeed-url-hash="2032116940"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/side-img-2.png" src="<?php echo asset(); ?>images/real-estate/side-img-2.png" alt="Influence of Blockchain in Real Estate Industry." title="Influence of Blockchain in Real Estate Industry." class="mb-4 mb-lg-0" data-pagespeed-url-hash="2032116940" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-lg-8">
@@ -583,15 +543,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-1.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-1.png"
-                                alt="Redfin"
-                                title="Redfin"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="1808121187"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-1.png" src="<?php echo asset(); ?>images/real-estate/icon-1.png" alt="Redfin" title="Redfin" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="1808121187" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -603,15 +555,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-2.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-2.png"
-                                alt="Zillow"
-                                title="Zillow"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="2102621108"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-2.png" src="<?php echo asset(); ?>images/real-estate/icon-2.png" alt="Zillow" title="Zillow" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="2102621108" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -623,15 +567,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-3.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-3.png"
-                                alt="Bigger Pockets"
-                                title="Bigger Pockets"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="2397121029"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-3.png" src="<?php echo asset(); ?>images/real-estate/icon-3.png" alt="Bigger Pockets" title="Bigger Pockets" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="2397121029" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -643,15 +579,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-4.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-4.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-4.png"
-                                alt="Homesnap"
-                                title="Homesnap"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="2691620950"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-4.png" src="<?php echo asset(); ?>images/real-estate/icon-4.png" alt="Homesnap" title="Homesnap" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="2691620950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -663,15 +591,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-5.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-5.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-5.png"
-                                alt="Xome"
-                                title="Xome"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="2986120871"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-5.png" src="<?php echo asset(); ?>images/real-estate/icon-5.png" alt="Xome" title="Xome" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="2986120871" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -683,15 +603,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-6.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/icon-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/icon-6.png"
-                                src="<?php echo asset(); ?>images/real-estate/icon-6.png"
-                                alt="99acres"
-                                title="99acres"
-                                class="svg-icon h-auto w-auto"
-                                data-pagespeed-url-hash="3280620792"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/icon-6.png" src="<?php echo asset(); ?>images/real-estate/icon-6.png" alt="99acres" title="99acres" class="svg-icon h-auto w-auto" data-pagespeed-url-hash="3280620792" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <a href="#!" class="text-sm text-uppercase text-primary ls-xs cta-item">click to know more</a>
@@ -713,15 +625,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="redfin"
-                        title="redfin"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="redfin" title="redfin" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">Mapping technology, find open houses, the faster listing of a new house, hot homes, finance calculator</p>
@@ -744,15 +648,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="Zillow"
-                        title="Zillow"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="Zillow" title="Zillow" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">View photos &amp; videos of listed houses and apartments for sale or rent, offers alerts for new listings and price changes. Holds map feature like Redfin</p>
@@ -775,15 +671,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="Bigger Pockets"
-                        title="Bigger Pockets"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="Bigger Pockets" title="Bigger Pockets" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">Anytime ask questions about real estate through forums, offers free real estate knowledge , allow you to analyze deals and market your investment</p>
@@ -806,15 +694,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="Homesnap"
-                        title="Homesnap"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="Homesnap" title="Homesnap" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">Offers simple home buying through messaging and sharing features, holds MLS powered search feature that claims real- time updates so quickly you can access the new listings.</p>
@@ -837,15 +717,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="Xome"
-                        title="Xome"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="Xome" title="Xome" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">Allow you to nab a deal on foreclosed, standard home listings, short –sale and bank owned. You can pick up the property due to the real estate investing feature.</p>
@@ -868,15 +740,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/os-icon.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        src="<?php echo asset(); ?>images/real-estate/os-icon.png"
-                        alt="99acres"
-                        title="99acres"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="1668419598"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/os-icon.png" src="<?php echo asset(); ?>images/real-estate/os-icon.png" alt="99acres" title="99acres" class="mb-lg" data-pagespeed-url-hash="1668419598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <h4 class="">Feature</h4>
                 <p class="text-18">Holds search filters to refine the search, provides recent activity, search and sell the property for rent or sale, view all leads to your active listings.</p>
@@ -892,7 +756,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose Bacancy For Custom Real Estate App Development?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS Pvt LtdFor Custom Real Estate App Development?</h2>
                     </div>
                 </div>
             </div>
@@ -902,15 +766,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-1.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-1.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-1.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="1726080238"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-1.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-1.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="1726080238" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 90px;">We hold top domain expertise in offering the most advanced mobility solutions for real estate</p>
@@ -922,15 +778,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-2.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-2.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-2.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="2146642575"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-2.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-2.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="2146642575" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 90px;">Agile software development work approach</p>
@@ -942,15 +790,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-3.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-3.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-3.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="2567204912"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-3.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-3.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="2567204912" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 90px;">Skilled and seasoned industry experts to implement complex</p>
@@ -962,15 +802,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-4.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-4.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-4.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-4.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="2987767249"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-4.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-4.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="2987767249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 120px;">On-time, on-budget and goal-focused project delivery</p>
@@ -982,15 +814,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-5.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-5.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-5.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-5.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="3408329586"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-5.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-5.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="3408329586" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 120px;">Proven marketing strategy to offer comprehensive web/mobile application development services including optimization as well as marketing</p>
@@ -1002,15 +826,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-6.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-6.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-6.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-6.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="3828891923"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-6.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-6.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="3828891923" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 120px;">Assurance of high-quality code, data security, and satisfactory development services</p>
@@ -1022,15 +838,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-7.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/dev-icon-7.png?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/dev-icon-7.png?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/dev-icon-7.png?v-1"
-                                alt="real estate services"
-                                title="real estate services"
-                                class="svg-icon m-0 h-auto"
-                                data-pagespeed-url-hash="4249454260"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/dev-icon-7.png?v-1" src="<?php echo asset(); ?>images/real-estate/dev-icon-7.png?v-1" alt="real estate services" title="real estate services" class="svg-icon m-0 h-auto" data-pagespeed-url-hash="4249454260" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <p class="small-heading" style="height: 60px;">Ongoing support and maintenance services after development</p>
@@ -1046,15 +854,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/real-estate/side-img-3.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/real-estate/side-img-3.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/real-estate/side-img-3.png"
-                        src="<?php echo asset(); ?>images/real-estate/side-img-3.png"
-                        alt="Ready To Build Your Own Real Estate App?"
-                        title="Ready To Build Your Own Real Estate App?"
-                        class="mb-4 mb-lg-0"
-                        data-pagespeed-url-hash="2326616861"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/real-estate/side-img-3.png" src="<?php echo asset(); ?>images/real-estate/side-img-3.png" alt="Ready To Build Your Own Real Estate App?" title="Ready To Build Your Own Real Estate App?" class="mb-4 mb-lg-0" data-pagespeed-url-hash="2326616861" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1062,7 +862,7 @@
                 <p class="text-18 mb-lg">We are a leading real estate software development company and we can help you build your choice of custom real estate application.</p>
                 <p class="text-18 mb-lg">
                     Our specialists with sound experience in building applications for real estate will facilitate your idea and support you during the development. So, if you are looking for an application as an innovative solution to your
-                    business and advanced services to your customers chose Bacancy can be your one stop solution partner. Get in touch with us today.
+                    business and advanced services to your customers chose KAS Pvt Ltdcan be your one stop solution partner. Get in touch with us today.
                 </p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">talk to our expert</a>
             </div>
@@ -1085,15 +885,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1"
-                                alt="Augmented Reality Trends Bringing a Revolution in Real Estate Industry"
-                                title="Augmented Reality Trends Bringing a Revolution in Real Estate Industry"
-                                class=""
-                                data-pagespeed-url-hash="1021741627"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" alt="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" title="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" class="" data-pagespeed-url-hash="1021741627" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1107,15 +899,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1"
-                                alt="In What Ways VR is Modernizing the Real Estate Industry?"
-                                title="In What Ways VR is Modernizing the Real Estate Industry?"
-                                class=""
-                                data-pagespeed-url-hash="1442303964"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" alt="In What Ways VR is Modernizing the Real Estate Industry?" title="In What Ways VR is Modernizing the Real Estate Industry?" class="" data-pagespeed-url-hash="1442303964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1129,15 +913,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1"
-                                src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1"
-                                alt="How Blockchain Is Transforming The Real Estate Industry?"
-                                title="How Blockchain Is Transforming The Real Estate Industry?"
-                                class=""
-                                data-pagespeed-url-hash="1862866301"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" alt="How Blockchain Is Transforming The Real Estate Industry?" title="How Blockchain Is Transforming The Real Estate Industry?" class="" data-pagespeed-url-hash="1862866301" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1185,21 +961,13 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1213,21 +981,13 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -1241,15 +1001,7 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

@@ -21,14 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/banking-finance/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/banking-finance/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
-                src="<?php echo asset(); ?>images/images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp"
-                alt="Banking, Financial Services, and Insurance"
-                title="Banking, Financial Services, and Insurance"
-                data-pagespeed-url-hash="782644765"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp" src="<?php echo asset(); ?>images/images/banking-finance/xbanner.jpg,qv-1.pagespeed.ic.0BcwmiRPlT.webp" alt="Banking, Financial Services, and Insurance" title="Banking, Financial Services, and Insurance" data-pagespeed-url-hash="782644765" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container-fluid">
@@ -172,15 +165,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-1.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-1.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
-                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp"
-                                                            alt="Cards &amp; Payments"
-                                                            title="Cards &amp; Payments"
-                                                            class=""
-                                                            data-pagespeed-url-hash="2918690812"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp" src="<?php echo asset(); ?>images/banking-finance/xtab-1.jpg,qv-1.pagespeed.ic.37eNUEDaXI.webp" alt="Cards &amp; Payments" title="Cards &amp; Payments" class="" data-pagespeed-url-hash="2918690812" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-md-8">
@@ -212,15 +197,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-2.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-2.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
-                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp"
-                                                            alt="Risk &amp; Compliance"
-                                                            title="Risk &amp; Compliance"
-                                                            class=""
-                                                            data-pagespeed-url-hash="3339253149"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp" src="<?php echo asset(); ?>images/banking-finance/xtab-2.jpg,qv-1.pagespeed.ic.547jpS_4Gm.webp" alt="Risk &amp; Compliance" title="Risk &amp; Compliance" class="" data-pagespeed-url-hash="3339253149" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-md-8">
@@ -251,15 +228,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-3.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-3.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
-                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp"
-                                                            alt="Mortgage &amp; Consumer Lending"
-                                                            title="Mortgage &amp; Consumer Lending"
-                                                            class=""
-                                                            data-pagespeed-url-hash="3759815486"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp" src="<?php echo asset(); ?>images/banking-finance/xtab-3.jpg,qv-1.pagespeed.ic.wGEup7tHUc.webp" alt="Mortgage &amp; Consumer Lending" title="Mortgage &amp; Consumer Lending" class="" data-pagespeed-url-hash="3759815486" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-md-8">
@@ -290,15 +259,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-4.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-4.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
-                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp"
-                                                            alt="Financial Analytics &amp; BI"
-                                                            title="Financial Analytics &amp; BI"
-                                                            class=""
-                                                            data-pagespeed-url-hash="4180377823"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp" src="<?php echo asset(); ?>images/banking-finance/xtab-4.jpg,qv-1.pagespeed.ic.Yz3ZrMjsNX.webp" alt="Financial Analytics &amp; BI" title="Financial Analytics &amp; BI" class="" data-pagespeed-url-hash="4180377823" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-md-8">
@@ -330,15 +291,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-5.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/banking-finance/tab-5.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
-                                                            src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp"
-                                                            alt="Insurance"
-                                                            title="Insurance"
-                                                            class=""
-                                                            data-pagespeed-url-hash="305972864"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp" src="<?php echo asset(); ?>images/banking-finance/xtab-5.jpg,qv-1.pagespeed.ic.xoXs1vOKwF.webp" alt="Insurance" title="Insurance" class="" data-pagespeed-url-hash="305972864" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-md-8">
@@ -366,15 +319,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                alt="Start Your Project With BFSI Software Development Company"
-                title="Start Your Project With BFSI Software Development Company"
-                class=""
-                data-pagespeed-url-hash="1445677510"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Start Your Project With BFSI Software Development Company" title="Start Your Project With BFSI Software Development Company" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -394,16 +339,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
+                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -458,7 +394,7 @@
             </div>
             <div class="col-md-6">
                 <p class="text-18">
-                    Globally, banking, financial services, and insurance organizations rely on Bacancy to incorporate new technologies and improve their operational efficiency to resolve their most complex business and technology
+                    Globally, banking, financial services, and insurance organizations rely on KAS Pvt Ltdto incorporate new technologies and improve their operational efficiency to resolve their most complex business and technology
                     challenges. Our adroit industry experts, web and mobile developers, and data scientists are specialized in delivering BFSI services. We ensure optimal user experience for your customers with improved, secured, and
                     compliant network.
                 </p>
@@ -471,15 +407,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp"
-                                alt="Architecture development and design"
-                                title="Architecture development and design"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="2292263548"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-1.png.pagespeed.ic.Wi-aYSPBh7.webp" alt="Architecture development and design" title="Architecture development and design" class="svg-icon m-0" data-pagespeed-url-hash="2292263548" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Architecture development and design</h3>
@@ -491,15 +419,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp"
-                                alt="Analytics"
-                                title="Analytics"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="2586763469"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-2.png.pagespeed.ic.JH06HSjRt7.webp" alt="Analytics" title="Analytics" class="svg-icon m-0" data-pagespeed-url-hash="2586763469" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Analytics</h3>
@@ -511,15 +431,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp"
-                                alt="Application maintenance and support"
-                                title="Application maintenance and support"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="2881263390"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-3.png.pagespeed.ic.SaPM2J9-VK.webp" alt="Application maintenance and support" title="Application maintenance and support" class="svg-icon m-0" data-pagespeed-url-hash="2881263390" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Application maintenance and support</h3>
@@ -531,15 +443,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-4.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp"
-                                alt="Application integration services"
-                                title="Application integration services"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="3175763311"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-4.png.pagespeed.ic.Ms_mGbN_li.webp" alt="Application integration services" title="Application integration services" class="svg-icon m-0" data-pagespeed-url-hash="3175763311" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Application integration services</h3>
@@ -551,15 +455,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-5.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp"
-                                alt="Business process re-engineering"
-                                title="Business process re-engineering"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="3470263232"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-5.png.pagespeed.ic.nXbYJURZaR.webp" alt="Business process re-engineering" title="Business process re-engineering" class="svg-icon m-0" data-pagespeed-url-hash="3470263232" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Business process re-engineering</h3>
@@ -571,15 +467,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-6.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp"
-                                alt="Business Intelligence Decision support systems"
-                                title="Business Intelligence Decision support systems"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="3764763153"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-6.png.pagespeed.ic.uJ2IMKjeXy.webp" alt="Business Intelligence Decision support systems" title="Business Intelligence Decision support systems" class="svg-icon m-0" data-pagespeed-url-hash="3764763153" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Business Intelligence Decision support systems</h3>
@@ -591,15 +479,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-7.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-7.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp"
-                                alt="Content management solution"
-                                title="Content management solution"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="4059263074"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-7.png.pagespeed.ic.hHx3HVmoxE.webp" alt="Content management solution" title="Content management solution" class="svg-icon m-0" data-pagespeed-url-hash="4059263074" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Content management solution</h3>
@@ -611,15 +491,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-8.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-8.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp"
-                                alt="Consulting and In-house centers setup"
-                                title="Consulting and In-house centers setup"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="58795699"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-8.png.pagespeed.ic.dbio6DpZno.webp" alt="Consulting and In-house centers setup" title="Consulting and In-house centers setup" class="svg-icon m-0" data-pagespeed-url-hash="58795699" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Consulting and In-house centers setup</h3>
@@ -631,15 +503,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-9.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-9.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp"
-                                alt="Enterprise Resource Planning"
-                                title="Enterprise Resource Planning"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="353295620"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-9.png.pagespeed.ic.-RmOh8DBfQ.webp" alt="Enterprise Resource Planning" title="Enterprise Resource Planning" class="svg-icon m-0" data-pagespeed-url-hash="353295620" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Enterprise Resource Planning</h3>
@@ -651,15 +515,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-10.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-10.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp"
-                                alt="IT strategy consulting"
-                                title="IT strategy consulting"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="79475246"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-10.png.pagespeed.ic.06Fjlox8tU.webp" alt="IT strategy consulting" title="IT strategy consulting" class="svg-icon m-0" data-pagespeed-url-hash="79475246" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">IT strategy consulting</h3>
@@ -671,15 +527,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-11.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-11.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp"
-                                alt="Mobile enablement for Websites"
-                                title="Mobile enablement for Websites"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="373975167"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-11.png.pagespeed.ic.NwbfW-9MDy.webp" alt="Mobile enablement for Websites" title="Mobile enablement for Websites" class="svg-icon m-0" data-pagespeed-url-hash="373975167" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Mobile enablement for Websites</h3>
@@ -691,15 +539,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-12.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-12.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp"
-                                alt="Product enhancements and development services"
-                                title="Product enhancements and development services"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="668475088"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-12.png.pagespeed.ic.Ldr9aI4ZLv.webp" alt="Product enhancements and development services" title="Product enhancements and development services" class="svg-icon m-0" data-pagespeed-url-hash="668475088" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Product enhancements and development services</h3>
@@ -711,15 +551,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-13.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-13.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp"
-                                alt="Product implementation methodologies"
-                                title="Product implementation methodologies"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="962975009"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-13.png.pagespeed.ic.2dJL3rljni.webp" alt="Product implementation methodologies" title="Product implementation methodologies" class="svg-icon m-0" data-pagespeed-url-hash="962975009" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Product implementation methodologies</h3>
@@ -731,15 +563,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-14.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-14.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp"
-                                alt="Portal development"
-                                title="Portal development"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="1257474930"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-14.png.pagespeed.ic.sl37YcHMV8.webp" alt="Portal development" title="Portal development" class="svg-icon m-0" data-pagespeed-url-hash="1257474930" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Portal development</h3>
@@ -751,15 +575,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-15.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-15.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp"
-                                alt="Security consultancy and audit"
-                                title="Security consultancy and audit"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="1551974851"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-15.png.pagespeed.ic.iRA68VMtj-.webp" alt="Security consultancy and audit" title="Security consultancy and audit" class="svg-icon m-0" data-pagespeed-url-hash="1551974851" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Security consultancy and audit</h3>
@@ -771,15 +587,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-16.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/banking-finance/services-16.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
-                                src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp"
-                                alt="Systems integration services"
-                                title="Systems integration services"
-                                class="svg-icon m-0"
-                                data-pagespeed-url-hash="1846474772"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp" src="<?php echo asset(); ?>images/banking-finance/xservices-16.png.pagespeed.ic.JQBVSbfPd1.webp" alt="Systems integration services" title="Systems integration services" class="svg-icon m-0" data-pagespeed-url-hash="1846474772" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <h3 class="small-heading text-xxl font-bold" style="height: 60px;">Systems integration services</h3>
@@ -796,15 +604,7 @@
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/banking-finance/side-img-1.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/banking-finance/side-img-1.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
-                            src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp"
-                            alt="BFSI Enterprise Solutions and App Development Company."
-                            title="BFSI Enterprise Solutions and App Development Company."
-                            class="mb-5 mb-lg-0"
-                            data-pagespeed-url-hash="990217739"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <img data-src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp" src="<?php echo asset(); ?>images/banking-finance/xside-img-1.png.pagespeed.ic.hbGvE28Z8D.webp" alt="BFSI Enterprise Solutions and App Development Company." title="BFSI Enterprise Solutions and App Development Company." class="mb-5 mb-lg-0" data-pagespeed-url-hash="990217739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                 </div>
             </div>
@@ -815,7 +615,7 @@
                     </div>
                 </div>
                 <p>
-                    The world of BFSI industry is on the verge of rapid and fundamental change due to which customers are expecting a seamless, personalized experience across multiple platforms. Bacancy is a globally renowned BFSI IT
+                    The world of BFSI industry is on the verge of rapid and fundamental change due to which customers are expecting a seamless, personalized experience across multiple platforms. KAS Pvt Ltdis a globally renowned BFSI IT
                     solution provider and <a href="https://www.bacancytechnology.com/software-consulting-services" class="text-primary">software consulting company</a>, delivering fundamental financial IT solutions and services that
                     institutions require to speed up the financial operations as well as innovation. Our software developers have in-depth knowledge and skillful expertise in technical and domain sectors, and we have helped numbers of
                     organizations to help them grow their business.
@@ -863,7 +663,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -1040,7 +840,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at Bacancy to know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -1058,7 +858,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    Bacancy shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>
@@ -1108,21 +908,13 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="2883500071"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                        KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
                                                         come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
@@ -1136,21 +928,13 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3304062408"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
+                                                        Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
                                                         and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
@@ -1164,15 +948,7 @@
                                                     <picture>
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
                                                         <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3724624745"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">

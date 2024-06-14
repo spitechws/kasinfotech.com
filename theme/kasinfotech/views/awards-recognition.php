@@ -42,7 +42,7 @@
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Our Awards</h2>
-                        <h3 class="section-short-desc text-secondary">Numbers of external and independent organizations have recognized Bacancy for top talent. Here’s a glimpse of our corporate accomplishments.</h3>
+                        <h3 class="section-short-desc text-secondary">Numbers of external and independent organizations have recognized KAS Pvt Ltdfor top talent. Here’s a glimpse of our corporate accomplishments.</h3>
                     </div>
                 </div>
             </div>
@@ -55,18 +55,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp"
-                                            alt="Bacancy Ranked 1st Among Top Ahmedabad Custom Software Developers"
-                                            title="Bacancy Ranked 1st Among Top Ahmedabad Custom Software Developers"
-                                            class="lazy w-100"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" alt="KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers" title="KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
                                     <h3 class="font-bold mb-lg">
-                                        Bacancy Ranked 1st Among Top Ahmedabad Custom Software Developers
+                                        KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers
                                     </h3>
                                     <a href="https://clutch.co/in/developers/ahmedabad/leaders-matrix" class="btn btn-outline-primary text-uppercase ls-xs" target="_blank">KNOW MORE</a>
                                 </div>
@@ -80,18 +74,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp"
-                                            alt="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
-                                            title="Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021"
-                                            class="lazy w-100"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" alt="KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021" title="KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
                                     <h3 class="font-bold mb-lg">
-                                        Bacancy Bags “Best EV Developer of the Year” At EV India Expo 2021
+                                        KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021
                                     </h3>
                                     <a href="https://e-vehicleinfo.com/bacancy-bags-best-ev-developer-of-the-year-at-ev-india-expo/" class="btn btn-outline-primary text-uppercase ls-xs" target="_blank">KNOW MORE</a>
                                 </div>
@@ -105,13 +93,7 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp"
-                                            alt="Clutch Recognizes Top-Performing Software Development Companies in India for 2021"
-                                            title="Clutch Recognizes Top-Performing Software Development Companies in India for 2021"
-                                            class="lazy w-100"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-4.webp" alt="Clutch Recognizes Top-Performing Software Development Companies in India for 2021" title="Clutch Recognizes Top-Performing Software Development Companies in India for 2021" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
@@ -130,13 +112,7 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp"
-                                            alt="160 Companies Named the Top Software Developers in India in New Clutch Report"
-                                            title="160 Companies Named the Top Software Developers in India in New Clutch Report"
-                                            class="lazy w-100"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-3.webp" alt="160 Companies Named the Top Software Developers in India in New Clutch Report" title="160 Companies Named the Top Software Developers in India in New Clutch Report" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
@@ -155,13 +131,7 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp"
-                                            alt="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India"
-                                            title="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India"
-                                            class="lazy w-100"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-2.webp" alt="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India" title="Clutch Reveals the Leading 2019 Mobile App, Web, and Software Developers in India" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
@@ -180,15 +150,7 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img
-                                            data-src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp"
-                                            src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp"
-                                            alt="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback"
-                                            title="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback"
-                                            class="lazy w-100"
-                                            data-pagespeed-url-hash="804605433"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-1.webp" alt="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback" title="Top B2B Agencies in India Named for 2018 Based on the Quality of Their Customer Feedback" class="lazy w-100" data-pagespeed-url-hash="804605433" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
@@ -242,19 +204,13 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/insight-slide-1.webp"
-                                                            src="<?php echo asset(); ?>images/insight-slide-1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="lazy slider-img"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/insight-slide-1.webp" src="<?php echo asset(); ?>images/insight-slide-1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                        KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
                                                         come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                     </p>
                                                 </div>
@@ -266,19 +222,13 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/insight-slide-2.webp"
-                                                            src="<?php echo asset(); ?>images/insight-slide-2.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="lazy slider-img"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/insight-slide-2.webp" src="<?php echo asset(); ?>images/insight-slide-2.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">
                                                     <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                     <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
+                                                        Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
                                                         and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                     </p>
                                                 </div>
@@ -290,13 +240,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                                     <picture>
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/insight-slide-3.webp"
-                                                            src="<?php echo asset(); ?>images/insight-slide-3.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="lazy slider-img"
-                                                        />
+                                                        <img data-src="<?php echo asset(); ?>images/insight-slide-3.webp" src="<?php echo asset(); ?>images/insight-slide-3.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" />
                                                     </picture>
                                                 </div>
                                                 <div class="col-lg-4 offset-lg-1 col-md-8">

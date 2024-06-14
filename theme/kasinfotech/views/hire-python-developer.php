@@ -21,16 +21,9 @@
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse">
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-python/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-python/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-python/xbanner-side.png.pagespeed.ic.V24iElhwwg.webp"
-                        src="<?php echo asset();?>images/hire-python/xbanner-side.png.pagespeed.ic.V24iElhwwg.webp"
-                        alt="Hire Python Developers on Hourly or Monthly Basis"
-                        title="Hire Python Developers on Hourly or Monthly Basis "
-                        data-pagespeed-url-hash="2450109806"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-python/xbanner-side.png.pagespeed.ic.V24iElhwwg.webp" src="<?php echo asset(); ?>images/hire-python/xbanner-side.png.pagespeed.ic.V24iElhwwg.webp" alt="Hire Python Developers on Hourly or Monthly Basis" title="Hire Python Developers on Hourly or Monthly Basis " data-pagespeed-url-hash="2450109806" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-7">
@@ -61,15 +54,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="4181604599"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" alt="icon" data-pagespeed-url-hash="4181604599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -81,15 +68,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="307199640"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" alt="icon" data-pagespeed-url-hash="307199640" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -101,15 +82,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="727761977"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" alt="icon" data-pagespeed-url-hash="727761977" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -178,14 +153,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -213,17 +181,9 @@
                 <div class="boxed shadow-custom bg-white">
                     <div class="d-flex align-items-center mb-lg">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/python-ppc/sarthak.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/python-ppc/sarthak.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/python-ppc/xsarthak.png.pagespeed.ic.gM4S7EdReG.webp"
-                                src="<?php echo asset();?>images/python-ppc/xsarthak.png.pagespeed.ic.gM4S7EdReG.webp"
-                                alt="Python developer Sarthak"
-                                title="Python developer Sarthak"
-                                class="mr-3"
-                                data-pagespeed-url-hash="139971667"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/sarthak.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/sarthak.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/python-ppc/xsarthak.png.pagespeed.ic.gM4S7EdReG.webp" src="<?php echo asset(); ?>images/python-ppc/xsarthak.png.pagespeed.ic.gM4S7EdReG.webp" alt="Python developer Sarthak" title="Python developer Sarthak" class="mr-3" data-pagespeed-url-hash="139971667" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <div>
                             <h2 class="h5 font-bold">Sarthak</h2>
@@ -250,27 +210,12 @@
                     </p>
                     <div>
                         <span class="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3">
-                            <img
-                                src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA"
-                                alt="star"
-                                title="star"
-                                class="mr-2"
-                                data-pagespeed-url-hash="2372729969"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA" alt="star" title="star" class="mr-2" data-pagespeed-url-hash="2372729969" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             Expert in
                             <picture>
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    alt="Python developer Sarthak"
-                                    title="Python developer Sarthak"
-                                    class="bottom-0 left-100 position-absolute top-0"
-                                    data-pagespeed-url-hash="3929209964"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" alt="Python developer Sarthak" title="Python developer Sarthak" class="bottom-0 left-100 position-absolute top-0" data-pagespeed-url-hash="3929209964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </span>
                     </div>
@@ -287,43 +232,19 @@
                         <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                         <div class="">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/renault.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/renault.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
-                                    src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA="
-                                    alt="Renault"
-                                    title="Renault"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="1237841328"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/renault.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/renault.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA=" src="data:image/webp;base64,UklGRgADAABXRUJQVlA4TPQCAAAvHUAHEN8GObZtVdG5D3eZkQX5z0iASGj3fu+cnQYkSZIcKZndq+VpFw2/4pG8iCMP0Fp0VQUkR5IUSR41y8x72/+/ipl5G6oqgiDbpmhDv9kDcggpECAgIFJBhQgEgRHN99cgZTWp+p+kJn3MkkvCxFixzDWCCJ0AEtEFlCSYiGoRjIQcKUgWNaSApaQkuFEzDxECHQU1SwYKEsgQyvAIKeRAUaygCvMHRdIAAhByICOBkejCDIVYSEE2aVlyhowyEAFZnJVsSTg7Z4ciKVIDABvZgFEBAUEVZpYyKlBQBVQQqWLkKERCwgzk92/w+1O5DUZW/59LyAW3X9XlcrpQ6y/GaINvcDhU9jcEKS69mc2KNjuwWKz738U/SAKZI1b7T6dt0TqmcyzCWmDqyi3yD/4lAg2HZcHNkj86hzQV/U8koYBt9rcDrZOhWDP93Nc/d2lsWizWbZZ7NstNaw7Ndstq9Wm3OFaS14d1sKX/LPn9mTyeXvXlucfrnen8z9fbwKMa8e337cycU2Vcbx+cz398ceev35ANYMIhy0VUt3KU0XqUMFMxkTRhIplYStKEEkbh/7mw7X6/i7jf7W6rt8cZYAsAaDq52ba9bNu2ls1lm2vZtm3bxsnGB52x54j+T8APIOgP+Be2lWOxFY14+zjwMNdzXxzF02O1p7Gi9Cb/8SV+vo4sVKRMedg5hvDytG+rIStvxsnKvHSFjw43HZTQdjYbIx3tOB6e90wURFVrfjcYqJCVfrgeOzUJgdnh+lwWGgSZhHrZ1ZcTXBu7rf1bp0eQ5QGYTgclEb4tAL4b8pioEWQCpiszBRO7CsBIXX6ov5dfM8xbUWpcpNMJuClN8La33LmAue9Ox4SHzIPBAl8rbYMmAP1WnBQR6HxadmitLjNzDgfaM6KD0HM5jpriqBaAx9eS+DC0S7ChJPf0NT7AZ1ZUQIyNMq9WH8DrU1Vimo+RGNfUHX7Ae2Gyq67wwhnA80MvDoerbAX/wh/C/AA=" alt="Renault" title="Renault" class="mr-3" data-pagespeed-url-hash="1237841328" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/infosys.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/infosys.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
-                                    src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA=="
-                                    alt="Infosys"
-                                    title="Infosys"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="681941408"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/infosys.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/infosys.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA==" src="data:image/webp;base64,UklGRjoBAABXRUJQVlA4TC0BAAAvHUAHEL/CoG0jSTn+LA/FfpPQYNi2jSPj9x+219gWgrZtY/7szudrBAJJ/lSbHee+Ie/LTCCWkooz82cmOpX7TkkASRR0gATkW3hfdHRmUlIZDxCc45hUTICaACgJairj7P3MP+8dk0qlBohoUCoJAECZiZNgrZ8JYGKBVEoqASSh0QMENUACABI/L7i2bdtsatuMndqpbXen+f9vqd/6GNH/CTDwUwN/x672rMAdP6itH3j+iTRcnj6ob59VK9F0yRGLuXz0uSVkOsBYyLXxlOeFBmSOOCV76AYiODkBP3B8Y48iRxyCANwWBVR/Ysvv8MmGBJBasCY1y9+LjuYnJysAMzDivOIFF/tHvZAU0sJCXGPmHoEvP3tXn+q4r/RrAvrshq8PNPwrjd8YAA==" alt="Infosys" title="Infosys" class="mr-3" data-pagespeed-url-hash="681941408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/3m.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/3m.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
-                                    src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg=="
-                                    alt="3M"
-                                    title="3M"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="567382435"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/3m.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/3m.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg==" src="data:image/webp;base64,UklGRmoBAABXRUJQVlA4TF4BAAAvHUAHEK/iuJEkRcpe/72EgxffLXalGw7aSHKkqrnEn9YRiv/djhtJUqTs9d/K/fHuMXalQCDJn2qzgzAFhSMBCERBUVMQgqKc+ROJVFZL387+ND9HWgiUDgaR/9/il7YnF1Zn/rJG+/fLXRP3TFSNNt+atvuFsCEAYUEI6o+iUIToaQjRwY/BwkMMrrjti8ccECIEf50TudrSl/EYhdCSf+ulCUILgSpKqrM/Aij1Q84ESLJtq2oubht3d3eHKBb38P78B4O8opU0I/o/AYZc1JC/uvl2fvVq2iulfkV+lFL7s1ZeN7jLHSAsUgG657xbsNpsEAVsZpNNZwlT2Xg4ev2EjklkNSi6SYGfyZSIhoj0gVgHQiRr1DUedrt1LwtOaNjsQW408vAtPQ4XQXC9aIyg0MuBAxZVSLxpfMQ59JVgMYOxjny1M4H08Pm+1do+tlqrz2bz7qz/Q+MyBg==" alt="3M" title="3M" class="mr-3" data-pagespeed-url-hash="567382435" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -334,17 +255,9 @@
                 <div class="boxed shadow-custom bg-white">
                     <div class="d-flex align-items-center mb-lg">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/python-ppc/himani.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/python-ppc/himani.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/python-ppc/xhimani.png.pagespeed.ic.fNrUh0T4ZI.webp"
-                                src="<?php echo asset();?>images/python-ppc/xhimani.png.pagespeed.ic.fNrUh0T4ZI.webp"
-                                alt="Python developer Himani"
-                                title="Python developer Himani"
-                                class="mr-3"
-                                data-pagespeed-url-hash="650139049"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/himani.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/himani.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/python-ppc/xhimani.png.pagespeed.ic.fNrUh0T4ZI.webp" src="<?php echo asset(); ?>images/python-ppc/xhimani.png.pagespeed.ic.fNrUh0T4ZI.webp" alt="Python developer Himani" title="Python developer Himani" class="mr-3" data-pagespeed-url-hash="650139049" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <div>
                             <h2 class="h5 font-bold">Himani</h2>
@@ -371,27 +284,12 @@
                     </p>
                     <div>
                         <span class="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3">
-                            <img
-                                src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA"
-                                alt="star"
-                                title="star"
-                                class="mr-2"
-                                data-pagespeed-url-hash="2372729969"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA" alt="star" title="star" class="mr-2" data-pagespeed-url-hash="2372729969" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             Expert in
                             <picture>
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    alt="Python developer Himani"
-                                    title="Python developer Himani"
-                                    class="bottom-0 left-100 position-absolute top-0"
-                                    data-pagespeed-url-hash="3929209964"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" alt="Python developer Himani" title="Python developer Himani" class="bottom-0 left-100 position-absolute top-0" data-pagespeed-url-hash="3929209964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </span>
                     </div>
@@ -407,43 +305,19 @@
                         <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                         <div class="">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/game-changer.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/game-changer.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
-                                    src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA="
-                                    alt="Game Chnager"
-                                    title="Game Chnager"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="2765266444"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/game-changer.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/game-changer.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBQBAAAvHUAHEN/BoG0bQeGP79n8rabhMGDbtuH/x2avlqTAMGDaNvz/bPcELIFAkj/VZgfYDInFZjNjf3vvbbbZTIUECCExlkowiPG+Bwdw7+P+n8BSWgkGCVohwP1eZkjMvxCM+31CtICmIAlmNGOJ/9jd/3e/V4jGWoEAybcswZVt22ly8QruhOIOFZwLnf/ILAn2HdH/CQipNeS3f2r6kj1PD4Sq13rxiDuNdnIrABgT4mICKAYSe1jLbTlDiA1m53k290hn5hkLwegBTjoMJAiRrlCSOMoM4cRM3cjVwD0dbfQjsTcDPmVtdBOuBlzKV9GOuRrwqbKCJsmbAZdqG6jzasCn6hZqBlyq7wA+dU5c/sWhnhA=" alt="Game Chnager" title="Game Chnager" class="mr-3" data-pagespeed-url-hash="2765266444" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/acr.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/acr.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
-                                    src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A=="
-                                    alt="ACR"
-                                    title="ACR"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="2482473605"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/acr.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/acr.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A==" src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4TPoBAAAvHUAHEPfCKpJkJ0P8RwDaEYaInOFubDiOJMmJCvXEBFzGRizQ6m5WlNs2khypDudr//JP58N4T8v56SLItina0G/2UB+lLcdVGtN6odEOX+slVdToxjMQCFQw0jsQCDQuuz+XrHF+b5bnlqv64idKaIgQaSDSQLzp54uyP0/WuH4fUdobXyqF6o0v0Z//VAhRxglCoBAgBIjpEEKgUIAE128SJSIXUZQWpan66VC2g2EuIAECBA1k/RCAEAKEQFG0mrZQpLBCAQi2batpUsPlBXepC04+DvWLu+v8x9H+5KdrdQAR/VfYtm0TR0n3/MJv+JP8hn8iO/EbWEkXtvGcOIYb0kO/WF04DQbLiJUXJGZSAJQlWUcKUFqTiF4BAMrLAQOAypLEZQBgRYA/nqw5owChqltS7zouihAUaV7VY42DS5VooQDIA+hGHhCPdoDaTqvDuSwDF3fInscCX9LNWbu5lzUn0pI9es0IJQBIH1LtoI3BMSi6PVIumPw1Y1KZkiaWEXu/at/6nk33159S5hLllZZbRwpSaSCCl3DkO4KnFNiM1AyZvndWOW3Keqyl+c4lMa9Hrcm0roBTXQGnt4NL8M5cZ/MwLXOcZINB4FWgtpdpxX56D7JBJHlbbvz+Kc3KrSPfKyryJ6UVXxYXVScll+GfyP83/A==" alt="ACR" title="ACR" class="mr-3" data-pagespeed-url-hash="2482473605" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/sami-aid.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/sami-aid.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
-                                    src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI="
-                                    alt="Sami Aid"
-                                    title="Sami Aid"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="1032818014"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/sami-aid.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/sami-aid.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI=" src="data:image/webp;base64,UklGRm4BAABXRUJQVlA4TGIBAAAvHUAHELfiqI0kSQr+HAfFPKerPHuAcNBGkiM1f6IHIP1P2CoGbRtJMn98C+beRiCQ5E+12XVgJ5IE7M7UTM2eRAjJgBIQSIDNnjm/mRlka4QkKSHITqZmahiAJEwiZECCJNODkKQkEYJTv0To5L4u5/uc3yR7wjz3Z2pIZE/IzuzMbnaTSJIE+WsTcu0JEGzbOt7c1LZtIzbrNk5u//nP5X3vfV8xgIj+T0DEH434n7ay6XTmK9g15Gg5TGsd6kuQo+npqVFH3PaZPtne2j/skOSOODBVRuF0DMSKaRwmikVLAWrXsGxJaz3DqiUFYPNjMBjS2ZfFVy0HxL7pezfXVprAJL3vsavwFDN+d8CzMlyb95sAUgrfj32GlwBuNfICAPoOqFeWc9H1SFjORMvjyXIjGrYSrXGx51hZmF3aeqjTnBEYf4zH8wzZHBEAxqpBWHZtNBj4LXl+Fq/xP41+JgI=" alt="Sami Aid" title="Sami Aid" class="mr-3" data-pagespeed-url-hash="1032818014" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -454,17 +328,9 @@
                 <div class="boxed shadow-custom bg-white">
                     <div class="d-flex align-items-center mb-lg">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/python-ppc/rajiv.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/python-ppc/rajiv.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/python-ppc/xrajiv.png.pagespeed.ic.m9FmQAiYP6.webp"
-                                src="<?php echo asset();?>images/python-ppc/xrajiv.png.pagespeed.ic.m9FmQAiYP6.webp"
-                                alt="Python developer Rajiv"
-                                title="Python developer Rajiv"
-                                class="mr-3"
-                                data-pagespeed-url-hash="1794688297"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/rajiv.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/python-ppc/rajiv.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/python-ppc/xrajiv.png.pagespeed.ic.m9FmQAiYP6.webp" src="<?php echo asset(); ?>images/python-ppc/xrajiv.png.pagespeed.ic.m9FmQAiYP6.webp" alt="Python developer Rajiv" title="Python developer Rajiv" class="mr-3" data-pagespeed-url-hash="1794688297" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <div>
                             <h2 class="h5 font-bold">Rajiv</h2>
@@ -491,27 +357,12 @@
                     </p>
                     <div>
                         <span class="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3">
-                            <img
-                                src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA"
-                                alt="star"
-                                title="star"
-                                class="mr-2"
-                                data-pagespeed-url-hash="2372729969"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img src="data:image/webp;base64,UklGRqAAAABXRUJQVlA4TJMAAAAvD8ADEKeAoG3buIN+4A8NxW3bOEzZf9u8cmVADESSQQP905HAXYIP1JuBCBj0Kfyw76MFFvAQuaCHWj7nGmvBsG0bR1a+l+u3/7J3n18hov8ToGlbL/l3CK4MrK4dIHz0cjAusUkKK+6tGT+f8MOqgsuapMdhTaPj1Fgd+yQ4lskD2HMCtOGEu0t5hzz0p2qaXkkA" alt="star" title="star" class="mr-2" data-pagespeed-url-hash="2372729969" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             Expert in
                             <picture>
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/react-ppc/holder.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA=="
-                                    alt="Python developer Rajiv"
-                                    title="Python developer Rajiv"
-                                    class="bottom-0 left-100 position-absolute top-0"
-                                    data-pagespeed-url-hash="3929209964"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/react-ppc/holder.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" src="data:image/webp;base64,UklGRrYAAABXRUJQVlA4TKkAAAAvB0AHEP+gqG0kx1veq+WP9QoNxW3bOEx5B9l/1iuK27ZxmPIOsv+sV5jItp0mjCo6fwlZTLfNnqvqmX5NgIDOTOhuD0D8/1+ZiQAAHDxUREgsaHFFxIomInxE+HPOCMQMxA/E/f+XyDMz7W4GB5EkKdIcM/Ojf59VHiL6PwEH5xL0k0YWOhN6B41SyZ8+Qa2UstIr6CuzpPQEdVLIRndQL5NkdAUPUssuAA==" alt="Python developer Rajiv" title="Python developer Rajiv" class="bottom-0 left-100 position-absolute top-0" data-pagespeed-url-hash="3929209964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </span>
                     </div>
@@ -528,43 +379,19 @@
                         <span class="font-bold d-block mt-sm mb-sm">Worked With</span>
                         <div class="">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/bangkok-bank.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/bangkok-bank.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
-                                    src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ=="
-                                    alt="Bangkok Bank"
-                                    title="Bangkok Bank"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="3074183439"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/bangkok-bank.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/bangkok-bank.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ==" src="data:image/webp;base64,UklGRnABAABXRUJQVlA4TGQBAAAvHUAHEN/isG3bQA6bTtq7/x/mHbSNJMnZSvqZ2d0jcA7aNhLkYNzZY/IMXyCQhLb5avH////Nr5oESQhAWiA7BxGYCtge5p7n7EGmZmckBCGVQgiSgCAJ26gp+f4+lYSQz/sIzN0D7jmtQRAycu/znFPneY4kgdk5jFDZpjVTEEkAISWBs1Mg733OOVOAkMI0O2eK7QnZmoAkBLAkyTZtXfWzcW08Xz3btlXzH8nF2vvhP6L/ExCQ14D+zzE/55deqrDvIcfdORVnfa8kh96/o67OmJPyXIfdLHAsSRvsOInz1NuiK/Iubsio7RRv/bYGL+q4xoEp8sVHqMMtTFpq7HLQbpEVmpYmQ01mW/Ichlm3NAjqnIyU4q5HbFqWmdHgA4nh58+oJli1THMlxb8eL8hJJ5Qsmud8REWoKnzKnuxl3guC8ewjdblM37MNW3xk5bbnCOB8QM4rsCSfozH9mwE/AQ==" alt="Bangkok Bank" title="Bangkok Bank" class="mr-3" data-pagespeed-url-hash="3074183439" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/wizkids.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/wizkids.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRhwCAABXRUJQVlA4TA8CAAAvHUAHEB8EO7Jt09Yca+Pa+LTyz8nmM1YajhtJUqSs6t1jpi/5dG6fF/dlpmm3sW2ryjnX3kdDt3opjRYs5We42yXItqnkKA/5GGzmRxSsis2GHEWsjCGQQFRptaQoDKUEAAkEERDlQFCnf//kyoVvARTDhUrRSEBSKjWarKL4bShWTQCCpATkkZJCsDEJILP4j68P3XSGpugRIASC1PiLJcQM+pEXcJJn+vm9OFBdFPnVYQgJRCIVgCAJgGj/xX+BIFbGMCpgVojcX179payENIpkFiEdplS77MKsUhiCQCghhAEQZBISAAF2eGz7+N/85k2afHi79rzu/TbPCpOL1a7BAUHXstNa1va/lR8ffF3Fz6Ph4/rxp58/kZUPKf1n+j50vc5Xf9Xf+yn8vcL77aM/GOsMepbbpel+AbBu2zbefCes49S4t7ZTI6ltc321bbc/3X3LY0T/J8DkX02iuuO/mVN+V2q213BU28piWsSjquIya2LDHcnBYUBN5E6NkrZWCuS19a2qtRDg7IHjT9MjEJFGVwpJ8wz76nWYBOq6lboFdBMzVFYMyGBQGLLIklsXNPRPErnaBsYUGulS+Ss59qHOkCiZXWo3RE9dLy8AmiyrUeLqLQxkJD431yJF6Y/xrcWvJ3z2PJ3tvl3sv7wf7ByWP9zf3J3vbXxcnh7x5eIWnzf5cp1opvk/JgA="
-                                    src="data:image/webp;base64,UklGRhwCAABXRUJQVlA4TA8CAAAvHUAHEB8EO7Jt09Yca+Pa+LTyz8nmM1YajhtJUqSs6t1jpi/5dG6fF/dlpmm3sW2ryjnX3kdDt3opjRYs5We42yXItqnkKA/5GGzmRxSsis2GHEWsjCGQQFRptaQoDKUEAAkEERDlQFCnf//kyoVvARTDhUrRSEBSKjWarKL4bShWTQCCpATkkZJCsDEJILP4j68P3XSGpugRIASC1PiLJcQM+pEXcJJn+vm9OFBdFPnVYQgJRCIVgCAJgGj/xX+BIFbGMCpgVojcX179payENIpkFiEdplS77MKsUhiCQCghhAEQZBISAAF2eGz7+N/85k2afHi79rzu/TbPCpOL1a7BAUHXstNa1va/lR8ffF3Fz6Ph4/rxp58/kZUPKf1n+j50vc5Xf9Xf+yn8vcL77aM/GOsMepbbpel+AbBu2zbefCes49S4t7ZTI6ltc321bbc/3X3LY0T/J8DkX02iuuO/mVN+V2q213BU28piWsSjquIya2LDHcnBYUBN5E6NkrZWCuS19a2qtRDg7IHjT9MjEJFGVwpJ8wz76nWYBOq6lboFdBMzVFYMyGBQGLLIklsXNPRPErnaBsYUGulS+Ss59qHOkCiZXWo3RE9dLy8AmiyrUeLqLQxkJD431yJF6Y/xrcWvJ3z2PJ3tvl3sv7wf7ByWP9zf3J3vbXxcnh7x5eIWnzf5cp1opvk/JgA="
-                                    alt="Wizkid"
-                                    title="Wizkid"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="201509742"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/wizkids.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/wizkids.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRhwCAABXRUJQVlA4TA8CAAAvHUAHEB8EO7Jt09Yca+Pa+LTyz8nmM1YajhtJUqSs6t1jpi/5dG6fF/dlpmm3sW2ryjnX3kdDt3opjRYs5We42yXItqnkKA/5GGzmRxSsis2GHEWsjCGQQFRptaQoDKUEAAkEERDlQFCnf//kyoVvARTDhUrRSEBSKjWarKL4bShWTQCCpATkkZJCsDEJILP4j68P3XSGpugRIASC1PiLJcQM+pEXcJJn+vm9OFBdFPnVYQgJRCIVgCAJgGj/xX+BIFbGMCpgVojcX179payENIpkFiEdplS77MKsUhiCQCghhAEQZBISAAF2eGz7+N/85k2afHi79rzu/TbPCpOL1a7BAUHXstNa1va/lR8ffF3Fz6Ph4/rxp58/kZUPKf1n+j50vc5Xf9Xf+yn8vcL77aM/GOsMepbbpel+AbBu2zbefCes49S4t7ZTI6ltc321bbc/3X3LY0T/J8DkX02iuuO/mVN+V2q213BU28piWsSjquIya2LDHcnBYUBN5E6NkrZWCuS19a2qtRDg7IHjT9MjEJFGVwpJ8wz76nWYBOq6lboFdBMzVFYMyGBQGLLIklsXNPRPErnaBsYUGulS+Ss59qHOkCiZXWo3RE9dLy8AmiyrUeLqLQxkJD431yJF6Y/xrcWvJ3z2PJ3tvl3sv7wf7ByWP9zf3J3vbXxcnh7x5eIWnzf5cp1opvk/JgA=" src="data:image/webp;base64,UklGRhwCAABXRUJQVlA4TA8CAAAvHUAHEB8EO7Jt09Yca+Pa+LTyz8nmM1YajhtJUqSs6t1jpi/5dG6fF/dlpmm3sW2ryjnX3kdDt3opjRYs5We42yXItqnkKA/5GGzmRxSsis2GHEWsjCGQQFRptaQoDKUEAAkEERDlQFCnf//kyoVvARTDhUrRSEBSKjWarKL4bShWTQCCpATkkZJCsDEJILP4j68P3XSGpugRIASC1PiLJcQM+pEXcJJn+vm9OFBdFPnVYQgJRCIVgCAJgGj/xX+BIFbGMCpgVojcX179payENIpkFiEdplS77MKsUhiCQCghhAEQZBISAAF2eGz7+N/85k2afHi79rzu/TbPCpOL1a7BAUHXstNa1va/lR8ffF3Fz6Ph4/rxp58/kZUPKf1n+j50vc5Xf9Xf+yn8vcL77aM/GOsMepbbpel+AbBu2zbefCes49S4t7ZTI6ltc321bbc/3X3LY0T/J8DkX02iuuO/mVN+V2q213BU28piWsSjquIya2LDHcnBYUBN5E6NkrZWCuS19a2qtRDg7IHjT9MjEJFGVwpJ8wz76nWYBOq6lboFdBMzVFYMyGBQGLLIklsXNPRPErnaBsYUGulS+Ss59qHOkCiZXWo3RE9dLy8AmiyrUeLqLQxkJD431yJF6Y/xrcWvJ3z2PJ3tvl3sv7wf7ByWP9zf3J3vbXxcnh7x5eIWnzf5cp1opvk/JgA=" alt="Wizkid" title="Wizkid" class="mr-3" data-pagespeed-url-hash="201509742" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <picture>
-                                <source srcset="<?php echo asset();?>images/python-ppc/verizon.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/python-ppc/verizon.png" type="image/png" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
-                                    src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA"
-                                    alt="Verizone"
-                                    title="Verizone"
-                                    class="mr-3"
-                                    data-pagespeed-url-hash="356846304"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/verizon.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/python-ppc/verizon.png" type="image/png" />
+                                <img data-src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA" src="data:image/webp;base64,UklGRgABAABXRUJQVlA4TPMAAAAvHUAHEAcyAQzbtnEcOrl9nQCBQBLa5quFY0cAEAQiGkYyJjeTrwJ4274BRhsAkASAGoIBGyAoYbGIfwC808ClAWJxV3AMAQoEAADE2LZVNf/g7u7uEHfZv/+2sEPSQET/JyDQTQP9x87D01PNF/uFz4ivDwzk/4SfmK8FjOV/AVK+KrCQ/w7I+srAWv49UPAVgJ38G6DoywEHXdkIw3B2aglUrtEb/MaP0sCzru4Cw6MJ0Lwu+g0/ESn2C+8yjoCe1AO6jgTwLn3AV8ShKVBvA0NZM8D9K5D0aMXJucz5U1mXtkdr2UtHBZ/2j09r/fHgNgEA" alt="Verizone" title="Verizone" class="mr-3" data-pagespeed-url-hash="356846304" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -641,16 +468,9 @@
             <div class="col-lg-6 text-center">
                 <figure>
                     <picture>
-                        <source srcset="<?php echo asset();?>images/python-ppc/positive-2.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/python-ppc/positive-2.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/python-ppc/xpositive-2.png.pagespeed.ic.8Wt2oOefOG.webp"
-                            src="<?php echo asset();?>images/python-ppc/xpositive-2.png.pagespeed.ic.8Wt2oOefOG.webp"
-                            alt="Positive Outsourcing Experience"
-                            title="Positive Outsourcing Experience"
-                            data-pagespeed-url-hash="3401557371"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/python-ppc/positive-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/python-ppc/positive-2.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/python-ppc/xpositive-2.png.pagespeed.ic.8Wt2oOefOG.webp" src="<?php echo asset(); ?>images/python-ppc/xpositive-2.png.pagespeed.ic.8Wt2oOefOG.webp" alt="Positive Outsourcing Experience" title="Positive Outsourcing Experience" data-pagespeed-url-hash="3401557371" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                 </figure>
             </div>
@@ -703,15 +523,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs="
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs=" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $3500
                                         </h3>
@@ -797,17 +609,9 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
                         </div>
@@ -917,17 +721,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        alt="Uzephra"
-                                                        title="Uzephra"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3518902202"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" alt="Uzephra" title="Uzephra" class="lazy ob-cover" data-pagespeed-url-hash="3518902202" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -975,17 +771,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp"
-                                                        alt="Toxic Question Sorting "
-                                                        title="Toxic Question Sorting "
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3939464539"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp" alt="Toxic Question Sorting " title="Toxic Question Sorting " class="lazy ob-cover" data-pagespeed-url-hash="3939464539" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1033,17 +821,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp"
-                                                        alt="Portal Document Downloader-CRESTONE"
-                                                        title="Portal Document Downloader-CRESTONE"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3098339865"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp" alt="Portal Document Downloader-CRESTONE" title="Portal Document Downloader-CRESTONE" class="lazy ob-cover" data-pagespeed-url-hash="3098339865" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1092,17 +872,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        alt="Uzephra"
-                                                        title="Uzephra"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3518902202"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" alt="Uzephra" title="Uzephra" class="lazy ob-cover" data-pagespeed-url-hash="3518902202" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1150,17 +922,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp"
-                                                        alt="Toxic Question Sorting "
-                                                        title="Toxic Question Sorting "
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3939464539"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-3.jpg,qv-4.pagespeed.ic.J2Fh1uQYiG.webp" alt="Toxic Question Sorting " title="Toxic Question Sorting " class="lazy ob-cover" data-pagespeed-url-hash="3939464539" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1208,17 +972,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp"
-                                                        alt="Portal Document Downloader-CRESTONE"
-                                                        title="Portal Document Downloader-CRESTONE"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3098339865"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-1.jpg,qv-4.pagespeed.ic.t8Xpyx4OZ5.webp" alt="Portal Document Downloader-CRESTONE" title="Portal Document Downloader-CRESTONE" class="lazy ob-cover" data-pagespeed-url-hash="3098339865" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1267,17 +1023,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        src="<?php echo asset();?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp"
-                                                        alt="Uzephra"
-                                                        title="Uzephra"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3518902202"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-python/cs-new-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" src="<?php echo asset(); ?>images/hire-python/xcs-new-2.jpg,qv-4.pagespeed.ic.OU3ad54qVI.webp" alt="Uzephra" title="Uzephra" class="lazy ob-cover" data-pagespeed-url-hash="3518902202" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -1362,16 +1110,9 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-python/python.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-python/python.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRioCAABXRUJQVlA4TB0CAAAvMEAMEHfCqG0kSa4e/nSG1vxnj6JhIG2b7Nd5/y4+Bo0kSalZQCcWkP8zDAG4DXQxCMIjPPIrvUFH0IwgAU4PX9viBlCiatCisFQM1dCGS8BSMYSlqgZlgEpoqUbC38ghLbfy/P6wzvJ96L4dhiAKXKqAGxogFNNSJChXfxIVg4FWRdIIoWB/gGDNiCHhxU+sd77NLPOtwxlA17Y9bfLmw91lGroKw/3DJRusAu35nw/dlyUX/I/o/wTAuvoxr4d3/Lt/aL5LuM5f2LpfuhnxJO9yJzfMl48nNnxTOciYryrg2YbfHXwxDwFkVucOhswfAEZW7OY2RXnq14T/Nfmxq/xnYIwZGGMGxpiBMeZcpvf29/b2AoE5Z8doUG2iaqpTdj6OFtWvPntEOwAK9ooUcO5ZBzl7EQvWUfjwiHnBPD59SCOSqmMP3pCIwjN37+iQuM32D8cPxw/HD0cPxw/HD0/DEnskb9hcFBUsVXeRLHctHiq1vTpDbhv3ovuqN0POG8eiMiAPO5+SNyz6EBWSUUAeziGXpB0ftoALQdbwIQSGgtSHBQDV9bjMhw4A5NdjUg+2UJsf1WXuGhhfZmmWZtWuqK1DHepQhzrUoQ51qEMF+4aodSDF5GXyv21h1rcesOmmbbUCIHKjrWIAimjJAeZsqAdsEDVchFaUzBMtKxcIp22IKFZwqxpTFksdeNjbWambW2sG8DcIFSYNAA=="
-                                src="data:image/webp;base64,UklGRioCAABXRUJQVlA4TB0CAAAvMEAMEHfCqG0kSa4e/nSG1vxnj6JhIG2b7Nd5/y4+Bo0kSalZQCcWkP8zDAG4DXQxCMIjPPIrvUFH0IwgAU4PX9viBlCiatCisFQM1dCGS8BSMYSlqgZlgEpoqUbC38ghLbfy/P6wzvJ96L4dhiAKXKqAGxogFNNSJChXfxIVg4FWRdIIoWB/gGDNiCHhxU+sd77NLPOtwxlA17Y9bfLmw91lGroKw/3DJRusAu35nw/dlyUX/I/o/wTAuvoxr4d3/Lt/aL5LuM5f2LpfuhnxJO9yJzfMl48nNnxTOciYryrg2YbfHXwxDwFkVucOhswfAEZW7OY2RXnq14T/Nfmxq/xnYIwZGGMGxpiBMeZcpvf29/b2AoE5Z8doUG2iaqpTdj6OFtWvPntEOwAK9ooUcO5ZBzl7EQvWUfjwiHnBPD59SCOSqmMP3pCIwjN37+iQuM32D8cPxw/HD0cPxw/HD0/DEnskb9hcFBUsVXeRLHctHiq1vTpDbhv3ovuqN0POG8eiMiAPO5+SNyz6EBWSUUAeziGXpB0ftoALQdbwIQSGgtSHBQDV9bjMhw4A5NdjUg+2UJsf1WXuGhhfZmmWZtWuqK1DHepQhzrUoQ51qEMF+4aodSDF5GXyv21h1rcesOmmbbUCIHKjrWIAimjJAeZsqAdsEDVchFaUzBMtKxcIp22IKFZwqxpTFksdeNjbWambW2sG8DcIFSYNAA=="
-                                alt="Dedicated Python Developer"
-                                title="Dedicated Python Developer"
-                                data-pagespeed-url-hash="2275115908"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-python/python.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-python/python.png" type="image/png" />
+                            <img data-src="data:image/webp;base64,UklGRioCAABXRUJQVlA4TB0CAAAvMEAMEHfCqG0kSa4e/nSG1vxnj6JhIG2b7Nd5/y4+Bo0kSalZQCcWkP8zDAG4DXQxCMIjPPIrvUFH0IwgAU4PX9viBlCiatCisFQM1dCGS8BSMYSlqgZlgEpoqUbC38ghLbfy/P6wzvJ96L4dhiAKXKqAGxogFNNSJChXfxIVg4FWRdIIoWB/gGDNiCHhxU+sd77NLPOtwxlA17Y9bfLmw91lGroKw/3DJRusAu35nw/dlyUX/I/o/wTAuvoxr4d3/Lt/aL5LuM5f2LpfuhnxJO9yJzfMl48nNnxTOciYryrg2YbfHXwxDwFkVucOhswfAEZW7OY2RXnq14T/Nfmxq/xnYIwZGGMGxpiBMeZcpvf29/b2AoE5Z8doUG2iaqpTdj6OFtWvPntEOwAK9ooUcO5ZBzl7EQvWUfjwiHnBPD59SCOSqmMP3pCIwjN37+iQuM32D8cPxw/HD0cPxw/HD0/DEnskb9hcFBUsVXeRLHctHiq1vTpDbhv3ovuqN0POG8eiMiAPO5+SNyz6EBWSUUAeziGXpB0ftoALQdbwIQSGgtSHBQDV9bjMhw4A5NdjUg+2UJsf1WXuGhhfZmmWZtWuqK1DHepQhzrUoQ51qEMF+4aodSDF5GXyv21h1rcesOmmbbUCIHKjrWIAimjJAeZsqAdsEDVchFaUzBMtKxcIp22IKFZwqxpTFksdeNjbWambW2sG8DcIFSYNAA==" src="data:image/webp;base64,UklGRioCAABXRUJQVlA4TB0CAAAvMEAMEHfCqG0kSa4e/nSG1vxnj6JhIG2b7Nd5/y4+Bo0kSalZQCcWkP8zDAG4DXQxCMIjPPIrvUFH0IwgAU4PX9viBlCiatCisFQM1dCGS8BSMYSlqgZlgEpoqUbC38ghLbfy/P6wzvJ96L4dhiAKXKqAGxogFNNSJChXfxIVg4FWRdIIoWB/gGDNiCHhxU+sd77NLPOtwxlA17Y9bfLmw91lGroKw/3DJRusAu35nw/dlyUX/I/o/wTAuvoxr4d3/Lt/aL5LuM5f2LpfuhnxJO9yJzfMl48nNnxTOciYryrg2YbfHXwxDwFkVucOhswfAEZW7OY2RXnq14T/Nfmxq/xnYIwZGGMGxpiBMeZcpvf29/b2AoE5Z8doUG2iaqpTdj6OFtWvPntEOwAK9ooUcO5ZBzl7EQvWUfjwiHnBPD59SCOSqmMP3pCIwjN37+iQuM32D8cPxw/HD0cPxw/HD0/DEnskb9hcFBUsVXeRLHctHiq1vTpDbhv3ovuqN0POG8eiMiAPO5+SNyz6EBWSUUAeziGXpB0ftoALQdbwIQSGgtSHBQDV9bjMhw4A5NdjUg+2UJsf1WXuGhhfZmmWZtWuqK1DHepQhzrUoQ51qEMF+4aodSDF5GXyv21h1rcesOmmbbUCIHKjrWIAimjJAeZsqAdsEDVchFaUzBMtKxcIp22IKFZwqxpTFksdeNjbWambW2sG8DcIFSYNAA==" alt="Dedicated Python Developer" title="Dedicated Python Developer" data-pagespeed-url-hash="2275115908" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                 </div>
@@ -1401,17 +1142,9 @@
         <div class="row gy-4 align-items-lg-center flex-lg-row-reverse">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-python/side-img-11.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-python/side-img-11.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-python/xside-img-11.jpg.pagespeed.ic.eXD-Celr6S.webp"
-                        src="<?php echo asset();?>images/hire-python/xside-img-11.jpg.pagespeed.ic.eXD-Celr6S.webp"
-                        alt="Why Hire Python Developers from Bacancy?"
-                        title="Why Hire Python Developers from Bacancy?"
-                        class="ob-cover lazy"
-                        data-pagespeed-url-hash="1259829554"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-python/side-img-11.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-python/side-img-11.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/hire-python/xside-img-11.jpg.pagespeed.ic.eXD-Celr6S.webp" src="<?php echo asset(); ?>images/hire-python/xside-img-11.jpg.pagespeed.ic.eXD-Celr6S.webp" alt="Why Hire Python Developers from Bacancy?" title="Why Hire Python Developers from Bacancy?" class="ob-cover lazy" data-pagespeed-url-hash="1259829554" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1434,16 +1167,9 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                alt="Our Development Center Strength"
-                title="Our Development Center Strength"
-                data-pagespeed-url-hash="102558019"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.jpg" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" alt="Our Development Center Strength" title="Our Development Center Strength" data-pagespeed-url-hash="102558019" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -1462,17 +1188,9 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        alt="Our Development Center Strength"
-                        title="Our Development Center Strength"
-                        class="mb-5 mb-lg-0"
-                        data-pagespeed-url-hash="962442249"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="mb-5 mb-lg-0" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1480,64 +1198,36 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                alt="Agile Developers"
-                                title="Agile Developers"
-                                data-pagespeed-url-hash="2109142817"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Teams" title="Agile Teams" data-pagespeed-url-hash="2109142817" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">1050+</h4>
-                        <p>Agile Developers</p>
+                        <p>Agile Teams</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/developer-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/developer-icon.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                alt="Python Developers"
-                                title="Python Developers"
-                                data-pagespeed-url-hash="3952180670"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" alt="Python Developers" title="Python Developers" data-pagespeed-url-hash="3952180670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">80+</h4>
                         <p class="small-heading" style="height: 24px;">Python Developers</p>
                     </div>
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                alt="Agile Coaches"
-                                title="Agile Coaches"
-                                data-pagespeed-url-hash="905832657"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" alt="Agile Coaches" title="Agile Coaches" data-pagespeed-url-hash="905832657" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">05</h4>
                         <p>Agile Coaches</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                alt="Certified Scrum Masters"
-                                title="Certified Scrum Masters"
-                                data-pagespeed-url-hash="98509469"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" alt="Certified Scrum Masters" title="Certified Scrum Masters" data-pagespeed-url-hash="98509469" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">14</h4>
                         <p>Certified Scrum Masters</p>
@@ -1548,81 +1238,41 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
-                        src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
-                        alt="Work at Your Time Zone"
-                        title="Work at Your Time Zone"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2350239806"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA==" src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA==" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg" data-pagespeed-url-hash="2350239806" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Work at Your Time Zone</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
-                        src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
-                        alt="Easy Communication"
-                        title="Easy Communication"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2644739727"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA" src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA" alt="Easy Communication" title="Easy Communication" class="mb-lg" data-pagespeed-url-hash="2644739727" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Easy Communication</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
-                        src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
-                        alt="Hire in 48 Hours"
-                        title="Hire in 48 Hours"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2939239648"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP" src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP" alt="Hire in 48 Hours" title="Hire in 48 Hours" class="mb-lg" data-pagespeed-url-hash="2939239648" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Hire in 48 Hours</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
-                        src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
-                        alt="In Business Since 2011"
-                        title="In Business Since 2011"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3233739569"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>In Business Since 2011</p>
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
-                        src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
-                        alt="5/5 Pro User Rating"
-                        title="5/5 Pro User Rating"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3528239490"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA=" src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA=" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg" data-pagespeed-url-hash="3528239490" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>5/5 Pro User Rating</p>
             </div>
@@ -1659,7 +1309,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                            <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 8+ years.</p>
@@ -1791,7 +1441,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our expert at
-                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at Bacancy to know more about the services we provide &amp; how many projects we completed till now.
+                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
                             </p>
                             <p>Here is a simple procedure we follow once you start your project with us:</p>
                             <ul>
@@ -1854,23 +1504,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1882,23 +1524,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -1910,17 +1544,9 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

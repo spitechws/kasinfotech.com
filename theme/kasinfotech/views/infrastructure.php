@@ -22,14 +22,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/infrastructure/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/infrastructure/banner.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
-                src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp"
-                alt="INFRASTRUCTURE @ Bacancy"
-                title="INFRASTRUCTURE @ Bacancy"
-                data-pagespeed-url-hash="3627330988"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp" src="<?php echo asset(); ?>images/infrastructure/xbanner.jpg.pagespeed.ic.6a7Wy0iqWs.webp" alt="INFRASTRUCTURE @ Bacancy" title="INFRASTRUCTURE @ Bacancy" data-pagespeed-url-hash="3627330988" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -60,15 +53,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-1.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-1.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png"
-                                        alt="Network Systems"
-                                        title="Network Systems"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="1495118570"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-1.png" alt="Network Systems" title="Network Systems" class="lazy svg-icon" data-pagespeed-url-hash="1495118570" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Network Systems</h3>
@@ -81,15 +66,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-2.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-2.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png"
-                                        alt="Secured Network"
-                                        title="Secured Network"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="1789618491"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-2.png" alt="Secured Network" title="Secured Network" class="lazy svg-icon" data-pagespeed-url-hash="1789618491" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Secured Network</h3>
@@ -102,15 +79,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-3.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-3.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png"
-                                        alt="Regular"
-                                        title="Regular"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="2084118412"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-3.png" alt="Regular" title="Regular" class="lazy svg-icon" data-pagespeed-url-hash="2084118412" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Regular</h3>
@@ -123,15 +92,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-4.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-4.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png"
-                                        alt="Applications"
-                                        title="Applications"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="2378618333"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-4.png" alt="Applications" title="Applications" class="lazy svg-icon" data-pagespeed-url-hash="2378618333" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Applications</h3>
@@ -144,15 +105,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-5.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-5.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png"
-                                        alt="Firewall"
-                                        title="Firewall"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="2673118254"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-5.png" alt="Firewall" title="Firewall" class="lazy svg-icon" data-pagespeed-url-hash="2673118254" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Firewall</h3>
@@ -165,15 +118,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-6.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-6.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png"
-                                        alt="Internet"
-                                        title="Internet"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="2967618175"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-6.png" alt="Internet" title="Internet" class="lazy svg-icon" data-pagespeed-url-hash="2967618175" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Internet</h3>
@@ -186,15 +131,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-7.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-7.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png"
-                                        alt="Fully"
-                                        title="Fully"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="3262118096"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-7.png" alt="Fully" title="Fully" class="lazy svg-icon" data-pagespeed-url-hash="3262118096" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Fully</h3>
@@ -207,15 +144,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-8.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/infrastructure/services-icon-8.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png"
-                                        src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png"
-                                        alt="Pantry Areas"
-                                        title="Pantry Areas"
-                                        class="lazy svg-icon"
-                                        data-pagespeed-url-hash="3556618017"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png" src="<?php echo asset(); ?>images/infrastructure/services-icon-8.png" alt="Pantry Areas" title="Pantry Areas" class="lazy svg-icon" data-pagespeed-url-hash="3556618017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <h3 class="text-xxl font-bold small-heading" style="height: 30px;">Pantry Areas</h3>
@@ -241,17 +170,9 @@
                 <script async="" src="https://fast.wistia.com/assets/external/E-v1.js" type="text/javascript"></script>
                 <div class="wistia_responsive_padding" style="padding: 56.25% 0 0 0; position: relative;">
                     <div class="wistia_responsive_wrapper" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%;">
-                        <div
-                            class="wistia_video_foam_dummy"
-                            data-source-container-id="wistia-dunhnum2fj-1"
-                            style="border: 0px; display: block; height: 0px; margin: 0px; padding: 0px; position: static; visibility: hidden; width: auto;"
-                        ></div>
+                        <div class="wistia_video_foam_dummy" data-source-container-id="wistia-dunhnum2fj-1" style="border: 0px; display: block; height: 0px; margin: 0px; padding: 0px; position: static; visibility: hidden; width: auto;"></div>
                         <div class="wistia_embed wistia_async_dunhnum2fj seo=false videoFoam=true wistia_embed_initialized" style="height: 729px; position: relative; width: 1296px;" id="wistia-dunhnum2fj-1">
-                            <div
-                                id="wistia_chrome_23"
-                                class="w-chrome"
-                                tabindex="-1"
-                                style="
+                            <div id="wistia_chrome_23" class="w-chrome" tabindex="-1" style="
                                     display: inline-block;
                                     height: 729px;
                                     line-height: normal;
@@ -264,49 +185,26 @@
                                     overflow: hidden;
                                     box-sizing: content-box;
                                     border-radius: 0px;
-                                "
-                            >
+                                ">
                                 <div id="wistia_grid_29_wrapper" style="display: block; width: 1296px; height: 729px;">
                                     <div id="wistia_grid_29_above" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
                                     <div id="wistia_grid_29_main" style="width: 1296px; left: 0px; height: 729px; margin-top: 0px;">
                                         <div id="wistia_grid_29_behind"></div>
                                         <div id="wistia_grid_29_center" style="width: 100%; height: 100%;">
                                             <div class="w-video-wrapper w-css-reset" style="height: 100%; position: absolute; top: 0px; width: 100%; opacity: 1; background-color: rgb(0, 0, 0);">
-                                                <video
-                                                    id="wistia_simple_video_62"
-                                                    crossorigin="anonymous"
-                                                    poster="https://fast.wistia.com/assets/images/blank.gif"
-                                                    aria-label="Video"
-                                                    src="blob:https://www.bacancytechnology.com/b3386446-58a2-45aa-80dd-8f094e85fedb"
-                                                    controlslist="nodownload"
-                                                    playsinline=""
-                                                    preload="metadata"
-                                                    type="video/m3u8"
-                                                    x-webkit-airplay="allow"
-                                                    style="background: transparent; display: block; height: 100%; max-height: none; max-width: none; position: static; visibility: visible; width: 100%; object-fit: contain;"
-                                                ></video>
+                                                <video id="wistia_simple_video_62" crossorigin="anonymous" poster="https://fast.wistia.com/assets/images/blank.gif" aria-label="Video" src="blob:https://www.bacancytechnology.com/b3386446-58a2-45aa-80dd-8f094e85fedb" controlslist="nodownload" playsinline="" preload="metadata" type="video/m3u8" x-webkit-airplay="allow" style="background: transparent; display: block; height: 100%; max-height: none; max-width: none; position: static; visibility: visible; width: 100%; object-fit: contain;"></video>
                                             </div>
                                             <div class="w-ui-container" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; opacity: 1;">
-                                                <div
-                                                    class="w-vulcan-v2 w-css-reset"
-                                                    id="w-vulcan-v2-28"
-                                                    style="border-radius: 0px; box-sizing: border-box; cursor: default; direction: ltr; height: 100%; left: 0px; position: absolute; visibility: visible; top: 0px; width: 100%;"
-                                                >
+                                                <div class="w-vulcan-v2 w-css-reset" id="w-vulcan-v2-28" style="border-radius: 0px; box-sizing: border-box; cursor: default; direction: ltr; height: 100%; left: 0px; position: absolute; visibility: visible; top: 0px; width: 100%;">
                                                     <div class="w-vulcan--background w-css-reset" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;">
                                                         <div class="w-css-reset" data-handle="statusBar"></div>
                                                         <div class="w-css-reset" data-handle="backgroundFocus">
-                                                            <button aria-label="Play Video: Bacancy New House" class="w-css-reset w-vulcan-v2-button" tabindex="0" style="width: 0px; height: 0px; pointer-events: none;"></button>
+                                                            <button aria-label="Play Video: KAS Pvt LtdNew House" class="w-css-reset w-vulcan-v2-button" tabindex="0" style="width: 0px; height: 0px; pointer-events: none;"></button>
                                                         </div>
                                                         <div class="w-css-reset" data-handle="thumbnail">
                                                             <div>
                                                                 <div class="w-css-reset" style="filter: blur(5px); height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; display: block;">
-                                                                    <img
-                                                                        class="w-css-reset"
-                                                                        srcset=""
-                                                                        src="https://fast.wistia.com/embed/medias/dunhnum2fj/swatch"
-                                                                        alt="Video Thumbnail"
-                                                                        aria-hidden="true"
-                                                                        style="
+                                                                    <img class="w-css-reset" srcset="" src="https://fast.wistia.com/embed/medias/dunhnum2fj/swatch" alt="Video Thumbnail" aria-hidden="true" style="
                                                                             height: 729px;
                                                                             left: 0px;
                                                                             position: absolute;
@@ -319,23 +217,17 @@
                                                                             border-style: solid;
                                                                             border-color: rgb(0, 0, 0);
                                                                             box-sizing: content-box;
-                                                                        "
-                                                                    />
+                                                                        " />
                                                                 </div>
                                                                 <div class="w-css-reset" style="height: 100%; left: 0px; opacity: 1; position: absolute; top: 0px; width: 100%; display: block; transition: opacity 3s ease 0s;">
-                                                                    <img
-                                                                        class="w-css-reset"
-                                                                        srcset="
+                                                                    <img class="w-css-reset" srcset="
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=640x360    320w,
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=640x360    640w,
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=960x540    960w,
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=1280x720  1280w,
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=1920x1080 1920w,
                                                                             https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=3840x2160 3840w
-                                                                        "
-                                                                        src="https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=1920x1080"
-                                                                        alt="Video Thumbnail"
-                                                                        style="
+                                                                        " src="https://embed-ssl.wistia.com/deliveries/812420b16554c9c6988fac5c68792b49.webp?image_crop_resized=1920x1080" alt="Video Thumbnail" style="
                                                                             height: 729px;
                                                                             left: 0px;
                                                                             position: absolute;
@@ -348,8 +240,7 @@
                                                                             border-style: solid;
                                                                             border-color: rgb(0, 0, 0);
                                                                             box-sizing: content-box;
-                                                                        "
-                                                                    />
+                                                                        " />
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -362,19 +253,10 @@
                                                         <div class="w-vulcan-overlays--center w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 100%;">
                                                             <div class="w-css-reset" style="height: 685px;">
                                                                 <div class="w-css-reset" data-handle="bigPlayButton" style="pointer-events: auto;">
-                                                                    <div
-                                                                        class="w-bpb-wrapper w-css-reset w-css-reset-tree"
-                                                                        style="border-radius: 0px; display: block; left: calc(50%); margin-left: -81.25px; margin-top: -52px; overflow: hidden; position: absolute; top: calc(50% - 0px);"
-                                                                    >
-                                                                        <button
-                                                                            class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button"
-                                                                            aria-label="Play Video: Bacancy New House"
-                                                                            tabindex="0"
-                                                                            style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;"
-                                                                        >
+                                                                    <div class="w-bpb-wrapper w-css-reset w-css-reset-tree" style="border-radius: 0px; display: block; left: calc(50%); margin-left: -81.25px; margin-top: -52px; overflow: hidden; position: absolute; top: calc(50% - 0px);">
+                                                                        <button class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" aria-label="Play Video: KAS Pvt LtdNew House" tabindex="0" style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;">
                                                                             <div style="background: rgb(245, 130, 32); display: block; left: 0px; height: 104px; mix-blend-mode: darken; position: absolute; top: 0px; width: 162.5px;"></div>
-                                                                            <div
-                                                                                style="
+                                                                            <div style="
                                                                                     background-color: rgba(245, 130, 32, 0.7);
                                                                                     height: 104px;
                                                                                     left: 0px;
@@ -382,17 +264,8 @@
                                                                                     top: 0px;
                                                                                     transition: background-color 150ms ease 0s;
                                                                                     width: 162.5px;
-                                                                                "
-                                                                            ></div>
-                                                                            <svg
-                                                                                x="0px"
-                                                                                y="0px"
-                                                                                viewBox="0 0 125 80"
-                                                                                enable-background="new 0 0 125 80"
-                                                                                aria-hidden="true"
-                                                                                alt=""
-                                                                                style="fill: rgb(255, 255, 255); height: 104px; left: 0px; stroke-width: 0px; top: 0px; width: 100%; position: absolute;"
-                                                                            >
+                                                                                "></div>
+                                                                            <svg x="0px" y="0px" viewBox="0 0 125 80" enable-background="new 0 0 125 80" aria-hidden="true" alt="" style="fill: rgb(255, 255, 255); height: 104px; left: 0px; stroke-width: 0px; top: 0px; width: 100%; position: absolute;">
                                                                                 <rect fill-rule="evenodd" clip-rule="evenodd" fill="none" width="125" height="80"></rect>
                                                                                 <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="53,22 53,58 79,40"></polygon>
                                                                             </svg>
@@ -400,15 +273,8 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="w-css-reset" data-handle="clickForSoundButton" style="pointer-events: auto;">
-                                                                    <div
-                                                                        class="w-css-reset w-css-reset-tree"
-                                                                        data-handle="click-for-sound-backdrop"
-                                                                        style="display: none; height: 100%; left: 0px; pointer-events: auto; position: absolute; top: 0px; width: 100%;"
-                                                                    >
-                                                                        <button
-                                                                            aria-label="Click for sound"
-                                                                            class="w-vulcan-v2-button click-for-sound-btn"
-                                                                            style="
+                                                                    <div class="w-css-reset w-css-reset-tree" data-handle="click-for-sound-backdrop" style="display: none; height: 100%; left: 0px; pointer-events: auto; position: absolute; top: 0px; width: 100%;">
+                                                                        <button aria-label="Click for sound" class="w-vulcan-v2-button click-for-sound-btn" style="
                                                                                 background: rgba(0, 0, 0, 0.8);
                                                                                 border: 2px solid transparent;
                                                                                 border-radius: 60px;
@@ -421,10 +287,8 @@
                                                                                 position: absolute;
                                                                                 right: 27.25px;
                                                                                 top: 27.25px;
-                                                                            "
-                                                                        >
-                                                                            <div
-                                                                                style="
+                                                                            ">
+                                                                            <div style="
                                                                                     display: flex;
                                                                                     align-items: center;
                                                                                     justify-content: flex-end;
@@ -432,8 +296,7 @@
                                                                                     overflow: hidden;
                                                                                     max-width: 0px;
                                                                                     transition: max-width 200ms ease 0s;
-                                                                                "
-                                                                            >
+                                                                                ">
                                                                                 <span style="color: rgb(255, 255, 255); font-family: WistiaPlayerInter, Helvetica, sans-serif; font-size: 18px; font-weight: 500; padding-left: 1em;">
                                                                                     Click for sound
                                                                                 </span>
@@ -444,12 +307,15 @@
                                                                                         0% {
                                                                                             opacity: 0;
                                                                                         }
+
                                                                                         33% {
                                                                                             opacity: 1;
                                                                                         }
+
                                                                                         66% {
                                                                                             opacity: 1;
                                                                                         }
+
                                                                                         100% {
                                                                                             opacity: 0;
                                                                                         }
@@ -459,12 +325,15 @@
                                                                                         0% {
                                                                                             opacity: 0;
                                                                                         }
+
                                                                                         33% {
                                                                                             opacity: 1;
                                                                                         }
+
                                                                                         66% {
                                                                                             opacity: 1;
                                                                                         }
+
                                                                                         100% {
                                                                                             opacity: 0;
                                                                                         }
@@ -492,10 +361,7 @@
                                                                 <div class="w-css-reset" data-handle="playPauseNotifier" style="pointer-events: auto;"></div>
                                                                 <div class="w-css-reset" data-handle="playPauseLoading" style="pointer-events: auto;">
                                                                     <div class="w-css-reset w-css-reset-tree" style="height: 100%; left: 0px; pointer-events: none; position: absolute; top: 0px; width: 100%;">
-                                                                        <button
-                                                                            aria-label="Play Video"
-                                                                            class="w-vulcan-v2-button"
-                                                                            style="
+                                                                        <button aria-label="Play Video" class="w-vulcan-v2-button" style="
                                                                                 background: rgba(0, 0, 0, 0.6);
                                                                                 border: 0px;
                                                                                 border-radius: 50%;
@@ -514,20 +380,11 @@
                                                                                 transition: opacity 200ms ease 0s, transform 600ms ease 0s;
                                                                                 -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
                                                                                 width: 182px;
-                                                                            "
-                                                                        >
+                                                                            ">
                                                                             <div style="box-sizing: border-box; height: 100%; padding: 61.425px 61.425px 61.425px 75.075px;">
                                                                                 <div style="height: 100%; width: 100%;">
                                                                                     <div style="display: none; height: 100%; width: 100%;">
-                                                                                        <svg
-                                                                                            x="0px"
-                                                                                            y="0px"
-                                                                                            viewBox="0 0 11.556 16"
-                                                                                            enable-background="new 0 0 11.556 16"
-                                                                                            aria-hidden="true"
-                                                                                            class="w-css-reset w-css-reset-tree"
-                                                                                            style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;"
-                                                                                        >
+                                                                                        <svg x="0px" y="0px" viewBox="0 0 11.556 16" enable-background="new 0 0 11.556 16" aria-hidden="true" class="w-css-reset w-css-reset-tree" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;">
                                                                                             <g>
                                                                                                 <rect x="0" y="0" width="3.5" height="12"></rect>
                                                                                                 <rect x="6.5" y="0" width="3.5" height="12"></rect>
@@ -535,15 +392,7 @@
                                                                                         </svg>
                                                                                     </div>
                                                                                     <div style="display: block; height: 100%; width: 100%;">
-                                                                                        <svg
-                                                                                            x="0px"
-                                                                                            y="0px"
-                                                                                            viewBox="0 0 11.556 16"
-                                                                                            enable-background="new 0 0 11.556 16"
-                                                                                            aria-hidden="true"
-                                                                                            class="w-css-reset w-css-reset-tree"
-                                                                                            style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;"
-                                                                                        >
+                                                                                        <svg x="0px" y="0px" viewBox="0 0 11.556 16" enable-background="new 0 0 11.556 16" aria-hidden="true" class="w-css-reset w-css-reset-tree" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;">
                                                                                             <polygon points="11.556,7.5 0,15 0,0"></polygon>
                                                                                         </svg>
                                                                                     </div>
@@ -558,9 +407,7 @@
                                                             <div class="w-css-reset" style="height: 685px;"></div>
                                                         </div>
                                                     </div>
-                                                    <div
-                                                        class="w-bottom-bar w-css-reset"
-                                                        style="
+                                                    <div class="w-bottom-bar w-css-reset" style="
                                                             bottom: 0px;
                                                             border-radius: 0px;
                                                             border-collapse: collapse;
@@ -574,12 +421,10 @@
                                                             table-layout: auto;
                                                             transform: unset;
                                                             width: calc(100% - 0px);
-                                                        "
-                                                    >
+                                                        ">
                                                         <div class="w-bottom-bar-lower w-css-reset" style="position: relative;">
                                                             <div style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;">
-                                                                <div
-                                                                    style="
+                                                                <div style="
                                                                         background: rgb(245, 130, 32);
                                                                         display: none;
                                                                         height: 100%;
@@ -590,10 +435,8 @@
                                                                         top: 0px;
                                                                         transition: opacity 0s ease 0s;
                                                                         width: 100%;
-                                                                    "
-                                                                ></div>
-                                                                <div
-                                                                    style="
+                                                                    "></div>
+                                                                <div style="
                                                                         background: rgba(245, 130, 32, 0.85);
                                                                         border-radius: 0px;
                                                                         height: 100%;
@@ -603,12 +446,10 @@
                                                                         top: 0px;
                                                                         transition: opacity 0s ease 0s;
                                                                         width: 100%;
-                                                                    "
-                                                                ></div>
+                                                                    "></div>
                                                             </div>
                                                             <div style="display: none;">
-                                                                <div
-                                                                    style="
+                                                                <div style="
                                                                         background: rgb(245, 130, 32);
                                                                         display: none;
                                                                         height: 100%;
@@ -619,10 +460,8 @@
                                                                         top: 0px;
                                                                         transition: opacity 0s ease 0s;
                                                                         width: 100%;
-                                                                    "
-                                                                ></div>
-                                                                <div
-                                                                    style="
+                                                                    "></div>
+                                                                <div style="
                                                                         background: rgba(245, 130, 32, 0.85);
                                                                         border-radius: 0px;
                                                                         height: 100%;
@@ -632,19 +471,13 @@
                                                                         top: 0px;
                                                                         transition: opacity 0s ease 0s;
                                                                         width: 100%;
-                                                                    "
-                                                                ></div>
+                                                                    "></div>
                                                             </div>
                                                             <div class="w-bottom-bar-left w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px; opacity: 1; transition: opacity 0s ease 0s;">
                                                                 <div class="w-bottom-bar-left-inner w-css-reset" style="height: 44px; position: relative; pointer-events: auto; white-space: nowrap;">
                                                                     <div class="w-css-reset" data-handle="smallPlayButton" style="display: inline-block; vertical-align: top;">
                                                                         <div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 44px; position: relative; vertical-align: top; width: 52px;">
-                                                                            <button
-                                                                                class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important"
-                                                                                tabindex="0"
-                                                                                aria-label="Play Video"
-                                                                                title="Play Video"
-                                                                                style="
+                                                                            <button class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" tabindex="0" aria-label="Play Video" title="Play Video" style="
                                                                                     background-color: rgba(0, 0, 0, 0);
                                                                                     border-radius: 0px;
                                                                                     box-shadow: none;
@@ -654,25 +487,12 @@
                                                                                     transition: background-color 150ms ease 0s;
                                                                                     width: calc(100% + 0px);
                                                                                     padding-right: 0px;
-                                                                                "
-                                                                            >
-                                                                                <div
-                                                                                    class="w-vulcan-icon-wrapper"
-                                                                                    data-handle="smallPlayButton_icon_wrapper"
-                                                                                    style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"
-                                                                                >
+                                                                                ">
+                                                                                <div class="w-vulcan-icon-wrapper" data-handle="smallPlayButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;">
                                                                                     <div style="box-sizing: border-box; height: 100%; margin-left: 1.3px; padding: 13px 0px 11.7px; position: relative; width: 100%;">
                                                                                         <div style="height: 100%; width: 100%;">
                                                                                             <div style="display: none; height: 100%; width: 100%;">
-                                                                                                <svg
-                                                                                                    x="0px"
-                                                                                                    y="0px"
-                                                                                                    viewBox="0 0 11.556 16"
-                                                                                                    enable-background="new 0 0 11.556 16"
-                                                                                                    aria-hidden="true"
-                                                                                                    class="w-css-reset w-css-reset-tree"
-                                                                                                    style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;"
-                                                                                                >
+                                                                                                <svg x="0px" y="0px" viewBox="0 0 11.556 16" enable-background="new 0 0 11.556 16" aria-hidden="true" class="w-css-reset w-css-reset-tree" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;">
                                                                                                     <g>
                                                                                                         <rect x="0" y="0" width="3.5" height="12"></rect>
                                                                                                         <rect x="6.5" y="0" width="3.5" height="12"></rect>
@@ -680,15 +500,7 @@
                                                                                                 </svg>
                                                                                             </div>
                                                                                             <div style="display: block; height: 100%; width: 100%;">
-                                                                                                <svg
-                                                                                                    x="0px"
-                                                                                                    y="0px"
-                                                                                                    viewBox="0 0 11.556 16"
-                                                                                                    enable-background="new 0 0 11.556 16"
-                                                                                                    aria-hidden="true"
-                                                                                                    class="w-css-reset w-css-reset-tree"
-                                                                                                    style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;"
-                                                                                                >
+                                                                                                <svg x="0px" y="0px" viewBox="0 0 11.556 16" enable-background="new 0 0 11.556 16" aria-hidden="true" class="w-css-reset w-css-reset-tree" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%; vertical-align: top;">
                                                                                                     <polygon points="11.556,7.5 0,15 0,0"></polygon>
                                                                                                 </svg>
                                                                                             </div>
@@ -701,9 +513,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="w-bottom-bar-middle w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 100%; opacity: 1; transition: opacity 0s ease 0s;">
-                                                                <div
-                                                                    class="w-bottom-bar-middle-inner w-css-reset"
-                                                                    style="
+                                                                <div class="w-bottom-bar-middle-inner w-css-reset" style="
                                                                         height: 44px;
                                                                         position: relative;
                                                                         pointer-events: auto;
@@ -711,13 +521,10 @@
                                                                         opacity: 1;
                                                                         transform: translateY(0px);
                                                                         transition: opacity 0ms ease 0s, transform 0ms ease 0s;
-                                                                    "
-                                                                >
+                                                                    ">
                                                                     <div class="w-css-reset" data-handle="playbar" style="height: 100%; position: relative;">
                                                                         <div class="w-playbar-wrapper w-css-reset w-css-reset-tree" style="display: flex; height: 100%; width: 100%;">
-                                                                            <div
-                                                                                class="w-playbar__time"
-                                                                                style="
+                                                                            <div class="w-playbar__time" style="
                                                                                     box-sizing: content-box;
                                                                                     color: white;
                                                                                     font-family: WistiaPlayerInterNumbersSemiBold, Helvetica, sans-serif;
@@ -729,21 +536,10 @@
                                                                                     position: relative;
                                                                                     text-align: center;
                                                                                     width: 36.4px;
-                                                                                "
-                                                                            >
+                                                                                ">
                                                                                 1:42
                                                                             </div>
-                                                                            <div
-                                                                                aria-label="Playbar"
-                                                                                aria-orientation="horizontal"
-                                                                                aria-valuemax="102.059"
-                                                                                aria-valuemin="0"
-                                                                                aria-valuenow="0"
-                                                                                aria-valuetext="0 seconds"
-                                                                                role="slider"
-                                                                                tabindex="0"
-                                                                                style="cursor: pointer; flex: 1 1 0%; height: 44px; outline: none; margin-left: 19.5px; margin-right: 13px; position: relative;"
-                                                                            >
+                                                                            <div aria-label="Playbar" aria-orientation="horizontal" aria-valuemax="102.059" aria-valuemin="0" aria-valuenow="0" aria-valuetext="0 seconds" role="slider" tabindex="0" style="cursor: pointer; flex: 1 1 0%; height: 44px; outline: none; margin-left: 19.5px; margin-right: 13px; position: relative;">
                                                                                 <canvas height="44" width="1045" style="height: 44px; left: -19.5px; position: absolute; top: 0px; width: 1045.1px;"></canvas>
                                                                                 <div style="border-radius: 50%; height: 14.56px; left: -7.28px; opacity: 0; position: absolute; top: 14.72px; width: 14.56px;"></div>
                                                                             </div>
@@ -751,17 +547,9 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <div
-                                                                class="w-bottom-bar-right w-css-reset"
-                                                                style="display: table-cell; vertical-align: top; position: relative; width: 0px; opacity: 1; transition: opacity 0s ease 0s; white-space: nowrap;"
-                                                            >
-                                                                <div
-                                                                    class="w-bottom-bar-right-inner-anchor w-css-reset"
-                                                                    style="height: 44px; position: relative; pointer-events: auto; white-space: nowrap; display: inline-block; right: 0px; top: 0px; vertical-align: top;"
-                                                                >
-                                                                    <div
-                                                                        class="w-bottom-bar-right-inner w-css-reset"
-                                                                        style="
+                                                            <div class="w-bottom-bar-right w-css-reset" style="display: table-cell; vertical-align: top; position: relative; width: 0px; opacity: 1; transition: opacity 0s ease 0s; white-space: nowrap;">
+                                                                <div class="w-bottom-bar-right-inner-anchor w-css-reset" style="height: 44px; position: relative; pointer-events: auto; white-space: nowrap; display: inline-block; right: 0px; top: 0px; vertical-align: top;">
+                                                                    <div class="w-bottom-bar-right-inner w-css-reset" style="
                                                                             height: 44px;
                                                                             position: relative;
                                                                             pointer-events: auto;
@@ -773,16 +561,10 @@
                                                                             transform: translateY(0px);
                                                                             transition: opacity 0ms ease 0s, transform 0ms ease 0s;
                                                                             padding-right: 0px;
-                                                                        "
-                                                                    >
+                                                                        ">
                                                                         <div class="w-css-reset" data-handle="volumeButton" style="display: inline-block; vertical-align: top;">
                                                                             <div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 44px; position: relative; vertical-align: top; width: 52px;">
-                                                                                <button
-                                                                                    class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important"
-                                                                                    tabindex="0"
-                                                                                    aria-label="Mute"
-                                                                                    title="Mute"
-                                                                                    style="
+                                                                                <button class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" tabindex="0" aria-label="Mute" title="Mute" style="
                                                                                         background-color: rgba(0, 0, 0, 0);
                                                                                         border-radius: 0px;
                                                                                         box-shadow: none;
@@ -792,70 +574,20 @@
                                                                                         transition: background-color 150ms ease 0s;
                                                                                         width: calc(100% + 0px);
                                                                                         padding-right: 0px;
-                                                                                    "
-                                                                                >
-                                                                                    <div
-                                                                                        class="w-vulcan-icon-wrapper"
-                                                                                        data-handle="volumeButton_icon_wrapper"
-                                                                                        style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"
-                                                                                    >
-                                                                                        <svg
-                                                                                            x="0px"
-                                                                                            y="0px"
-                                                                                            viewBox="0 0 40 34"
-                                                                                            enable-background="new 0 0 40 34"
-                                                                                            aria-hidden="true"
-                                                                                            style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;"
-                                                                                        >
+                                                                                    ">
+                                                                                    <div class="w-vulcan-icon-wrapper" data-handle="volumeButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;">
+                                                                                        <svg x="0px" y="0px" viewBox="0 0 40 34" enable-background="new 0 0 40 34" aria-hidden="true" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;">
                                                                                             <g style="transform: translateX(1.25px); transition: transform 100ms ease 0s;">
                                                                                                 <g>
-                                                                                                    <path
-                                                                                                        d="M13.8,14.2c-0.5,0.5-1.4,0.8-2,0.8h-1.6C9.5,15,9,15.5,9,16.2v1.6c0,0.7,0.5,1.2,1.2,1.2h1.6c0.7,0,1.6,0.4,2,0.8l2.3,2.3c0.5,0.5,0.8,0.3,0.8-0.4v-9.6c0-0.7-0.4-0.8-0.8-0.4L13.8,14.2z"
-                                                                                                    ></path>
+                                                                                                    <path d="M13.8,14.2c-0.5,0.5-1.4,0.8-2,0.8h-1.6C9.5,15,9,15.5,9,16.2v1.6c0,0.7,0.5,1.2,1.2,1.2h1.6c0.7,0,1.6,0.4,2,0.8l2.3,2.3c0.5,0.5,0.8,0.3,0.8-0.4v-9.6c0-0.7-0.4-0.8-0.8-0.4L13.8,14.2z"></path>
                                                                                                 </g>
                                                                                                 <g>
-                                                                                                    <path
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-line-cap="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        stroke-width="2"
-                                                                                                        d="M22,11.7c0,0,1.1,2.5,1.1,5s-1.1,5-1.1,5"
-                                                                                                        style="opacity: 1; transition: opacity 100ms ease 0s;"
-                                                                                                    ></path>
-                                                                                                    <path
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-line-cap="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        stroke-width="2"
-                                                                                                        d="M25.8,9.2c0,0,1.7,3.8,1.7,7.5c0,3.7-1.7,7.5-1.7,7.5"
-                                                                                                        style="opacity: 1; transition: opacity 100ms ease 0s;"
-                                                                                                    ></path>
+                                                                                                    <path fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="2" d="M22,11.7c0,0,1.1,2.5,1.1,5s-1.1,5-1.1,5" style="opacity: 1; transition: opacity 100ms ease 0s;"></path>
+                                                                                                    <path fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="2" d="M25.8,9.2c0,0,1.7,3.8,1.7,7.5c0,3.7-1.7,7.5-1.7,7.5" style="opacity: 1; transition: opacity 100ms ease 0s;"></path>
                                                                                                 </g>
                                                                                                 <g style="opacity: 0; transition: opacity 100ms ease 0s;">
-                                                                                                    <line
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-line-cap="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        stroke-width="1.8102"
-                                                                                                        x1="19.2"
-                                                                                                        y1="15"
-                                                                                                        x2="23.2"
-                                                                                                        y2="19"
-                                                                                                    ></line>
-                                                                                                    <line
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-line-cap="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        stroke-width="1.8102"
-                                                                                                        x1="19.2"
-                                                                                                        y1="19"
-                                                                                                        x2="23.2"
-                                                                                                        y2="15"
-                                                                                                    ></line>
+                                                                                                    <line fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="1.8102" x1="19.2" y1="15" x2="23.2" y2="19"></line>
+                                                                                                    <line fill="none" stroke="#ffffff" stroke-line-cap="round" stroke-miterlimit="10" stroke-width="1.8102" x1="19.2" y1="19" x2="23.2" y2="15"></line>
                                                                                                 </g>
                                                                                             </g>
                                                                                         </svg>
@@ -865,13 +597,7 @@
                                                                         </div>
                                                                         <div class="w-css-reset" data-handle="settingsButton" style="display: inline-block; vertical-align: top;">
                                                                             <div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 44px; position: relative; vertical-align: top; width: 52px;">
-                                                                                <button
-                                                                                    class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important"
-                                                                                    tabindex="0"
-                                                                                    aria-expanded="false"
-                                                                                    aria-label="Show settings menu"
-                                                                                    title="Show settings menu"
-                                                                                    style="
+                                                                                <button class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" tabindex="0" aria-expanded="false" aria-label="Show settings menu" title="Show settings menu" style="
                                                                                         background-color: rgba(0, 0, 0, 0);
                                                                                         border-radius: 0px;
                                                                                         box-shadow: none;
@@ -881,26 +607,12 @@
                                                                                         transition: background-color 150ms ease 0s;
                                                                                         width: calc(100% + 0px);
                                                                                         padding-right: 0px;
-                                                                                    "
-                                                                                >
-                                                                                    <div
-                                                                                        class="w-vulcan-icon-wrapper"
-                                                                                        data-handle="settingsButton_icon_wrapper"
-                                                                                        style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"
-                                                                                    >
-                                                                                        <svg
-                                                                                            x="0px"
-                                                                                            y="0px"
-                                                                                            viewBox="0 0 40 34"
-                                                                                            enable-background="new 0 0 40 34"
-                                                                                            aria-hidden="true"
-                                                                                            style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;"
-                                                                                        >
+                                                                                    ">
+                                                                                    <div class="w-vulcan-icon-wrapper" data-handle="settingsButton_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;">
+                                                                                        <svg x="0px" y="0px" viewBox="0 0 40 34" enable-background="new 0 0 40 34" aria-hidden="true" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;">
                                                                                             <g>
                                                                                                 <g>
-                                                                                                    <path
-                                                                                                        d="M28.3,16.4h-1.9c-0.4,0-0.8-0.3-0.9-0.7l-0.4-1.1c-0.2-0.3-0.1-0.8,0.2-1.1l1.3-1.3c0.3-0.3,0.3-0.7,0-1l-0.4-0.4c-0.3-0.3-0.7-0.3-1,0l-1.3,1.3c-0.3,0.3-0.8,0.3-1.1,0.1l-1.1-0.5c-0.4-0.1-0.7-0.5-0.7-0.9V9.1c0-0.4-0.3-0.7-0.7-0.7h-0.6c-0.4,0-0.7,0.3-0.7,0.7v1.7c0,0.4-0.3,0.8-0.7,0.9l-1.2,0.5c-0.3,0.2-0.8,0.1-1.1-0.2l-1.2-1.2c-0.3-0.3-0.7-0.3-1,0l-0.4,0.4c-0.3,0.3-0.3,0.7,0,1l1.2,1.2c0.3,0.3,0.3,0.8,0.1,1.1l-0.5,1.2c-0.1,0.4-0.5,0.7-0.9,0.7h-1.6c-0.4,0-0.7,0.3-0.7,0.7v0.6c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.8,0.3,0.9,0.7l0.5,1.2c0.2,0.3,0.1,0.8-0.1,1.1l-1.2,1.2c-0.3,0.3-0.3,0.7,0,1l0.4,0.4c0.3,0.3,0.7,0.3,1,0l1.2-1.2c0.3-0.3,0.8-0.3,1.1-0.2l1.2,0.5c0.4,0.1,0.7,0.5,0.7,0.9v1.7c0,0.4,0.3,0.7,0.7,0.7h0.6c0.4,0,0.7-0.3,0.7-0.7V24c0-0.4,0.3-0.8,0.7-0.9l1.1-0.5c0.3-0.2,0.8-0.1,1.1,0.1l1.3,1.3c0.3,0.3,0.7,0.3,1,0l0.4-0.4c0.3-0.3,0.3-0.7,0-1l-1.3-1.3C25,21,25,20.5,25.1,20.2l0.4-1.1c0.1-0.4,0.5-0.7,0.9-0.7h1.9c0.4,0,0.7-0.3,0.7-0.7v-0.6C29,16.7,28.7,16.4,28.3,16.4z M23.8,17.5c0,2.2-1.8,3.9-3.9,3.9c-2.2,0-3.9-1.8-3.9-3.9s1.7-3.9,3.9-3.9C22.1,13.6,23.8,15.3,23.8,17.5z"
-                                                                                                    ></path>
+                                                                                                    <path d="M28.3,16.4h-1.9c-0.4,0-0.8-0.3-0.9-0.7l-0.4-1.1c-0.2-0.3-0.1-0.8,0.2-1.1l1.3-1.3c0.3-0.3,0.3-0.7,0-1l-0.4-0.4c-0.3-0.3-0.7-0.3-1,0l-1.3,1.3c-0.3,0.3-0.8,0.3-1.1,0.1l-1.1-0.5c-0.4-0.1-0.7-0.5-0.7-0.9V9.1c0-0.4-0.3-0.7-0.7-0.7h-0.6c-0.4,0-0.7,0.3-0.7,0.7v1.7c0,0.4-0.3,0.8-0.7,0.9l-1.2,0.5c-0.3,0.2-0.8,0.1-1.1-0.2l-1.2-1.2c-0.3-0.3-0.7-0.3-1,0l-0.4,0.4c-0.3,0.3-0.3,0.7,0,1l1.2,1.2c0.3,0.3,0.3,0.8,0.1,1.1l-0.5,1.2c-0.1,0.4-0.5,0.7-0.9,0.7h-1.6c-0.4,0-0.7,0.3-0.7,0.7v0.6c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.8,0.3,0.9,0.7l0.5,1.2c0.2,0.3,0.1,0.8-0.1,1.1l-1.2,1.2c-0.3,0.3-0.3,0.7,0,1l0.4,0.4c0.3,0.3,0.7,0.3,1,0l1.2-1.2c0.3-0.3,0.8-0.3,1.1-0.2l1.2,0.5c0.4,0.1,0.7,0.5,0.7,0.9v1.7c0,0.4,0.3,0.7,0.7,0.7h0.6c0.4,0,0.7-0.3,0.7-0.7V24c0-0.4,0.3-0.8,0.7-0.9l1.1-0.5c0.3-0.2,0.8-0.1,1.1,0.1l1.3,1.3c0.3,0.3,0.7,0.3,1,0l0.4-0.4c0.3-0.3,0.3-0.7,0-1l-1.3-1.3C25,21,25,20.5,25.1,20.2l0.4-1.1c0.1-0.4,0.5-0.7,0.9-0.7h1.9c0.4,0,0.7-0.3,0.7-0.7v-0.6C29,16.7,28.7,16.4,28.3,16.4z M23.8,17.5c0,2.2-1.8,3.9-3.9,3.9c-2.2,0-3.9-1.8-3.9-3.9s1.7-3.9,3.9-3.9C22.1,13.6,23.8,15.3,23.8,17.5z"></path>
                                                                                                 </g>
                                                                                             </g>
                                                                                         </svg>
@@ -910,12 +622,7 @@
                                                                         </div>
                                                                         <div class="w-css-reset" data-handle="fullscreenControl" style="display: inline-block; vertical-align: top;">
                                                                             <div class="w-vulcan-button-wrapper w-css-reset" style="display: inline-block; height: 44px; position: relative; vertical-align: top; width: 52px;">
-                                                                                <button
-                                                                                    class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important"
-                                                                                    tabindex="0"
-                                                                                    aria-label="Fullscreen"
-                                                                                    title="Fullscreen"
-                                                                                    style="
+                                                                                <button class="w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important" tabindex="0" aria-label="Fullscreen" title="Fullscreen" style="
                                                                                         background-color: rgba(0, 0, 0, 0);
                                                                                         border-radius: 0px;
                                                                                         box-shadow: none;
@@ -925,73 +632,17 @@
                                                                                         transition: background-color 150ms ease 0s;
                                                                                         width: calc(100% + 0px);
                                                                                         padding-right: 0px;
-                                                                                    "
-                                                                                >
-                                                                                    <div
-                                                                                        class="w-vulcan-icon-wrapper"
-                                                                                        data-handle="fullscreenControl_icon_wrapper"
-                                                                                        style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;"
-                                                                                    >
-                                                                                        <svg
-                                                                                            x="0px"
-                                                                                            y="0px"
-                                                                                            viewBox="0 0 40 34"
-                                                                                            enable-background="new 0 0 40 34"
-                                                                                            aria-hidden="true"
-                                                                                            style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;"
-                                                                                        >
+                                                                                    ">
+                                                                                    <div class="w-vulcan-icon-wrapper" data-handle="fullscreenControl_icon_wrapper" style="box-sizing: border-box; height: 100%; position: relative; opacity: 1; transform: scale(1.001); transition: transform 200ms ease 0s;">
+                                                                                        <svg x="0px" y="0px" viewBox="0 0 40 34" enable-background="new 0 0 40 34" aria-hidden="true" style="fill: rgb(255, 255, 255); height: 100%; left: 0px; stroke-width: 0px; top: 0px; width: 100%;">
                                                                                             <g>
                                                                                                 <g>
-                                                                                                    <polyline
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-width="2"
-                                                                                                        stroke-linecap="round"
-                                                                                                        stroke-linejoin="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        points="31.4,12.6 31.4,8.7 25.8,8.7"
-                                                                                                    ></polyline>
-                                                                                                    <polyline
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-width="2"
-                                                                                                        stroke-linecap="round"
-                                                                                                        stroke-linejoin="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        points="14.7,8.7 9.1,8.7 9.1,12.6"
-                                                                                                    ></polyline>
-                                                                                                    <polyline
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-width="2"
-                                                                                                        stroke-linecap="round"
-                                                                                                        stroke-linejoin="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        points="25.8,24.8 31.4,24.8 31.4,20.9"
-                                                                                                    ></polyline>
-                                                                                                    <polyline
-                                                                                                        fill="none"
-                                                                                                        stroke="#ffffff"
-                                                                                                        stroke-width="2"
-                                                                                                        stroke-linecap="round"
-                                                                                                        stroke-linejoin="round"
-                                                                                                        stroke-miterlimit="10"
-                                                                                                        points="9.1,20.9 9.1,24.8 14.7,24.8"
-                                                                                                    ></polyline>
+                                                                                                    <polyline fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="31.4,12.6 31.4,8.7 25.8,8.7"></polyline>
+                                                                                                    <polyline fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="14.7,8.7 9.1,8.7 9.1,12.6"></polyline>
+                                                                                                    <polyline fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="25.8,24.8 31.4,24.8 31.4,20.9"></polyline>
+                                                                                                    <polyline fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="9.1,20.9 9.1,24.8 14.7,24.8"></polyline>
                                                                                                 </g>
-                                                                                                <rect
-                                                                                                    x="13.7"
-                                                                                                    y="12.3"
-                                                                                                    fill="none"
-                                                                                                    stroke="#ffffff"
-                                                                                                    stroke-width="2"
-                                                                                                    stroke-linecap="round"
-                                                                                                    stroke-linejoin="round"
-                                                                                                    stroke-miterlimit="10"
-                                                                                                    enable-background="new"
-                                                                                                    width="13.3"
-                                                                                                    height="8.9"
-                                                                                                ></rect>
+                                                                                                <rect x="13.7" y="12.3" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new" width="13.3" height="8.9"></rect>
                                                                                             </g>
                                                                                         </svg>
                                                                                     </div>
@@ -1008,9 +659,7 @@
                                                         <div class="w-css-reset" data-handle="contextMenu" style="pointer-events: auto;"></div>
                                                         <div class="w-css-reset" data-handle="loadingHourglass" style="pointer-events: auto;"></div>
                                                         <div class="w-css-reset" data-handle="focusOutline" style="pointer-events: auto;">
-                                                            <div
-                                                                class="w-focus-outline"
-                                                                style="
+                                                            <div class="w-focus-outline" style="
                                                                     box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px inset;
                                                                     border-radius: 0px;
                                                                     display: none;
@@ -1020,8 +669,7 @@
                                                                     position: absolute;
                                                                     right: 0px;
                                                                     width: 100%;
-                                                                "
-                                                            ></div>
+                                                                "></div>
                                                         </div>
                                                         <div class="w-css-reset" data-handle="playbarlessProgressIndicator" style="pointer-events: auto;">
                                                             <div style="bottom: 0px; left: 0px; position: absolute; width: 100%;">
@@ -1036,6 +684,7 @@
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset {
                                                         font-size: 14px;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper div.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1065,6 +714,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper span.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1094,6 +744,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ul.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1123,6 +774,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper li.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1152,6 +804,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper label.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1181,6 +834,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper fieldset.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1210,6 +864,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper button.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1239,6 +894,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper img.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1268,6 +924,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper a.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1297,6 +954,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper svg.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1326,6 +984,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper p.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1355,9 +1014,11 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper a.w-css-reset {
                                                         border: 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper h1.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1387,6 +1048,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper h2.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1416,6 +1078,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper h3.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1445,18 +1108,23 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper p.w-css-reset {
                                                         margin: 1.4em 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper a.w-css-reset {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper span.w-css-reset {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper svg.w-css-reset {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ul.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1487,6 +1155,7 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ol.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1517,6 +1186,7 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper li.w-css-reset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1547,24 +1217,31 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ul:before.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ol:before.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper li:before.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ul:after.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper ol:after.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper li:after.w-css-reset {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper label.w-css-reset {
                                                         background-attachment: scroll;
                                                         background-color: transparent;
@@ -1575,6 +1252,7 @@
                                                         float: none;
                                                         outline: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper button.w-css-reset {
                                                         background-attachment: scroll;
                                                         background-color: transparent;
@@ -1587,6 +1265,7 @@
                                                         outline: none;
                                                         position: static;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper img.w-css-reset {
                                                         border: 0;
                                                         display: inline-block;
@@ -1595,12 +1274,15 @@
                                                         outline: none;
                                                         position: static;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset button::-moz-focus-inner {
                                                         border: 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree {
                                                         font-size: 14px;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree div {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1630,6 +1312,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree span {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1659,6 +1342,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ul {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1688,6 +1372,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree li {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1717,6 +1402,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree label {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1746,6 +1432,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree fieldset {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1775,6 +1462,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree button {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1804,6 +1492,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree img {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1833,6 +1522,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree a {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1862,6 +1552,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree svg {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1891,6 +1582,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree p {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1920,9 +1612,11 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree a {
                                                         border: 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree h1 {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1952,6 +1646,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree h2 {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -1981,6 +1676,7 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree h3 {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -2010,18 +1706,23 @@
                                                         -webkit-user-select: none;
                                                         -webkit-font-smoothing: antialiased;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree p {
                                                         margin: 1.4em 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree a {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree span {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree svg {
                                                         display: inline;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ul {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -2052,6 +1753,7 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ol {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -2082,6 +1784,7 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree li {
                                                         box-sizing: inherit;
                                                         box-shadow: none;
@@ -2112,24 +1815,31 @@
                                                         -webkit-font-smoothing: antialiased;
                                                         list-style-type: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ul:before {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ol:before {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree li:before {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ul:after {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree ol:after {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree li:after {
                                                         display: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree label {
                                                         background-attachment: scroll;
                                                         background-color: transparent;
@@ -2140,6 +1850,7 @@
                                                         float: none;
                                                         outline: none;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree button {
                                                         background-attachment: scroll;
                                                         background-color: transparent;
@@ -2152,6 +1863,7 @@
                                                         outline: none;
                                                         position: static;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree img {
                                                         border: 0;
                                                         display: inline-block;
@@ -2160,12 +1872,15 @@
                                                         outline: none;
                                                         position: static;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-tree button::-moz-focus-inner {
                                                         border: 0;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-max-width-none-important {
                                                         max-width: none !important;
                                                     }
+
                                                     #wistia_chrome_23 #wistia_grid_29_wrapper .w-css-reset-button-important {
                                                         border-radius: 0 !important;
                                                         color: #fff !important;
@@ -2174,10 +1889,18 @@
                                             </div>
                                         </div>
                                         <div id="wistia_grid_29_front"></div>
-                                        <div id="wistia_grid_29_top_inside"><div id="wistia_grid_29_top" style="height: 0px; font-size: 0px; line-height: 0px;"></div></div>
-                                        <div id="wistia_grid_29_bottom_inside"><div id="wistia_grid_29_bottom" style="height: 0px; font-size: 0px; line-height: 0px;"></div></div>
-                                        <div id="wistia_grid_29_left_inside"><div id="wistia_grid_29_left" style="height: 0px; font-size: 0px; line-height: 0px;"></div></div>
-                                        <div id="wistia_grid_29_right_inside"><div id="wistia_grid_29_right" style="height: 0px; font-size: 0px; line-height: 0px;"></div></div>
+                                        <div id="wistia_grid_29_top_inside">
+                                            <div id="wistia_grid_29_top" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
+                                        </div>
+                                        <div id="wistia_grid_29_bottom_inside">
+                                            <div id="wistia_grid_29_bottom" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
+                                        </div>
+                                        <div id="wistia_grid_29_left_inside">
+                                            <div id="wistia_grid_29_left" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
+                                        </div>
+                                        <div id="wistia_grid_29_right_inside">
+                                            <div id="wistia_grid_29_right" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
+                                        </div>
                                     </div>
                                     <div id="wistia_grid_29_below" style="height: 0px; font-size: 0px; line-height: 0px;"></div>
                                     <style id="wistia_30_style" type="text/css" class="wistia_injected_style">
@@ -2192,19 +1915,23 @@
                                             text-align: left;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_wrapper * {
                                             -moz-box-sizing: content-box;
                                             -webkit-box-sizing: content-box;
                                             box-sizing: content-box;
                                         }
+
                                         #wistia_grid_29_above {
                                             position: relative;
                                         }
+
                                         #wistia_grid_29_main {
                                             display: block;
                                             height: 100%;
                                             position: relative;
                                         }
+
                                         #wistia_grid_29_behind {
                                             height: 100%;
                                             left: 0;
@@ -2212,12 +1939,14 @@
                                             top: 0;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_center {
                                             height: 100%;
                                             overflow: hidden;
                                             position: relative;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_front {
                                             display: none;
                                             height: 100%;
@@ -2226,54 +1955,63 @@
                                             top: 0;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_top_inside {
                                             position: absolute;
                                             left: 0;
                                             top: 0;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_top {
                                             width: 100%;
                                             position: absolute;
                                             bottom: 0;
                                             left: 0;
                                         }
+
                                         #wistia_grid_29_bottom_inside {
                                             position: absolute;
                                             left: 0;
                                             bottom: 0;
                                             width: 100%;
                                         }
+
                                         #wistia_grid_29_bottom {
                                             width: 100%;
                                             position: absolute;
                                             top: 0;
                                             left: 0;
                                         }
+
                                         #wistia_grid_29_left_inside {
                                             height: 100%;
                                             position: absolute;
                                             left: 0;
                                             top: 0;
                                         }
+
                                         #wistia_grid_29_left {
                                             height: 100%;
                                             position: absolute;
                                             right: 0;
                                             top: 0;
                                         }
+
                                         #wistia_grid_29_right_inside {
                                             height: 100%;
                                             right: 0;
                                             position: absolute;
                                             top: 0;
                                         }
+
                                         #wistia_grid_29_right {
                                             height: 100%;
                                             left: 0;
                                             position: absolute;
                                             top: 0;
                                         }
+
                                         #wistia_grid_29_below {
                                             position: relative;
                                         }
@@ -2345,75 +2083,35 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-1.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-1.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="1356000928"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp" src="<?php echo asset(); ?>images/infrastructure/xoffice-1.jpg.pagespeed.ic.45YCI_xaGh.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="1356000928" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-2.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-2.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="1650500849"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp" src="<?php echo asset(); ?>images/infrastructure/xoffice-2.jpg.pagespeed.ic.k4E0fZk0ac.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="1650500849" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item active">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-3.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-3.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="1945000770"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp" src="<?php echo asset(); ?>images/infrastructure/xoffice-3.jpg.pagespeed.ic.YMzBEjMvog.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="1945000770" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-4.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-4.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="2239500691"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp" src="<?php echo asset(); ?>images/infrastructure/xoffice-4.jpg.pagespeed.ic.cP0uvA2fkQ.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2239500691" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-5.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/office-5.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="2534000612"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp" src="<?php echo asset(); ?>images/infrastructure/xoffice-5.jpg.pagespeed.ic.ohVYkteWKp.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2534000612" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -2464,15 +2162,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/infrastructure/cctv.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/infrastructure/cctv.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
-                        src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp"
-                        alt="Security &amp; Surveillance"
-                        title="Security &amp; Surveillance"
-                        class="w-100"
-                        data-pagespeed-url-hash="1790907570"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp" src="<?php echo asset(); ?>images/infrastructure/xcctv.jpg.pagespeed.ic.ZCkxPclV00.webp" alt="Security &amp; Surveillance" title="Security &amp; Surveillance" class="w-100" data-pagespeed-url-hash="1790907570" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-md-6 mobile-spacing">
@@ -2524,60 +2214,28 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-1.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-1.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="1422525150"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp" src="<?php echo asset(); ?>images/infrastructure/xdevice-1.jpg.pagespeed.ic.c4JlV_d8kq.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="1422525150" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-2.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-2.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
-                                    src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="1717025071"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp" src="<?php echo asset(); ?>images/infrastructure/xdevice-2.jpg.pagespeed.ic.XguLu_Oyd8.webp" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="1717025071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/device-3.jpg"
-                                    src="<?php echo asset(); ?>images/infrastructure/device-3.jpg"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="2011524992"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2011524992" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item active">
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-4.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-4.jpg" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/infrastructure/device-4.jpg"
-                                    src="<?php echo asset(); ?>images/infrastructure/device-4.jpg"
-                                    alt="Our Office"
-                                    title="Our Office"
-                                    class="d-block w-100"
-                                    data-pagespeed-url-hash="2306024913"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/device-4.jpg" src="<?php echo asset(); ?>images/infrastructure/device-4.jpg" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2306024913" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -2625,15 +2283,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/infrastructure/network.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/infrastructure/network.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
-                        src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp"
-                        alt="Networks &amp; Servers"
-                        title="Networks &amp; Servers"
-                        class="w-100"
-                        data-pagespeed-url-hash="3270808804"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp" src="<?php echo asset(); ?>images/infrastructure/xnetwork.jpg.pagespeed.ic.wvLq82q3_M.webp" alt="Networks &amp; Servers" title="Networks &amp; Servers" class="w-100" data-pagespeed-url-hash="3270808804" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-md-6 mobile-spacing">
@@ -2695,21 +2345,13 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -2723,21 +2365,13 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -2751,15 +2385,7 @@
                                             <picture>
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
                                                 <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

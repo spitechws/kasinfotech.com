@@ -34,10 +34,10 @@
             $data['title'] = $cms->page_title;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
-            $data['aService'] = $this->oMainModel->service_list();
-          $data['aProductList'] = $this->curlCall('product');
-          $data['aService'] = $this->curlCall('service');
-        //   debug($data['aService']);
+            $data['aProductList'] = $this->curlCall('product');
+            $data['aProductDetails'] = $this->curlCall('product/1');
+
+            $data['aServiceList'] = $this->curlCall('service');
             return $data;
         }
 

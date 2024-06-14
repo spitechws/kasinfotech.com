@@ -22,20 +22,13 @@
             <div class="col-12">
                 <div class="section-title-and-desc m-0">
                     <div class="section-title-block section-padding">
-                        <h1 class="section-title-text h1-xl m-0">Bacancy <span class="text-primary">Culture</span></h1>
+                        <h1 class="section-title-text h1-xl m-0">KAS Pvt Ltd<span class="text-primary">Culture</span></h1>
                         <p class="career__banner-subtitle h3 pb-0">Core Team will work as Scrum Team where Team will have quarterly goal to make sure that we run financial, administrative and project management prospective.</p>
                     </div>
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/bacancy-culture/banner.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/bacancy-culture/banner.jpg" type="image/jpeg" />
-                        <img
-                            data-src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
-                            src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp"
-                            alt="Bacancy Culture"
-                            title="Bacancy Culture"
-                            data-pagespeed-url-hash="1951740093"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <img data-src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" src="<?php echo asset(); ?>images/bacancy-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" alt="KAS Pvt LtdCulture" title="KAS Pvt LtdCulture" data-pagespeed-url-hash="1951740093" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                 </div>
             </div>
@@ -177,15 +170,7 @@
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/mindset.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
-                            src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp"
-                            alt="Agile Mindset"
-                            title="Agile Mindset"
-                            class="mb-lg"
-                            data-pagespeed-url-hash="304343316"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <img data-src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp" src="<?php echo asset(); ?>images/agile-mindset/xmindset.png.pagespeed.ic.N6JXAx6A1n.webp" alt="Agile Mindset" title="Agile Mindset" class="mb-lg" data-pagespeed-url-hash="304343316" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">Agile Mindset</h2>
                     <p class="small-heading" style="height: 90px;">Agile is not a principal or a method, but it’s an integral part of being Agile that is guided by principles, defined by values and manifested through various practices.</p>
@@ -197,17 +182,9 @@
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/value.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/value.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
-                            src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp"
-                            alt="Bacancy Values"
-                            title="Bacancy Values"
-                            class="mb-lg"
-                            data-pagespeed-url-hash="1588904997"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <img data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" alt="KAS Pvt LtdValues" title="KAS Pvt LtdValues" class="mb-lg" data-pagespeed-url-hash="1588904997" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
-                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">Bacancy Values</h2>
+                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Pvt LtdValues</h2>
                     <p class="small-heading" style="height: 90px;">You add value to your customer when you deliver a product or service (and the associated brand experience) that has been designed specifically to solve their problem.</p>
                     <a href="https://www.bacancytechnology.com/bacancy-values" class="text-primary font-bold">DISCOVER<span class="long-arrow-icon-css icon-item right mt-0 ml-2"></span></a>
                 </div>
@@ -255,21 +232,13 @@
                                                         <picture>
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                            <img
-                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                                src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                                alt="Top 1% IT Talent"
-                                                                title="Top 1% IT Talent"
-                                                                class="slider-img"
-                                                                data-pagespeed-url-hash="2883500071"
-                                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                            />
+                                                            <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                         </picture>
                                                     </div>
                                                     <div class="col-lg-4 offset-lg-1 col-md-8">
                                                         <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                         <p class="text-lg text-secondary">
-                                                            Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                            KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
                                                             come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                         </p>
                                                     </div>
@@ -283,21 +252,13 @@
                                                         <picture>
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                            <img
-                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                                src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                                alt="Time Zone Aligned"
-                                                                title="Time Zone Aligned"
-                                                                class="slider-img"
-                                                                data-pagespeed-url-hash="3304062408"
-                                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                            />
+                                                            <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                         </picture>
                                                     </div>
                                                     <div class="col-lg-4 offset-lg-1 col-md-8">
                                                         <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                         <p class="text-lg text-secondary">
-                                                            Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers
+                                                            Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers
                                                             from us and collaborate from far away to work according to your time zone, deadline, and milestone.
                                                         </p>
                                                     </div>
@@ -311,15 +272,7 @@
                                                         <picture>
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
                                                             <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                            <img
-                                                                data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                                src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                                alt="Experienced Team"
-                                                                title="Experienced Team"
-                                                                class="slider-img"
-                                                                data-pagespeed-url-hash="3724624745"
-                                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                            />
+                                                            <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                         </picture>
                                                     </div>
                                                     <div class="col-lg-4 offset-lg-1 col-md-8">

@@ -19,16 +19,9 @@
 <section class="header-spacing banner-main banner-post">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/ui-ux-enhancement/banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/ui-ux-enhancement/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
-                src="<?php echo asset();?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp"
-                alt="UX/UI Design and Development Services"
-                title="UX/UI Design and Development Services"
-                data-pagespeed-url-hash="3548773013"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/banner.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xbanner.jpg,qv-1.pagespeed.ic.EjFIrkaSqB.webp" alt="UX/UI Design and Development Services" title="UX/UI Design and Development Services" data-pagespeed-url-hash="3548773013" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -107,7 +100,7 @@
                             graphics to branding a well-planned and executed UI bridges the gap between stakeholder goals and user expectations.
                         </p>
                         <p>
-                            That’s where Bacancy brings the most critical aspect to deliver exceptional customer experience. Considering human behavior, we start by thinking about the user feel, ease of use, and experience to ensure
+                            That’s where KAS Pvt Ltdbrings the most critical aspect to deliver exceptional customer experience. Considering human behavior, we start by thinking about the user feel, ease of use, and experience to ensure
                             satisfaction when they interact with your product. Our skilled designers and adroit developers work closely to ensure that the entire process is perfectly structured. Throughout the UI/UX process, we work with
                             you as your co-creation partner. We are a globally renowned UX/UI design and development company, bringing simple, elegant, and worthy experiences all at the same time.
                         </p>
@@ -134,17 +127,9 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-1.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-1.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
-                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp"
-                                    alt="UI/UX Design Services"
-                                    title="UI/UX Design Services"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="3562729195"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-1.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-1.png.pagespeed.ic.aPja8I_fAU.webp" alt="UI/UX Design Services" title="UI/UX Design Services" class="lazy" data-pagespeed-url-hash="3562729195" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -162,17 +147,9 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-2.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-2.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
-                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp"
-                                    alt="Product Conceptualization"
-                                    title="Product Conceptualization"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="3857229116"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-2.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-2.png.pagespeed.ic.ZUHrGrFr--.webp" alt="Product Conceptualization" title="Product Conceptualization" class="lazy" data-pagespeed-url-hash="3857229116" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -190,17 +167,9 @@
                     <div class="row gy-4 align-items-center mb-lg small-heading" style="height: 90px;">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-3.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/ui-ux-enhancement/icon-3.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
-                                    src="<?php echo asset();?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp"
-                                    alt="UX Strategy"
-                                    title="UX Strategy"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="4151729037"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/icon-3.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xicon-3.png.pagespeed.ic.OhGzxFrIFZ.webp" alt="UX Strategy" title="UX Strategy" class="lazy" data-pagespeed-url-hash="4151729037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -220,17 +189,9 @@
 <section class="section-padding banner-post full-width-form section-paragraph pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo asset();?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                alt="Request Free Consultation / Quote in 24 Hours"
-                title="Request Free Consultation / Quote in 24 Hours"
-                class="lazy"
-                data-pagespeed-url-hash="1445677510"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Request Free Consultation / Quote in 24 Hours" title="Request Free Consultation / Quote in 24 Hours" class="lazy" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -239,7 +200,7 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Request Free Consultation / Quote in 24 Hours</h2>
-                        <p>When you work with Bacancy you’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
+                        <p>When you work with KAS Pvt Ltdyou’ll have a dedicated technical project manager, full transparency into the verified work histories of your team and see the progress of your projects all in one place.</p>
                     </div>
                 </div>
             </div>
@@ -250,16 +211,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
+                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -320,17 +272,9 @@
         <div class="row gy-4 align-items-lg-center">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-1.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
-                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp"
-                        alt="Wireframing"
-                        title="Wireframing"
-                        class="lazy"
-                        data-pagespeed-url-hash="897356357"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-1.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-1.jpg.pagespeed.ic.tE2oFCrD6n.webp" alt="Wireframing" title="Wireframing" class="lazy" data-pagespeed-url-hash="897356357" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -395,17 +339,9 @@
             </div>
             <div class="col-lg-4 col-sm-6 mx-auto d-none d-lg-flex">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-2.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
-                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp"
-                        alt="UI and UX Process"
-                        title="UI and UX Process"
-                        class="lazy"
-                        data-pagespeed-url-hash="1191958982"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-2.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-2.png.pagespeed.ic.Z-CqpYJu7V.webp" alt="UI and UX Process" title="UI and UX Process" class="lazy" data-pagespeed-url-hash="1191958982" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-4">
@@ -459,17 +395,9 @@
         <div class="row gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-3.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-3.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
-                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp"
-                        alt="UI &amp; UX Web Applications"
-                        title="UI &amp; UX Web Applications"
-                        class="lazy"
-                        data-pagespeed-url-hash="1486458903"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-3.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-3.png.pagespeed.ic.77KwNxbSTU.webp" alt="UI &amp; UX Web Applications" title="UI &amp; UX Web Applications" class="lazy" data-pagespeed-url-hash="1486458903" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -509,17 +437,9 @@
         <div class="row gy-4 gy-lg-0 align-items-lg-center flex-lg-row-reverse">
             <div class="col-lg-6 col-sm-6 mx-auto">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ui-ux-enhancement/side-4.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
-                        src="<?php echo asset();?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp"
-                        alt="UI &amp; UX for Mobile Apps"
-                        title="UI &amp; UX for Mobile Apps"
-                        class="lazy"
-                        data-pagespeed-url-hash="1780958824"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ui-ux-enhancement/side-4.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp" src="<?php echo asset(); ?>images/ui-ux-enhancement/xside-4.png.pagespeed.ic.VWwKCqIWCP.webp" alt="UI &amp; UX for Mobile Apps" title="UI &amp; UX for Mobile Apps" class="lazy" data-pagespeed-url-hash="1780958824" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -575,23 +495,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -603,23 +515,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -631,17 +535,9 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

@@ -19,14 +19,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/react-native/react-native-banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/react-native/react-native-banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/react-native/xreact-native-banner.jpg,qv-1.pagespeed.ic.f4KI0IWuVw.webp"
-                src="<?php echo asset();?>images/react-native/xreact-native-banner.jpg,qv-1.pagespeed.ic.f4KI0IWuVw.webp"
-                alt="Hire React Native Developers"
-                title="Hire React Native Developers"
-            />
+            <source srcset="<?php echo asset(); ?>images/react-native/react-native-banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/react-native/react-native-banner.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/react-native/xreact-native-banner.jpg,qv-1.pagespeed.ic.f4KI0IWuVw.webp" src="<?php echo asset(); ?>images/react-native/xreact-native-banner.jpg,qv-1.pagespeed.ic.f4KI0IWuVw.webp" alt="Hire React Native Developers" title="Hire React Native Developers" />
         </picture>
     </figure>
     <div class="container">
@@ -60,13 +55,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/mobile-app.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-flutter-developer/mobile-app.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/hire-flutter-developer/xmobile-app.png,qv-1.pagespeed.ic.z_Bbuudo7P.webp"
-                                        src="<?php echo asset();?>images/hire-flutter-developer/xmobile-app.png,qv-1.pagespeed.ic.z_Bbuudo7P.webp"
-                                        alt="icon"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/mobile-app.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-flutter-developer/mobile-app.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/hire-flutter-developer/xmobile-app.png,qv-1.pagespeed.ic.z_Bbuudo7P.webp" src="<?php echo asset(); ?>images/hire-flutter-developer/xmobile-app.png,qv-1.pagespeed.ic.z_Bbuudo7P.webp" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -78,13 +69,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp"
-                                        src="<?php echo asset();?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp"
-                                        alt="icon"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -96,13 +83,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/privacy.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/privacy.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xprivacy.png,qv-1.pagespeed.ic.FMkwpHbB_n.webp"
-                                        src="<?php echo asset();?>images/react-native/xprivacy.png,qv-1.pagespeed.ic.FMkwpHbB_n.webp"
-                                        alt="icon"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/privacy.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/privacy.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xprivacy.png,qv-1.pagespeed.ic.FMkwpHbB_n.webp" src="<?php echo asset(); ?>images/react-native/xprivacy.png,qv-1.pagespeed.ic.FMkwpHbB_n.webp" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -114,14 +97,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/react-native/react-banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/react-native/react-banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/react-native/xreact-banner-side.png.pagespeed.ic.W4J6duWmON.webp"
-                        src="<?php echo asset();?>images/react-native/xreact-banner-side.png.pagespeed.ic.W4J6duWmON.webp"
-                        alt="Hire React Native Developers"
-                        title="Hire React Native Developers"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/react-native/react-banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/react-native/react-banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/react-native/xreact-banner-side.png.pagespeed.ic.W4J6duWmON.webp" src="<?php echo asset(); ?>images/react-native/xreact-banner-side.png.pagespeed.ic.W4J6duWmON.webp" alt="Hire React Native Developers" title="Hire React Native Developers" />
                 </picture>
             </div>
         </div>
@@ -204,7 +182,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire React Native Developers to Execute Your Vision with Clarity</h2>
                         <p class="m-0">
-                            <b>Hire React Native developers</b> from Bacancy to build unparalleled mobile solutions with clear insights into your business needs. We have a team of experienced and certified React Native developers with
+                            <b>Hire React Native developers</b> from KAS Pvt Ltdto build unparalleled mobile solutions with clear insights into your business needs. We have a team of experienced and certified React Native developers with
                             profound knowledge and expertise in creating tailored solutions adhering to all industries' requirements and standards. Hire dedicated React Native developers from us to experience supreme performance at an
                             optimum level.
                         </p>
@@ -229,14 +207,9 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                alt="Hire React Native Developers"
-                                title="Hire React Native Developers"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="Hire React Native Developers" title="Hire React Native Developers" />
                         </picture>
                     </div>
                 </div>
@@ -332,13 +305,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                        />
+                                        <img src="images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2800
                                         </h3>
@@ -424,15 +391,9 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
                         </div>
@@ -468,28 +429,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-2.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-2.png.pagespeed.ic.y49lA8--T1.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-2.png.pagespeed.ic.y49lA8--T1.webp"
-                                                    alt="React Native + Typescript"
-                                                    title="React Native + Typescript"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-2.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-2.png.pagespeed.ic.y49lA8--T1.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-2.png.pagespeed.ic.y49lA8--T1.webp" alt="React Native + Typescript" title="React Native + Typescript" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -505,28 +454,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-3.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-3.png.pagespeed.ic.fzoLhzrK2B.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-3.png.pagespeed.ic.fzoLhzrK2B.webp"
-                                                    alt="React Native + Expo"
-                                                    title="React Native + Expo"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-3.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-3.png.pagespeed.ic.fzoLhzrK2B.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-3.png.pagespeed.ic.fzoLhzrK2B.webp" alt="React Native + Expo" title="React Native + Expo" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -542,28 +479,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-4.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-4.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-4.png.pagespeed.ic.KiEZU0b2vc.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-4.png.pagespeed.ic.KiEZU0b2vc.webp"
-                                                    alt="React Native + Redux"
-                                                    title="React Native + Redux"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-4.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-4.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-4.png.pagespeed.ic.KiEZU0b2vc.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-4.png.pagespeed.ic.KiEZU0b2vc.webp" alt="React Native + Redux" title="React Native + Redux" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -578,28 +503,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-5.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-5.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-5.png.pagespeed.ic.Eb6lzLJk1Z.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-5.png.pagespeed.ic.Eb6lzLJk1Z.webp"
-                                                    alt="React Native + Firebase"
-                                                    title="React Native + Firebase"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-5.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-5.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-5.png.pagespeed.ic.Eb6lzLJk1Z.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-5.png.pagespeed.ic.Eb6lzLJk1Z.webp" alt="React Native + Firebase" title="React Native + Firebase" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -612,28 +525,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-6.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-6.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-6.png.pagespeed.ic.lPW_KI73Nl.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-6.png.pagespeed.ic.lPW_KI73Nl.webp"
-                                                    alt="React Native + MongoDB"
-                                                    title="React Native + MongoDB"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-6.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-6.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-6.png.pagespeed.ic.lPW_KI73Nl.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-6.png.pagespeed.ic.lPW_KI73Nl.webp" alt="React Native + MongoDB" title="React Native + MongoDB" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -648,28 +549,16 @@
                                     <div class="d-flex">
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-1.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp"
-                                                    alt="React Native Combinations"
-                                                    title="React Native Combinations"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-1.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-1.png.pagespeed.ic.Eo0B86U-8F.webp" alt="React Native Combinations" title="React Native Combinations" class="w-auto" />
                                             </picture>
                                         </div>
                                         <div class="align-items-center d-flex justify-content-center mb-sm mr-3">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-7.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/react-native/small-icon-7.png" type="image/png" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/react-native/xsmall-icon-7.png.pagespeed.ic.TjISlMnT2U.webp"
-                                                    src="<?php echo asset();?>images/react-native/xsmall-icon-7.png.pagespeed.ic.TjISlMnT2U.webp"
-                                                    alt="React Native + MYSQL"
-                                                    title="React Native + MYSQL"
-                                                    class="w-auto"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-7.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/react-native/small-icon-7.png" type="image/png" />
+                                                <img data-src="<?php echo asset(); ?>images/react-native/xsmall-icon-7.png.pagespeed.ic.TjISlMnT2U.webp" src="<?php echo asset(); ?>images/react-native/xsmall-icon-7.png.pagespeed.ic.TjISlMnT2U.webp" alt="React Native + MYSQL" title="React Native + MYSQL" class="w-auto" />
                                             </picture>
                                         </div>
                                     </div>
@@ -720,15 +609,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        alt="Academy Sports &amp; Outdoors"
-                                                        title="Academy Sports &amp; Outdoors"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" alt="Academy Sports &amp; Outdoors" title="Academy Sports &amp; Outdoors" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -776,15 +659,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp"
-                                                        src="<?php echo asset();?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp"
-                                                        alt="Homee App"
-                                                        title="Homee App"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp" src="<?php echo asset(); ?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp" alt="Homee App" title="Homee App" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -833,15 +710,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native-app-development/case-study-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native-app-development/case-study-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp"
-                                                        src="<?php echo asset();?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp"
-                                                        alt="Hormo well"
-                                                        title="Hormo well"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native-app-development/case-study-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native-app-development/case-study-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp" src="<?php echo asset(); ?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp" alt="Hormo well" title="Hormo well" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -889,15 +760,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        alt="Academy Sports &amp; Outdoors"
-                                                        title="Academy Sports &amp; Outdoors"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" alt="Academy Sports &amp; Outdoors" title="Academy Sports &amp; Outdoors" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -945,15 +810,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp"
-                                                        src="<?php echo asset();?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp"
-                                                        alt="Homee App"
-                                                        title="Homee App"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp" src="<?php echo asset(); ?>images/react-native/xcs-1.jpg,qv-4.pagespeed.ic.DNGruDdVzY.webp" alt="Homee App" title="Homee App" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -1002,15 +861,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native-app-development/case-study-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native-app-development/case-study-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp"
-                                                        src="<?php echo asset();?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp"
-                                                        alt="Hormo well"
-                                                        title="Hormo well"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native-app-development/case-study-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native-app-development/case-study-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp" src="<?php echo asset(); ?>images/react-native-app-development/xcase-study-1.jpg,qv-4.pagespeed.ic.4J2wG-Fo4P.webp" alt="Hormo well" title="Hormo well" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -1058,15 +911,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 548px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        src="<?php echo asset();?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp"
-                                                        alt="Academy Sports &amp; Outdoors"
-                                                        title="Academy Sports &amp; Outdoors"
-                                                        class="lazy ob-cover"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/react-native/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" src="<?php echo asset(); ?>images/react-native/xcs-3.jpg,qv-4.pagespeed.ic.3Yki9SSwHO.webp" alt="Academy Sports &amp; Outdoors" title="Academy Sports &amp; Outdoors" class="lazy ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 548px;">
@@ -1233,15 +1080,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-1.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-1.png,qv1.pagespeed.ic.nCtgJU-1DE.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-1.png,qv1.pagespeed.ic.nCtgJU-1DE.webp"
-                                        alt="Healthcare"
-                                        title="Healthcare"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-1.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-1.png,qv1.pagespeed.ic.nCtgJU-1DE.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-1.png,qv1.pagespeed.ic.nCtgJU-1DE.webp" alt="Healthcare" title="Healthcare" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1253,15 +1094,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-2.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-2.png,qv1.pagespeed.ic.Qzve8aNL_e.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-2.png,qv1.pagespeed.ic.Qzve8aNL_e.webp"
-                                        alt="Logistics"
-                                        title="Logistics"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-2.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-2.png,qv1.pagespeed.ic.Qzve8aNL_e.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-2.png,qv1.pagespeed.ic.Qzve8aNL_e.webp" alt="Logistics" title="Logistics" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1273,15 +1108,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-3.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-3.png,qv1.pagespeed.ic.p-G1hbitqg.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-3.png,qv1.pagespeed.ic.p-G1hbitqg.webp"
-                                        alt="Education"
-                                        title="Education"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-3.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-3.png,qv1.pagespeed.ic.p-G1hbitqg.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-3.png,qv1.pagespeed.ic.p-G1hbitqg.webp" alt="Education" title="Education" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1293,15 +1122,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-4.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-4.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-4.png,qv1.pagespeed.ic.InWbcSUHR9.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-4.png,qv1.pagespeed.ic.InWbcSUHR9.webp"
-                                        alt="e-Commerce"
-                                        title="e-Commerce"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-4.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-4.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-4.png,qv1.pagespeed.ic.InWbcSUHR9.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-4.png,qv1.pagespeed.ic.InWbcSUHR9.webp" alt="e-Commerce" title="e-Commerce" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1313,15 +1136,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-5.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-5.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-5.png,qv1.pagespeed.ic.RqRx6uxWM0.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-5.png,qv1.pagespeed.ic.RqRx6uxWM0.webp"
-                                        alt="Finance"
-                                        title="Finance"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-5.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-5.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-5.png,qv1.pagespeed.ic.RqRx6uxWM0.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-5.png,qv1.pagespeed.ic.RqRx6uxWM0.webp" alt="Finance" title="Finance" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1333,15 +1150,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-6.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-6.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-6.png,qv1.pagespeed.ic.a2RwXQIrRQ.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-6.png,qv1.pagespeed.ic.a2RwXQIrRQ.webp"
-                                        alt="Wellness and Fitness"
-                                        title="Wellness and Fitness"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-6.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-6.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-6.png,qv1.pagespeed.ic.a2RwXQIrRQ.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-6.png,qv1.pagespeed.ic.a2RwXQIrRQ.webp" alt="Wellness and Fitness" title="Wellness and Fitness" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1353,15 +1164,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-7.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-7.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-7.png,qv1.pagespeed.ic.jy-g-8_a0B.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-7.png,qv1.pagespeed.ic.jy-g-8_a0B.webp"
-                                        alt="Social Media"
-                                        title="Social Media"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-7.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-7.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-7.png,qv1.pagespeed.ic.jy-g-8_a0B.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-7.png,qv1.pagespeed.ic.jy-g-8_a0B.webp" alt="Social Media" title="Social Media" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1373,15 +1178,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-8.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-8.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-8.png,qv1.pagespeed.ic.7pSTDMhm4q.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-8.png,qv1.pagespeed.ic.7pSTDMhm4q.webp"
-                                        alt="Food &amp; Restaurant"
-                                        title="Food &amp; Restaurant"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-8.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-8.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-8.png,qv1.pagespeed.ic.7pSTDMhm4q.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-8.png,qv1.pagespeed.ic.7pSTDMhm4q.webp" alt="Food &amp; Restaurant" title="Food &amp; Restaurant" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1393,15 +1192,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-9.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-9.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-9.png,qv1.pagespeed.ic.tgwj89lUF-.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-9.png,qv1.pagespeed.ic.tgwj89lUF-.webp"
-                                        alt="Sports"
-                                        title="Sports"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-9.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-9.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-9.png,qv1.pagespeed.ic.tgwj89lUF-.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-9.png,qv1.pagespeed.ic.tgwj89lUF-.webp" alt="Sports" title="Sports" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1413,15 +1206,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-10.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-10.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-10.png,qv1.pagespeed.ic.e-0IOrz71i.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-10.png,qv1.pagespeed.ic.e-0IOrz71i.webp"
-                                        alt="Real Estate"
-                                        title="Real Estate"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-10.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-10.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-10.png,qv1.pagespeed.ic.e-0IOrz71i.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-10.png,qv1.pagespeed.ic.e-0IOrz71i.webp" alt="Real Estate" title="Real Estate" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1433,15 +1220,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-11.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-11.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-11.png,qv1.pagespeed.ic.p2VXPwSeZk.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-11.png,qv1.pagespeed.ic.p2VXPwSeZk.webp"
-                                        alt="Construction"
-                                        title="Construction"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-11.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-11.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-11.png,qv1.pagespeed.ic.p2VXPwSeZk.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-11.png,qv1.pagespeed.ic.p2VXPwSeZk.webp" alt="Construction" title="Construction" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1453,15 +1234,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-12.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/react-native/ind-ico-12.png?v1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/react-native/xind-ico-12.png,qv1.pagespeed.ic.0g6xFQolKx.webp"
-                                        src="<?php echo asset();?>images/react-native/xind-ico-12.png,qv1.pagespeed.ic.0g6xFQolKx.webp"
-                                        alt="Construction"
-                                        title="Construction"
-                                        class="lazy mb-0"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-12.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/react-native/ind-ico-12.png?v1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/react-native/xind-ico-12.png,qv1.pagespeed.ic.0g6xFQolKx.webp" src="<?php echo asset(); ?>images/react-native/xind-ico-12.png,qv1.pagespeed.ic.0g6xFQolKx.webp" alt="Construction" title="Construction" class="lazy mb-0" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -1479,15 +1254,9 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        alt="Hire Dedicated React Native Developers"
-                        title="Hire Dedicated React Native Developers"
-                        class="lazy"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" alt="Hire Dedicated React Native Developers" title="Hire Dedicated React Native Developers" class="lazy" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1622,7 +1391,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
+                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
                                     help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>
@@ -1712,21 +1481,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1738,21 +1501,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -1764,15 +1521,9 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">

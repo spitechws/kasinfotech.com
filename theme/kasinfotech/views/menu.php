@@ -16,8 +16,8 @@
                     }
                 </style>
                 <a class="navbar-brand" href="<?php echo base_url(); ?>">
-                    <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS PVT LTD " title="KAS PVT LTD " class="logo-img logo-black">
-                    <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS PVT LTD " title="KAS PVT LTD " class="logo-img logo-white">
+                    <img src="<?php echo asset('images/logo-black.png'); ?>" alt="KAS Pvt Ltd " title="KAS Pvt Ltd " class="logo-img logo-black">
+                    <img src="<?php echo asset('images/logo-white.png'); ?>" alt="KAS Pvt Ltd " title="KAS Pvt Ltd " class="logo-img logo-white">
                 </a>
                 <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
                     <ul class="navbar-nav mr-auto navbar-nav-destop">
@@ -50,16 +50,12 @@
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
                                         <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Experience</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Digital Workplace Services</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Product Enhancement</a>
-                                            <p class="dropdown-item nav-link font-semibold">Insights</p>
-
-
-                                            <p class="dropdown-item nav-link font-semibold">SAP Solutions</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">SAP Consultation</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('services') ?>">Services</a>
+                                            <p class="dropdown-item nav-link font-semibold">What We Offer</p>
+                                            <?php foreach ($aServiceList->data as $row) : ?>
+                                                <a class="dropdown-item nav-link p text-secondary" href="#"><?php echo $row->service_name; ?></a>
+                                            <?php endforeach; ?>
                                         </div>
+
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">Innovate</p>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-rpa-developer') ?>">Robotic Process Automation</a>
@@ -83,14 +79,18 @@
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Quality Assurance </a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('it-staff-augmentation-services') ?>">IT Staff Augmentation </a>
                                         </div>
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">What We Offer</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Website Development</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Android App Development</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">Digital Marketing</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">Customize Software Development</a>
-                                        </div>
 
+                                        <div class="col-lg-2">
+                                            <p class="dropdown-item nav-link font-semibold">Experience</p>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Digital Workplace Services</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Product Enhancement</a>
+                                            <p class="dropdown-item nav-link font-semibold">Insights</p>
+
+
+                                            <p class="dropdown-item nav-link font-semibold">SAP Solutions</p>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">SAP Consultation</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('services') ?>">Services</a>
+                                        </div>
                                     </div>
                                 </div>
                                 <?php require('menu_contact_info.php'); ?>
@@ -102,17 +102,10 @@
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
                                         <div class="col-lg-2">
-
-
-
                                             <p class="dropdown-item nav-link font-semibold">Our Star Products</p>
-
                                             <?php foreach ($aProductList->data as $product) : ?>
-
                                                 <a class="dropdown-item nav-link p text-secondary" href="#"><?php echo $product->product_name; ?></a>
-
                                             <?php endforeach; ?>
-
                                         </div>
                                     </div>
                                     <?php require('menu_contact_info.php'); ?>
@@ -139,7 +132,7 @@
                                             <div class="img-text position-relative">
                                                 <picture>
                                                     <source srcset="<?php echo asset('images/www-img.webp'); ?>" type="image/webp">
-                                                    <source srcset="images/www-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" src="images/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
+                                                    <source srcset="images/www-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" src="images/xwww-img.jpg.pagespeed.ic.-yjcivKMWc.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
                                                 </picture>
                                                 <div class="img-text-inner">
                                                     <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>
@@ -160,8 +153,8 @@
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">Culture</p>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('agile-mindset') ?>">Agile Mindset</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS PVT LTD Values</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS PVT LTD Culture</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS Pvt Ltd Values</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS Pvt Ltd Culture</a>
                                         </div>
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">About Company</p>
@@ -182,7 +175,7 @@
                                                     <figure class="banner-post-img">
                                                         <picture>
                                                             <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
-                                                            <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
+                                                            <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
                                                         </picture>
                                                     </figure>
                                                     <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
@@ -193,7 +186,7 @@
                                                         </div>
                                                         <picture>
                                                             <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
-                                                            <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS PVT LTD  Great Place to Work" title="KAS PVT LTD  Great Place to Work">
+                                                            <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
                                                         </picture>
                                                     </div>
                                                 </a>
@@ -249,7 +242,7 @@
                                                 <figure class="banner-post-img">
                                                     <picture>
                                                         <source srcset="<?php echo asset('images/banner.webp'); ?>" type="image/webp">
-                                                        <source srcset="images/banner.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" src="images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" alt="KAS PVT LTD " title="KAS PVT LTD ">
+                                                        <source srcset="images/banner.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" src="images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
                                                     </picture>
                                                 </figure>
                                                 <div class="img-text-inner img-text-trans-none">

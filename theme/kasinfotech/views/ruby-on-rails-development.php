@@ -20,16 +20,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                alt="Hire Ruby on Rails Developer"
-                title="Hire Ruby on Rails Developer"
-                data-pagespeed-url-hash="3945081738"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" alt="Hire Ruby on Rails Developer" title="Hire Ruby on Rails Developer" data-pagespeed-url-hash="3945081738" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -62,15 +55,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="875612233"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" alt="icon" data-pagespeed-url-hash="875612233" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -82,15 +69,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA=="
-                                        src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1296174570"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-2.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA==" src="data:image/webp;base64,UklGRrgBAABXRUJQVlA4TKsBAAAvLUALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbAoJsW3GiB3QwYkscGB7i/jca/k9kBRH9nwCcGbgvBpPmAddJPMevOcxD4PIL5wffB7X53+7M3zFX+Pnim3l4s/ZWuB1xhT/edK7w55vGFU64KTxnbAq0GRZN19W4eOv92nQJak3qkG3UBFVXPA3UvkpZlaWIozYJ7IpO8QnxuYzgqpAVT6EaIbK4EVaBTqLYMV5JFjNCEu4j/xAqxp37lxl1oVwtcMuU48iVAT8jI5B8OGqXEdB2HmJTMKj8ZPascJY/K07WVFWznpVVZn1L7SRHOXoAWARa4d5aa06IQjMYJyEKekuxQ7wL9CN7uVwuwkMykpWK2y3cp8GdYoQyCiwOgOkhhOB2/5SdxkosV2jtg3LDOWT+mpHbqI2qoCL5+ty2T+ZBqzDlyLlBsXDGpECcoDoN4s+qgz6STCGdESPJ6nA0tgVAT0eiBWxIDqe7e5VaN5hwFarBlFaImPQ58rO4MMSpAA==" alt="icon" data-pagespeed-url-hash="1296174570" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -102,15 +83,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
-                                        src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1716736907"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA" src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA" alt="icon" data-pagespeed-url-hash="1716736907" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -122,16 +97,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp"
-                        src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp"
-                        alt="Hire Ruby on Rails Developer"
-                        title="Hire Ruby on Rails Developer"
-                        data-pagespeed-url-hash="3041805025"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp" alt="Hire Ruby on Rails Developer" title="Hire Ruby on Rails Developer" data-pagespeed-url-hash="3041805025" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -193,14 +161,7 @@
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
                             <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
@@ -221,7 +182,7 @@
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1 mb-lg">Hire Dedicated Ruby on Rails Developer with Most Relevant Experience to Keep Your Project Schedule Up-to-Date</h2>
                         <p>
-                            If you are looking for the best Ruby on Rails development expertise in the industry, then Bacancy is a one-stop solution for hiring Ruby on Rails developers. We have industry’s best full-stack RoR developers
+                            If you are looking for the best Ruby on Rails development expertise in the industry, then KAS Pvt Ltdis a one-stop solution for hiring Ruby on Rails developers. We have industry’s best full-stack RoR developers
                             whose expertise can be leveraged to reduce IT expenses, avoid costly development mistakes and build feature-rich RoR products. Our dedicated Ruby on Rails programmers firmly believes in adding value to your
                             project with our result-oriented software development services. <b>Hire Ruby on Rails developer</b> from us to improve your Ruby on Rails performance, implement the best RoR gems and experience the sheer
                             excellence of your ROR application.
@@ -323,17 +284,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        alt="PharmaPlace"
-                                                        title="PharmaPlace"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2884256833"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -381,17 +334,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp"
-                                                        alt="Merchinator"
-                                                        title="Merchinator"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3304819170"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" alt="Merchinator" title="Merchinator" class="lazy ob-cover" data-pagespeed-url-hash="3304819170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -439,17 +384,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp"
-                                                        alt="Swiggy"
-                                                        title="Swiggy"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2463694496"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" alt="Swiggy" title="Swiggy" class="lazy ob-cover" data-pagespeed-url-hash="2463694496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -497,17 +434,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        alt="PharmaPlace"
-                                                        title="PharmaPlace"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2884256833"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -555,17 +484,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp"
-                                                        alt="Merchinator"
-                                                        title="Merchinator"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3304819170"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" alt="Merchinator" title="Merchinator" class="lazy ob-cover" data-pagespeed-url-hash="3304819170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -613,17 +534,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp"
-                                                        alt="Swiggy"
-                                                        title="Swiggy"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2463694496"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" alt="Swiggy" title="Swiggy" class="lazy ob-cover" data-pagespeed-url-hash="2463694496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -671,17 +584,9 @@
                                         <div class="row gx-lg-0 posation-relative section-paragraph">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        src="<?php echo asset();?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp"
-                                                        alt="PharmaPlace"
-                                                        title="PharmaPlace"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2884256833"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -756,30 +661,14 @@
                                 <div class="item boxed bg-graylight">
                                     <div class="d-flex">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                alt="RoR Combinations"
-                                                title="RoR Combinations"
-                                                class="mr-3 mb-sm w-auto"
-                                                data-pagespeed-url-hash="4183821926"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" alt="RoR Combinations" title="RoR Combinations" class="mr-3 mb-sm w-auto" data-pagespeed-url-hash="4183821926" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/react-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/react-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xreact-icon.png.pagespeed.ic.Wi1MK9rfcR.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xreact-icon.png.pagespeed.ic.Wi1MK9rfcR.webp"
-                                                alt="Ruby on Rails with React"
-                                                title="Ruby on Rails with React"
-                                                class="mb-sm w-auto"
-                                                data-pagespeed-url-hash="2024661552"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/react-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/react-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xreact-icon.png.pagespeed.ic.Wi1MK9rfcR.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xreact-icon.png.pagespeed.ic.Wi1MK9rfcR.webp" alt="Ruby on Rails with React" title="Ruby on Rails with React" class="mb-sm w-auto" data-pagespeed-url-hash="2024661552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </div>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Ruby on Rails with React</h3>
@@ -793,30 +682,14 @@
                                 <div class="item boxed bg-graylight">
                                     <div class="d-flex">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                alt="RoR Combinations"
-                                                title="RoR Combinations"
-                                                class="mr-3 mb-sm w-auto"
-                                                data-pagespeed-url-hash="4183821926"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" alt="RoR Combinations" title="RoR Combinations" class="mr-3 mb-sm w-auto" data-pagespeed-url-hash="4183821926" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/angular-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/angular-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xangular-icon.png.pagespeed.ic.BKKtZUpmMh.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xangular-icon.png.pagespeed.ic.BKKtZUpmMh.webp"
-                                                alt="Ruby on Rails with Angular"
-                                                title="Ruby on Rails with Angular"
-                                                class="mb-sm w-auto"
-                                                data-pagespeed-url-hash="353526137"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/angular-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/angular-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xangular-icon.png.pagespeed.ic.BKKtZUpmMh.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xangular-icon.png.pagespeed.ic.BKKtZUpmMh.webp" alt="Ruby on Rails with Angular" title="Ruby on Rails with Angular" class="mb-sm w-auto" data-pagespeed-url-hash="353526137" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </div>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Ruby on Rails with Angular</h3>
@@ -830,30 +703,14 @@
                                 <div class="item boxed bg-graylight">
                                     <div class="d-flex">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                alt="RoR Combinations"
-                                                title="RoR Combinations"
-                                                class="mr-3 mb-sm w-auto"
-                                                data-pagespeed-url-hash="4183821926"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" alt="RoR Combinations" title="RoR Combinations" class="mr-3 mb-sm w-auto" data-pagespeed-url-hash="4183821926" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/vue-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/vue-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xvue-icon.png.pagespeed.ic.aapXcCl-k7.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xvue-icon.png.pagespeed.ic.aapXcCl-k7.webp"
-                                                alt="Ruby on Rails with Vue"
-                                                title="Ruby on Rails with Vue"
-                                                class="mb-sm w-auto"
-                                                data-pagespeed-url-hash="462926913"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/vue-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/vue-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xvue-icon.png.pagespeed.ic.aapXcCl-k7.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xvue-icon.png.pagespeed.ic.aapXcCl-k7.webp" alt="Ruby on Rails with Vue" title="Ruby on Rails with Vue" class="mb-sm w-auto" data-pagespeed-url-hash="462926913" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </div>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Ruby on Rails with Vue</h3>
@@ -867,30 +724,14 @@
                                 <div class="item boxed bg-graylight">
                                     <div class="d-flex">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                alt="RoR Combinations"
-                                                title="RoR Combinations"
-                                                class="mr-3 mb-sm w-auto"
-                                                data-pagespeed-url-hash="4183821926"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" alt="RoR Combinations" title="RoR Combinations" class="mr-3 mb-sm w-auto" data-pagespeed-url-hash="4183821926" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/docker-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/docker-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xdocker-icon.png.pagespeed.ic.0fbvrvpoYK.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xdocker-icon.png.pagespeed.ic.0fbvrvpoYK.webp"
-                                                alt="Ruby on Rails with Docker"
-                                                title="Ruby on Rails with Docker"
-                                                class="mb-sm w-auto"
-                                                data-pagespeed-url-hash="1481628119"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/docker-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/docker-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xdocker-icon.png.pagespeed.ic.0fbvrvpoYK.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xdocker-icon.png.pagespeed.ic.0fbvrvpoYK.webp" alt="Ruby on Rails with Docker" title="Ruby on Rails with Docker" class="mb-sm w-auto" data-pagespeed-url-hash="1481628119" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </div>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Ruby on Rails with Docker</h3>
@@ -904,30 +745,14 @@
                                 <div class="item boxed bg-graylight">
                                     <div class="d-flex">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp"
-                                                alt="RoR Combinations"
-                                                title="RoR Combinations"
-                                                class="mr-3 mb-sm w-auto"
-                                                data-pagespeed-url-hash="4183821926"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/ror-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xror-icon.png.pagespeed.ic.ue8bhLl9V-.webp" alt="RoR Combinations" title="RoR Combinations" class="mr-3 mb-sm w-auto" data-pagespeed-url-hash="4183821926" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/mongodb-icon.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/mongodb-icon.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xmongodb-icon.png.pagespeed.ic.vYpnjoeRSi.webp"
-                                                src="<?php echo asset();?>images/ruby-on-rails-development/xmongodb-icon.png.pagespeed.ic.vYpnjoeRSi.webp"
-                                                alt="Ruby on Rails with MongoDB"
-                                                title="Ruby on Rails with MongoDB"
-                                                class="mb-sm w-auto"
-                                                data-pagespeed-url-hash="1497592137"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/mongodb-icon.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/mongodb-icon.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xmongodb-icon.png.pagespeed.ic.vYpnjoeRSi.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xmongodb-icon.png.pagespeed.ic.vYpnjoeRSi.webp" alt="Ruby on Rails with MongoDB" title="Ruby on Rails with MongoDB" class="mb-sm w-auto" data-pagespeed-url-hash="1497592137" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </div>
                                     <h3 class="h5 font-bold small-heading mb-sm" style="height: 31.5px;">Ruby on Rails with MongoDB</h3>
@@ -984,15 +809,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="<?php echo asset(); ?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $3500
                                         </h3>
@@ -1078,17 +895,9 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
                         </div>
@@ -1289,17 +1098,9 @@
         <div class="row gy-4 align-items-lg-center section-paragraph">
             <div class="col-lg-5 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/verson-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/verson-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xverson-img.png.pagespeed.ic.c-T8949DX-.webp"
-                        src="<?php echo asset();?>images/ruby-on-rails-development/xverson-img.png.pagespeed.ic.c-T8949DX-.webp"
-                        alt="Ruby on Rails Upgrade Service"
-                        title="Ruby on Rails Upgrade Service"
-                        class="lazy w-100"
-                        data-pagespeed-url-hash="3399125902"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/verson-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/verson-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xverson-img.png.pagespeed.ic.c-T8949DX-.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xverson-img.png.pagespeed.ic.c-T8949DX-.webp" alt="Ruby on Rails Upgrade Service" title="Ruby on Rails Upgrade Service" class="lazy w-100" data-pagespeed-url-hash="3399125902" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-7">
@@ -1341,17 +1142,9 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xcs-sec-img.png.pagespeed.ic.gjiG3cFIHr.webp"
-                        src="<?php echo asset();?>images/ruby-on-rails-development/xcs-sec-img.png.pagespeed.ic.gjiG3cFIHr.webp"
-                        alt="Work with Early Adopters and Now Field-Proven RoR Developers"
-                        title="Work with Early Adopters and Now Field-Proven RoR Developers"
-                        class="lazy"
-                        data-pagespeed-url-hash="2921094307"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xcs-sec-img.png.pagespeed.ic.gjiG3cFIHr.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xcs-sec-img.png.pagespeed.ic.gjiG3cFIHr.webp" alt="Work with Early Adopters and Now Field-Proven RoR Developers" title="Work with Early Adopters and Now Field-Proven RoR Developers" class="lazy" data-pagespeed-url-hash="2921094307" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1365,7 +1158,7 @@
                     developers and programmers have well-proven expertise in building next-gen software solutions.
                 </p>
                 <p>
-                    Bacancy is a top-notch <a href="https://www.bacancytechnology.com/ruby-on-rails-development-company" class="text-primary font-bold">Ruby on Rails development company</a> renowned for offering best-in-class rails product
+                    KAS Pvt Ltdis a top-notch <a href="https://www.bacancytechnology.com/ruby-on-rails-development-company" class="text-primary font-bold">Ruby on Rails development company</a> renowned for offering best-in-class rails product
                     development services to businesses to meet the growing demand for data-driven and highly efficient web-based applications. Our RoR expertise and skills are nothing but an outcome of our vast experience working on
                     world-class RoR products. Contact with us today to hire senior Ruby on Rails developer from us to fulfill your business requirements for result-oriented RoR web app development.
                 </p>
@@ -1489,7 +1282,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
+                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
                                 of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                             </p>
                         </div>
@@ -1556,17 +1349,9 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-1.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp"
-                                alt="Why Build Real Estate App With Ruby on Rails: In-depth Justification"
-                                title="Why Build Real Estate App With Ruby on Rails: In-depth Justification"
-                                class="lazy"
-                                data-pagespeed-url-hash="749204789"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-1.jpeg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp" alt="Why Build Real Estate App With Ruby on Rails: In-depth Justification" title="Why Build Real Estate App With Ruby on Rails: In-depth Justification" class="lazy" data-pagespeed-url-hash="749204789" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1578,17 +1363,9 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-2.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp"
-                                alt="How to Use Hotwire Rails: Getting Started Tutorial"
-                                title="How to Use Hotwire Rails: Getting Started Tutorial"
-                                class="lazy"
-                                data-pagespeed-url-hash="8296088"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-2.jpeg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp" alt="How to Use Hotwire Rails: Getting Started Tutorial" title="How to Use Hotwire Rails: Getting Started Tutorial" class="lazy" data-pagespeed-url-hash="8296088" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1600,17 +1377,9 @@
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-3.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp"
-                                alt="How to Reduce Ruby on Rails Maintenance Cost?"
-                                title="How to Reduce Ruby on Rails Maintenance Cost?"
-                                class="lazy"
-                                data-pagespeed-url-hash="3562354683"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/blog-3.jpeg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp" alt="How to Reduce Ruby on Rails Maintenance Cost?" title="How to Reduce Ruby on Rails Maintenance Cost?" class="lazy" data-pagespeed-url-hash="3562354683" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
@@ -1656,23 +1425,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1684,23 +1445,15 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>
@@ -1712,17 +1465,9 @@
                                     <div class="row align-items-center">
                                         <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
                                             <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                             </picture>
                                         </div>
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
