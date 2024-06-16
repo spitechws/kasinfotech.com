@@ -122,12 +122,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Golang Developer</li>
                     </ol>
@@ -187,7 +187,7 @@
                         <h2 class="section-title-text h1">Golang Web Developers For Unmatched Backend Solution Services</h2>
                         <p>
                             Our experienced Golang web developers are proficient in building exceptional apps with features that define your brand and boost efficiency. Hire dedicated Golang developers from us to get high-performing
-                            backend applications. As a leading <a href="https://www.bacancytechnology.com/golang-development" class="text-primary font-bold">Golang development company</a>, our next-gen Golang app development solutions
+                            backend applications. As a leading <a href="https://www.kasinfotech.com/golang-development" class="text-primary font-bold">Golang development company</a>, our next-gen Golang app development solutions
                             help you realize your business potential and achieve magnificent results.
                         </p>
                     </div>
@@ -367,7 +367,7 @@
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -936,16 +936,16 @@
                             <p itemprop="text">
                                 We have simple and transparent pricing. We let you hire experienced Golang developers at a rate of $20 per hour with an average experience of 3+ years. However, the cost may vary depending on your query
                                 and the expertise of our developer. If you want to hire a team of Golang developers, we have customized rates for you; please
-                                <a href="https://www.bacancytechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
+                                <a href="https://www.kasinfotech.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                            <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Golang developers from Bacancy.</p>
+                            <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Golang developers from kasinfotech.</p>
                             <strong>Dedicated Developer – Monthly basis</strong>
                             <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
                             <strong>Hourly Basis – Hours/ Month</strong>
@@ -975,7 +975,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Hire Senior Golang Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                <b><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."</b>
+                                <b><a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or Skype "kasinfotech."</b>
                             </p>
                         </div>
                     </div>
@@ -1015,150 +1015,5 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are
-                                                a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
+
 <?php include_once('footer.php') ?>

@@ -1,3 +1,4 @@
+<?php require_once 'partials/footer-top.php' ?>
 <div class="footer-wrapper section-wrapper">
     <div class="footer-main section-padding bg-dark">
         <div class="container footer-bg">

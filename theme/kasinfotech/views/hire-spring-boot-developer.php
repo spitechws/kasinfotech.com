@@ -152,12 +152,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Spring Boot Developer</li>
                     </ol>
@@ -174,7 +174,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire Java Spring Boot Developer to Boost Your Product’s Backend Capabilities</h2>
                         <p>
-                            At Bacancy, our Java Spring Boot developers have in-depth knowledge and extensive experience in building next-gen applications in Java. Leverage our top-of-the-line Java Spring development expertise to integrate
+                            At kasinfotech, our Java Spring Boot developers have in-depth knowledge and extensive experience in building next-gen applications in Java. Leverage our top-of-the-line Java Spring development expertise to integrate
                             various Spring Boot application ecosystems like Spring JDBC, Spring Security, Spring ORM, and Spring Data.
                         </p>
                         <p>
@@ -235,7 +235,7 @@
                     </div>
                 </div>
                 <p>
-                    At Bacancy, we have top-of-the-line expertise in combining a possible number of front and back end technologies like
+                    At kasinfotech, we have top-of-the-line expertise in combining a possible number of front and back end technologies like
                     <strong>Spring Boot + Angular, Spring Boot + React, Spring Boot + Vue, Spring Boot + MySQL, Spring Boot + Docker, Spring Boot + Swagger and Spring Boot + Kafka</strong> to build enterprise-level fast and secure
                     applications for your business.
                 </p>
@@ -265,7 +265,7 @@
                 <div class="service-box bg-white active m-md-0">
                     <h3 class="h5 font-bold mb-sm">Microservices with Spring Boot</h3>
                     <p>
-                        Take your <a href="https://www.bacancytechnology.com/blog/spring-boot-microservices" class="text-primary">Spring Boot Microservices</a> to the next level with our proven expertise. Our team has successfully delivered
+                        Take your <a href="https://www.kasinfotech.com/blog/spring-boot-microservices" class="text-primary">Spring Boot Microservices</a> to the next level with our proven expertise. Our team has successfully delivered
                         both server-less and server-based solutions, using the best design patterns for messaging, service discovery, logging, failure detection, storage, and identity. Let our spring developers help you revolutionize your
                         microservices approach.
                     </p>
@@ -438,7 +438,7 @@
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
                                 <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -921,13 +921,13 @@
             <div class="col-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire Java Spring Boot Developers from Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Hire Java Spring Boot Developers from kasinfotech?</h2>
                         <p>
                             Being a globally renowned Java Spring Boot development company, we can help you develop and deliver unrivaled Spring applications in a pre-defined time frame. With years of proven expertise in emerging
                             technologies, our team of dedicated Spring Boot developers ensures to build custom Spring Boot apps with efficiency and modernity, fulfilling your unique business needs.
                         </p>
                         <p>
-                            <a class="text-primary" href="https://www.bacancytechnology.com/hire-java-developers">Hire Java developers</a> from us with expertise in spring boot to experience easy integration, Spring boot migration, and unit
+                            <a class="text-primary" href="https://www.kasinfotech.com/hire-java-developers">Hire Java developers</a> from us with expertise in spring boot to experience easy integration, Spring boot migration, and unit
                             testing. Partner with us to build a one-of-a-kind robust and secure solution with inbuilt features.
                         </p>
                     </div>
@@ -937,11 +937,11 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-3.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" type="image/jpeg" />
-                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" alt="Why hire Java Spring Boot Developers from Bacancy?" title="Why hire Java Spring Boot Developers from Bacancy?" class="lazy ob-cover" data-pagespeed-url-hash="943942729" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" alt="Why hire Java Spring Boot Developers from kasinfotech?" title="Why hire Java Spring Boot Developers from kasinfotech?" class="lazy ob-cover" data-pagespeed-url-hash="943942729" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
-                <h3 class="h5 font-bold mb-lg">Benefits you can avail when you hire Java Spring developers from Bacancy:</h3>
+                <h3 class="h5 font-bold mb-lg">Benefits you can avail when you hire Java Spring developers from kasinfotech:</h3>
                 <ul class="style-check text-18">
                     <li>Agile methodology</li>
                     <li>Skilled and experienced Spring developers</li>
@@ -1157,151 +1157,4 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

@@ -107,11 +107,11 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img src="images/bacancy-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
-                        <li class="breadcrumb-item"><a href="https://www.bacancytechnology.com/technologies">Technology</a></li>
+                        <li class="breadcrumb-item"><a href="https://www.kasinfotech.com/technologies">Technology</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Microsoft Dynamics 365 Developer</li>
                     </ol>
                 </nav>
@@ -238,7 +238,7 @@
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/microsoft-dynamics-365-implementation" class="text-primary font-bold">Dynamics CRM Implementation</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/microsoft-dynamics-365-implementation" class="text-primary font-bold">Dynamics CRM Implementation</a></h3>
                     <p>Get complete implementation which builds considering your unique business functionality requirement. Our dynamic ERP experts help you develop it from scratch.</p>
                 </div>
                 <div class="service-box bg-white">
@@ -363,7 +363,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact shadow-custom text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -827,7 +827,7 @@
                             <p itemprop="text">
                                 Of course, we do. Microsoft crafted a seamless process for migrating and upgrading your data and processes effortlessly from Microsoft Dynamics CRM to 365 without any sort of disruption to your exiting
                                 work. All you need to do is hire our skilled and experienced Microsoft Dynamics 365 developers who have expertise in migrating/upgrading to Dynamics 365. To know more, get in touch with us at
-                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."
+                                <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or Skype "kasinfotech."
                             </p>
                         </div>
                     </div>
@@ -850,7 +850,7 @@
                             <p itemprop="text">
                                 It depends. The time period is dependent upon a customized CRM system you need for your business specifications. If you are looking to plan, develop, integrate, and implement the entire CRM system, it may
                                 take up to 3 to 4 months; however, this is just estimation. To know the exact time for completing the project, please get in touch with our expert at
-                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."
+                                <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or Skype "kasinfotech."
                             </p>
                         </div>
                     </div>
@@ -905,7 +905,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Yes, we do. Discuss as many questions as you have in your mind regarding Dynamics 365. We have a team of experts who would love to lend a helping hand to answer all your questions. Please get in touch
-                                with our expert without any hesitation at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."
+                                with our expert without any hesitation at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or Skype "kasinfotech."
                             </p>
                         </div>
                     </div>
@@ -947,7 +947,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Sure, hired Dynamics 365 developers from us will definitely work according to your time zone (EST/PST/CST/MST), deadline, and milestone. To know more, get in touch with us at
-                                <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or Skype "Bacancy."
+                                <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or Skype "kasinfotech."
                             </p>
                         </div>
                     </div>
@@ -960,7 +960,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">Be assured. It's not going to happen. Client satisfaction is our highest priority.</p>
                             <p>
-                                Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks written notice to the other Party. Upon termination of this agreement, the Bacancy
+                                Either Party to this agreement may terminate the contract, with or without cause, by providing at least 14 days (2) weeks written notice to the other Party. Upon termination of this agreement, the kasinfotech
                                 shall deliver a termination invoice for work completed to date, which shall be paid by the client (in 3 business days). The Termination invoice shall specify all unpaid work and the remaining amount of
                                 the work done till the termination date. All work completed to time shall be delivered to the client in a usable electronic format on termination.
                             </p>
@@ -971,168 +971,5 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are
-                                                a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-<section>
-    <div class="container">
-        <div class="row footer-pagination">
-            <div class="col-6 section-padding-sm border-right">
-                <div class="boxed-left">
-                    <p class="mb-0">Previous</p>
-                    <a href="#" class="h3 text-link">React JS <span class="long-arrow-icon-css icon-item right"></span></a>
-                </div>
-            </div>
-            <div class="col-6 section-padding-sm">
-                <div class="boxed-right text-right">
-                    <p class="mb-0">Next</p>
-                    <a href="#" class="h3 text-link">Native JS <span class="long-arrow-icon-css icon-item right"></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <?php include_once('footer.php') ?>
