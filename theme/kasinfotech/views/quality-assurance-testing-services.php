@@ -709,7 +709,7 @@
                         </div>
                     </div>
                     <div class="col-12 text-center mt-lg">
-                        <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ">Stop Looking,
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ">Stop Looking,
                             Start Testing
                         </a>
                     </div>
@@ -802,7 +802,7 @@
                 </div>
             </div>
             <div class="col-12 text-center mt-5">
-                <a href="#schedule-interview" class="btn btn-outline-primary  text-uppercase ls-xs">REQUEST FOR
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary  text-uppercase ls-xs">REQUEST FOR
                     QUOTATION</a>
             </div>
         </div>
@@ -931,7 +931,7 @@
                     <li>Decrease in time-to-market by at least 23%</li>
                     <li>Reduction in total cost of testing by up to 40%</li>
                 </ul>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs mt-lg"><span>Hire
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs mt-lg"><span>Hire
                         Software QA Tester</span></a>
             </div>
         </div>

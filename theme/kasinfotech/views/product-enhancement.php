@@ -24,7 +24,7 @@
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl m-0">Product Enhancement Services</h1>
                         <p class="awards__banner-subtitle h3">Seize the opportunity to make your product stand out. We enable our clients to innovate faster, by ensuring accessibility, agility and accountability to satisfy ever-changing market needs.</p>
-                        <a href="#schedule-interview" class="btn btn-primary text-uppercase ">Request A Free Consultation</a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ">Request A Free Consultation</a>
                     </div>
                 </div>
             </div>
@@ -315,7 +315,7 @@
                 <p>Our Software Enhancement services emphasize on helping the clients realize the unleashed potential of their existing digital products. Working to increase the life, reach, and fame of your product line, we strive to deliver the best results.</p>
             </div>
             <div class="col-lg-5 text-center">
-                <a href="#schedule-interview" class="btn btn-bg-white  text-uppercase">Talk to Application enhancement Experts</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white  text-uppercase">Talk to Application enhancement Experts</a>
             </div>
         </div>
     </div>
@@ -545,7 +545,7 @@
                                 <h2 class="section-title-text h1 m-0">Frequently Asked Questions</h2>
                             </div>
                         </div>
-                        <a href="#schedule-interview" class="btn-link">Still have questions? <span class="d-lg-block"> Let’s talk <span class="long-arrow-icon-css icon-item right ml-3"></span></span> </a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn-link">Still have questions? <span class="d-lg-block"> Let’s talk <span class="long-arrow-icon-css icon-item right ml-3"></span></span> </a>
                     </div>
                 </div>
                 <div class="col-lg-9">

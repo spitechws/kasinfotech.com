@@ -620,7 +620,7 @@
                     We have expertise in combining a possible number of front and back end technologies like NodeJS+ ReactJS, NodeJS+ Angular, NodeJS+ Typescript to build scalable web architectures, so you don’t have to worry about
                     scalability and flexibility when your product grows.
                 </p>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
             </div>
         </div>
     </div>
@@ -850,7 +850,7 @@
                 </table>
             </div>
             <div class="col-12 text-center mt-lg">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer Interview</span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer Interview</span></a>
             </div>
         </div>
     </div>

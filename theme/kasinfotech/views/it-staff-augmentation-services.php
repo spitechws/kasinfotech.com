@@ -183,7 +183,7 @@
                     <li class="col-md-6">AI/ML Engineers</li>
                     <li class="col-md-6">Deep Learning Engineers</li>
                 </ul>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span>Schedule a developer interview</span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span>Schedule a developer interview</span></a>
             </div>
         </div>
     </div>
@@ -249,7 +249,7 @@
                 </div>
             </div>
             <div class="col-12 mt-lg text-center">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase">TALK TO OUR EXPERT</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase">TALK TO OUR EXPERT</a>
             </div>
         </div>
     </div>
@@ -712,7 +712,7 @@
                 </div>
             </div>
             <div class="col-12 text-center mt-5">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
             </div>
         </div>
     </div>
@@ -770,7 +770,7 @@
                 </div>
             </div>
             <div class="col-lg-12 text-center mt-lg-5">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase">Schedule a Developer Interview</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase">Schedule a Developer Interview</a>
             </div>
         </div>
     </div>
@@ -786,7 +786,7 @@
                         </div>
                         <div class="col-lg-7">
                             <p>Our dedicated team makes sure to provide technical support and guidance with the right talent and at the right time. Our team augmentation services and client-centric hiring models helps you quickly build up your team and meet your objectives. The Outcome? Your Success!</p>
-                            <a href="#schedule-interview" class="btn btn-outline-white-text text-uppercase ls-xs mt-lg-2">Know More about Staff Augmentation Services</a>
+                            <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-white-text text-uppercase ls-xs mt-lg-2">Know More about Staff Augmentation Services</a>
                         </div>
                     </div>
                 </div>

@@ -43,7 +43,7 @@
                         </p>
                     </div>
                 </div>
-                <a href="#schedule-interview" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
             </div>
         </div>
     </div>
@@ -179,7 +179,7 @@
                     We ensure to cater your specific needs along with a broad range of features and services to increase the revenue of your business through the mobile-ready platform. Our adroit Android Application developers are well
                     versed with the forward-thinking process, groundbreaking concepts, and customized developments to make your app idea viable.
                 </p>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">get expert consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">get expert consultation</a>
             </div>
         </div>
     </div>
@@ -392,7 +392,7 @@
                             understand that your competitors are looking for one loophole to put you down and we make sure to not give such chance at all! Hire Android app developers from us to take your app idea ahead of the curve and
                             experience the most sumptuous business driven solution.
                         </p>
-                        <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer INTERVIEW</span></a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer INTERVIEW</span></a>
                     </div>
                 </div>
             </div>

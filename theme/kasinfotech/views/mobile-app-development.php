@@ -44,7 +44,7 @@
                         <p class="font-bold">Save up to 40% on Development, Maintenance, and Support Cost</p>
                     </div>
                 </div>
-                <a href="#schedule-interview" class="btn btn-primary text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
             </div>
         </div>
     </div>
@@ -671,7 +671,7 @@
                 </div>
             </div>
             <div class="col-12 text-center mt-5">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
             </div>
         </div>
     </div>
@@ -743,7 +743,7 @@
                 </div>
             </div>
             <div class="col-12 text-center mt-4 mt-md-5">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span> Build Your App now! </span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span> Build Your App now! </span></a>
             </div>
         </div>
     </div>
