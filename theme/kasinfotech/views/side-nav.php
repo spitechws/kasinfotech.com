@@ -2,11 +2,8 @@
     <div class="sidenav_menu_inner">
         <div class="sidebar_left_outer d-none d-md-flex">
             <div class="sidebar_left">
-                <div class="d-none d-xl-flex row align-items-center gx-0">
-                    <div class="col-xl-2">
-                        <img src="<?php echo asset('images/small-gptw.webp') ?>">
-                    </div>
-                    <div class="col-xl-10">
+                <div class="d-none d-xl-flex row align-items-center gx-0">                  
+                    <div class="col-xl-12">
                         <h3 class="font-bold mb-sm">KAS Pvt Ltd </h3>
                         <p class="text-18">KAS Pvt Ltd represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
                     </div>
