@@ -39,7 +39,7 @@
                         <h1 class="section-title-text h1-xl lh-normal">Android App Development Company</h1>
                         <p>
                             We simply cannot deny the fact that Android is world’s most popular mobile application platform and it makes a great deal of business sense to have a presence on this platform in the form of an application. At
-                            Bacancy, we can help you build highly innovative and scalable Android applications with innovative interfaces. Hire Android App Developers from us to build dynamic, innovative, and scalable solutions.
+                            kasinfotech, we can help you build highly innovative and scalable Android applications with innovative interfaces. Hire Android App Developers from us to build dynamic, innovative, and scalable solutions.
                         </p>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="service-box bg-white shadow-custom">
                     <p class="small-heading" style="height: 240px;">
-                        Bacancy’s developers and designers have the expertise to infuse the platform’s DNA into an application, be it a small, medium, or large corporation. We have been building reliable, fully functional, and customized
+                        kasinfotech’s developers and designers have the expertise to infuse the platform’s DNA into an application, be it a small, medium, or large corporation. We have been building reliable, fully functional, and customized
                         apps for more than 12+ years.
                     </p>
                 </div>
@@ -268,7 +268,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact shadow-custom text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital product and guaranteed their success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -628,7 +628,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or skype "Bacancy.”
+                                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or skype "kasinfotech.”
                                 </p>
                             </div>
                         </div>
@@ -706,7 +706,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What is the cost and engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What is the cost and engagement options available at kasinfotech?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We provide three types of hiring engagement models.</p>
@@ -776,7 +776,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -805,151 +805,4 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

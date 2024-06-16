@@ -5386,47 +5386,47 @@ lesshat-selector {
   }
 }
 
-.bacancy-values-page .box-color-1 {
+.kasinfotech-values-page .box-color-1 {
   background-color: #f9ebea !important;
 }
 
-.bacancy-values-page .box-color-2 {
+.kasinfotech-values-page .box-color-2 {
   background-color: #f5eef8 !important;
 }
 
-.bacancy-values-page .box-color-3 {
+.kasinfotech-values-page .box-color-3 {
   background-color: #fdedec !important;
 }
 
-.bacancy-values-page .box-color-4 {
+.kasinfotech-values-page .box-color-4 {
   background-color: #eaf2f8 !important;
 }
 
-.bacancy-values-page .box-color-5 {
+.kasinfotech-values-page .box-color-5 {
   background-color: #fef9e7 !important;
 }
 
-.bacancy-values-page .box-color-6 {
+.kasinfotech-values-page .box-color-6 {
   background-color: #e8f8f5 !important;
 }
 
-.bacancy-values-page .box-color-7 {
+.kasinfotech-values-page .box-color-7 {
   background-color: #fef5e7 !important;
 }
 
-.bacancy-values-page .box-color-8 {
+.kasinfotech-values-page .box-color-8 {
   background-color: #f8f9f9 !important;
 }
 
-.bacancy-values-page .box-color-9 {
+.kasinfotech-values-page .box-color-9 {
   background-color: #fdf2e9 !important;
 }
 
-.bacancy-value-mail .bg-primary5 {
+.kasinfotech-value-mail .bg-primary5 {
   background: #cc4314 !important;
 }
 
-.bacancy-value-mail .bg-primary5 .mail-id a {
+.kasinfotech-value-mail .bg-primary5 .mail-id a {
   color: #fff;
 }
 
@@ -6584,7 +6584,7 @@ lesshat-selector {
   }
 }
 
-.mob-dev-agile-video .testimonial-html .bacancy-logo-testimonial {
+.mob-dev-agile-video .testimonial-html .kasinfotech-logo-testimonial {
   display: block;
   position: absolute;
   top: 1.25rem;
@@ -8312,7 +8312,7 @@ lesshat-selector {
   color: #dc3545;
 }
 
-.bacancy-rating-block {
+.kasinfotech-rating-block {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -8325,21 +8325,21 @@ lesshat-selector {
 }
 
 @media (max-width: 767px) {
-  .bacancy-rating-block .img-block {
+  .kasinfotech-rating-block .img-block {
     margin-top: 0.775rem;
     width: 100%;
   }
 
-  .bacancy-rating-block .img-block .img-item:first-child {
+  .kasinfotech-rating-block .img-block .img-item:first-child {
     margin-left: 0;
   }
 }
 
-.bacancy-rating-block .img-item {
+.kasinfotech-rating-block .img-item {
   margin-left: 0.46rem;
 }
 
-.bacancy-rating-block .img-item + .img-item {
+.kasinfotech-rating-block .img-item + .img-item {
   margin-left: 1.2rem;
 }
 

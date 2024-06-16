@@ -115,7 +115,7 @@
                     developments, among many others. Thus, the use of technology and automation is indeed required to improve communication and reduce friction for real estate businesses.
                 </p>
                 <p>
-                    KAS Pvt Ltdprovides innovative <a href="https://www.bacancytechnology.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
+                    KAS Pvt Ltdprovides innovative <a href="https://www.kasinfotech.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
                     Whether you are a leading real estate company, a small agency associated with property business, or an individual real estate agent, leverage our custom software development for the real estate industry to build advanced
                     real estate solutions to offer improved property buying experience to both buyers as well as sellers.
                 </p>
@@ -491,7 +491,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -890,7 +890,7 @@
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">Augmented Reality Trends Bringing a Revolution in Real Estate Industry</h3>
-                    <a href="https://www.bacancytechnology.com/blog/" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -904,7 +904,7 @@
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">In What Ways VR is Modernizing the Real Estate Industry?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/vr-in-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/vr-in-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -918,157 +918,10 @@
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">How Blockchain Is Transforming The Real Estate Industry?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/blockchain-transforming-the-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/blockchain-transforming-the-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>
