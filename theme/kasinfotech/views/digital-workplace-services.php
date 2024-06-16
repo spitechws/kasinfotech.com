@@ -179,43 +179,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" fdprocessedid="o9o26n">
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="glsm2b">inquire
-                                        now</button>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </form>
-
-            </div>
+           
         </div>
     </div>
 </section>

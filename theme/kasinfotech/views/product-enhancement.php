@@ -24,7 +24,7 @@
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl m-0">Product Enhancement Services</h1>
                         <p class="awards__banner-subtitle h3">Seize the opportunity to make your product stand out. We enable our clients to innovate faster, by ensuring accessibility, agility and accountability to satisfy ever-changing market needs.</p>
-                        <a href="#schedule-interview" class="btn btn-primary text-uppercase ">Request A Free Consultation</a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ">Request A Free Consultation</a>
                     </div>
                 </div>
             </div>
@@ -187,44 +187,7 @@
                         <h3 class="mb-xl">Schedule an Interview / Get a Free Consultation</h3>
                     </div>
                 </div>
-            </div>
-            <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return (event.charCode == 32 || event.charCode > 64 &amp;&amp; event.charCode < 91) || (event.charCode > 96 &amp;&amp; event.charCode < 123)" fdprocessedid="3hv4hr" style="outline: rgb(149, 143, 143) solid 2px;">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" fdprocessedid="znz8">
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return event.charCode >= 8 &amp;&amp; event.charCode <= 57" fdprocessedid="vxsyjo">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="4jfhkl">inquire
-                                        now</button>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </form>
-
-            </div>
+            </div>            
         </div>
     </div>
 </section>
@@ -352,7 +315,7 @@
                 <p>Our Software Enhancement services emphasize on helping the clients realize the unleashed potential of their existing digital products. Working to increase the life, reach, and fame of your product line, we strive to deliver the best results.</p>
             </div>
             <div class="col-lg-5 text-center">
-                <a href="#schedule-interview" class="btn btn-bg-white  text-uppercase">Talk to Application enhancement Experts</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white  text-uppercase">Talk to Application enhancement Experts</a>
             </div>
         </div>
     </div>
@@ -582,7 +545,7 @@
                                 <h2 class="section-title-text h1 m-0">Frequently Asked Questions</h2>
                             </div>
                         </div>
-                        <a href="#schedule-interview" class="btn-link">Still have questions? <span class="d-lg-block"> Let’s talk <span class="long-arrow-icon-css icon-item right ml-3"></span></span> </a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn-link">Still have questions? <span class="d-lg-block"> Let’s talk <span class="long-arrow-icon-css icon-item right ml-3"></span></span> </a>
                     </div>
                 </div>
                 <div class="col-lg-9">

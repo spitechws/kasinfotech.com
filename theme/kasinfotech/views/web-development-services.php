@@ -37,7 +37,7 @@
                         <p class="text-xxl text-white">Save Up to 40% on development/maintenance/support cost</p>
                     </div>
                 </div>
-                <a href="#schedule-interview" class="btn btn-primary text-uppercase ls-xs mt-lg"><span>Request Free
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ls-xs mt-lg"><span>Request Free
                         Consultation</span></a>
             </div>
         </div>
@@ -183,7 +183,7 @@
                 </div>
             </div>
             <div class="col-12 mt-lg text-center">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase">Discuss Your Project
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase">Discuss Your Project
                     Idea With Us</a>
             </div>
         </div>
@@ -274,43 +274,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" fdprocessedid="21ruoy" style="outline: rgb(149, 143, 143) solid 2px;">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" fdprocessedid="3q6rtr">
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)" fdprocessedid="4tr33">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="myxp7q">inquire
-                                        now</button>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </form>
-
-            </div>
+         
         </div>
     </div>
 </section>
@@ -703,7 +667,7 @@
                 </a>
             </div>
             <div class="col-12">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span>Talk to Our
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span>Talk to Our
                         Expert</span></a>
             </div>
         </div>
@@ -1658,46 +1622,5 @@
         </div>
     </div>
 </section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We
-                        Help?
-                    </h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" fdprocessedid="h6ekud">
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" fdprocessedid="dufhsk">
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" fdprocessedid="73twbk">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="ltnhj7">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
+
 <?php include_once('footer.php') ?>

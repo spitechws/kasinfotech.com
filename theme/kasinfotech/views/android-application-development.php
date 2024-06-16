@@ -43,7 +43,7 @@
                         </p>
                     </div>
                 </div>
-                <a href="#schedule-interview" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
             </div>
         </div>
     </div>
@@ -179,7 +179,7 @@
                     We ensure to cater your specific needs along with a broad range of features and services to increase the revenue of your business through the mobile-ready platform. Our adroit Android Application developers are well
                     versed with the forward-thinking process, groundbreaking concepts, and customized developments to make your app idea viable.
                 </p>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">get expert consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">get expert consultation</a>
             </div>
         </div>
     </div>
@@ -227,39 +227,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" />
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)" />
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -424,7 +392,7 @@
                             understand that your competitors are looking for one loophole to put you down and we make sure to not give such chance at all! Hire Android app developers from us to take your app idea ahead of the curve and
                             experience the most sumptuous business driven solution.
                         </p>
-                        <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer INTERVIEW</span></a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer INTERVIEW</span></a>
                     </div>
                 </div>
             </div>

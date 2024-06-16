@@ -341,34 +341,7 @@
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>
                                 </div>
-                                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" fdprocessedid="0at8n4">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" fdprocessedid="mrp90n">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" fdprocessedid="wcovqa">
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <textarea class="form-control bg-white validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 text-center">
-                                            <button class="btn btn-primary  text-uppercase ls-xs " name="contactBtn" fdprocessedid="1i0jg">inquire
-                                                now </button>
-                                        </div>
-                                    </div>
-                                </form>
+                                
                             </div>
                         </div>
                         <div class="d-flex  justify-content-center mb-sm mt-lg text-white-all">
@@ -1058,48 +1031,5 @@
         </div>
     </div>
 </section>
-<section class="section-padding bg-graylight">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We
-                        Help?
-                    </h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" fdprocessedid="re42y">
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" fdprocessedid="qv4i2a">
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" fdprocessedid="7j2xs">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="om44zze">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 
 <?php include_once('footer.php') ?>

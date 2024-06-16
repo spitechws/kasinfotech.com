@@ -79,7 +79,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">Why Choose kasinfotech?</h2>
+                        <h2 class="section-title-text h1">Why Choose Bacancy?</h2>
                         <p class="text-center text-secondary h3 section-short-desc">
                             Strategically positioned to deliver outstanding user experiences to respond to the ever-changing needs through emerging technologies.
                         </p>
@@ -191,7 +191,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.glassdoor.co.in/Reviews/kasinfotech-Technology-Reviews-E755927.htm" target="_blank">
+                        <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Technology-Reviews-E755927.htm" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/glassdor.webp" alt="glassdoor-review" title="glassdoor-review" class="" />
                             </picture>
@@ -201,7 +201,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://clutch.co/profile/kasinfotech" target="_blank">
+                        <a href="https://clutch.co/profile/bacancy" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/clutch.webp" alt="clutch-review" title="clutch-review" class="" />
                             </picture>
@@ -211,7 +211,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.goodfirms.co/companies/view/549/kasinfotech-technology" target="_blank">
+                        <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/firms.webp" alt="goodfirms-review" title="goodfirms-review" class="" />
                             </picture>
@@ -240,5 +240,114 @@
             </div>
         </div>
 </section>
+
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
+                    <div class="insight-slider-navigation" id="insight-navigation-block">
+                        <ul class="nav-block">
+                            <li class="nav-item active">
+                                <a href="javascript:void(0)" class="nav-link text-xxl">
+                                    <span class="slide-number">01</span>
+                                    <span class="text">Top 1% IT Talent</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="javascript:void(0)" class="nav-link text-xxl">
+                                    <span class="slide-number">02</span>
+                                    <span class="text">Time Zone Aligned</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="javascript:void(0)" class="nav-link text-xxl">
+                                    <span class="slide-number">03</span>
+                                    <span class="text">Experienced Team</span>
+                                </a>
+                            </li>
+                            <span class="active-line"></span>
+                        </ul>
+                    </div>
+                    <div class="insight-slider-main section-padding-md">
+                        <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
+                            <div class="owl-stage-outer">
+                                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
+                                    <div class="owl-item active" style="width: 1296px;">
+                                        <div class="item">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                                    <picture>
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" />
+                                                    </picture>
+                                                </div>
+                                                <div class="col-lg-4 offset-lg-1 col-md-8">
+                                                    <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
+                                                    <p class="text-lg text-secondary">
+                                                        KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
+                                                        come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 1296px;">
+                                        <div class="item">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                                    <picture>
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-2.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" />
+                                                    </picture>
+                                                </div>
+                                                <div class="col-lg-4 offset-lg-1 col-md-8">
+                                                    <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
+                                                    <p class="text-lg text-secondary">
+                                                        Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
+                                                        and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 1296px;">
+                                        <div class="item">
+                                            <div class="row align-items-center">
+                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                                    <picture>
+                                                        <img src="<?php echo asset(); ?>images/insight-slide-3.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" />
+                                                    </picture>
+                                                </div>
+                                                <div class="col-lg-4 offset-lg-1 col-md-8">
+                                                    <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
+                                                    <p class="text-lg text-secondary">
+                                                        Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We
+                                                        are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-nav">
+                                <button type="button" role="presentation" class="owl-prev disabled">
+                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
+                                </button>
+                                <button type="button" role="presentation" class="owl-next">
+                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
+                                </button>
+                            </div>
+                            <div class="owl-dots disabled"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <?php include_once('footer.php') ?>

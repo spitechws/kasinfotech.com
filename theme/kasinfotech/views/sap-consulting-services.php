@@ -32,16 +32,7 @@
                         <h1 class="section-title-text h1-xl lh-normal text-white">SAP Consulting Services</h1>
                         <p class="text-white mb-lg">Leverage our Expertise with the Ultimate ERP platform to build your World-class Enterprise Solution</p>
                         <p class="text-white font-bold">Save up to 40% on Maintenance/Support Cost</p>
-                        <form class="m-0 emailFormbanner_org" id="emailFormbanner" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-                            <div class="row gx-0 mt-lg gy-md-0 gy-4">
-                                <div class="form-group small-heading-two mb-0 col-md-6" style="height: 45.6px;">
-                                    <input type="text" class="form-control rounded-0 h-100 bg-white" placeholder="Email Address" id="email" maxlength="80" name="contactEmailHD" size="20" fdprocessedid="h9mdob">
-                                </div>
-                                <div class="form-group small-heading-two mb-0 col-md-6" style="height: 45.6px;">
-                                    <button class="btn btn-primary text-uppercase ls-xs h-100 px-3" name="contactBtn" fdprocessedid="5rhj0f">inquire now</button>
-                                </div>
-                            </div>
-                        </form>
+                        
                     </div>
                 </div>
                 <div class="row gy-4 mt-0 justify-content-center text-white-all align-items-center">

@@ -869,7 +869,7 @@
             </div>
         </div>
         <div class="text-center mt-lg">
-            <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">hire full stack react talent</a>
+            <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">hire full stack react talent</a>
         </div>
     </div>
 </section>
