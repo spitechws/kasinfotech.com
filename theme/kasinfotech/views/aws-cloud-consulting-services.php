@@ -506,33 +506,7 @@
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>
                                 </div>
-                                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" />
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <textarea class="form-control bg-white validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 text-center">
-                                            <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                                        </div>
-                                    </div>
-                                </form>
+                               
                             </div>
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
