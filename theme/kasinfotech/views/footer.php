@@ -20,8 +20,8 @@
                         <div class="right-content">
                             <p class="text-dark-secondary text-md">Contact Number</p>
                             <h4 class="h4 text-white">
-                                <a href="tel:<?php echo $contact_number; ?>" class="text-white"><?php echo $contact_number; ?></a>
-
+                                <a href="tel:<?php echo $contact_number; ?>" class="text-white"><?php echo $contact_number; ?></a><br>
+                                <a href="tel:+91-7989532907" class="text-white">+91-7989532907</a>
                             </h4>
                         </div>
                     </div>
@@ -30,8 +30,7 @@
                     <div class="get-in-touch-block">
                         <div class="icon-block">
                             <picture>
-                                <source srcset="<?php echo asset('images/gmail-icon.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/gmail-icon.png'); ?>" type="image/png">
+                                <img src="<?php echo asset('images/gmail-icon.png'); ?>" alt="">
                             </picture>
                         </div>
                         <div class="right-content">
@@ -295,6 +294,43 @@
         s0.parentNode.insertBefore(s1, s0);
     })();
 </script>
+<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?95951';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#4dc247",
+            "ctaText": "",
+            "borderRadius": "25",
+            "marginLeft": "10", // Adjusted for left position
+            "marginBottom": "20",
+            "marginRight": "0", // Adjusted for left position
+            "position": "left" // Changed to 'left'
+        },
+        "brandSetting": {
+            "brandName": "KAS INFO TECH",
+            "brandSubTitle": "Typically replies within a day",
+            "brandImg": "",
+            "welcomeText": "Hi there!\nHow can I help you?",
+            "messageText": "Hello, I have a question about",
+            "backgroundColor": "#502900",
+            "ctaText": "Start Chat",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "7989532907"
+        }
+    };
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
+
 <!--End of Tawk.to Script-->
 </body>
 
