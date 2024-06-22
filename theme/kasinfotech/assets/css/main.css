@@ -461,6 +461,7 @@ img {
 body {
   font-family: Lato;
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 .h1,
@@ -3103,7 +3104,7 @@ a:hover {
 
 .digital-tranformation-row {
   position: relative;
-  background: url(../images/digital-tranformation-bg-1.jpg) center center/cover;
+ 
 }
 
 .digital-tranformation-row .card-image-primary {
