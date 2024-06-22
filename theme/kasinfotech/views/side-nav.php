@@ -2,7 +2,7 @@
     <div class="sidenav_menu_inner">
         <div class="sidebar_left_outer d-none d-md-flex">
             <div class="sidebar_left">
-                <div class="d-none d-xl-flex row align-items-center gx-0">                  
+                <div class="d-none d-xl-flex row align-items-center gx-0">
                     <div class="col-xl-12">
                         <h3 class="font-bold mb-sm">KAS Pvt Ltd </h3>
                         <p class="text-18">KAS Pvt Ltd represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
@@ -405,7 +405,7 @@
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-                <li><a href="https://calendly.com/KAS Pvt Ltd meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
+
             </ul>
         </div>
     </div>
