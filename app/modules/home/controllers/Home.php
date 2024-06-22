@@ -35,9 +35,8 @@
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
             $data['aProductList'] = $this->curlCall('product');
-            $data['aProductDetails'] = $this->curlCall('product/1');
-
             $data['aServiceList'] = $this->curlCall('service');
+
             return $data;
         }
 
@@ -66,21 +65,6 @@
             load_home_view($page_name, $data);
         }
 
-        function services1($slug = '')
-        {
-            if (isset($_POST['submit'])) {
-                $res = $this->oMainModel->save_enquiry();
-                set_message($res['msg']);
-            }
-            $view_name = 'service';
-            $data = $this->load_common_data($view_name);
-            $data['aContentInfo'] = get_row('service', ['slug' => $slug]);
-            if (empty($data['aContentInfo'])) {
-                redirect(base_url());
-            }
-            load_home_view($view_name, $data);
-            hide_message();
-        }
 
         function contact()
         {
@@ -122,11 +106,23 @@
             load_home_view($view_name, $data);
         }
 
-        function products($slug = '')
+        function product($slug = '')
         {
-            $view_name = 'products';
+            $view_name = 'product-details';
             $data = $this->load_common_data($view_name);
-            $data['aProduct'] = get_row('product', ['slug' => $slug]);
+            $data['aProductDetails'] = $this->curlCall('product/' . $slug);
+            $data['aProductDetails'] =  $data['aProductDetails']->data;
+
+            load_home_view($view_name, $data);
+        }
+
+        function service($slug = '')
+        {
+            $view_name = 'service';
+            $data = $this->load_common_data($view_name);
+            $data['aServiceDetails'] = $this->curlCall('service/' . $slug);
+            $data['aServiceDetails'] = $data['aServiceDetails']->data;
+
             load_home_view($view_name, $data);
         }
     }

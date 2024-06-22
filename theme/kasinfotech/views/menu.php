@@ -43,7 +43,6 @@
                     <?php require('menu_contact_info.php'); ?>
                 </ul>
             </li> -->
-
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
                             <ul class="dropdown-menu submenu">
@@ -52,7 +51,7 @@
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">What We Offer</p>
                                             <?php foreach ($aServiceList->data as $row) : ?>
-                                                <a class="dropdown-item nav-link p text-secondary" href="#"><?php echo $row->service_name; ?></a>
+                                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('service/' . $row->slug); ?>"><?php echo $row->service_name; ?></a>
                                             <?php endforeach; ?>
                                         </div>
 
@@ -70,8 +69,6 @@
                                             <p class="dropdown-item nav-link font-semibold">Accelerate</p>
 
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-process-automation') ?>">Digital Process Automation </a>
-
-
 
                                         </div>
                                         <div class="col-lg-2">
@@ -104,7 +101,7 @@
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">Our Star Products</p>
                                             <?php foreach ($aProductList->data as $product) : ?>
-                                                <a class="dropdown-item nav-link p text-secondary" href="#"><?php echo $product->product_name; ?></a>
+                                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product/' . $product->slug); ?>"><?php echo $product->product_name; ?></a>
                                             <?php endforeach; ?>
                                         </div>
                                     </div>

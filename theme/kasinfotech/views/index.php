@@ -93,7 +93,7 @@
         <div class="container">
             <div class="section-title-and-desc">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Connect, Collaborate and Create</h2>
+                    <h2 class="section-title-text h1">Our Products</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-9 mx-auto">
@@ -104,105 +104,25 @@
                     </div>
                 </div>
             </div>
-            <div class="row home-card-row g-4">
-                <div class="col-lg-6 col-12 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-one.webp'); ?>" src="<?php echo asset('images/home-cards-one.webp'); ?>" alt="KAS Pvt Ltd Tech Agility " title="KAS Pvt Ltd Tech Agility " class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">KAS Pvt Ltd Tech Agility – Q3, 2023</h3>
-                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -tech-agility" class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">new edition out now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
+            <div class="row g-4">
+                <?php foreach ($aProductList->data as $product) : ?>
+                    <div class="col-md-6">
+                        <div class="card-image-primary banner-post">
+                            <figure class="banner-post-img">
+                                <picture>
+                                    <source srcset="https://placehold.co/500x200" type="image/webp">
+                                    <source srcset="https://placehold.co/500x200" type="image/jpeg">
+                                    <img data-src="https://placehold.co/500x200" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
+                                </picture>
+                            </figure>
+                            <h3 class="card-title text-white h5-2"><?php echo $product->product_name; ?></h3>
+                            <a href="<?php echo base_url('products/' . $product->slug); ?>" class="text-sm text-item-center long-arrow-hover">
+                                <span class="text-primary text-uppercase ls-sm"><a class="text-danger" href="<?php echo base_url('product/' . $product->slug); ?>">View Details</a></span>
+                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-two.webp'); ?>" src="<?php echo asset('images/home-cards-two.webp'); ?>" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS Pvt Ltd _Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
-                            <span class="text-primary text-uppercase ls-sm">visit now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-three.webp'); ?>" src="<?php echo asset('images/home-cards-three.webp'); ?>" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">We’re Hiring! Come Join Our Team!</h3>
-                        <a href="<?php echo base_url(); ?>careers" class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">apply now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/home-cards-four.webp'); ?>" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
-                                Agility" title="The Keys to Organizational Agility: From Agile to
-                                Agility" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">The Keys to Organizational Agility: From Agile to
-                            Agility</h3>
-                        <a href="javascript:void(0)" data-toggle="modal" data-target="#homepageVideoModal" data-video="https://player.vimeo.com/video/329760190?autoplay=1" class="text-sm text-item-center long-arrow-hover watch-video">
-                            <span class="text-primary text-uppercase ls-sm">Watch our video </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-five.webp'); ?>" src="<?php echo asset('images/home-cards-five.webp'); ?>" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
-                            </picture>
-                        </figure>
-                        <h4 class="card-title text-white h5-2">Outsourcing: The Good,The Bad and The Honest Truth</h4>
-                        <a href="<?php echo base_url(); ?>blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
-                            <span class="text-primary text-uppercase ls-sm">Visit Now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-six.webp'); ?>" src="<?php echo asset('images/home-cards-six.webp'); ?>" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
-                            </picture>
-                        </figure>
-                        <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="<?php echo base_url(); ?>development-center-KAS Pvt Ltd " class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">Let's connect </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
+                <?php endforeach; ?>
             </div>
         </div>
     </section>
@@ -210,7 +130,7 @@
         <div class="container">
             <div class="section-title-and-desc">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Digital Transformations</h2>
+                    <h2 class="section-title-text h1">Our Services</h2>
                 </div>
                 <div class="row ">
                     <div class="col-xl-10 mx-auto">
@@ -224,45 +144,29 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row digital-tranformation-row g-0 digital-transformation-bg-last bg-behind-section">
-                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg') ?>)"></div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four banner-post ">
-                        <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
-                        <a href="<?php echo base_url(); ?>services#2" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
+                <div class="digital-transformation-bg bg-behind-content"></div>
+                <?php foreach ($aServiceList->data as $row) : ?>
+                    <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
+                        <div class="card-image-primary card-home-four banner-post">
+                            <figure class="banner-post-img">
+                                <picture>
+                                    <source srcset="https://placehold.co/200x200" type="image/webp">
+                                    <source srcset="https://placehold.co/200x200" type="image/jpeg">
+                                    <img data-src="https://placehold.co/200x200" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
+                                </picture>
+                            </figure>
+                            <h3 class="card-title text-white h3"><?php echo $row->service_name; ?></h3>
+                            <a href="<?php echo base_url('service/' . $row->slug); ?>" class="text-sm text-item-center">
+                                <span class="text-primary text-uppercase ls-sm">View Details</span>
+                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four banner-post ">
-                        <h3 class="card-title text-white h3">Enterprise Application Management </h3>
-                        <a href="<?php echo base_url(); ?>services#3" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four ">
-                        <h3 class="card-title text-white h3">Agile QA, Automation and DevOps </h3>
-                        <a href="<?php echo base_url(); ?>services#4" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four ">
-                        <h3 class="card-title text-white h3">Embedded & Hardware</h3>
-                        <a href="<?php echo base_url(); ?>systems/" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
+                <?php endforeach; ?>
+
             </div>
         </div>
+
     </section>
     <section class="section-padding section-padding-md pt-0">
         <div class="container">
@@ -463,7 +367,7 @@
                 </div>
             </div>
 
-           
+
         </div>
     </section>
 
