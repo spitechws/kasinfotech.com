@@ -37,12 +37,6 @@
     <div class="row">
         <div class="col-md-12">
             <h1><?php echo $aProductDetails->product_name; ?></h1>
-
-            <?php if (isset($aProductDetails->product_image) && !empty($aProductDetails->product_image)) : ?>
-                <div class="product-img">
-                    <?php echo $aProductDetails->product_image; ?>
-                </div>
-            <?php endif; ?>
             <div class="div">
                 <p><?php echo $aProductDetails->details; ?></p>
             </div>

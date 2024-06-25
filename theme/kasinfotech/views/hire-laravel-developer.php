@@ -214,7 +214,392 @@
         </div>
     </div>
 </section>
-
+<section class="section-paragraph casestudy-full-width section-padding bg-graylight pb-0" id="case-study">
+    <div class="container">
+        <div class="row mb-sm-5 mb-lg-0">
+            <div class="col-lg-10 mx-auto">
+                <div class="section-title-and-desc text-center">
+                    <div class="section-title-block">
+                        <h2 class="section-title-text h1">Our Amazing Customer Success Stories With Laravel</h2>
+                        <p>Over the past 12+ years, check out these awesome Laravel Applications our Laravel developers have built for our valuable clients to solve real-life problems and help them overcome start-up challenges.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-dark section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-2612px, 0px, 0px); transition: all 0s ease 0s; width: 9142px;">
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" alt="eProdigy" title="eProdigy" class="lazy ob-cover" data-pagespeed-url-hash="239677656" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">SOCIAL MEDIA</p>
+                                                <h3 class="h2 text-white font-bold">eProdigy</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        eProdigy wanted to develop applications, like Whatsapp, WeChat, etc. The client wanted features like app-to-app calling, one-to-one chat, group chat, message, broadcasting, contact,
+                                                        and location sharing. Our adroit Laravel web developers showed a variety of expertise and implemented each of the features that eProdigy has asked for.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | iOS</li>
+                                                    <li>Duration: 4 months</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">40%</h5>
+                                                <p class="text-white">Growth In New Register</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">70%</h5>
+                                                <p class="text-white">Increase in App Engagement</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">350</h5>
+                                                <p class="text-white">hours of development efforts saved</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">8M+</h5>
+                                                <p class="text-white">Application downloads</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" alt="Lacodix" title="Lacodix" class="lazy ob-cover" data-pagespeed-url-hash="660239993" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">WEBSPACE</p>
+                                                <h3 class="h2 text-white font-bold">Lacodix</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Laravel developers developed a customized project management platform with features like project planning, resource management, and reporting. The platform also included a document
+                                                        management system and an interactive dashboard for tracking project progress. The resulting solution streamlined the client's project management process and allowed for better
+                                                        collaboration among team members.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | Livewire</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">2X</h5>
+                                                <p class="text-white">Efficiency</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">70%</h5>
+                                                <p class="text-white">Hike in ROI</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">3X</h5>
+                                                <p class="text-white">Better project planning</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99%</h5>
+                                                <p class="text-white">Accurate reporting</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp" alt="44i" title="44i" class="lazy ob-cover" data-pagespeed-url-hash="4114082615" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">BUSINESS IT COMPANY</p>
+                                                <h3 class="h2 text-white font-bold">44i</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Laravel developers developed a customized e-commerce platform with features like product management, payment gateways, and order management. Additionally, they integrated
+                                                        third-party services like Google Analytics and MailChimp for improved user experience and marketing.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | JavaScript | Laravel Blade</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">50%</h5>
+                                                <p class="text-white">Increased revenue</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">80%</h5>
+                                                <p class="text-white">Improved user experience</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">3X</h5>
+                                                <p class="text-white">Market Reach</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99%</h5>
+                                                <p class="text-white">Improved Data Accuracy</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" alt="eProdigy" title="eProdigy" class="lazy ob-cover" data-pagespeed-url-hash="239677656" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">SOCIAL MEDIA</p>
+                                                <h3 class="h2 text-white font-bold">eProdigy</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        eProdigy wanted to develop applications, like Whatsapp, WeChat, etc. The client wanted features like app-to-app calling, one-to-one chat, group chat, message, broadcasting, contact,
+                                                        and location sharing. Our adroit Laravel web developers showed a variety of expertise and implemented each of the features that eProdigy has asked for.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | iOS</li>
+                                                    <li>Duration: 4 months</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">40%</h5>
+                                                <p class="text-white">Growth In New Register</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">70%</h5>
+                                                <p class="text-white">Increase in App Engagement</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">350</h5>
+                                                <p class="text-white">hours of development efforts saved</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">8M+</h5>
+                                                <p class="text-white">Application downloads</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" alt="Lacodix" title="Lacodix" class="lazy ob-cover" data-pagespeed-url-hash="660239993" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">WEBSPACE</p>
+                                                <h3 class="h2 text-white font-bold">Lacodix</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Laravel developers developed a customized project management platform with features like project planning, resource management, and reporting. The platform also included a document
+                                                        management system and an interactive dashboard for tracking project progress. The resulting solution streamlined the client's project management process and allowed for better
+                                                        collaboration among team members.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | Livewire</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">2X</h5>
+                                                <p class="text-white">Efficiency</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">70%</h5>
+                                                <p class="text-white">Hike in ROI</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">3X</h5>
+                                                <p class="text-white">Better project planning</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99%</h5>
+                                                <p class="text-white">Accurate reporting</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-1.jpg,qv-3.pagespeed.ic.bXyqTPNs1-.webp" alt="44i" title="44i" class="lazy ob-cover" data-pagespeed-url-hash="4114082615" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">BUSINESS IT COMPANY</p>
+                                                <h3 class="h2 text-white font-bold">44i</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Laravel developers developed a customized e-commerce platform with features like product management, payment gateways, and order management. Additionally, they integrated
+                                                        third-party services like Google Analytics and MailChimp for improved user experience and marketing.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | JavaScript | Laravel Blade</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">50%</h5>
+                                                <p class="text-white">Increased revenue</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">80%</h5>
+                                                <p class="text-white">Improved user experience</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">3X</h5>
+                                                <p class="text-white">Market Reach</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99%</h5>
+                                                <p class="text-white">Improved Data Accuracy</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/case-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" src="<?php echo asset(); ?>images/hire-laravel-developer/xcase-2.jpg,qv-3.pagespeed.ic.jwKSZ2SKs5.webp" alt="eProdigy" title="eProdigy" class="lazy ob-cover" data-pagespeed-url-hash="239677656" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">SOCIAL MEDIA</p>
+                                                <h3 class="h2 text-white font-bold">eProdigy</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        eProdigy wanted to develop applications, like Whatsapp, WeChat, etc. The client wanted features like app-to-app calling, one-to-one chat, group chat, message, broadcasting, contact,
+                                                        and location sharing. Our adroit Laravel web developers showed a variety of expertise and implemented each of the features that eProdigy has asked for.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Laravel | iOS</li>
+                                                    <li>Duration: 4 months</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">40%</h5>
+                                                <p class="text-white">Growth In New Register</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">70%</h5>
+                                                <p class="text-white">Increase in App Engagement</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">350</h5>
+                                                <p class="text-white">hours of development efforts saved</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">8M+</h5>
+                                                <p class="text-white">Application downloads</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="owl-nav disabled">
+                            <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+                        </div>
+                        <div class="owl-dots">
+                            <button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-padding bg-graylight pb-200" id="price-sec">
     <div id="schedule-interview" class="w-100 d-inline-block"></div>
     <div class="container">
@@ -622,7 +1007,7 @@
                 <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name" class="">Is 1 days risk-free trial period completely free?</a>
+                            <a href="#a" itemprop="name" class="">Is 15 days risk-free trial period completely free?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                             <p itemprop="text">
