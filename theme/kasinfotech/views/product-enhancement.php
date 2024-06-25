@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="col-12">
-                <div class="bg-fix banner-holder" style="background-image: url(&quot;<?php echo asset('images/banner.png');?>&quot;);">
+                <div class="bg-fix banner-holder" style="background-image: url(&quot;<?php echo asset('images/banner.png'); ?>&quot;);">
                     <figure class="banner-holder-img">
                         <picture>
                             <source srcset="<?php echo asset('images/banner (2).webp'); ?>" type="image/webp">
@@ -187,7 +187,7 @@
                         <h3 class="mb-xl">Schedule an Interview / Get a Free Consultation</h3>
                     </div>
                 </div>
-            </div>            
+            </div>
         </div>
     </div>
 </section>
@@ -196,7 +196,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact shadow-custom text-center">
-                    <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a>
+                    <a href="mailto:<?php echo $contact_email; ?>" class="mail-id"><?php echo $contact_email; ?></a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">
@@ -284,10 +284,10 @@
         </div>
         <div class="row gy-4 gy-lg-0">
             <div class="col-lg-6 text-center">
-            <picture>
-                <source srcset="<?php echo asset('images/enhancement-services-2.webp'); ?>" type="image/webp">
-                <source srcset="<?php echo asset('images/enhancement-services-2.png'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/enhancement-services-2.png'); ?>" src="<?php echo asset('images/enhancement-services-2.png'); ?>" alt="Planning to bridge the physical and digital world with an IoT project? KAS can help" title="Planning to bridge the physical and digital world with an IoT project? KAS can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-            </picture>
+                <picture>
+                    <source srcset="<?php echo asset('images/enhancement-services-2.webp'); ?>" type="image/webp">
+                    <source srcset="<?php echo asset('images/enhancement-services-2.png'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/enhancement-services-2.png'); ?>" src="<?php echo asset('images/enhancement-services-2.png'); ?>" alt="Planning to bridge the physical and digital world with an IoT project? KAS can help" title="Planning to bridge the physical and digital world with an IoT project? KAS can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                </picture>
             </div>
             <div class="col-lg-5 ml-auto mt-4">
                 <h3 class="text-xxl font-bold mb-3">By hiring our enhancement experts, you can :-</h3>
@@ -337,8 +337,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset('images/serve-1.webp');?>" type="image/webp">
-                            <source srcset="<?php echo asset('images/serve-1.png');?>" type="image/png"><img data-src="<?php echo asset('images/serve-1.png');?>" src="<?php echo asset('images/serve-1.png');?>" alt="Medical" title="Medical" class="" data-pagespeed-url-hash="2925730850" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset('images/serve-1.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/serve-1.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/serve-1.png'); ?>" src="<?php echo asset('images/serve-1.png'); ?>" alt="Medical" title="Medical" class="" data-pagespeed-url-hash="2925730850" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Medical</h3>
@@ -348,8 +348,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset('images/serve-2.webp');?>" type="image/webp">
-                            <source srcset="<?php echo asset('images/serve-2.png');?>" type="image/png"><img data-src="<?php echo asset('images/serve-2.png');?>" src="<?php echo asset('images/serve-2.png');?>" alt="Education" title="Education" class="" data-pagespeed-url-hash="3220230771" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset('images/serve-2.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/serve-2.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/serve-2.png'); ?>" src="<?php echo asset('images/serve-2.png'); ?>" alt="Education" title="Education" class="" data-pagespeed-url-hash="3220230771" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Education</h3>
@@ -359,8 +359,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset('images/serve-3.webp');?>" type="image/webp">
-                            <source srcset="<?php echo asset('images/serve-3.png');?>" type="image/png"><img data-src="<?php echo asset('images/serve-3.png');?>" src="<?php echo asset('images/serve-3.png');?>" alt="Business" title="Business" class="" data-pagespeed-url-hash="3514730692" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset('images/serve-3.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/serve-3.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/serve-3.png'); ?>" src="<?php echo asset('images/serve-3.png'); ?>" alt="Business" title="Business" class="" data-pagespeed-url-hash="3514730692" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Business</h3>
@@ -370,8 +370,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset('images/serve-4.webp');?>" type="image/webp">
-                            <source srcset="<?php echo asset('images/serve-4.png');?>" type="image/png"><img data-src="<?php echo asset('images/serve-4.png');?>" src="<?php echo asset('images/serve-4.png');?>" alt="Finance" title="Finance" class="" data-pagespeed-url-hash="3809230613" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset('images/serve-4.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/serve-4.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/serve-4.png'); ?>" src="<?php echo asset('images/serve-4.png'); ?>" alt="Finance" title="Finance" class="" data-pagespeed-url-hash="3809230613" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Finance</h3>
@@ -381,8 +381,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset('images/serve-5.webp');?>" type="image/webp">
-                            <source srcset="<?php echo asset('images/serve-5.png');?>" type="image/png"><img data-src="<?php echo asset('images/serve-5.png');?>" src="<?php echo asset('images/serve-5.png');?>" alt="Lifestyle" title="Lifestyle" class="" data-pagespeed-url-hash="4103730534" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset('images/serve-5.webp'); ?>" type="image/webp">
+                            <source srcset="<?php echo asset('images/serve-5.png'); ?>" type="image/png"><img data-src="<?php echo asset('images/serve-5.png'); ?>" src="<?php echo asset('images/serve-5.png'); ?>" alt="Lifestyle" title="Lifestyle" class="" data-pagespeed-url-hash="4103730534" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Lifestyle</h3>
@@ -392,8 +392,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-6.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-6.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-6.png" src="<?php echo asset();?>images/serve-6.png" alt="Food &amp; Drink" title="Food &amp; Drink" class="" data-pagespeed-url-hash="103263159" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-6.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-6.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-6.png" src="<?php echo asset(); ?>images/serve-6.png" alt="Food &amp; Drink" title="Food &amp; Drink" class="" data-pagespeed-url-hash="103263159" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Food &amp; Drink</h3>
@@ -403,8 +403,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-7.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-7.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-7.png" src="<?php echo asset();?>images/serve-7.png" alt="Shopping" title="Shopping" class="" data-pagespeed-url-hash="397763080" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-7.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-7.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-7.png" src="<?php echo asset(); ?>images/serve-7.png" alt="Shopping" title="Shopping" class="" data-pagespeed-url-hash="397763080" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Shopping</h3>
@@ -414,8 +414,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-8.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-8.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-8.png" src="<?php echo asset();?>images/serve-8.png" alt="Music" title="Music" class="" data-pagespeed-url-hash="692263001" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-8.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-8.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-8.png" src="<?php echo asset(); ?>images/serve-8.png" alt="Music" title="Music" class="" data-pagespeed-url-hash="692263001" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Music</h3>
@@ -425,8 +425,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-9.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-9.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-9.png" src="<?php echo asset();?>images/serve-9.png" alt="Travel" title="Travel" class="" data-pagespeed-url-hash="986762922" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-9.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-9.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-9.png" src="<?php echo asset(); ?>images/serve-9.png" alt="Travel" title="Travel" class="" data-pagespeed-url-hash="986762922" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Travel</h3>
@@ -436,8 +436,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-10.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-10.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-10.png" src="<?php echo asset();?>images/serve-10.png" alt="News" title="News" class="" data-pagespeed-url-hash="1459313184" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-10.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-10.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-10.png" src="<?php echo asset(); ?>images/serve-10.png" alt="News" title="News" class="" data-pagespeed-url-hash="1459313184" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">News</h3>
@@ -447,8 +447,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-11.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-11.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-11.png" src="<?php echo asset();?>images/serve-11.png" alt="Photo &amp; Video" title="Photo &amp; Video" class="" data-pagespeed-url-hash="1753813105" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-11.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-11.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-11.png" src="<?php echo asset(); ?>images/serve-11.png" alt="Photo &amp; Video" title="Photo &amp; Video" class="" data-pagespeed-url-hash="1753813105" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Photo &amp; Video</h3>
@@ -458,8 +458,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-12.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-12.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-12.png" src="<?php echo asset();?>images/serve-12.png" alt="Entertainment" title="Entertainment" class="" data-pagespeed-url-hash="2048313026" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-12.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-12.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-12.png" src="<?php echo asset(); ?>images/serve-12.png" alt="Entertainment" title="Entertainment" class="" data-pagespeed-url-hash="2048313026" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Entertainment</h3>
@@ -469,8 +469,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-13.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-13.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-13.png" src="<?php echo asset();?>images/serve-13.png" alt="Social Networking" title="Social Networking" class="" data-pagespeed-url-hash="2342812947" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-13.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-13.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-13.png" src="<?php echo asset(); ?>images/serve-13.png" alt="Social Networking" title="Social Networking" class="" data-pagespeed-url-hash="2342812947" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Social Networking</h3>
@@ -480,8 +480,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-14.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-14.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-14.png" src="<?php echo asset();?>images/serve-14.png" alt="Health &amp; Fitness" title="Health &amp; Fitness" class="" data-pagespeed-url-hash="2637312868" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-14.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-14.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-14.png" src="<?php echo asset(); ?>images/serve-14.png" alt="Health &amp; Fitness" title="Health &amp; Fitness" class="" data-pagespeed-url-hash="2637312868" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Health &amp; Fitness</h3>
@@ -491,8 +491,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-15.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-15.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-15.png" src="<?php echo asset();?>images/serve-15.png" alt="Sports" title="Sports" class="" data-pagespeed-url-hash="2931812789" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-15.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-15.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-15.png" src="<?php echo asset(); ?>images/serve-15.png" alt="Sports" title="Sports" class="" data-pagespeed-url-hash="2931812789" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Sports</h3>
@@ -502,8 +502,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-16.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-16.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-16.png" src="<?php echo asset();?>images/serve-16.png" alt="Weather" title="Weather" class="" data-pagespeed-url-hash="3226312710" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-16.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-16.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-16.png" src="<?php echo asset(); ?>images/serve-16.png" alt="Weather" title="Weather" class="" data-pagespeed-url-hash="3226312710" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Weather</h3>
@@ -513,8 +513,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-17.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-17.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-17.png" src="<?php echo asset();?>images/serve-17.png" alt="Logistic" title="Logistic" class="" data-pagespeed-url-hash="3520812631" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-17.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-17.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-17.png" src="<?php echo asset(); ?>images/serve-17.png" alt="Logistic" title="Logistic" class="" data-pagespeed-url-hash="3520812631" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Logistic</h3>
@@ -524,8 +524,8 @@
                 <div class="service-box px-2">
                     <div class="svg-icon-box">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/serve-18.webp" type="image/webp">
-                            <source srcset="<?php echo asset();?>images/serve-18.png" type="image/png"><img data-src="<?php echo asset();?>images/serve-18.png" src="<?php echo asset();?>images/serve-18.png" alt="Agritech" title="Agritech" class="" data-pagespeed-url-hash="3815312552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <source srcset="<?php echo asset(); ?>images/serve-18.webp" type="image/webp">
+                            <source srcset="<?php echo asset(); ?>images/serve-18.png" type="image/png"><img data-src="<?php echo asset(); ?>images/serve-18.png" src="<?php echo asset(); ?>images/serve-18.png" alt="Agritech" title="Agritech" class="" data-pagespeed-url-hash="3815312552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                         </picture>
                     </div>
                     <h3 class="text-18 small-heading font-bold" style="height: 30px;">Agritech</h3>
@@ -552,7 +552,7 @@
                     <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                         <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name" class="">Is 15 days risk-free trial period completely free?</a>
+                                <a href="#a" itemprop="name" class="">Is 1 days risk-free trial period completely free?</a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                                 <p itemprop="text">Yes, It’s completely free. We allow this free time period to evaluate the code quality, communication, on-time delivery, Agile software development process, and more of the hired trial resource. If you get satisfactory work, then you can continue with the engagement, and if not, then you can right-away cancel it.</p>
@@ -600,7 +600,7 @@
                                 <a href="#a" itemprop="name">Do you work according to my time zone preference?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                                <p itemprop="text">Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at <a href="mailto:<?php echo $contact_email;?>" class="mail-id"><?php echo $contact_email;?></a> or skype "KAS.”</p>
+                                <p itemprop="text">Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at <a href="mailto:<?php echo $contact_email; ?>" class="mail-id"><?php echo $contact_email; ?></a> or skype "KAS.”</p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

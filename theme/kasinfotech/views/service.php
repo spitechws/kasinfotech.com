@@ -37,16 +37,23 @@
     <div class="row">
         <div class="col-md-12">
             <h1><?php echo $aServiceDetails->service_name; ?></h1>
-            <div class="div">
-                <p><?php echo $aServiceDetails->details; ?></p>
+            <?php if (isset($aServiceDetails->service_image) && !empty($aServiceDetails->service_image)) : ?>
+                <div class="services-img">
+                    <img src="<?php echo $aServiceDetails->service_image; ?>" alt="">
+                </div>
+            <?php endif; ?>
+
+            <div class="mt-3">
+                <div class="div">
+                    <p><?php echo $aServiceDetails->details; ?></p>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
 
 
 
 
 
-<?php include_once('footer.php') ?>
+    <?php include_once('footer.php') ?>

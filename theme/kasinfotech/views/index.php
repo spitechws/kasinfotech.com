@@ -193,7 +193,7 @@
                         <h3 class="counter-number h1">
                             50+ </h3>
                         <p class="counter-desc text-md">
-                            Agile Enabled Employees
+                            Agile Enabled Employees with Teams
                         </p>
                     </div>
                 </div>
