@@ -20,10 +20,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="font-bold text-white pb-2">Products</h1>
+                <h1 class="font-bold text-white pb-2"><?php echo $aProductDetails->product_name; ?></h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Product</a></li>
                         <li class="breadcrumb-item active" aria-current="page"><?php echo $aProductDetails->product_name; ?></li>
                     </ol>
@@ -37,7 +37,7 @@
     <div class="row">
         <div class="col-md-12">
             <h1><?php echo $aProductDetails->product_name; ?></h1>
-            <div class="div">
+            <div class="mt-3">
                 <p><?php echo $aProductDetails->details; ?></p>
             </div>
         </div>
