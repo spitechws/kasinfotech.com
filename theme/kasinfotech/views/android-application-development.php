@@ -227,7 +227,7 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -555,7 +555,7 @@
                         <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
                                 <a href="#a" itemprop="name" class="">
-                                    Is 15 days risk-free trial period completely free?
+                                    Is 1 days risk-free trial period completely free?
                                 </a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
