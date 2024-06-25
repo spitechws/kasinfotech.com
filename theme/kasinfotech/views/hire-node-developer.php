@@ -215,7 +215,390 @@
         </div>
     </div>
 </section>
-
+<section class="section-paragraph remove-small-heading casestudy-full-width section-padding bg-graylight pb-0" id="case-study">
+    <div class="container">
+        <div class="row mb-sm-5 mb-lg-0">
+            <div class="col-lg-10 mx-auto">
+                <div class="section-title-and-desc text-center">
+                    <div class="section-title-block">
+                        <h2 class="section-title-text h1">Our Latest NodeJS Case Studies</h2>
+                        <p>Check out these awesome NodeJS Application our NodeJS experts have built for our valuable clients to solve real-life problems and help them overcome start-up challenges.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-dark section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-2612px, 0px, 0px); transition: all 0s ease 0s; width: 9142px;">
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Entertainment</p>
+                                                <h3 class="h2 text-white font-bold">Dayo</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We created a modern application in response to our client’s request for apps similar to TikTok and Tinder, where users can register to depict their personalities, post videos, view,
+                                                        like, and swipe the video. Our Node Js developer built this application by integrating SendBrid and GetStream for user communication and video chatting.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | React.js | Flutter</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 8</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">27%</h5>
+                                                <p class="text-white">Increase in User</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">1.8s</h5>
+                                                <p class="text-white">Average Response time</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">98.8%</h5>
+                                                <p class="text-white">Accuracy Rate</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99.9%</h5>
+                                                <p class="text-white">Uptime ensured</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" alt="Dolo eCommerce" title="Dolo eCommerce" class="lazy ob-cover" data-pagespeed-url-hash="1041927805" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Ecommerce, B2B</p>
+                                                <h3 class="h2 text-white font-bold">Dolo eCommerce</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We built a one-of-a-kind B2B eCommerce platform that connects retailers to breweries. In this, users can register for the stock exchange of beer. Our Node developers integrated
+                                                        socket.io in the front and back end with the custom chat module to communicate between retailers and breweries in real time with multi-select functionality.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | Angular</li>
+                                                    <li>Duration: 3 Month</li>
+                                                    <li>Number of Developers: 2</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">2000+</h5>
+                                                <p class="text-white">Order fulfillment per day</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">900+</h5>
+                                                <p class="text-white">Vendored onboarded in 5 months</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">4X</h5>
+                                                <p class="text-white">Growth in 2 years</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">4M</h5>
+                                                <p class="text-white">Customers</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">HIRE FULL STACK NODEJS TALENT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" alt="UPS - Global Shipping and Logistics" title="UPS - Global Shipping and Logistics" class="lazy ob-cover" data-pagespeed-url-hash="200803131" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Transportation</p>
+                                                <h3 class="h2 text-white font-bold">UPS - Global Shipping and Logistics</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Nodejs developer solved the issue of the well-known courier and logistic service company UPS, as their system getting crashed whenever their traffic or number of orders hiked. We
+                                                        addressed this issue by overviewing and redesigning their database management system. Also, our developers integrated an ideal payment gateway for a smooth user experience.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | Angular | .Netcore SDK core 3.1</li>
+                                                    <li>Duration: 7 Months</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">67%</h5>
+                                                <p class="text-white">Increase in the Efficiency calculation</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">100000+</h5>
+                                                <p class="text-white">Global Customers</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">5X+</h5>
+                                                <p class="text-white">Faster release cycle</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">20X</h5>
+                                                <p class="text-white">Faster Freight costing</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Entertainment</p>
+                                                <h3 class="h2 text-white font-bold">Dayo</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We created a modern application in response to our client’s request for apps similar to TikTok and Tinder, where users can register to depict their personalities, post videos, view,
+                                                        like, and swipe the video. Our Node Js developer built this application by integrating SendBrid and GetStream for user communication and video chatting.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | React.js | Flutter</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 8</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">27%</h5>
+                                                <p class="text-white">Increase in User</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">1.8s</h5>
+                                                <p class="text-white">Average Response time</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">98.8%</h5>
+                                                <p class="text-white">Accuracy Rate</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99.9%</h5>
+                                                <p class="text-white">Uptime ensured</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" alt="Dolo eCommerce" title="Dolo eCommerce" class="lazy ob-cover" data-pagespeed-url-hash="1041927805" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Ecommerce, B2B</p>
+                                                <h3 class="h2 text-white font-bold">Dolo eCommerce</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We built a one-of-a-kind B2B eCommerce platform that connects retailers to breweries. In this, users can register for the stock exchange of beer. Our Node developers integrated
+                                                        socket.io in the front and back end with the custom chat module to communicate between retailers and breweries in real time with multi-select functionality.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | Angular</li>
+                                                    <li>Duration: 3 Month</li>
+                                                    <li>Number of Developers: 2</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">2000+</h5>
+                                                <p class="text-white">Order fulfillment per day</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">900+</h5>
+                                                <p class="text-white">Vendored onboarded in 5 months</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">4X</h5>
+                                                <p class="text-white">Growth in 2 years</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">4M</h5>
+                                                <p class="text-white">Customers</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">HIRE FULL STACK NODEJS TALENT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" alt="UPS - Global Shipping and Logistics" title="UPS - Global Shipping and Logistics" class="lazy ob-cover" data-pagespeed-url-hash="200803131" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Transportation</p>
+                                                <h3 class="h2 text-white font-bold">UPS - Global Shipping and Logistics</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our Nodejs developer solved the issue of the well-known courier and logistic service company UPS, as their system getting crashed whenever their traffic or number of orders hiked. We
+                                                        addressed this issue by overviewing and redesigning their database management system. Also, our developers integrated an ideal payment gateway for a smooth user experience.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | Angular | .Netcore SDK core 3.1</li>
+                                                    <li>Duration: 7 Months</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">67%</h5>
+                                                <p class="text-white">Increase in the Efficiency calculation</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">100000+</h5>
+                                                <p class="text-white">Global Customers</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">5X+</h5>
+                                                <p class="text-white">Faster release cycle</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">20X</h5>
+                                                <p class="text-white">Faster Freight costing</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
+                                            <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Entertainment</p>
+                                                <h3 class="h2 text-white font-bold">Dayo</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We created a modern application in response to our client’s request for apps similar to TikTok and Tinder, where users can register to depict their personalities, post videos, view,
+                                                        like, and swipe the video. Our Node Js developer built this application by integrating SendBrid and GetStream for user communication and video chatting.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: Node.js | React.js | Flutter</li>
+                                                    <li>Duration: Ongoing</li>
+                                                    <li>Number of Developers: 8</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">27%</h5>
+                                                <p class="text-white">Increase in User</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">1.8s</h5>
+                                                <p class="text-white">Average Response time</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <h5 class="text-primary h2 font-bold">98.8%</h5>
+                                                <p class="text-white">Accuracy Rate</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <h5 class="text-primary h2 font-bold">99.9%</h5>
+                                                <p class="text-white">Uptime ensured</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="owl-nav disabled">
+                            <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+                        </div>
+                        <div class="owl-dots">
+                            <button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-padding section-paragraph">
     <div class="container">
         <div class="row align-items-md-center">
@@ -635,7 +1018,7 @@
                     <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                         <div class="accordion-item accordian-tab bg-white active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name" class="">Is 1 days risk-free trial period completely free?</a>
+                                <a href="#a" itemprop="name" class="">Is 15 days risk-free trial period completely free?</a>
                             </div>
                             <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                                 <p itemprop="text">

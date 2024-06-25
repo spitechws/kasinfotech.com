@@ -1298,7 +1298,7 @@
                 <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name" class="">Is 1 days risk-free trial period completely free?</a>
+                            <a href="#a" itemprop="name" class="">Is 15 days risk-free trial period completely free?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                             <p itemprop="text">

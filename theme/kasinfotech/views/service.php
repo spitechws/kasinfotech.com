@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="font-bold text-white pb-2">Service</h1>
+                <h1 class="font-bold text-white pb-2"><?php echo $aServiceDetails->service_name; ?></h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>">Home</a></li>
@@ -37,23 +37,17 @@
     <div class="row">
         <div class="col-md-12">
             <h1><?php echo $aServiceDetails->service_name; ?></h1>
-            <?php if (isset($aServiceDetails->service_image) && !empty($aServiceDetails->service_image)) : ?>
-                <div class="services-img">
-                    <img src="<?php echo $aServiceDetails->service_image; ?>" alt="">
-                </div>
-            <?php endif; ?>
 
             <div class="mt-3">
-                <div class="div">
-                    <p><?php echo $aServiceDetails->details; ?></p>
-                </div>
+                <p><?php echo $aServiceDetails->details; ?></p>
             </div>
         </div>
     </div>
+</div>
 
 
 
 
 
 
-    <?php include_once('footer.php') ?>
+<?php include_once('footer.php') ?>

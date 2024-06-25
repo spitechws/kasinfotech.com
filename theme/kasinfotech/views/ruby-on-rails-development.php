@@ -259,7 +259,390 @@
         </div>
     </div>
 </section>
-
+<section class="casestudy-full-width section-padding bg-graylight pb-0" id="case-study">
+    <div class="container">
+        <div class="row mb-sm-5 mb-lg-0">
+            <div class="col-lg-10 mx-auto">
+                <div class="section-title-and-desc text-center section-paragraph">
+                    <div class="section-title-block">
+                        <h2 class="section-title-text h1">Our Ruby on Rails Customer Success Stories</h2>
+                        <p>Over the past 12+ years, check out these awesome case studies for ROR Applications we have built for our valuable clients to solve real-life problems and help them overcome start-up challenges.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-dark section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-2612px, 0px, 0px); transition: all 0s ease 0s; width: 9142px;">
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Pharmacy eCommerce</p>
+                                                <h3 class="h2 text-white font-bold">PharmaPlace</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We developed a platform that works as a middleware service for buyers and suppliers. It automatically suggests best sellers, featured products, and new brands for the purchaser from
+                                                        one place. Our RoR developer integrated a list of brands that compare two or more products.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | JavaScript | CoffeeScript</li>
+                                                    <li>Duration: 8 Months</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">99%</p>
+                                                <p class="text-white text-18">Accuracy in Data Generation</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">12+</p>
+                                                <p class="text-white text-18">Health Tracking Parameters Integrated</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">1000+</p>
+                                                <p class="text-white text-18">Practitioners Onboard</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">2 Million+</p>
+                                                <p class="text-white text-18">Tele-health Consultations</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" alt="Merchinator" title="Merchinator" class="lazy ob-cover" data-pagespeed-url-hash="3304819170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Merchandizing</p>
+                                                <h3 class="h2 text-white font-bold">Merchinator</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our dedicated Ruby on Rails developer developed an option to create product variants and assigned all the available groups to SKU, where users can make all the available variants
+                                                        individually to ease the process and save time. Besides, our developers have also reduced page loading speed from 25 minutes to 2-3 minutes, eventually increasing the development time.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | Docker</li>
+                                                    <li>Duration: Ongoing from Dec 2021</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">2000+</p>
+                                                <p class="text-white text-18">Order Fulfillments Per Day</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">4M+</p>
+                                                <p class="text-white text-18">Customers</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">10M+</p>
+                                                <p class="text-white text-18">Orders Processed</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">36%</p>
+                                                <p class="text-white text-18">Increase in Conversion Rate</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" alt="Swiggy" title="Swiggy" class="lazy ob-cover" data-pagespeed-url-hash="2463694496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">FOOD DELIVERY</p>
+                                                <h3 class="h2 text-white font-bold">Swiggy</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We designed a chat and voice platform for Swiggy customers to raise their queries. Our RoR experts used circuit breaker technology by microservice, which helped them to resolve latency
+                                                        issues. If there is no agent assigned for a long time, we set an alert in the system using Prometheus.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | ReactJS | Golang</li>
+                                                    <li>Duration: 2 Years - Ongoing</li>
+                                                    <li>Number of Developers: 30</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">40%</p>
+                                                <p class="text-white text-18">Increase in Order Management Capacity</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">60%</p>
+                                                <p class="text-white text-18">Increase in Workflow Efficiency</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">35%</p>
+                                                <p class="text-white text-18">Decrease in Errors Associated with Order Management</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">90%</p>
+                                                <p class="text-white text-18">Accuracy in Solving User’s Query</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Pharmacy eCommerce</p>
+                                                <h3 class="h2 text-white font-bold">PharmaPlace</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We developed a platform that works as a middleware service for buyers and suppliers. It automatically suggests best sellers, featured products, and new brands for the purchaser from
+                                                        one place. Our RoR developer integrated a list of brands that compare two or more products.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | JavaScript | CoffeeScript</li>
+                                                    <li>Duration: 8 Months</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">99%</p>
+                                                <p class="text-white text-18">Accuracy in Data Generation</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">12+</p>
+                                                <p class="text-white text-18">Health Tracking Parameters Integrated</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">1000+</p>
+                                                <p class="text-white text-18">Practitioners Onboard</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">2 Million+</p>
+                                                <p class="text-white text-18">Tele-health Consultations</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-3.jpg,qv-4.pagespeed.ic.N58OBSfvrT.webp" alt="Merchinator" title="Merchinator" class="lazy ob-cover" data-pagespeed-url-hash="3304819170" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Merchandizing</p>
+                                                <h3 class="h2 text-white font-bold">Merchinator</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        Our dedicated Ruby on Rails developer developed an option to create product variants and assigned all the available groups to SKU, where users can make all the available variants
+                                                        individually to ease the process and save time. Besides, our developers have also reduced page loading speed from 25 minutes to 2-3 minutes, eventually increasing the development time.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | Docker</li>
+                                                    <li>Duration: Ongoing from Dec 2021</li>
+                                                    <li>Number of Developers: 5</li>
+                                                    <li>Project Size: $10000 to $50000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">2000+</p>
+                                                <p class="text-white text-18">Order Fulfillments Per Day</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">4M+</p>
+                                                <p class="text-white text-18">Customers</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">10M+</p>
+                                                <p class="text-white text-18">Orders Processed</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">36%</p>
+                                                <p class="text-white text-18">Increase in Conversion Rate</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-1.jpg,qv-4.pagespeed.ic.1ZDoGpALCP.webp" alt="Swiggy" title="Swiggy" class="lazy ob-cover" data-pagespeed-url-hash="2463694496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">FOOD DELIVERY</p>
+                                                <h3 class="h2 text-white font-bold">Swiggy</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We designed a chat and voice platform for Swiggy customers to raise their queries. Our RoR experts used circuit breaker technology by microservice, which helped them to resolve latency
+                                                        issues. If there is no agent assigned for a long time, we set an alert in the system using Prometheus.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | ReactJS | Golang</li>
+                                                    <li>Duration: 2 Years - Ongoing</li>
+                                                    <li>Number of Developers: 30</li>
+                                                    <li>Project Size: $100000 to $150000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">40%</p>
+                                                <p class="text-white text-18">Increase in Order Management Capacity</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">60%</p>
+                                                <p class="text-white text-18">Increase in Workflow Efficiency</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">35%</p>
+                                                <p class="text-white text-18">Decrease in Errors Associated with Order Management</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">90%</p>
+                                                <p class="text-white text-18">Accuracy in Solving User’s Query</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 1296px; margin-right: 10px;">
+                                    <div class="item">
+                                        <div class="row gx-lg-0 posation-relative section-paragraph">
+                                            <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
+                                                <picture>
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/new-cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xnew-cs-2.jpg,qv-4.pagespeed.ic.AAPQ2z-EGC.webp" alt="PharmaPlace" title="PharmaPlace" class="lazy ob-cover" data-pagespeed-url-hash="2884256833" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                                </picture>
+                                            </div>
+                                            <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
+                                                <p class="text-primary text-uppercase mb-0">Pharmacy eCommerce</p>
+                                                <h3 class="h2 text-white font-bold">PharmaPlace</h3>
+                                                <div class="boxed bg-white mt-sm">
+                                                    <p>
+                                                        We developed a platform that works as a middleware service for buyers and suppliers. It automatically suggests best sellers, featured products, and new brands for the purchaser from
+                                                        one place. Our RoR developer integrated a list of brands that compare two or more products.
+                                                    </p>
+                                                </div>
+                                                <ul class="style-check text-white mt-sm text-18">
+                                                    <li>Core Technology: RoR | JavaScript | CoffeeScript</li>
+                                                    <li>Duration: 8 Months</li>
+                                                    <li>Number of Developers: 15</li>
+                                                    <li>Project Size: $50000 to $100000</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row gy-4 gy-md-5 mt-0">
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">99%</p>
+                                                <p class="text-white text-18">Accuracy in Data Generation</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">12+</p>
+                                                <p class="text-white text-18">Health Tracking Parameters Integrated</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3 border-lg-right border-secondary">
+                                                <p class="text-primary h2 font-bold">1000+</p>
+                                                <p class="text-white text-18">Practitioners Onboard</p>
+                                            </div>
+                                            <div class="col-md-6 col-lg-3">
+                                                <p class="text-primary h2 font-bold">2 Million+</p>
+                                                <p class="text-white text-18">Tele-health Consultations</p>
+                                            </div>
+                                            <div class="col-12">
+                                                <a href="#form" class="btn btn-primary text-uppercase ls-xs">GET A QUOTE FOR YOUR PROJECT</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="owl-nav disabled">
+                            <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+                        </div>
+                        <div class="owl-dots">
+                            <button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-padding combination-slider round-dot-slider section-paragraph">
     <div class="container-fluid">
         <div class="row">
@@ -840,7 +1223,7 @@
                 <div class="accordian-outer" itemscope="" itemtype="https://schema.org/FAQPage">
                     <div class="accordion-item bg-white accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name" class="">Is 1 days risk-free trial period completely free?</a>
+                            <a href="#a" itemprop="name" class="">Is 15 days risk-free trial period completely free?</a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
                             <p itemprop="text">
