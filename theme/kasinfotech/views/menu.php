@@ -57,10 +57,10 @@
 
                                         <div class="col-lg-2">
                                             <p class="dropdown-item nav-link font-semibold">Innovate</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-rpa-developer') ?>">Robotic Process Automation</a>
+
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('software-engineering') ?>">Software Engineering</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('web-development-services') ?>">Web Development</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('internet-of-things-consulting-services') ?>">Internet of Things (IoT)</a>
+
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-data-scientist') ?>">Data Science</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ai-developer') ?>">Artificial Intelligence</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ml-developer') ?>">Machine Learning</a>
