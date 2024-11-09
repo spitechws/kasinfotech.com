@@ -174,7 +174,7 @@
                                                 </div>
                                                 <picture>
                                                     <source srcset="<?php echo asset('images/gptw.webp'); ?>" type="image/webp">
-                                                    <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
+                                                    <source srcset="images/gptw.png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  " title="KAS Pvt Ltd  ">
                                                 </picture>
                                             </div>
                                         </a>

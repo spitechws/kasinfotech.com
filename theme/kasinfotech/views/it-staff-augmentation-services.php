@@ -85,7 +85,7 @@
                                     <source srcset="<?php echo base_url(); ?>main-boot-5/images/header/gptw.png?v-1" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/header/xgptw.png,qv-1.pagespeed.ic.KH5pPBKleP.webp" src="<?php echo base_url(); ?>main-boot-5/images/header/xgptw.png,qv-1.pagespeed.ic.KH5pPBKleP.webp" alt="IT Staff Augmentation" title="IT Staff Augmentation" data-pagespeed-url-hash="3150800697" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                                 </picture>
                             </h2>
-                            <span class=" text-primary small-heading-two ml-2" style="height: 48px;">Great Place to Work Certified</span>
+                            <span class=" text-primary small-heading-two ml-2" style="height: 48px;"> Certified</span>
                         </div>
                     </div>
                 </div>

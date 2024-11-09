@@ -63,7 +63,7 @@
                                                         <picture>
                                                             <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
                                                             <source srcset="images/gptw(5).png" type="image/jpeg">
-                                                            <img data-src="<?php echo asset('images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png')?>" src="<?php echo asset('images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png')?>" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
+                                                            <img data-src="<?php echo asset('images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png')?>" src="<?php echo asset('images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png')?>" alt="KAS Pvt Ltd  " title="KAS Pvt Ltd  ">
                                                         </picture>
                                                     </div>
                                                 </a>
