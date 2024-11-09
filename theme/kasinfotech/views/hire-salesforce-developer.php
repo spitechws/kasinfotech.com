@@ -20,18 +20,32 @@
 <section class="header-spacing section-padding banner-post banner-main">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset(); ?>images/hire-salesforce/banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset(); ?>images/hire-salesforce/banner.jpg?v-2" type="image/jpeg" />
-            <img data-src="<?php echo asset(); ?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp" src="<?php echo asset(); ?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp" alt="Hire Salesforce Developer" title="Hire Salesforce Developer" data-pagespeed-url-hash="3928554189" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+            <source srcset="<?php echo asset();?>images/hire-salesforce/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/hire-salesforce/banner.jpg?v-2" type="image/jpeg" />
+            <img
+                data-src="<?php echo asset();?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
+                src="<?php echo asset();?>images/hire-salesforce/xbanner.jpg,qv-2.pagespeed.ic.gctKW2xGLB.webp"
+                alt="Hire Salesforce Developer"
+                title="Hire Salesforce Developer"
+                data-pagespeed-url-hash="3928554189"
+                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+            />
         </picture>
     </figure>
     <div class="container">
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse align-items-lg-center">
             <div class="col-lg-5 text-center">
                 <picture>
-                    <source srcset="<?php echo asset(); ?>images/hire-salesforce/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset(); ?>images/hire-salesforce/banner-side.png?v-4" type="image/jpeg" />
-                    <img data-src="<?php echo asset(); ?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp" src="<?php echo asset(); ?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp" alt="Salesforce Developer" title="Salesforce Developer " data-pagespeed-url-hash="99794267" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <source srcset="<?php echo asset();?>images/hire-salesforce/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset();?>images/hire-salesforce/banner-side.png?v-4" type="image/jpeg" />
+                    <img
+                        data-src="<?php echo asset();?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
+                        src="<?php echo asset();?>images/hire-salesforce/xbanner-side.png,qv-4.pagespeed.ic.vChoqCPE5d.webp"
+                        alt="Salesforce Developer"
+                        title="Salesforce Developer "
+                        data-pagespeed-url-hash="99794267"
+                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                    />
                 </picture>
             </div>
             <div class="col-lg-7">
@@ -61,9 +75,15 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
-                                    <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" alt="icon" data-pagespeed-url-hash="4181604599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <img
+                                        data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
+                                        src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
+                                        alt="icon"
+                                        data-pagespeed-url-hash="4181604599"
+                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                    />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -75,9 +95,15 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
-                                    <img data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" alt="icon" data-pagespeed-url-hash="1458408289" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
+                                    <img
+                                        data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
+                                        src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
+                                        alt="icon"
+                                        data-pagespeed-url-hash="1458408289"
+                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                    />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -89,9 +115,15 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
-                                    <img data-src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA=" src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA=" alt="icon" data-pagespeed-url-hash="252445422" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
+                                    <img
+                                        data-src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
+                                        src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
+                                        alt="icon"
+                                        data-pagespeed-url-hash="252445422"
+                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                    />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -159,12 +191,19 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.kasinfotech.com/">
-                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                            <a href="https://www.bacancytechnology.com/">
+                                <img
+                                    src="images/bacancy-icon.svg?v-1"
+                                    alt="Agile Software Development Company"
+                                    title="Agile Software Development Company"
+                                    class="h-20"
+                                    data-pagespeed-url-hash="4281980927"
+                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
+                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Salesforce Developer</li>
                     </ol>
@@ -183,7 +222,7 @@
                     </div>
                 </div>
                 <p>
-                    Work with a certified team of salesforce developers to achieve a unified business flow. <b>Hire salesforce developer</b> from KAS Pvt Ltdhighly skilled at every integration scenario such as Microsoft Dynamics 365, NetSuite,
+                    Work with a certified team of salesforce developers to achieve a unified business flow. <b>Hire salesforce developer</b> from Bacancy highly skilled at every integration scenario such as Microsoft Dynamics 365, NetSuite,
                     Oracle ERP Cloud, and SAP. We have 12+ years of proven experience in successful CRM solutions development, deployment, and integration. Our experience, dedication, and commitment to excel your expectations make us the
                     most trusted and reliable Salesforce services partner.
                 </p>
@@ -215,7 +254,7 @@
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1 mb-lg">Salesforce Development Services We Offer</h2>
-                        <p>We offer a comprehensive range of <a href="https://www.kasinfotech.com/salesforce-development-services" class="text-primary">Salesforce development</a> services at pocket-friendly prices.</p>
+                        <p>We offer a comprehensive range of <a href="https://www.bacancytechnology.com/salesforce-development-services" class="text-primary">Salesforce development</a> services at pocket-friendly prices.</p>
                     </div>
                     <div class="resp-btn overflow-hidden">
                         <a href="#form" class="btn btn-outline-primary text-uppercase mt-4 mt-lg-5 mr-3 ls-xs">Book Free Consultation</a>
@@ -224,51 +263,57 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer">
-
+                <div class="service-box bg-white m-0">
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-consulting-service" class="text-primary">Salesforce Consulting</a></h3>
+                    <p>
+                        Partner with the most brilliant team of salesforce consultants holding years of experience in various industries and domains. Our certified Salesforce professionals will hear you thoroughly, learn your business model
+                        and requirements and deliver you the best-in-class suggestions, recommendations and action plans.
+                    </p>
+                </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-integration-services" class="text-primary">Salesforce Integration</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-integration-services" class="text-primary">Salesforce Integration</a></h3>
                     <p>
                         We will help you align and integrate your existing system with the powerful Salesforce platform in a hassle-free way. Our Salesforce programmers are well-versed with the seamless, reliable and secure salesforce
                         integration solutions based on your custom business requirements.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-implementation-services" class="text-primary">Salesforce Implementation</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-implementation-services" class="text-primary">Salesforce Implementation</a></h3>
                     <p>
                         We will help you get the best outcomes by implementing Salesforce in your current business environment. Our Salesforce implementation experts deliver exceptional implementation services that improve your business
                         processes and workflows.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-classic-to-lightning-migration" class="text-primary">Salesforce Migration</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-classic-to-lightning-migration" class="text-primary">Salesforce Migration</a></h3>
                     <p>
                         Migrate your current system with Salesforce CRM software without compromising your data security with us. Our dedicated salesforce professionals have hands-on experience in Salesforce migration. So whether you want
                         to migrate it to a third-party system or current business applications, we can do it for you.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-customization" class="text-primary">Salesforce Customization</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-customization" class="text-primary">Salesforce Customization</a></h3>
                     <p>
                         We deliver a wide range of salesforce customization services that helps you to enhance your customer experience and grow your business. Our <i>Salesforce developer</i> will add custom objects, records and other
                         elements to your salesforce solutions that make them more powerful and functional.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-app-development" class="text-primary">Salesforce App Development</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-app-development" class="text-primary">Salesforce App Development</a></h3>
                     <p>
                         We can create custom applications for your salesforce system based on your business needs. Our developed applications are highly customizable, rich in features and bug-free, efficient and incorporate the latest
                         technologies that augment your business processes.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-service-cloud" class="text-primary">Salesforce Cloud Services</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-service-cloud" class="text-primary">Salesforce Cloud Services</a></h3>
                     <p>
                         We provide a comprehensive range of Salesforce cloud services. Whether it is the Marketing Cloud, Sales Cloud, Service cloud, Vaccine cloud, Commerce cloud or other essential services, you will find a dedicated team
                         of salesforce developers for hire to help you with the best cloud solutions.
                     </p>
                 </div>
                 <div class="service-box bg-white">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/salesforce-support-services" class="text-primary">Salesforce Support and Maintenance</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/salesforce-support-services" class="text-primary">Salesforce Support and Maintenance</a></h3>
                     <p>
                         We deliver excellent Salesforce support and maintenance services to our customers. Our Salesforce CRM developers are here to help you 24/7/365. So no matter how big or small the issues will be you can rely on us for
                         every query.
@@ -345,9 +390,17 @@
 <section class="section-padding pt-200 banner-post full-width-form pb-200" id="form">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset(); ?>images/spring-boot-ppc/form-bg.webp" type="image/webp" />
-            <source srcset="<?php echo asset(); ?>images/spring-boot-ppc/form-bg.png" type="image/png" />
-            <img data-src="<?php echo asset(); ?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp" src="<?php echo asset(); ?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp" alt="Hire Salesforce Developer Within 48 Hours" title="Hire Salesforce Developer Within 48 Hours" class="lazy" data-pagespeed-url-hash="3720828091" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+            <source srcset="<?php echo asset();?>images/spring-boot-ppc/form-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset();?>images/spring-boot-ppc/form-bg.png" type="image/png" />
+            <img
+                data-src="<?php echo asset();?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
+                src="<?php echo asset();?>images/spring-boot-ppc/xform-bg.png.pagespeed.ic.Q4gd5T39-v.webp"
+                alt="Hire Salesforce Developer Within 48 Hours"
+                title="Hire Salesforce Developer Within 48 Hours"
+                class="lazy"
+                data-pagespeed-url-hash="3720828091"
+                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+            />
         </picture>
     </figure>
     <div class="container">
@@ -370,7 +423,16 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
+                                        <input
+                                            type="text"
+                                            class="form-control bg-graylight validate-required focus-class"
+                                            id="focus-id"
+                                            maxlength="80"
+                                            name="contactName"
+                                            size="20"
+                                            placeholder="Your Name"
+                                            style="outline: rgb(149, 143, 143) solid 2px;"
+                                        />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -404,7 +466,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center">
-                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
+                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -498,11 +560,11 @@
                                 <div class="panel-collapse collapse in exp-ser-2">
                                     <div class="panel-body text-center">
                                         <ul class="d-flex flex-wrap">
-                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.kasinfotech.com/salesforce-service-cloud" class="text-primary">Service Cloud</a></li>
-                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.kasinfotech.com/salesforce-sales-cloud" class="text-primary">Sales Cloud</a></li>
-                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.kasinfotech.com/salesforce-commerce-cloud" class="text-primary">Commerce Cloud</a></li>
-                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.kasinfotech.com/salesforce-financial-services-cloud" class="text-primary">Financial Services Cloud</a></li>
-                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.kasinfotech.com/salesforce-marketing-cloud" class="text-primary">Marketing Cloud</a></li>
+                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.bacancytechnology.com/salesforce-service-cloud" class="text-primary">Service Cloud</a></li>
+                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.bacancytechnology.com/salesforce-sales-cloud" class="text-primary">Sales Cloud</a></li>
+                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.bacancytechnology.com/salesforce-commerce-cloud" class="text-primary">Commerce Cloud</a></li>
+                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.bacancytechnology.com/salesforce-financial-services-cloud" class="text-primary">Financial Services Cloud</a></li>
+                                            <li class="border px-2 py-2 mr-3 mb-3 text-18"><a href="https://www.bacancytechnology.com/salesforce-marketing-cloud" class="text-primary">Marketing Cloud</a></li>
                                             <li class="border px-2 py-2 mr-3 mb-3 text-18">Field Service Cloud</li>
                                             <li class="border px-2 py-2 mr-3 mb-3 text-18">Community Cloud</li>
                                             <li class="border px-2 py-2 mr-3 mb-3 text-18">App Cloud</li>
@@ -590,9 +652,17 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-1.jpg?v-2" type="image/jpeg" />
-                                        <img data-src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp" src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp" alt="Healthcare Solution" title="Healthcare Solution" class="ob-cover" data-pagespeed-url-hash="1397050031" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-1.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-1.jpg?v-2" type="image/jpeg" />
+                                        <img
+                                            data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
+                                            src="<?php echo asset();?>images/hire-salesforce/xcs-img-1.jpg,qv-2.pagespeed.ic.EahgC9gwRj.webp"
+                                            alt="Healthcare Solution"
+                                            title="Healthcare Solution"
+                                            class="ob-cover"
+                                            data-pagespeed-url-hash="1397050031"
+                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                        />
                                     </picture>
                                 </div>
                             </div>
@@ -613,9 +683,17 @@
                             <div class="col-md-5">
                                 <div class="position-relative h-100">
                                     <picture>
-                                        <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-3.jpg?v-6" type="image/jpeg" />
-                                        <img data-src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp" src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp" alt="Salesforce Lighting" title="Salesforce Lighting" class="ob-cover" data-pagespeed-url-hash="2238174709" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-3.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-3.jpg?v-6" type="image/jpeg" />
+                                        <img
+                                            data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
+                                            src="<?php echo asset();?>images/hire-salesforce/xcs-img-3.jpg,qv-6.pagespeed.ic.rfDTJj-cK_.webp"
+                                            alt="Salesforce Lighting"
+                                            title="Salesforce Lighting"
+                                            class="ob-cover"
+                                            data-pagespeed-url-hash="2238174709"
+                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                        />
                                     </picture>
                                 </div>
                             </div>
@@ -638,9 +716,17 @@
                     <div class="col-md-5 col-lg-12">
                         <div class="position-relative h-100">
                             <picture>
-                                <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-2.webp" type="image/webp" />
-                                <source srcset="<?php echo asset(); ?>images/hire-salesforce/cs-img-2.jpg?v-7" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp" src="<?php echo asset(); ?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp" alt="Real Estate Solution" title="Real Estate Solution" class="ob-cover" data-pagespeed-url-hash="1817612373" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset();?>images/hire-salesforce/cs-img-2.jpg?v-7" type="image/jpeg" />
+                                <img
+                                    data-src="<?php echo asset();?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
+                                    src="<?php echo asset();?>images/hire-salesforce/xcs-img-2.jpg,qv-7.pagespeed.ic.7KXObCrkCP.webp"
+                                    alt="Real Estate Solution"
+                                    title="Real Estate Solution"
+                                    class="ob-cover"
+                                    data-pagespeed-url-hash="1817612373"
+                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                />
                             </picture>
                         </div>
                     </div>
@@ -649,7 +735,7 @@
                             <p class="text-primary font-bold text-uppercase mb-2">realestate</p>
                             <h2 class="mb-2">Real Estate Solution</h2>
                             <p class="text-18">
-                                A Reputed Real Estate Service Provider in San Francisco chose KAS Pvt Ltdfor their Salesforce project. Our SF developers provided solutions like a unique set of integrations and custom development addressed to
+                                A Reputed Real Estate Service Provider in San Francisco chose Bacancy for their Salesforce project. Our SF developers provided solutions like a unique set of integrations and custom development addressed to
                                 varied requirements, maximized their CRM, and unlocked the full power of their investment from Salesforce features.
                             </p>
                         </div>
@@ -657,24 +743,32 @@
                 </div>
             </div>
             <div class="col-12 text-center mt-5">
-                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
+                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs"><span>request for quotation</span></a>
             </div>
         </div>
     </div>
 </section>
 <section class="abt-team section-paragraph section-padding-bottom pt-0">
     <picture>
-        <source srcset="<?php echo asset(); ?>images/hire-salesforce/hire-img.webp" type="image/webp" />
-        <source srcset="<?php echo asset(); ?>images/hire-salesforce/hire-img.jpg" type="image/jpeg" />
-        <img data-src="<?php echo asset(); ?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp" src="<?php echo asset(); ?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp" alt="Hire Salesforce Developers From kasinfotech" title="Hire Salesforce Developers From kasinfotech" class="lazy w-100" data-pagespeed-url-hash="1178720891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+        <source srcset="<?php echo asset();?>images/hire-salesforce/hire-img.webp" type="image/webp" />
+        <source srcset="<?php echo asset();?>images/hire-salesforce/hire-img.jpg" type="image/jpeg" />
+        <img
+            data-src="<?php echo asset();?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
+            src="<?php echo asset();?>images/hire-salesforce/xhire-img.jpg.pagespeed.ic.Ni8DjQKdFN.webp"
+            alt="Hire Salesforce Developers From Bacancy"
+            title="Hire Salesforce Developers From Bacancy"
+            class="lazy w-100"
+            data-pagespeed-url-hash="1178720891"
+            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+        />
     </picture>
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="boxed">
-                    <h2 class="h1 font-semibold text-desc">Why Hire Salesforce Developers From kasinfotech?</h2>
+                    <h2 class="h1 font-semibold text-desc">Why Hire Salesforce Developers From Bacancy?</h2>
                     <p>
-                        At kasinfotech, we value the trust and manage your projects accordingly ensuring transparency, on-time delivery, and complete satisfaction. You can hire Salesforce developer from us for a comprehensive range of
+                        At bacancy, we value the trust and manage your projects accordingly ensuring transparency, on-time delivery, and complete satisfaction. You can hire Salesforce developer from us for a comprehensive range of
                         Salesforce development, deployment, integration, and customization services. Our certified Salesforce developers are well-experienced in error-free Salesforce implementation, the development of industry-specific
                         applications, and everything related to Salesforce.
                     </p>
@@ -790,11 +884,11 @@
                         </div>
                         <div class="accordion-item bg-graylight accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
+                                <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Salesforce developers from kasinfotech.
+                                    We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Salesforce developers from Bacancy.
                                 </p>
                                 <strong>Dedicated Developer – Monthly basis</strong>
                                 <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
@@ -813,7 +907,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
+                                    We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
                                     help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>
@@ -825,7 +919,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Senior Salesforce Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <strong><a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype</strong> us at <strong>"kasinfotech"</strong>
+                                    <strong><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype</strong> us at <strong>"Bacancy"</strong>
                                 </p>
                             </div>
                         </div>
@@ -868,4 +962,193 @@
         </div>
     </div>
 </section>
+<section class="">
+    <div class="container">
+        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
+            <div class="insight-slider-navigation" id="insight-navigation-block">
+                <ul class="nav-block">
+                    <li class="nav-item active">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">01</span>
+                            <span class="text">Top 1% IT Talent</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">02</span>
+                            <span class="text">Time Zone Aligned</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">03</span>
+                            <span class="text">Experienced Team</span>
+                        </a>
+                    </li>
+                    <span class="active-line"></span>
+                </ul>
+            </div>
+            <div class="insight-slider-main section-padding-md">
+                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
+                            <div class="owl-item active" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
+                                                <img
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
+                                                    alt="Top 1% IT Talent"
+                                                    title="Top 1% IT Talent"
+                                                    class="lazy slider-img"
+                                                    data-pagespeed-url-hash="2883500071"
+                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                                />
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
+                                            <p class="text-lg text-secondary">
+                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
+                                                <img
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
+                                                    alt="Time Zone Aligned"
+                                                    title="Time Zone Aligned"
+                                                    class="lazy slider-img"
+                                                    data-pagespeed-url-hash="3304062408"
+                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                                />
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
+                                            <p class="text-lg text-secondary">
+                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
+                                                <img
+                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
+                                                    alt="Experienced Team"
+                                                    title="Experienced Team"
+                                                    class="lazy slider-img"
+                                                    data-pagespeed-url-hash="3724624745"
+                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
+                                                />
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
+                                            <p class="text-lg text-secondary">
+                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
+                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-nav">
+                        <button type="button" role="presentation" class="owl-prev disabled">
+                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
+                        </button>
+                        <button type="button" role="presentation" class="owl-next">
+                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
+                        </button>
+                    </div>
+                    <div class="owl-dots disabled"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-padding bg-graylight" id="footer-form-id">
+    <div class="container">
+        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
+            <div class="row align-items-lg-baseline">
+                <div class="col-lg-3">
+                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
+                </div>
+                <div class="col-lg-9">
+                    <div class="m-0">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-12 text-right">
+                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="row footer-pagination">
+            <div class="col-6 section-padding-sm border-right">
+                <div class="boxed-left">
+                    <p class="mb-0">Previous</p>
+                    <a href="#" class="h3 text-link">React JS <span class="long-arrow-icon-css icon-item right"></span></a>
+                </div>
+            </div>
+            <div class="col-6 section-padding-sm">
+                <div class="boxed-right text-right">
+                    <p class="mb-0">Next</p>
+                    <a href="#" class="h3 text-link">Native JS <span class="long-arrow-icon-css icon-item right"></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <?php include_once('footer.php') ?>

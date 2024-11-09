@@ -230,7 +230,7 @@
     const carouselText = [{
         text: "Software"
     }, {
-        text: "Embedded"
+        text: "Product"
     }, {
         text: "Hardware"
     }]

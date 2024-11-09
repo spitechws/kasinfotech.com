@@ -224,8 +224,8 @@
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Website Development </a></li>
                             <li><a href="<?php echo base_url(); ?>software-engineering">Andriod App Development</a></li>
-                            <li><a href="<?php echo base_url(); ?>web-development-services">Digital Marketing</a></li>
                             <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Customize Software Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Digital Marketing</a></li>
 
                         </ul>
                     </ul>

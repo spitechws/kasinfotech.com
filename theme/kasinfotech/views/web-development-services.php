@@ -47,9 +47,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <span class="h4 font-bold text-center d-block d-lg-none mb-3">Trusted By</span>
+                <span class="h4 font-bold text-center d-block d-lg-none mb-3">Inspired By</span>
                 <ul>
-                    <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
+                    <li class="h4 font-medium d-none d-lg-block">Inspired By</li>
                     <li>
                         <picture>
                             <source srcset="<?php echo asset('images/logo-1.webp'); ?>" type="image/webp">
