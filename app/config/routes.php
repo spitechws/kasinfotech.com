@@ -33,13 +33,13 @@ $route["home_ajax"] = "home/Home_ajax/index/";
 
 $aPage = [
     'about-us', 'privacy-policy', 'terms-and-conidtions', 'digital-workplace-services', 'product-enhancement',
-    'ai-ml-development-services', 'software-engineering', 'data-analytics-services', 'sap-consulting-services',
+     'software-engineering', 'sap-consulting-services',
     'hire-rpa-developer', 'software-engineering', 'web-development-services', 'internet-of-things-consulting-services',
-    'hire-data-scientist', 'hire-ai-developer', 'hire-ml-developer', 'cloud-native-application-development',
-    'digital-process-automation', 'open-source-web-development', 'dynamics-365-consulting', 'salesforce-consulting-service',
+    'hire-data-scientist', 'hire-ai-developer', 'hire-ml-developer',
+    'digital-process-automation', 'pms-go', 'services',
     'quality-assurance-testing-services', 'it-staff-augmentation-services','banking-finance-insurance-software-development','healthcare-application-software-development',
     'minimum-viable-product-development-service','real-estate-software-development','oil-and-gas-enterprise-mobility-solution','logistics-mobile-application-development','agile-mindset',
-    'kas-pvt-ltd-values','kas-pvt-ltd-culture','leadership','awards-recognition','infrastructure','testimonials','locations','partnership','media-coverage','angular-js-development','hire-reactjs-developer','hire-vuejs-developer','ui-ux-enhancement-service','hire-microsoft-dynamics-365-developer','hire-salesforce-developer','ruby-on-rails-development','hire-node-developer','hire-golang-developer','hire-laravel-developer','hire-dot-net-developer','hire-spring-boot-developer','hire-python-developer','hire-react-native-developer','hire-flutter-developer','android-application-development','mobile-app-development','aws-cloud-consulting-services','hire-devops-developers','automation-testing-services','organizational-structure','hr-transformation','lifecycle-management','talent-assessments-and-performance','employee-engagement-surveys','rewards-and-recognition','workforce-analytics','digital-hr-and-process-automation'
+    'kas-pvt-ltd-values','kas-pvt-ltd-culture','leadership','awards-recognition','infrastructure','locations','partnership','angular-js-development','hire-reactjs-developer','hire-vuejs-developer','ui-ux-enhancement-service','hire-microsoft-dynamics-365-developer','hire-salesforce-developer','ruby-on-rails-development','hire-node-developer','hire-golang-developer','hire-laravel-developer','hire-dot-net-developer','hire-spring-boot-developer','hire-python-developer','hire-react-native-developer','hire-flutter-developer','android-application-development','mobile-app-development','aws-cloud-consulting-services','hire-devops-developers','automation-testing-services','organizational-structure','hr-transformation','lifecycle-management','talent-assessments-and-performance','employee-engagement-surveys','rewards-and-recognition','workforce-analytics','digital-hr-and-process-automation'
 ];
 foreach ($aPage as $method) {
     $route[$method] = "home/page/" . $method;

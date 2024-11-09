@@ -19,16 +19,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                alt="Hire DevOps Developer"
-                title="Hire DevOps Developer"
-                data-pagespeed-url-hash="3945081738"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" alt="Hire DevOps Developer" title="Hire DevOps Developer" data-pagespeed-url-hash="3945081738" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -62,15 +55,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="4181604599"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" alt="icon" data-pagespeed-url-hash="4181604599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -82,15 +69,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="307199640"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" alt="icon" data-pagespeed-url-hash="307199640" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -102,15 +83,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="727761977"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" alt="icon" data-pagespeed-url-hash="727761977" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -122,16 +97,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp"
-                        src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp"
-                        alt="Hire DevOps Developer"
-                        title="Hire DevOps Developer"
-                        data-pagespeed-url-hash="3041805025"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-side.png.pagespeed.ic.mBB7yTh8-c.webp" alt="Hire DevOps Developer" title="Hire DevOps Developer" data-pagespeed-url-hash="3041805025" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -192,19 +160,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire DevOps Developer</li>
                     </ol>
@@ -224,7 +185,7 @@
                     </div>
                 </div>
                 <p>
-                    At Bacancy, we enable engineering teams and organizations to deploy features faster with supreme quality. <b>Hire DevOps developer</b> from us to automate internal operations and release updates faster by refining the
+                    At kasinfotech, we enable engineering teams and organizations to deploy features faster with supreme quality. <b>Hire DevOps developer</b> from us to automate internal operations and release updates faster by refining the
                     efficiency of your IT departments. Our DevOps engineers can modernize your app development processes at cost-effective rates.
                 </p>
                 <p>
@@ -244,7 +205,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">DevOps Development Services We Offer</h2>
                         <p class="mb-0">
-                            Bacancy is a DevOps service provider that empowers a continuous workflow from development to operations by confirming more predictable releases. We use best-in-class development tools and state-of-the-art
+                            KAS Pvt Ltdis a DevOps service provider that empowers a continuous workflow from development to operations by confirming more predictable releases. We use best-in-class development tools and state-of-the-art
                             practices to scale up your business and bring the best of both worlds. <i>Hire DevOps engineer</i> to bridge the DevOps gap.
                         </p>
                         <div class="resp-btn overflow-hidden">
@@ -258,17 +219,9 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-1.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-1.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-1.png.pagespeed.ic.qY7Aw7J76B.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-1.png.pagespeed.ic.qY7Aw7J76B.webp"
-                                    alt="DevOps Consulting Services"
-                                    title="DevOps Consulting Services"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="1286242405"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-1.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-1.png.pagespeed.ic.qY7Aw7J76B.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-1.png.pagespeed.ic.qY7Aw7J76B.webp" alt="DevOps Consulting Services" title="DevOps Consulting Services" class="lazy" data-pagespeed-url-hash="1286242405" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
@@ -281,17 +234,9 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-2.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-2.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-2.png.pagespeed.ic.X91VWiYtS_.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-2.png.pagespeed.ic.X91VWiYtS_.webp"
-                                    alt="Infrastructure Automation"
-                                    title="Infrastructure Automation"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="1580742326"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-2.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-2.png.pagespeed.ic.X91VWiYtS_.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-2.png.pagespeed.ic.X91VWiYtS_.webp" alt="Infrastructure Automation" title="Infrastructure Automation" class="lazy" data-pagespeed-url-hash="1580742326" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
@@ -304,17 +249,9 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-3.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-3.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-3.png.pagespeed.ic.R8tNNoq6zv.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-3.png.pagespeed.ic.R8tNNoq6zv.webp"
-                                    alt="DevOps Configuration Management"
-                                    title="DevOps Configuration Management"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="1875242247"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-3.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-3.png.pagespeed.ic.R8tNNoq6zv.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-3.png.pagespeed.ic.R8tNNoq6zv.webp" alt="DevOps Configuration Management" title="DevOps Configuration Management" class="lazy" data-pagespeed-url-hash="1875242247" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
@@ -330,17 +267,9 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-4.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-4.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-4.png.pagespeed.ic.9AVSwC2uvo.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-4.png.pagespeed.ic.9AVSwC2uvo.webp"
-                                    alt="Continuous Integration &amp; Deployment"
-                                    title="Continuous Integration &amp; Deployment"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="2169742168"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-4.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-4.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-4.png.pagespeed.ic.9AVSwC2uvo.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-4.png.pagespeed.ic.9AVSwC2uvo.webp" alt="Continuous Integration &amp; Deployment" title="Continuous Integration &amp; Deployment" class="lazy" data-pagespeed-url-hash="2169742168" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
@@ -353,17 +282,9 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-5.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-5.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-5.png.pagespeed.ic.EdUDsJ6xJe.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-5.png.pagespeed.ic.EdUDsJ6xJe.webp"
-                                    alt="Infrastructure Monitoring &amp; Management"
-                                    title="Infrastructure Monitoring &amp; Management"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="2464242089"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-5.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-5.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-5.png.pagespeed.ic.EdUDsJ6xJe.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-5.png.pagespeed.ic.EdUDsJ6xJe.webp" alt="Infrastructure Monitoring &amp; Management" title="Infrastructure Monitoring &amp; Management" class="lazy" data-pagespeed-url-hash="2464242089" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
@@ -376,22 +297,14 @@
                     <div class="row gy-2 gy-lg-0">
                         <div class="col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-6.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/asset-6.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xasset-6.png.pagespeed.ic.BmOGsJPLae.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xasset-6.png.pagespeed.ic.BmOGsJPLae.webp"
-                                    alt="Platform-As-A-Service (Paas)"
-                                    title="Platform-As-A-Service (Paas)"
-                                    class="lazy"
-                                    data-pagespeed-url-hash="2758742010"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-6.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/asset-6.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xasset-6.png.pagespeed.ic.BmOGsJPLae.webp" src="<?php echo asset(); ?>images/devops-developer/xasset-6.png.pagespeed.ic.BmOGsJPLae.webp" alt="Platform-As-A-Service (Paas)" title="Platform-As-A-Service (Paas)" class="lazy" data-pagespeed-url-hash="2758742010" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-10">
                             <h3 class="h5 font-bold mb-sm">Platform-As-A-Service (Paas)</h3>
-                            <p>Bacancy is offering DevOps as a service and owning this expertise to provide comprehensive DevOps software development services like planning, strategy execution and managed services.</p>
+                            <p>KAS Pvt Ltdis offering DevOps as a service and owning this expertise to provide comprehensive DevOps software development services like planning, strategy execution and managed services.</p>
                         </div>
                     </div>
                 </div>
@@ -414,15 +327,9 @@
                     <div class="row gy-4 mb-sm align-items-lg-center">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-1.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-1.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xicon-b-1.png.pagespeed.ic.LU4KnnChOc.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xicon-b-1.png.pagespeed.ic.LU4KnnChOc.webp"
-                                    alt="Strategy &amp; Assessment"
-                                    data-pagespeed-url-hash="3757994035"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-1.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xicon-b-1.png.pagespeed.ic.LU4KnnChOc.webp" src="<?php echo asset(); ?>images/devops-developer/xicon-b-1.png.pagespeed.ic.LU4KnnChOc.webp" alt="Strategy &amp; Assessment" data-pagespeed-url-hash="3757994035" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -442,15 +349,9 @@
                     <div class="row gy-4 mb-sm align-items-lg-center">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-2.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-2.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xicon-b-2.png.pagespeed.ic.NABTHhSy93.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xicon-b-2.png.pagespeed.ic.NABTHhSy93.webp"
-                                    alt="DevOps Enablement"
-                                    data-pagespeed-url-hash="4052493956"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-2.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xicon-b-2.png.pagespeed.ic.NABTHhSy93.webp" src="<?php echo asset(); ?>images/devops-developer/xicon-b-2.png.pagespeed.ic.NABTHhSy93.webp" alt="DevOps Enablement" data-pagespeed-url-hash="4052493956" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -471,15 +372,9 @@
                     <div class="row gy-4 mb-sm align-items-lg-center">
                         <div class="col-md-6 col-lg-3">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-3.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/devops-developer/icon-b-3.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/devops-developer/xicon-b-3.png.pagespeed.ic.Myhm77acli.webp"
-                                    src="<?php echo asset();?>images/devops-developer/xicon-b-3.png.pagespeed.ic.Myhm77acli.webp"
-                                    alt="Optimization"
-                                    data-pagespeed-url-hash="52026581"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/devops-developer/icon-b-3.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/devops-developer/xicon-b-3.png.pagespeed.ic.Myhm77acli.webp" src="<?php echo asset(); ?>images/devops-developer/xicon-b-3.png.pagespeed.ic.Myhm77acli.webp" alt="Optimization" data-pagespeed-url-hash="52026581" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-lg-9">
@@ -591,19 +486,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -622,7 +509,7 @@
                     <div class="section-title-block text-center">
                         <h2 class="section-title-text h1">DevOps Tools Expertise</h2>
                         <p class="h3 section-title-text-two font-light">
-                            The Bacancy team lets you broaden your horizons with the skillful expertise in the state-of-the-art continuous integration and continuous delivery tools to accelerate your go-to-market initiatives and exemplify
+                            The KAS Pvt Ltdteam lets you broaden your horizons with the skillful expertise in the state-of-the-art continuous integration and continuous delivery tools to accelerate your go-to-market initiatives and exemplify
                             DevOps Possibilities.
                         </p>
                     </div>
@@ -636,30 +523,16 @@
                             <ul class="justify-content-md-around d-flex flex-wrap flex-md-wrap align-items-center w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-1.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-1.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-1.png.pagespeed.ic.WbUJOea4l_.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-1.png.pagespeed.ic.WbUJOea4l_.webp"
-                                            alt="Git"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="3047285179"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-1.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-1.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-1.png.pagespeed.ic.WbUJOea4l_.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-1.png.pagespeed.ic.WbUJOea4l_.webp" alt="Git" class="lazy" data-pagespeed-url-hash="3047285179" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-2.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-2.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-2.png.pagespeed.ic.lCarHXa5Ew.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-2.png.pagespeed.ic.lCarHXa5Ew.webp"
-                                            alt="Subversion (SVN)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="3341785100"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-2.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-2.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-2.png.pagespeed.ic.lCarHXa5Ew.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-2.png.pagespeed.ic.lCarHXa5Ew.webp" alt="Subversion (SVN)" class="lazy" data-pagespeed-url-hash="3341785100" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -669,72 +542,37 @@
                             <ul class="d-flex flex-wrap flex-md-wrap align-items-center w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-3.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-3.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-3.png.pagespeed.ic.LUiPX9CuD7.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-3.png.pagespeed.ic.LUiPX9CuD7.webp"
-                                            alt="Jenkins"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="3636285021"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-3.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-3.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-3.png.pagespeed.ic.LUiPX9CuD7.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-3.png.pagespeed.ic.LUiPX9CuD7.webp" alt="Jenkins" class="lazy" data-pagespeed-url-hash="3636285021" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-4.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-4.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-4.png.pagespeed.ic.CWClGxk0QN.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-4.png.pagespeed.ic.CWClGxk0QN.webp"
-                                            alt="CircleCI"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="3930784942"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-4.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-4.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-4.png.pagespeed.ic.CWClGxk0QN.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-4.png.pagespeed.ic.CWClGxk0QN.webp" alt="CircleCI" class="lazy" data-pagespeed-url-hash="3930784942" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-5.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-5.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-5.png.pagespeed.ic.thrbrVzUAf.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-5.png.pagespeed.ic.thrbrVzUAf.webp"
-                                            alt="Travis CI"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="4225284863"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-5.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-5.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-5.png.pagespeed.ic.thrbrVzUAf.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-5.png.pagespeed.ic.thrbrVzUAf.webp" alt="Travis CI" class="lazy" data-pagespeed-url-hash="4225284863" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-6.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-6.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-6.png.pagespeed.ic.WIUuJeKEno.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-6.png.pagespeed.ic.WIUuJeKEno.webp"
-                                            alt="GitLab CI/CD"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="224817488"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-6.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-6.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-6.png.pagespeed.ic.WIUuJeKEno.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-6.png.pagespeed.ic.WIUuJeKEno.webp" alt="GitLab CI/CD" class="lazy" data-pagespeed-url-hash="224817488" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-7.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-7.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-7.png.pagespeed.ic.69GUR2skAv.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-7.png.pagespeed.ic.69GUR2skAv.webp"
-                                            alt="TeamCity"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="519317409"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-7.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-7.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-7.png.pagespeed.ic.69GUR2skAv.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-7.png.pagespeed.ic.69GUR2skAv.webp" alt="TeamCity" class="lazy" data-pagespeed-url-hash="519317409" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -744,58 +582,30 @@
                             <ul class="d-flex flex-wrap flex-md-wrap align-items-center w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-8.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-8.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-8.png.pagespeed.ic.tQE9zxmuvx.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-8.png.pagespeed.ic.tQE9zxmuvx.webp"
-                                            alt="Ansible"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="813817330"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-8.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-8.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-8.png.pagespeed.ic.tQE9zxmuvx.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-8.png.pagespeed.ic.tQE9zxmuvx.webp" alt="Ansible" class="lazy" data-pagespeed-url-hash="813817330" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-9.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-9.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-9.png.pagespeed.ic.4fEMu2wEXP.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-9.png.pagespeed.ic.4fEMu2wEXP.webp"
-                                            alt="Puppet"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1108317251"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-9.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-9.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-9.png.pagespeed.ic.4fEMu2wEXP.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-9.png.pagespeed.ic.4fEMu2wEXP.webp" alt="Puppet" class="lazy" data-pagespeed-url-hash="1108317251" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-10.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-10.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-10.png.pagespeed.ic.EJdlUZR6CZ.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-10.png.pagespeed.ic.EJdlUZR6CZ.webp"
-                                            alt="Chef"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="203061099"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-10.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-10.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-10.png.pagespeed.ic.EJdlUZR6CZ.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-10.png.pagespeed.ic.EJdlUZR6CZ.webp" alt="Chef" class="lazy" data-pagespeed-url-hash="203061099" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-11.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-11.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-11.png.pagespeed.ic.tDeEOKg6ke.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-11.png.pagespeed.ic.tDeEOKg6ke.webp"
-                                            alt="SaltStack"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="497561020"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-11.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-11.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-11.png.pagespeed.ic.tDeEOKg6ke.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-11.png.pagespeed.ic.tDeEOKg6ke.webp" alt="SaltStack" class="lazy" data-pagespeed-url-hash="497561020" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -811,86 +621,44 @@
                             <ul class="justify-content-md-around d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-15.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-15.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-15.png.pagespeed.ic.0VxozS8WhU.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-15.png.pagespeed.ic.0VxozS8WhU.webp"
-                                            alt="Docker"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1675560704"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-15.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-15.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-15.png.pagespeed.ic.0VxozS8WhU.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-15.png.pagespeed.ic.0VxozS8WhU.webp" alt="Docker" class="lazy" data-pagespeed-url-hash="1675560704" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-16.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-16.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-16.png.pagespeed.ic.HfIrKHhnxC.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-16.png.pagespeed.ic.HfIrKHhnxC.webp"
-                                            alt="Kubernetes"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1970060625"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-16.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-16.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-16.png.pagespeed.ic.HfIrKHhnxC.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-16.png.pagespeed.ic.HfIrKHhnxC.webp" alt="Kubernetes" class="lazy" data-pagespeed-url-hash="1970060625" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-17.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-17.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-17.png.pagespeed.ic._bwYRJ4EZc.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-17.png.pagespeed.ic._bwYRJ4EZc.webp"
-                                            alt="Amazon ECS"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2264560546"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-17.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-17.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-17.png.pagespeed.ic._bwYRJ4EZc.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-17.png.pagespeed.ic._bwYRJ4EZc.webp" alt="Amazon ECS" class="lazy" data-pagespeed-url-hash="2264560546" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-18.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-18.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-18.png.pagespeed.ic.SZHaP3cTAk.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-18.png.pagespeed.ic.SZHaP3cTAk.webp"
-                                            alt="Google Kubernetes Engine (GKE)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2559060467"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-18.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-18.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-18.png.pagespeed.ic.SZHaP3cTAk.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-18.png.pagespeed.ic.SZHaP3cTAk.webp" alt="Google Kubernetes Engine (GKE)" class="lazy" data-pagespeed-url-hash="2559060467" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-19.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-19.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-19.png.pagespeed.ic.eK9ZKi_GOX.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-19.png.pagespeed.ic.eK9ZKi_GOX.webp"
-                                            alt="Amzon (EKS)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2853560388"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-19.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-19.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-19.png.pagespeed.ic.eK9ZKi_GOX.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-19.png.pagespeed.ic.eK9ZKi_GOX.webp" alt="Amzon (EKS)" class="lazy" data-pagespeed-url-hash="2853560388" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-20.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-20.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-20.png.pagespeed.ic.t7OqRnB6W6.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-20.png.pagespeed.ic.t7OqRnB6W6.webp"
-                                            alt="Azure (AKS)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="127845086"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-20.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-20.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-20.png.pagespeed.ic.t7OqRnB6W6.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-20.png.pagespeed.ic.t7OqRnB6W6.webp" alt="Azure (AKS)" class="lazy" data-pagespeed-url-hash="127845086" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -900,72 +668,37 @@
                             <ul class="d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-21.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-21.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-21.png.pagespeed.ic.Jv2XUGhG9x.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-21.png.pagespeed.ic.Jv2XUGhG9x.webp"
-                                            alt="Prometheus"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="422345007"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-21.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-21.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-21.png.pagespeed.ic.Jv2XUGhG9x.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-21.png.pagespeed.ic.Jv2XUGhG9x.webp" alt="Prometheus" class="lazy" data-pagespeed-url-hash="422345007" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-22.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-22.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-22.png.pagespeed.ic.JPz61o_JrT.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-22.png.pagespeed.ic.JPz61o_JrT.webp"
-                                            alt="Grafana"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="716844928"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-22.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-22.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-22.png.pagespeed.ic.JPz61o_JrT.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-22.png.pagespeed.ic.JPz61o_JrT.webp" alt="Grafana" class="lazy" data-pagespeed-url-hash="716844928" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-23.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-23.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-23.png.pagespeed.ic.QefJmhX9Vz.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-23.png.pagespeed.ic.QefJmhX9Vz.webp"
-                                            alt="Nagios"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1011344849"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-23.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-23.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-23.png.pagespeed.ic.QefJmhX9Vz.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-23.png.pagespeed.ic.QefJmhX9Vz.webp" alt="Nagios" class="lazy" data-pagespeed-url-hash="1011344849" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-24.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-24.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-24.png.pagespeed.ic.ZpD0uC-7Uj.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-24.png.pagespeed.ic.ZpD0uC-7Uj.webp"
-                                            alt="New Relic"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1305844770"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-24.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-24.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-24.png.pagespeed.ic.ZpD0uC-7Uj.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-24.png.pagespeed.ic.ZpD0uC-7Uj.webp" alt="New Relic" class="lazy" data-pagespeed-url-hash="1305844770" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-25.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-25.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-25.png.pagespeed.ic.4wrRGJveSe.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-25.png.pagespeed.ic.4wrRGJveSe.webp"
-                                            alt="Datadog"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1600344691"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-25.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-25.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-25.png.pagespeed.ic.4wrRGJveSe.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-25.png.pagespeed.ic.4wrRGJveSe.webp" alt="Datadog" class="lazy" data-pagespeed-url-hash="1600344691" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -981,72 +714,37 @@
                             <ul class="justify-content-md-around d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-30.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-30.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-30.png.pagespeed.ic.6jELja62R8.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-30.png.pagespeed.ic.6jELja62R8.webp"
-                                            alt="Amazon Web Services (AWS)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="52629073"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-30.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-30.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-30.png.pagespeed.ic.6jELja62R8.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-30.png.pagespeed.ic.6jELja62R8.webp" alt="Amazon Web Services (AWS)" class="lazy" data-pagespeed-url-hash="52629073" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-31.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-31.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-31.png.pagespeed.ic.mYermOcz0Z.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-31.png.pagespeed.ic.mYermOcz0Z.webp"
-                                            alt="Microsoft Azure"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="347128994"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-31.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-31.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-31.png.pagespeed.ic.mYermOcz0Z.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-31.png.pagespeed.ic.mYermOcz0Z.webp" alt="Microsoft Azure" class="lazy" data-pagespeed-url-hash="347128994" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-32.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-32.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-32.png.pagespeed.ic.9pFvwuyf08.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-32.png.pagespeed.ic.9pFvwuyf08.webp"
-                                            alt="Google Cloud Platform (GCP)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="641628915"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-32.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-32.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-32.png.pagespeed.ic.9pFvwuyf08.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-32.png.pagespeed.ic.9pFvwuyf08.webp" alt="Google Cloud Platform (GCP)" class="lazy" data-pagespeed-url-hash="641628915" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-33.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-33.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-33.png.pagespeed.ic.dIHRIadSyh.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-33.png.pagespeed.ic.dIHRIadSyh.webp"
-                                            alt="IBM Cloud"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="936128836"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-33.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-33.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-33.png.pagespeed.ic.dIHRIadSyh.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-33.png.pagespeed.ic.dIHRIadSyh.webp" alt="IBM Cloud" class="lazy" data-pagespeed-url-hash="936128836" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-34.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-34.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-34.png.pagespeed.ic.vli8Wp4vsc.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-34.png.pagespeed.ic.vli8Wp4vsc.webp"
-                                            alt="Oracle Cloud"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1230628757"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-34.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-34.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-34.png.pagespeed.ic.vli8Wp4vsc.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-34.png.pagespeed.ic.vli8Wp4vsc.webp" alt="Oracle Cloud" class="lazy" data-pagespeed-url-hash="1230628757" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -1056,72 +754,37 @@
                             <ul class="d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-35.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-35.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-35.png.pagespeed.ic.L2a5E772h9.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-35.png.pagespeed.ic.L2a5E772h9.webp"
-                                            alt="Slack"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1525128678"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-35.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-35.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-35.png.pagespeed.ic.L2a5E772h9.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-35.png.pagespeed.ic.L2a5E772h9.webp" alt="Slack" class="lazy" data-pagespeed-url-hash="1525128678" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-36.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-36.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-36.png.pagespeed.ic.yXpoYvGk9j.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-36.png.pagespeed.ic.yXpoYvGk9j.webp"
-                                            alt="Microsoft Teams"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1819628599"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-36.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-36.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-36.png.pagespeed.ic.yXpoYvGk9j.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-36.png.pagespeed.ic.yXpoYvGk9j.webp" alt="Microsoft Teams" class="lazy" data-pagespeed-url-hash="1819628599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-37.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-37.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-37.png.pagespeed.ic.itw7huv8xb.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-37.png.pagespeed.ic.itw7huv8xb.webp"
-                                            alt="Jira"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2114128520"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-37.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-37.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-37.png.pagespeed.ic.itw7huv8xb.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-37.png.pagespeed.ic.itw7huv8xb.webp" alt="Jira" class="lazy" data-pagespeed-url-hash="2114128520" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-38.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-38.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-38.png.pagespeed.ic.vz3fiMuvO-.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-38.png.pagespeed.ic.vz3fiMuvO-.webp"
-                                            alt="Confluence"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2408628441"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-38.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-38.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-38.png.pagespeed.ic.vz3fiMuvO-.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-38.png.pagespeed.ic.vz3fiMuvO-.webp" alt="Confluence" class="lazy" data-pagespeed-url-hash="2408628441" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-39.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-39.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-39.png.pagespeed.ic.EsYUVl6ixI.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-39.png.pagespeed.ic.EsYUVl6ixI.webp"
-                                            alt="Trello"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2703128362"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-39.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-39.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-39.png.pagespeed.ic.EsYUVl6ixI.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-39.png.pagespeed.ic.EsYUVl6ixI.webp" alt="Trello" class="lazy" data-pagespeed-url-hash="2703128362" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -1137,30 +800,16 @@
                             <ul class="d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-12.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-12.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-12.png.pagespeed.ic.wxaml2GH3g.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-12.png.pagespeed.ic.wxaml2GH3g.webp"
-                                            alt="Terraform"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="792060941"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-12.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-12.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-12.png.pagespeed.ic.wxaml2GH3g.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-12.png.pagespeed.ic.wxaml2GH3g.webp" alt="Terraform" class="lazy" data-pagespeed-url-hash="792060941" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-13.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-13.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-13.png.pagespeed.ic.QefJmhX9Vz.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-13.png.pagespeed.ic.QefJmhX9Vz.webp"
-                                            alt="CloudFormation"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1086560862"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-13.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-13.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-13.png.pagespeed.ic.QefJmhX9Vz.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-13.png.pagespeed.ic.QefJmhX9Vz.webp" alt="CloudFormation" class="lazy" data-pagespeed-url-hash="1086560862" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -1170,45 +819,24 @@
                             <ul class="d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-26.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-26.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-26.png.pagespeed.ic.b7eIPLoz4Q.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-26.png.pagespeed.ic.b7eIPLoz4Q.webp"
-                                            alt="ELK Stack (Elasticsearch, Logstash, Kibana)"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1894844612"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-26.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-26.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-26.png.pagespeed.ic.b7eIPLoz4Q.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-26.png.pagespeed.ic.b7eIPLoz4Q.webp" alt="ELK Stack (Elasticsearch, Logstash, Kibana)" class="lazy" data-pagespeed-url-hash="1894844612" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li></li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-28.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-28.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-28.png.pagespeed.ic.nHQx4aGyxN.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-28.png.pagespeed.ic.nHQx4aGyxN.webp"
-                                            alt="Graylog"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2483844454"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-28.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-28.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-28.png.pagespeed.ic.nHQx4aGyxN.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-28.png.pagespeed.ic.nHQx4aGyxN.webp" alt="Graylog" class="lazy" data-pagespeed-url-hash="2483844454" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-29.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-29.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-29.png.pagespeed.ic.NYi9vK9oCF.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-29.png.pagespeed.ic.NYi9vK9oCF.webp"
-                                            alt="Fluentd"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="2778344375"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-29.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-29.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-29.png.pagespeed.ic.NYi9vK9oCF.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-29.png.pagespeed.ic.NYi9vK9oCF.webp" alt="Fluentd" class="lazy" data-pagespeed-url-hash="2778344375" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -1218,72 +846,37 @@
                             <ul class="d-flex flex-wrap flex-md-wrap w-100">
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-41.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-41.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-41.png.pagespeed.ic.wYYaKXVzcx.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-41.png.pagespeed.ic.wYYaKXVzcx.webp"
-                                            alt="Selenium"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="271912981"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-41.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-41.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-41.png.pagespeed.ic.wYYaKXVzcx.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-41.png.pagespeed.ic.wYYaKXVzcx.webp" alt="Selenium" class="lazy" data-pagespeed-url-hash="271912981" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-40.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-40.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-40.png.pagespeed.ic.GWpl1veSts.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-40.png.pagespeed.ic.GWpl1veSts.webp"
-                                            alt="JUnit"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="4272380356"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-40.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-40.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-40.png.pagespeed.ic.GWpl1veSts.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-40.png.pagespeed.ic.GWpl1veSts.webp" alt="JUnit" class="lazy" data-pagespeed-url-hash="4272380356" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-42.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-42.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-42.png.pagespeed.ic.gsHiEKfyC4.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-42.png.pagespeed.ic.gsHiEKfyC4.webp"
-                                            alt="pytest"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="566412902"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-42.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-42.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-42.png.pagespeed.ic.gsHiEKfyC4.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-42.png.pagespeed.ic.gsHiEKfyC4.webp" alt="pytest" class="lazy" data-pagespeed-url-hash="566412902" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-43.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-43.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-43.png.pagespeed.ic.8XPdowRoFx.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-43.png.pagespeed.ic.8XPdowRoFx.webp"
-                                            alt="TestNG"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="860912823"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-43.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-43.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-43.png.pagespeed.ic.8XPdowRoFx.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-43.png.pagespeed.ic.8XPdowRoFx.webp" alt="TestNG" class="lazy" data-pagespeed-url-hash="860912823" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-44.webp" type="image/webp" />
-                                        <source srcset="<?php echo asset();?>images/devops-developer/integration-icon-44.png" type="image/png" />
-                                        <img
-                                            data-src="<?php echo asset();?>images/devops-developer/xintegration-icon-44.png.pagespeed.ic.UmkVz4q3w5.webp"
-                                            src="<?php echo asset();?>images/devops-developer/xintegration-icon-44.png.pagespeed.ic.UmkVz4q3w5.webp"
-                                            alt="Cucumber"
-                                            class="lazy"
-                                            data-pagespeed-url-hash="1155412744"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-44.webp" type="image/webp" />
+                                        <source srcset="<?php echo asset(); ?>images/devops-developer/integration-icon-44.png" type="image/png" />
+                                        <img data-src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-44.png.pagespeed.ic.UmkVz4q3w5.webp" src="<?php echo asset(); ?>images/devops-developer/xintegration-icon-44.png.pagespeed.ic.UmkVz4q3w5.webp" alt="Cucumber" class="lazy" data-pagespeed-url-hash="1155412744" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                     </picture>
                                 </li>
                             </ul>
@@ -1316,17 +909,9 @@
                         <div class="shadow-custom bg-white row flex-md-row-reverse gx-0">
                             <div class="col-md-4">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/devops-ppc/case-study.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/devops-ppc/case-study.jpg" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/devops-ppc/xcase-study.jpg.pagespeed.ic.hYdLYARwWz.webp"
-                                        src="<?php echo asset();?>images/devops-ppc/xcase-study.jpg.pagespeed.ic.hYdLYARwWz.webp"
-                                        alt="AI-based Medical Care Solution"
-                                        title="AI-based Medical Care Solution"
-                                        class="h-100 ob-cover"
-                                        data-pagespeed-url-hash="1871199812"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/devops-ppc/case-study.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/devops-ppc/case-study.jpg" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/devops-ppc/xcase-study.jpg.pagespeed.ic.hYdLYARwWz.webp" src="<?php echo asset(); ?>images/devops-ppc/xcase-study.jpg.pagespeed.ic.hYdLYARwWz.webp" alt="AI-based Medical Care Solution" title="AI-based Medical Care Solution" class="h-100 ob-cover" data-pagespeed-url-hash="1871199812" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-md-8 d-md-flex align-items-md-center">
@@ -1356,7 +941,7 @@
             <div class="col-12">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Hire DevOps Engineers Through Bacancy in Easy Steps</h2>
+                        <h2 class="section-title-text h1">Hire DevOps Engineers Through KAS Pvt Ltdin Easy Steps</h2>
                     </div>
                 </div>
             </div>
@@ -1399,19 +984,11 @@
             </div>
             <div class="col-lg-6 mt-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/devops-developer/side-b-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/devops-developer/side-b-1.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/devops-developer/xside-b-1.jpg.pagespeed.ic.RlNtLLAlGd.webp"
-                        src="<?php echo asset();?>images/devops-developer/xside-b-1.jpg.pagespeed.ic.RlNtLLAlGd.webp"
-                        alt="What Are The Benefits We Offer When You Hire DevOps
-                                Developer?"
-                        title="What Are The Benefits We Offer When You Hire DevOps
-                                Developer?"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="2163856861"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/devops-developer/side-b-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/devops-developer/side-b-1.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/devops-developer/xside-b-1.jpg.pagespeed.ic.RlNtLLAlGd.webp" src="<?php echo asset(); ?>images/devops-developer/xside-b-1.jpg.pagespeed.ic.RlNtLLAlGd.webp" alt="What Are The Benefits We Offer When You Hire DevOps
+                                Developer?" title="What Are The Benefits We Offer When You Hire DevOps
+                                Developer?" class="lazy ob-cover" data-pagespeed-url-hash="2163856861" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1449,18 +1026,12 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
-                <a href="https://www.bacancytechnology.com/devops-implementation-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
+                <a href="https://www.kasinfotech.com/devops-implementation-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
                     <div class="col-lg-3 col-2">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/devops-container/xicon-3.png.pagespeed.ic.6y_JwlNm1n.webp"
-                                src="<?php echo asset();?>images/devops-container/xicon-3.png.pagespeed.ic.6y_JwlNm1n.webp"
-                                alt="DevOps Implementation Services"
-                                data-pagespeed-url-hash="2816711229"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-3.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/devops-container/xicon-3.png.pagespeed.ic.6y_JwlNm1n.webp" src="<?php echo asset(); ?>images/devops-container/xicon-3.png.pagespeed.ic.6y_JwlNm1n.webp" alt="DevOps Implementation Services" data-pagespeed-url-hash="2816711229" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-lg-9">
@@ -1469,18 +1040,12 @@
                 </a>
             </div>
             <div class="col-md-6 col-lg-4">
-                <a href="https://www.bacancytechnology.com/devops-consulting-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
+                <a href="https://www.kasinfotech.com/devops-consulting-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
                     <div class="col-lg-3 col-2">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/devops-container/xicon-2.png.pagespeed.ic.Ya5Bl_KHK_.webp"
-                                src="<?php echo asset();?>images/devops-container/xicon-2.png.pagespeed.ic.Ya5Bl_KHK_.webp"
-                                alt="DevOps Consulting Services"
-                                data-pagespeed-url-hash="2522211308"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-2.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/devops-container/xicon-2.png.pagespeed.ic.Ya5Bl_KHK_.webp" src="<?php echo asset(); ?>images/devops-container/xicon-2.png.pagespeed.ic.Ya5Bl_KHK_.webp" alt="DevOps Consulting Services" data-pagespeed-url-hash="2522211308" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-lg-9">
@@ -1489,18 +1054,12 @@
                 </a>
             </div>
             <div class="col-md-6 col-lg-4">
-                <a href="https://www.bacancytechnology.com/devops-containerization-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
+                <a href="https://www.kasinfotech.com/devops-containerization-services" class="service-box row align-items-center justify-content-between bg-graylight small-heading gx-0" style="height: 124px;">
                     <div class="col-lg-3 col-2">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-6.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/devops-container/icon-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/devops-container/xicon-6.png.pagespeed.ic.FD8gfOjzIb.webp"
-                                src="<?php echo asset();?>images/devops-container/xicon-6.png.pagespeed.ic.FD8gfOjzIb.webp"
-                                alt="DevOps Containerization Services"
-                                data-pagespeed-url-hash="3700210992"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-6.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/devops-container/icon-6.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/devops-container/xicon-6.png.pagespeed.ic.FD8gfOjzIb.webp" src="<?php echo asset(); ?>images/devops-container/xicon-6.png.pagespeed.ic.FD8gfOjzIb.webp" alt="DevOps Containerization Services" data-pagespeed-url-hash="3700210992" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-lg-9">
@@ -1571,11 +1130,11 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                            <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs; according to that, you can hire DevOps developers in India from Bacancy.
+                                We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs; according to that, you can hire DevOps developers in India from kasinfotech.
                                 <strong>Dedicated Developer - Monthly basis</strong>
                             </p>
                             <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
@@ -1603,7 +1162,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
+                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
                                 help of a W9 form; here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfers from all across the globe.
                             </p>
                         </div>
@@ -1624,175 +1183,4 @@
         </div>
     </div>
 </section>
-<section>
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

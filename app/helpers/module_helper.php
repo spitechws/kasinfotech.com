@@ -82,11 +82,11 @@ function db_scan() {
 }
 
 function is_superadmin() {
-    return $_SESSION['aUser']->role_id == "0";
+    return $_SESSION['aUser']->role_id == "1";
 }
 
 function is_admin() {
-    return $_SESSION['aUser']->role_id == "1";
+    return $_SESSION['aUser']->role_id == "2";
 }
 
 function load_admin_view($view_name, $data) {

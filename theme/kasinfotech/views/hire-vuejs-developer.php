@@ -19,16 +19,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/banner.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/hire-vuejs-developer/xbanner.jpg,qv-1.pagespeed.ic.9epFR6h95V.webp"
-                src="<?php echo asset();?>images/hire-vuejs-developer/xbanner.jpg,qv-1.pagespeed.ic.9epFR6h95V.webp"
-                alt="Hire Vue js Developer"
-                title="Hire Vue js Developer"
-                data-pagespeed-url-hash="1583881279"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/banner.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/banner.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xbanner.jpg,qv-1.pagespeed.ic.9epFR6h95V.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xbanner.jpg,qv-1.pagespeed.ic.9epFR6h95V.webp" alt="Hire Vue js Developer" title="Hire Vue js Developer" data-pagespeed-url-hash="1583881279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -60,15 +53,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="875612233"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" alt="icon" data-pagespeed-url-hash="875612233" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -80,15 +67,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
-                                        src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="252445422"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/help-desk.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/help-desk.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA=" src="data:image/webp;base64,UklGRkQEAABXRUJQVlA4TDcEAAAvLUALECI5srUtk9KbZAuT4Tr+PE8LzkJmm/31/31/Fwt4J0NT/zMsJRs8J9WuCaleAqFG7u6RW8gGbAG81RPPAijinyKU3EiSI0kr+gq4Auxx9uLXUxUWNUfTYds2khxPB3v/zc0kkk8BAADE/////////////zcBFo8psOp9iHU0IuvIffFD/BQPhMaRjTnWIZv5qsAt/6H9oySSyF3xV/IfFP9+A+lI0+WGLjby8IBnLMWTkX0E88EUCHYrqb55JPmOjkbfFGgew2tzk8eS/2jynHdEc5g5BS5MeUJxDu8KIh2jqyclfZP1z0IV99IwXvfvhZqKa+TVPEUo2WItoSwecHc1H1Ujl0oHD/EnGzkhm7EyBYj7ISOqzruLvwoeiTAFBCZ7xgNKnmhS9pkZpiCqxyw1n+Kf35pOM2MKWExmch8U78hLxnVJk+AnMBeGKTBUrrEpYOvpaKK6sevfzFcFnsaWXCDW2thhGKzGLFTMG6Zr1gPCyGuGInx/wFmB/UXbctny71SPhIhaiivu5C/RgPshs/TIGwNro9g2JAxacP/5o8KN0wKoSgpuiMXvJR/u7qW4gLREz8ZVOYfTtJ24AsFB/GKib7Xzx2cy79Hi6n2boryXRNO+qP/kMfmdhsl69f4nt6lv7jz6RgEyqt/5nIvSOpziRT5IFqPmTkMy46jkaspq54cvzsWJa9W1yROZVaaA5n5qSBv8vnElU3Hk8kTloQBWzhd69Gw8JldJzAw/bwhiexw5jLVRzOZ+KkjxwcnRNF2F+Dgyp2sF4Fc6OtFpTIVbzVeIySMPYRTzoGjFWiJJX0cMi9/OeDNAzEQFmBsS8i2MtBb57e6ueAdjYakX/7jDkxMBcrYTQA6DeObu4t/D4d38RTIDmfYfcHc/xrg8OUlZFHPVZh/eUGtD/R2/oBrwwqxMAVqeE+i4iFceJG9pvAfb2NaW/XuhamNHNJFrrOuKrew44kswbG1cbAthCqzvqUBzujx0a1Ll0IuMSBgwjWTowSFnFPvB1OrBvwp/MoW1h1x8Y5ggjL8ef7PkArHyUIApMAUEw8IYxzggrpxWc6C6y4yh9a+DTI55kJyvE9NQ1NRsPVHdI1dPVEsCfh+ObhS+vGHOSj68uVRNHZsC7oGhZVOpktjrqoSX3ryhyrxFzy/YbF1SUrLkLVnXh64hNswNQSVevHHfw5qCWyPZ32feUnWDRr7IotuwiqdlqwNknlnfFCjWptAZA542Ht6LumNGZBxoVUoudJo/w9D1If7lmVGjd1lwyXUhgiGeWfHsTYs105AKlZ6d8nlTHY2Bzx90s/69UFlU1TQ9zuZCy+YQKtfXCHcnfxWvxIvzHq3kkUE0JPiVcWlLlcjQF29TYiqAxwIin9tFfOk2HZT8tUvZ2Au1qdaN6217vAkJRtku5ZWmQmw53x4HiK5pMwA=" alt="icon" data-pagespeed-url-hash="252445422" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -100,15 +81,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
-                                        src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1458408289"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/risk-free.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-laravel-developer/risk-free.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" alt="icon" data-pagespeed-url-hash="1458408289" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -120,16 +95,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/banner-side-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/banner-side-2.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xbanner-side-2.png.pagespeed.ic.Cqp7uy94vL.webp"
-                        src="<?php echo asset();?>images/hire-vuejs-developer/xbanner-side-2.png.pagespeed.ic.Cqp7uy94vL.webp"
-                        alt="Hire Vue js Developer"
-                        title="Hire Vue js Developer"
-                        data-pagespeed-url-hash="2704789055"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/banner-side-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/banner-side-2.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xbanner-side-2.png.pagespeed.ic.Cqp7uy94vL.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xbanner-side-2.png.pagespeed.ic.Cqp7uy94vL.webp" alt="Hire Vue js Developer" title="Hire Vue js Developer" data-pagespeed-url-hash="2704789055" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -190,19 +158,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Vue js Developer</li>
                     </ol>
@@ -243,15 +204,9 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/vue.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/vue.png" type="image/png" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRvQBAABXRUJQVlA4TOcBAAAvNEALEDehoJGk5o7eQRL+Lf0/2EDbtm0Yo4f1/4c6NVbQto2UthvP48/gPzaRJKt6DNmF+/ybeRLIwAvhM1YA7N7hDhxA0OTppAfzHWMQRHiQ9WXTUJcEV2w79c8ttlJ8pk0b6zGtUiwKM9BJr2N0fupA4v/uefjhRA36eEtk017mKY9jlgsO20hSpD7GZ2bcyz/I356e/QQi+u/AbdtIsjCz98qzyOYR50PMeojoKxDyLm4zPxDCl3VYxL06lhm5gh3pdwEupMR2iKnjoyBVVqTecQKmI6mxJJeTRZnHTcY9afcAgAepsevjbrPfoyS3a1LuhR9epMiKlCsAIOulz1x/c2VNxrhdCwAN6b4lzc7xz8wMG1KvBPJBuv3GEQ0ZWklxB+GuGVQFy3SUPtJJijcob1Jn3w82G0NBeRmjb7A4ED5WPpLBo1AMW+tY0n+VnWAYGD0ddnYohh3PWlQ4DcN4INwgceMGRXGCyImPvk/hNrBhf0LmyQzCsAcWl0FRSCgbh++WyZPJ2DidqHAaRmPYRaSNoypkg8LFe/BF7xh23+hLigQGY7ck4GXm6g1f9IrCbTASUiXw445k3DVFUsMbCXknUPg2zidtPu7d4ts4IXWCOOwJRt+ncG2cG/7A7Yy/4HkOAA=="
-                                src="data:image/webp;base64,UklGRvQBAABXRUJQVlA4TOcBAAAvNEALEDehoJGk5o7eQRL+Lf0/2EDbtm0Yo4f1/4c6NVbQto2UthvP48/gPzaRJKt6DNmF+/ybeRLIwAvhM1YA7N7hDhxA0OTppAfzHWMQRHiQ9WXTUJcEV2w79c8ttlJ8pk0b6zGtUiwKM9BJr2N0fupA4v/uefjhRA36eEtk017mKY9jlgsO20hSpD7GZ2bcyz/I356e/QQi+u/AbdtIsjCz98qzyOYR50PMeojoKxDyLm4zPxDCl3VYxL06lhm5gh3pdwEupMR2iKnjoyBVVqTecQKmI6mxJJeTRZnHTcY9afcAgAepsevjbrPfoyS3a1LuhR9epMiKlCsAIOulz1x/c2VNxrhdCwAN6b4lzc7xz8wMG1KvBPJBuv3GEQ0ZWklxB+GuGVQFy3SUPtJJijcob1Jn3w82G0NBeRmjb7A4ED5WPpLBo1AMW+tY0n+VnWAYGD0ddnYohh3PWlQ4DcN4INwgceMGRXGCyImPvk/hNrBhf0LmyQzCsAcWl0FRSCgbh++WyZPJ2DidqHAaRmPYRaSNoypkg8LFe/BF7xh23+hLigQGY7ck4GXm6g1f9IrCbTASUiXw445k3DVFUsMbCXknUPg2zidtPu7d4ts4IXWCOOwJRt+ncG2cG/7A7Yy/4HkOAA=="
-                                alt="Hire Vue js Developers"
-                                data-pagespeed-url-hash="3137481400"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/vue.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/vue.png" type="image/png" />
+                            <img data-src="data:image/webp;base64,UklGRvQBAABXRUJQVlA4TOcBAAAvNEALEDehoJGk5o7eQRL+Lf0/2EDbtm0Yo4f1/4c6NVbQto2UthvP48/gPzaRJKt6DNmF+/ybeRLIwAvhM1YA7N7hDhxA0OTppAfzHWMQRHiQ9WXTUJcEV2w79c8ttlJ8pk0b6zGtUiwKM9BJr2N0fupA4v/uefjhRA36eEtk017mKY9jlgsO20hSpD7GZ2bcyz/I356e/QQi+u/AbdtIsjCz98qzyOYR50PMeojoKxDyLm4zPxDCl3VYxL06lhm5gh3pdwEupMR2iKnjoyBVVqTecQKmI6mxJJeTRZnHTcY9afcAgAepsevjbrPfoyS3a1LuhR9epMiKlCsAIOulz1x/c2VNxrhdCwAN6b4lzc7xz8wMG1KvBPJBuv3GEQ0ZWklxB+GuGVQFy3SUPtJJijcob1Jn3w82G0NBeRmjb7A4ED5WPpLBo1AMW+tY0n+VnWAYGD0ddnYohh3PWlQ4DcN4INwgceMGRXGCyImPvk/hNrBhf0LmyQzCsAcWl0FRSCgbh++WyZPJ2DidqHAaRmPYRaSNoypkg8LFe/BF7xh23+hLigQGY7ck4GXm6g1f9IrCbTASUiXw445k3DVFUsMbCXknUPg2zidtPu7d4ts4IXWCOOwJRt+ncG2cG/7A7Yy/4HkOAA==" src="data:image/webp;base64,UklGRvQBAABXRUJQVlA4TOcBAAAvNEALEDehoJGk5o7eQRL+Lf0/2EDbtm0Yo4f1/4c6NVbQto2UthvP48/gPzaRJKt6DNmF+/ybeRLIwAvhM1YA7N7hDhxA0OTppAfzHWMQRHiQ9WXTUJcEV2w79c8ttlJ8pk0b6zGtUiwKM9BJr2N0fupA4v/uefjhRA36eEtk017mKY9jlgsO20hSpD7GZ2bcyz/I356e/QQi+u/AbdtIsjCz98qzyOYR50PMeojoKxDyLm4zPxDCl3VYxL06lhm5gh3pdwEupMR2iKnjoyBVVqTecQKmI6mxJJeTRZnHTcY9afcAgAepsevjbrPfoyS3a1LuhR9epMiKlCsAIOulz1x/c2VNxrhdCwAN6b4lzc7xz8wMG1KvBPJBuv3GEQ0ZWklxB+GuGVQFy3SUPtJJijcob1Jn3w82G0NBeRmjb7A4ED5WPpLBo1AMW+tY0n+VnWAYGD0ddnYohh3PWlQ4DcN4INwgceMGRXGCyImPvk/hNrBhf0LmyQzCsAcWl0FRSCgbh++WyZPJ2DidqHAaRmPYRaSNoypkg8LFe/BF7xh23+hLigQGY7ck4GXm6g1f9IrCbTASUiXw445k3DVFUsMbCXknUPg2zidtPu7d4ts4IXWCOOwJRt+ncG2cG/7A7Yy/4HkOAA==" alt="Hire Vue js Developers" data-pagespeed-url-hash="3137481400" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                 </div>
@@ -284,17 +239,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        alt="roamy"
-                                                        title="roamy"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3629235700"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" alt="roamy" title="roamy" class="lazy ob-cover" data-pagespeed-url-hash="3629235700" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -342,17 +289,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp"
-                                                        alt="Hospitality Management"
-                                                        title="Hospitality Management"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="4049798037"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp" alt="Hospitality Management" title="Hospitality Management" class="lazy ob-cover" data-pagespeed-url-hash="4049798037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -401,17 +340,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp"
-                                                        alt="Hometrack"
-                                                        title="Hometrack"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3208673363"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp" alt="Hometrack" title="Hometrack" class="lazy ob-cover" data-pagespeed-url-hash="3208673363" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -460,17 +391,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        alt="roamy"
-                                                        title="roamy"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3629235700"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" alt="roamy" title="roamy" class="lazy ob-cover" data-pagespeed-url-hash="3629235700" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -518,17 +441,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp"
-                                                        alt="Hospitality Management"
-                                                        title="Hospitality Management"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="4049798037"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-3.jpg,qv-3.pagespeed.ic.7n94HvbIcK.webp" alt="Hospitality Management" title="Hospitality Management" class="lazy ob-cover" data-pagespeed-url-hash="4049798037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -577,17 +492,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp"
-                                                        alt="Hometrack"
-                                                        title="Hometrack"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3208673363"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-1.jpg,qv-3.pagespeed.ic.WjaZrHSmWA.webp" alt="Hometrack" title="Hometrack" class="lazy ob-cover" data-pagespeed-url-hash="3208673363" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -636,17 +543,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        src="<?php echo asset();?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp"
-                                                        alt="roamy"
-                                                        title="roamy"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="3629235700"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/case-s-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xcase-s-2.jpg,qv-3.pagespeed.ic.KhE2XJP2aJ.webp" alt="roamy" title="roamy" class="lazy ob-cover" data-pagespeed-url-hash="3629235700" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -735,15 +634,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs="
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs=" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2800
                                         </h3>
@@ -829,19 +720,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -857,17 +740,9 @@
         <div class="row align-items-lg-center gy-4">
             <div class="col-lg-6 text-center text-lg-left">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/positive-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-vuejs-developer/positive-4.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-vuejs-developer/xpositive-4.png.pagespeed.ic.8BwOxMnzOl.webp"
-                        src="<?php echo asset();?>images/hire-vuejs-developer/xpositive-4.png.pagespeed.ic.8BwOxMnzOl.webp"
-                        alt="Staff Augmentation Services to Scale Your Development Team"
-                        title="Staff Augmentation Services to Scale Your Development Team"
-                        class="lazy"
-                        data-pagespeed-url-hash="1502515148"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/positive-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/positive-4.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xpositive-4.png.pagespeed.ic.8BwOxMnzOl.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xpositive-4.png.pagespeed.ic.8BwOxMnzOl.webp" alt="Staff Augmentation Services to Scale Your Development Team" title="Staff Augmentation Services to Scale Your Development Team" class="lazy" data-pagespeed-url-hash="1502515148" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -878,7 +753,7 @@
                     </div>
                 </div>
                 <p>
-                    At Bacancy, we have top-of-the-line expertise in combining a possible number of front and back end technologies like; <strong>VueJS + Laravel/ Node/ Ruby on Rails/ PHP/ Django/ Flask/ .NET/ Vue Storefront</strong> to
+                    At kasinfotech, we have top-of-the-line expertise in combining a possible number of front and back end technologies like; <strong>VueJS + Laravel/ Node/ Ruby on Rails/ PHP/ Django/ Flask/ .NET/ Vue Storefront</strong> to
                     build scalable web architectures, so you don’t have to worry about scalability and flexibility when your product grows.
                 </p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
@@ -1027,17 +902,9 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire Vue.js and Nuxt.js Experts to Build Production-Ready Universal App</h2>
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/vue-nuxtjs.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/vue-nuxtjs.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-vuejs-developer/xvue-nuxtjs.png.pagespeed.ic.cIcE9-xK_W.webp"
-                                src="<?php echo asset();?>images/hire-vuejs-developer/xvue-nuxtjs.png.pagespeed.ic.cIcE9-xK_W.webp"
-                                alt="Hire Vue.js and Nuxt.js Experts to Build Production-Ready Universal App"
-                                title="Hire Vue.js and Nuxt.js Experts to Build Production-Ready Universal App"
-                                class="lazy mb-lg"
-                                data-pagespeed-url-hash="2300110443"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/vue-nuxtjs.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/vue-nuxtjs.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xvue-nuxtjs.png.pagespeed.ic.cIcE9-xK_W.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xvue-nuxtjs.png.pagespeed.ic.cIcE9-xK_W.webp" alt="Hire Vue.js and Nuxt.js Experts to Build Production-Ready Universal App" title="Hire Vue.js and Nuxt.js Experts to Build Production-Ready Universal App" class="lazy mb-lg" data-pagespeed-url-hash="2300110443" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <p>
                             Hire Vue.js and Nuxt.js experts from us to build fast-loading and SEO-friendly applications with dynamic UI. Our cost-effective and flexible hourly engagement model gives you the best of both worlds to gauge
@@ -1055,23 +922,15 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        alt="Why Hire Vue js developers From Bacancy?"
-                        title="Why Hire Vue js developers From Bacancy?"
-                        class="lazy"
-                        data-pagespeed-url-hash="184066017"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" alt="Why Hire Vue js developers From kasinfotech?" title="Why Hire Vue js developers From kasinfotech?" class="lazy" data-pagespeed-url-hash="184066017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire Vue js developers From Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Hire Vue js developers From kasinfotech?</h2>
                     </div>
                 </div>
                 <p>
@@ -1172,16 +1031,16 @@
                                 <p itemprop="text">
                                     We have simple and transparent pricing. We let you hire experienced vuejs developers at a rate of $20 per hour with an average experience of 3+ years. However, the cost may vary depending on your
                                     query and the expertise of our developer. If you want to hire a team of Vuejs developers, we have customized rates for you; please
-                                    <a href="https://www.bacancytechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
+                                    <a href="https://www.kasinfotech.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
                                 </p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab bg-graylight" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                                <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Vuejs developers from Bacancy.</p>
+                                <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Vuejs developers from kasinfotech.</p>
                                 <p><strong>Dedicated Developer – Monthly basis</strong></p>
                                 <p>160 Hours a Month. 8 hours a day, 5 days a week.</p>
                                 <p><strong>Hourly Basis – Hours/ Month</strong></p>
@@ -1199,7 +1058,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax
+                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax
                                     with help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>
@@ -1211,7 +1070,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Vuejs Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <strong><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype</strong> us at <strong>"Bacancy"</strong>
+                                    <strong><a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype</strong> us at <strong>"kasinfotech"</strong>
                                 </p>
                             </div>
                         </div>
@@ -1268,240 +1127,45 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp"
-                                src="<?php echo asset();?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp"
-                                alt="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)"
-                                title="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)"
-                                class="lazy"
-                                data-pagespeed-url-hash="1075578861"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-1.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp" alt="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)" title="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)" class="lazy" data-pagespeed-url-hash="1075578861" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 120px;">Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)</h3>
-                    <a href="https://www.bacancytechnology.com/blog/list-of-vue-component-libraries" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/list-of-vue-component-libraries" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA="
-                                src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA="
-                                alt="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications"
-                                title="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications"
-                                class="lazy"
-                                data-pagespeed-url-hash="1496141198"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-2.jpg?v-1" type="image/jpeg" />
+                            <img data-src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA=" src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA=" alt="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications" title="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications" class="lazy" data-pagespeed-url-hash="1496141198" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 120px;">VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications</h3>
-                    <a href="https://www.bacancytechnology.com/blog/why-use-vue-js" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/why-use-vue-js" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-vuejs-developer/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA"
-                                src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA"
-                                alt="Vue vs Angular: Neck-to-Neck Comparison"
-                                title="Vue vs Angular: Neck-to-Neck Comparison"
-                                class="lazy"
-                                data-pagespeed-url-hash="1916703535"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-3.jpg?v-1" type="image/jpeg" />
+                            <img data-src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA" src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA" alt="Vue vs Angular: Neck-to-Neck Comparison" title="Vue vs Angular: Neck-to-Neck Comparison" class="lazy" data-pagespeed-url-hash="1916703535" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 120px;">Vue vs Angular: Neck-to-Neck Comparison</h3>
-                    <a href="https://www.bacancytechnology.com/blog/vue-vs-angular" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/vue-vs-angular" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are
-                                                a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-    
 <?php include_once('footer.php') ?>

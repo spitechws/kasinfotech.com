@@ -21,14 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/mvp-services/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/mvp-services/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/mvp-services/banner.jpg?v-1"
-                src="<?php echo asset(); ?>images/mvp-services/banner.jpg?v-1"
-                alt="MVP Development Company"
-                title="MVP Development Company"
-                data-pagespeed-url-hash="3165295998"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/mvp-services/banner.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/banner.jpg?v-1" alt="MVP Development Company" title="MVP Development Company" data-pagespeed-url-hash="3165295998" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container-fluid">
@@ -103,15 +96,8 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">MVP Development</li>
@@ -132,7 +118,7 @@
                         </h2>
                     </div>
                 </div>
-                <p>Verify Your Idea With Bacancy And Turn It Into Reality</p>
+                <p>Verify Your Idea With KAS Pvt LtdAnd Turn It Into Reality</p>
                 <p>
                     Before taking off on your potential digital product, we make sure that your idea is tested for market potential. However, not each of you would need an MVP. For example, some of the entrepreneurs with well-defined
                     processes clearly know their end product needs and have a pre-approved budget for a fully formed digital product. However, there are so many entrepreneurs as well as tech startups that face constraints, and do you know
@@ -167,30 +153,14 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/mvp-services/mvp-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/mvp-services/mvp-img-1.jpg?v-2" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/mvp-services/mvp-img-1.jpg?v-2"
-                        src="<?php echo asset(); ?>images/mvp-services/mvp-img-1.jpg?v-2"
-                        alt="Why This Happens?"
-                        title="Why This Happens?"
-                        class="shadow-custom w-100"
-                        data-pagespeed-url-hash="2345596804"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/mvp-services/mvp-img-1.jpg?v-2" src="<?php echo asset(); ?>images/mvp-services/mvp-img-1.jpg?v-2" alt="Why This Happens?" title="Why This Happens?" class="shadow-custom w-100" data-pagespeed-url-hash="2345596804" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-md-6 text-center">
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/mvp-services/mvp-img-2.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/mvp-services/mvp-img-2.jpg?v-2" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/mvp-services/mvp-img-2.jpg?v-2"
-                        src="<?php echo asset(); ?>images/mvp-services/mvp-img-2.jpg?v-2"
-                        alt="Why This Happens?"
-                        title="Why This Happens?"
-                        class="shadow-custom w-100"
-                        data-pagespeed-url-hash="2766159141"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/mvp-services/mvp-img-2.jpg?v-2" src="<?php echo asset(); ?>images/mvp-services/mvp-img-2.jpg?v-2" alt="Why This Happens?" title="Why This Happens?" class="shadow-custom w-100" data-pagespeed-url-hash="2766159141" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -244,7 +214,7 @@
                 </p>
                 <p>
                     When you release your product or service to the market and if it doesn't work as per your expectations, then you feel that you could have developed an MVP – minimum viable product development. So that in advance, you can
-                    have a clear understanding about what your end users want and what they don't want. With MVP <a href="https://www.bacancytechnology.com/software-development-company" class="text-primary">software development</a>, you can
+                    have a clear understanding about what your end users want and what they don't want. With MVP <a href="https://www.kasinfotech.com/software-development-company" class="text-primary">software development</a>, you can
                     make fast adjustments based on early feedback, so that, in the end, you can create a product or service that's useful, desirable, and valuable with the minimal investment.
                 </p>
             </div>
@@ -377,15 +347,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-1.png?v-1" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/mvp-services/side-img-1.png?v-1"
-                        src="<?php echo asset(); ?>images/mvp-services/side-img-1.png?v-1"
-                        alt="What Is MVP Product Development?"
-                        title="What Is MVP Product Development?"
-                        class=""
-                        data-pagespeed-url-hash="910718383"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/mvp-services/side-img-1.png?v-1" src="<?php echo asset(); ?>images/mvp-services/side-img-1.png?v-1" alt="What Is MVP Product Development?" title="What Is MVP Product Development?" class="" data-pagespeed-url-hash="910718383" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-7">
@@ -411,15 +373,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp"
-                alt="Collaborate with our MVP Developers to Build Experiences that Deliver Results"
-                title="Collaborate with our MVP Developers to Build Experiences that Deliver Results"
-                class=""
-                data-pagespeed-url-hash="1445677510"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Collaborate with our MVP Developers to Build Experiences that Deliver Results" title="Collaborate with our MVP Developers to Build Experiences that Deliver Results" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -439,16 +393,7 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
+                                        <input type="text" class="form-control bg-graylight validate-required focus-class" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" style="outline: rgb(149, 143, 143) solid 2px;" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4">
@@ -482,7 +427,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital product and guaranteed your success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -497,7 +442,7 @@
             <div class="col-md-6 col-lg-5">
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1 mb-lg">How Bacancy Can Help You As Leading MVP Development Company</h2>
+                        <h2 class="section-title-text h1 mb-lg">How KAS Pvt LtdCan Help You As Leading MVP Development Company</h2>
                         <p>Our minimum viable product development services assist you to create a presentable prototype of your mobile MVP and web app in just a couple of weeks.</p>
                     </div>
                 </div>
@@ -506,7 +451,7 @@
                 <div class="service-box bg-white mt-0">
                     <h3 class="h5 font-bold mb-sm">What Can We Do For You</h3>
                     <p>
-                        Being an industry leader in <a href="https://www.bacancytechnology.com//software-product-development" class="text-primary">software product development</a> and full-service MVP development agency, our focus is to
+                        Being an industry leader in <a href="https://www.kasinfotech.com//software-product-development" class="text-primary">software product development</a> and full-service MVP development agency, our focus is to
                         help you test your idea and figure out the risk and uncertainty associated with your desirable product and service. So you don’t end up with something that customers do not want.
                     </p>
                 </div>
@@ -542,15 +487,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-2.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-2.jpg?v-2" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/mvp-services/side-img-2.jpg?v-2"
-                        src="<?php echo asset(); ?>images/mvp-services/side-img-2.jpg?v-2"
-                        alt="Hire MVP Software Development Team"
-                        title="Hire MVP Software Development Team"
-                        class=""
-                        data-pagespeed-url-hash="171092769"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/mvp-services/side-img-2.jpg?v-2" src="<?php echo asset(); ?>images/mvp-services/side-img-2.jpg?v-2" alt="Hire MVP Software Development Team" title="Hire MVP Software Development Team" class="" data-pagespeed-url-hash="171092769" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -564,7 +501,7 @@
                     developers are well versed with front-end, back-end, and full-stack development expertise.
                 </p>
                 <p>
-                    We at Bacancy create experiences that are simple to use, fulfilling all your business requirements. We are an Agile-based MVP company that firmly believes in branding and design. We are very focused on developing
+                    We at KAS Pvt Ltdcreate experiences that are simple to use, fulfilling all your business requirements. We are an Agile-based MVP company that firmly believes in branding and design. We are very focused on developing
                     out-of-the-box features that your end-users expect from you and obviously from your business. Whether you hire one developer or a complete team, we assure you to provide the right solution with our top-notch minimum
                     viable product development services.
                 </p>
@@ -576,15 +513,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-3.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-3.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/mvp-services/side-img-3.jpg"
-                        src="<?php echo asset(); ?>images/mvp-services/side-img-3.jpg"
-                        alt="Project Management Tools We Use"
-                        title="Project Management Tools We Use"
-                        class=""
-                        data-pagespeed-url-hash="3961766110"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/mvp-services/side-img-3.jpg" src="<?php echo asset(); ?>images/mvp-services/side-img-3.jpg" alt="Project Management Tools We Use" title="Project Management Tools We Use" class="" data-pagespeed-url-hash="3961766110" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -600,15 +529,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-4.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-4.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/mvp-services/side-img-4.png"
-                                    src="<?php echo asset(); ?>images/mvp-services/side-img-4.png"
-                                    alt="Project Management Tools We Use"
-                                    title="Project Management Tools We Use"
-                                    class=""
-                                    data-pagespeed-url-hash="4256368735"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/mvp-services/side-img-4.png" src="<?php echo asset(); ?>images/mvp-services/side-img-4.png" alt="Project Management Tools We Use" title="Project Management Tools We Use" class="" data-pagespeed-url-hash="4256368735" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -617,15 +538,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-5.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/mvp-services/side-img-5.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset(); ?>images/mvp-services/side-img-5.png"
-                                    src="<?php echo asset(); ?>images/mvp-services/side-img-5.png"
-                                    alt="Project Management Tools We Use"
-                                    title="Project Management Tools We Use"
-                                    class=""
-                                    data-pagespeed-url-hash="255901360"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <img data-src="<?php echo asset(); ?>images/mvp-services/side-img-5.png" src="<?php echo asset(); ?>images/mvp-services/side-img-5.png" alt="Project Management Tools We Use" title="Project Management Tools We Use" class="" data-pagespeed-url-hash="255901360" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                     </div>
@@ -640,7 +553,7 @@
             <div class="col-md-6 col-lg-5">
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1 mb-lg">Bacancy’s Consultation To Build Minimum Viable Product(MVP)</h2>
+                        <h2 class="section-title-text h1 mb-lg">kasinfotech’s Consultation To Build Minimum Viable Product(MVP)</h2>
                     </div>
                 </div>
             </div>
@@ -773,7 +686,7 @@
                     <thead>
                         <tr class="bg-graylight">
                             <th scope="col">What you get?</th>
-                            <th scope="col" class="text-center bg-primary text-white">Your Growth Partner Bacancy</th>
+                            <th scope="col" class="text-center bg-primary text-white">Your Growth Partner kasinfotech</th>
                             <th scope="col" class="text-center">Other Outsourcing Vendors</th>
                             <th scope="col" class="text-center">Freelance Developers</th>
                         </tr>
@@ -781,397 +694,205 @@
                     <tbody>
                         <tr class="bg-graylight">
                             <th data-label="What you get?">Tangible</th>
-                            <th data-label="Your Growth Partner Bacancy"></th>
+                            <th data-label="Your Growth Partner kasinfotech"></th>
                             <th data-label="Other Outsourcing Vendors"></th>
                             <th data-label="Freelance Developers"></th>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Developer</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Project Lead</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="2700325002"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/info-icon-green.png" src="<?php echo asset(); ?>images/info-icon-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="2700325002" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Quality Auditor</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="2700325002"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/info-icon-green.png" src="<?php echo asset(); ?>images/info-icon-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="2700325002" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Account Manager</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Budget Billing Rate</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr class="bg-graylight">
                             <th scope="row" data-label="What you get?">Intangible</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center"></td>
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center"></td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center"></td>
                             <td data-label="Freelance Developers" class="text-right text-md-center"></td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Reliability</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Security</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="2700325002"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/info-icon-green.png" src="<?php echo asset(); ?>images/info-icon-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="2700325002" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" data-label="What you get?">Consistent Quality</th>
-                            <td data-label="Your Growth Partner Bacancy" class="text-right text-md-center">
+                            <td data-label="Your Growth Partner kasinfotech" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/right-arrow-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        src="<?php echo asset(); ?>images/right-arrow-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="3817108602"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/right-arrow-green.png" src="<?php echo asset(); ?>images/right-arrow-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="3817108602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Other Outsourcing Vendors" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/info-icon-green.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        src="<?php echo asset(); ?>images/info-icon-green.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="2700325002"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/info-icon-green.png" src="<?php echo asset(); ?>images/info-icon-green.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="2700325002" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                             <td data-label="Freelance Developers" class="text-right text-md-center">
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/cross-icon-red.png" type="image/png" />
-                                    <img
-                                        data-src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        src="<?php echo asset(); ?>images/cross-icon-red.png"
-                                        alt="Developer"
-                                        title="Developer"
-                                        class=""
-                                        data-pagespeed-url-hash="1193986208"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <img data-src="<?php echo asset(); ?>images/cross-icon-red.png" src="<?php echo asset(); ?>images/cross-icon-red.png" alt="Developer" title="Developer" class="" data-pagespeed-url-hash="1193986208" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </td>
                         </tr>
@@ -1215,7 +936,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -1244,7 +965,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or skype "Bacancy.”
+                                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or skype "kasinfotech.”
                                 </p>
                             </div>
                         </div>
@@ -1322,7 +1043,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What is the cost and engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What is the cost and engagement options available at kasinfotech?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We provide three types of hiring engagement models.</p>
@@ -1392,7 +1113,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype us at Bacancy to know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -1410,7 +1131,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    Bacancy shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>
@@ -1437,20 +1158,12 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1"
-                                src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1"
-                                alt="Flutter for Building MVPs – What makes it an Optimal Choice?"
-                                title="Flutter for Building MVPs – What makes it an Optimal Choice?"
-                                class=""
-                                data-pagespeed-url-hash="3472165594"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" alt="Flutter for Building MVPs – What makes it an Optimal Choice?" title="Flutter for Building MVPs – What makes it an Optimal Choice?" class="" data-pagespeed-url-hash="3472165594" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">Flutter for Building MVPs – What makes it an Optimal Choice?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/flutter-app-development-cost" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/flutter-app-development-cost" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -1459,20 +1172,12 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1"
-                                src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1"
-                                alt="Why Is React Native The Best Platform To Launch Your MVP?"
-                                title="Why Is React Native The Best Platform To Launch Your MVP?"
-                                class=""
-                                data-pagespeed-url-hash="3892727931"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" alt="Why Is React Native The Best Platform To Launch Your MVP?" title="Why Is React Native The Best Platform To Launch Your MVP?" class="" data-pagespeed-url-hash="3892727931" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">Why Is React Native The Best Platform To Launch Your MVP?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/react-native-for-mvp" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/react-native-for-mvp" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -1481,194 +1186,15 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1"
-                                src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1"
-                                alt="MVP Development with Ruby on Rails – How and Why?"
-                                title="MVP Development with Ruby on Rails – How and Why?"
-                                class=""
-                                data-pagespeed-url-hash="18322972"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" alt="MVP Development with Ruby on Rails – How and Why?" title="MVP Development with Ruby on Rails – How and Why?" class="" data-pagespeed-url-hash="18322972" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 60px;">MVP Development with Ruby on Rails – How and Why?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/mvp-development-with-ruby-on-rails" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/mvp-development-with-ruby-on-rails" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

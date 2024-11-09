@@ -19,16 +19,9 @@
 <section class="header-spacing banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/aws-consulting/banner-main.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/aws-consulting/banner-main.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/aws-consulting/xbanner-main.jpg,qv-1.pagespeed.ic.lC4YIJRZAz.webp"
-                src="<?php echo asset();?>images/aws-consulting/xbanner-main.jpg,qv-1.pagespeed.ic.lC4YIJRZAz.webp"
-                alt="AWS Consulting Services"
-                title="AWS Consulting Services"
-                data-pagespeed-url-hash="1028296590"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/aws-consulting/banner-main.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/aws-consulting/banner-main.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/aws-consulting/xbanner-main.jpg,qv-1.pagespeed.ic.lC4YIJRZAz.webp" src="<?php echo asset(); ?>images/aws-consulting/xbanner-main.jpg,qv-1.pagespeed.ic.lC4YIJRZAz.webp" alt="AWS Consulting Services" title="AWS Consulting Services" data-pagespeed-url-hash="1028296590" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -49,17 +42,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/aws-consulting/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/aws-consulting/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/aws-consulting/xbanner-side.png.pagespeed.ic.3KeWIeCn7k.webp"
-                        src="<?php echo asset();?>images/aws-consulting/xbanner-side.png.pagespeed.ic.3KeWIeCn7k.webp"
-                        alt="AWS Consulting Services"
-                        title="AWS Consulting Services"
-                        class="ob-cover"
-                        data-pagespeed-url-hash="2891990205"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/aws-consulting/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/aws-consulting/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xbanner-side.png.pagespeed.ic.3KeWIeCn7k.webp" src="<?php echo asset(); ?>images/aws-consulting/xbanner-side.png.pagespeed.ic.3KeWIeCn7k.webp" alt="AWS Consulting Services" title="AWS Consulting Services" class="ob-cover" data-pagespeed-url-hash="2891990205" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -139,15 +124,9 @@
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-1.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-1.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-1.png.pagespeed.ic.SrFj4eJvyz.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-1.png.pagespeed.ic.SrFj4eJvyz.webp"
-                                    alt="Unmatched Scalability"
-                                    data-pagespeed-url-hash="4244174669"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-1.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-1.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-1.png.pagespeed.ic.SrFj4eJvyz.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-1.png.pagespeed.ic.SrFj4eJvyz.webp" alt="Unmatched Scalability" data-pagespeed-url-hash="4244174669" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -157,15 +136,9 @@
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-2.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-2.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-2.png.pagespeed.ic.qTumBmB6tZ.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-2.png.pagespeed.ic.qTumBmB6tZ.webp"
-                                    alt="High Availability and Reliability (of Data Centers)"
-                                    data-pagespeed-url-hash="243707294"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-2.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-2.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-2.png.pagespeed.ic.qTumBmB6tZ.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-2.png.pagespeed.ic.qTumBmB6tZ.webp" alt="High Availability and Reliability (of Data Centers)" data-pagespeed-url-hash="243707294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -175,15 +148,9 @@
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-3.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-3.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-3.png.pagespeed.ic.FcpE9sLvPR.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-3.png.pagespeed.ic.FcpE9sLvPR.webp"
-                                    alt="Power to manage a broad range of Services"
-                                    data-pagespeed-url-hash="538207215"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-3.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-3.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-3.png.pagespeed.ic.FcpE9sLvPR.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-3.png.pagespeed.ic.FcpE9sLvPR.webp" alt="Power to manage a broad range of Services" data-pagespeed-url-hash="538207215" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -194,21 +161,15 @@
             </div>
             <div class="col-md-6">
                 <h3 class="h5 font-bold mb-sm small-heading" style="height: 63px;">
-                    3 Core Verticals of AWS that Bacancy has gained Expertise:
+                    3 Core Verticals of AWS that KAS Pvt Ltd has gained Expertise:
                 </h3>
                 <div class="border boxed small-heading-two" style="height: 288px;">
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-4.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-4.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-4.png.pagespeed.ic.JL9ZNcVITC.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-4.png.pagespeed.ic.JL9ZNcVITC.webp"
-                                    alt="Enterprise Application"
-                                    data-pagespeed-url-hash="832707136"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-4.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-4.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-4.png.pagespeed.ic.JL9ZNcVITC.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-4.png.pagespeed.ic.JL9ZNcVITC.webp" alt="Enterprise Application" data-pagespeed-url-hash="832707136" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -218,15 +179,9 @@
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-5.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-5.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-5.png.pagespeed.ic.c6DYxFwGlV.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-5.png.pagespeed.ic.c6DYxFwGlV.webp"
-                                    alt="Big Data &amp; Analytics"
-                                    data-pagespeed-url-hash="1127207057"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-5.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-5.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-5.png.pagespeed.ic.c6DYxFwGlV.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-5.png.pagespeed.ic.c6DYxFwGlV.webp" alt="Big Data &amp; Analytics" data-pagespeed-url-hash="1127207057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -236,15 +191,9 @@
                     <div class="row gy-2 mb-sm align-items-md-center">
                         <div class="col-md-3 col-lg-2">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-6.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/aws-consulting/icon-l-6.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/aws-consulting/xicon-l-6.png.pagespeed.ic.GqiRM6ZQNO.webp"
-                                    src="<?php echo asset();?>images/aws-consulting/xicon-l-6.png.pagespeed.ic.GqiRM6ZQNO.webp"
-                                    alt="IoT"
-                                    data-pagespeed-url-hash="1421706978"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-6.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-l-6.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-l-6.png.pagespeed.ic.GqiRM6ZQNO.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-l-6.png.pagespeed.ic.GqiRM6ZQNO.webp" alt="IoT" data-pagespeed-url-hash="1421706978" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="col-md-9 col-lg-10">
@@ -267,7 +216,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Accelerate Your Business Growth with Our AWS Consulting Services</h2>
                         <p>
-                            At Bacancy, we offer a comprehensive suite of AWS Consulting Services designed to empower businesses with the full potential of Amazon Web Services. Our team of expert consultants is well-versed in the
+                            At kasinfotech, we offer a comprehensive suite of AWS Consulting Services designed to empower businesses with the full potential of Amazon Web Services. Our team of expert consultants is well-versed in the
                             intricacies of AWS Services process and equipped with the knowledge to optimize your cloud infrastructure.
                         </p>
                         <p>
@@ -403,16 +352,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-1.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-1.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-1.png.pagespeed.ic.EJ5fj5-T8n.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-1.png.pagespeed.ic.EJ5fj5-T8n.webp"
-                            alt="Amazon Cloudfront"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="3291209681"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-1.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-1.png.pagespeed.ic.EJ5fj5-T8n.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-1.png.pagespeed.ic.EJ5fj5-T8n.webp" alt="Amazon Cloudfront" class="lazy mb-lg" data-pagespeed-url-hash="3291209681" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon Cloudfront</h3>
                 </div>
@@ -420,16 +362,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-2.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-2.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-2.png.pagespeed.ic.1Rz9gATflp.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-2.png.pagespeed.ic.1Rz9gATflp.webp"
-                            alt="Amazon Cloudwatch"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="3585709602"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-2.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-2.png.pagespeed.ic.1Rz9gATflp.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-2.png.pagespeed.ic.1Rz9gATflp.webp" alt="Amazon Cloudwatch" class="lazy mb-lg" data-pagespeed-url-hash="3585709602" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon Cloudwatch</h3>
                 </div>
@@ -437,16 +372,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-3.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-3.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-3.png.pagespeed.ic.m8EHAyEQIM.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-3.png.pagespeed.ic.m8EHAyEQIM.webp"
-                            alt="Amazon Virtual Private Cloud(VPC)"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="3880209523"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-3.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-3.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-3.png.pagespeed.ic.m8EHAyEQIM.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-3.png.pagespeed.ic.m8EHAyEQIM.webp" alt="Amazon Virtual Private Cloud(VPC)" class="lazy mb-lg" data-pagespeed-url-hash="3880209523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon Virtual Private Cloud(VPC)</h3>
                 </div>
@@ -454,16 +382,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-4.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-4.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-4.png.pagespeed.ic.89F-bjLdbK.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-4.png.pagespeed.ic.89F-bjLdbK.webp"
-                            alt="Elastic Load Balancer (ELB)"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="4174709444"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-4.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-4.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-4.png.pagespeed.ic.89F-bjLdbK.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-4.png.pagespeed.ic.89F-bjLdbK.webp" alt="Elastic Load Balancer (ELB)" class="lazy mb-lg" data-pagespeed-url-hash="4174709444" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Elastic Load Balancer (ELB)</h3>
                 </div>
@@ -471,16 +392,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-5.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-5.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-5.png.pagespeed.ic.Ko-R1_G9z7.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-5.png.pagespeed.ic.Ko-R1_G9z7.webp"
-                            alt="Amazon EC2"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="174242069"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-5.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-5.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-5.png.pagespeed.ic.Ko-R1_G9z7.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-5.png.pagespeed.ic.Ko-R1_G9z7.webp" alt="Amazon EC2" class="lazy mb-lg" data-pagespeed-url-hash="174242069" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon EC2</h3>
                 </div>
@@ -488,16 +402,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-6.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-6.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-6.png.pagespeed.ic.fZnJ4H6ljV.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-6.png.pagespeed.ic.fZnJ4H6ljV.webp"
-                            alt="Amazon RDS"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="468741990"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-6.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-6.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-6.png.pagespeed.ic.fZnJ4H6ljV.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-6.png.pagespeed.ic.fZnJ4H6ljV.webp" alt="Amazon RDS" class="lazy mb-lg" data-pagespeed-url-hash="468741990" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon RDS</h3>
                 </div>
@@ -505,16 +412,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-7.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-7.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-7.png.pagespeed.ic.exGq6bSak_.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-7.png.pagespeed.ic.exGq6bSak_.webp"
-                            alt="Amazon Route53"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="763241911"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-7.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-7.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-7.png.pagespeed.ic.exGq6bSak_.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-7.png.pagespeed.ic.exGq6bSak_.webp" alt="Amazon Route53" class="lazy mb-lg" data-pagespeed-url-hash="763241911" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon Route53</h3>
                 </div>
@@ -522,16 +422,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-8.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-8.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-8.png.pagespeed.ic.mFvxFPIw2S.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-8.png.pagespeed.ic.mFvxFPIw2S.webp"
-                            alt="Amazon S3"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="1057741832"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-8.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-8.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-8.png.pagespeed.ic.mFvxFPIw2S.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-8.png.pagespeed.ic.mFvxFPIw2S.webp" alt="Amazon S3" class="lazy mb-lg" data-pagespeed-url-hash="1057741832" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon S3</h3>
                 </div>
@@ -539,16 +432,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-9.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-9.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-9.png.pagespeed.ic.2ijKaWZEg9.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-9.png.pagespeed.ic.2ijKaWZEg9.webp"
-                            alt="Aws Auto Scaling"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="1352241753"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-9.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-9.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-9.png.pagespeed.ic.2ijKaWZEg9.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-9.png.pagespeed.ic.2ijKaWZEg9.webp" alt="Aws Auto Scaling" class="lazy mb-lg" data-pagespeed-url-hash="1352241753" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Aws Auto Scaling</h3>
                 </div>
@@ -556,16 +442,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-10.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-10.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-10.png.pagespeed.ic.Q78vsVuzoU.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-10.png.pagespeed.ic.Q78vsVuzoU.webp"
-                            alt="Amazon Lightsail"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2092399789"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-10.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-10.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-10.png.pagespeed.ic.Q78vsVuzoU.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-10.png.pagespeed.ic.Q78vsVuzoU.webp" alt="Amazon Lightsail" class="lazy mb-lg" data-pagespeed-url-hash="2092399789" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Amazon Lightsail</h3>
                 </div>
@@ -573,16 +452,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-11.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-11.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-11.png.pagespeed.ic.QBq3ywKkdz.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-11.png.pagespeed.ic.QBq3ywKkdz.webp"
-                            alt="Aws Elastic Compute Cloud"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2386899710"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-11.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-11.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-11.png.pagespeed.ic.QBq3ywKkdz.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-11.png.pagespeed.ic.QBq3ywKkdz.webp" alt="Aws Elastic Compute Cloud" class="lazy mb-lg" data-pagespeed-url-hash="2386899710" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Aws Elastic Compute Cloud</h3>
                 </div>
@@ -590,16 +462,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-12.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws/service-icon-12.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws/xservice-icon-12.png.pagespeed.ic.mgkBZmwtPn.webp"
-                            src="<?php echo asset();?>images/aws/xservice-icon-12.png.pagespeed.ic.mgkBZmwtPn.webp"
-                            alt="Aws Lambda"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2681399631"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-12.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws/service-icon-12.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws/xservice-icon-12.png.pagespeed.ic.mgkBZmwtPn.webp" src="<?php echo asset(); ?>images/aws/xservice-icon-12.png.pagespeed.ic.mgkBZmwtPn.webp" alt="Aws Lambda" class="lazy mb-lg" data-pagespeed-url-hash="2681399631" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 48px;">Aws Lambda</h3>
                 </div>
@@ -641,50 +506,16 @@
                                         <p class="text-secondary h3 section-short-desc font-regular">We ensure you’re matched with the right talent resource based on your requirement.</p>
                                     </div>
                                 </div>
-                                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" id="focus-id" maxlength="80" name="contactName" size="20" placeholder="Your Name" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12 col-lg-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control bg-white validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" />
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <textarea class="form-control bg-white validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 text-center">
-                                            <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                                        </div>
-                                    </div>
-                                </form>
+                               
                             </div>
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -701,7 +532,7 @@
             <div class="col-12 text-center mb-lg">
                 <div class="section-title-and-desc section-title-and-desc-two">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Bacancy’s AWS Consulting Process Explained</h2>
+                        <h2 class="section-title-text h1">kasinfotech’s AWS Consulting Process Explained</h2>
                         <p>
                             We follow a streamlined approach with our AWS Certified Consulting Services. Here are the progressive steps we set to achieve your ultimate results.
                         </p>
@@ -714,32 +545,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-1.png.pagespeed.ic.MQafDW6wj2.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-1.png.pagespeed.ic.MQafDW6wj2.webp"
-                                alt="Discovery and Assessment"
-                                class="lazy"
-                                data-pagespeed-url-hash="2475933595"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-1.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-1.png.pagespeed.ic.MQafDW6wj2.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-1.png.pagespeed.ic.MQafDW6wj2.webp" alt="Discovery and Assessment" class="lazy" data-pagespeed-url-hash="2475933595" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Discovery and Assessment
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    alt="Discovery and Assessment"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="1460411053"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" alt="Discovery and Assessment" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="1460411053" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -752,32 +569,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative flex-md-row-reverse justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-2.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-2.png.pagespeed.ic.rscK5sdqYq.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-2.png.pagespeed.ic.rscK5sdqYq.webp"
-                                alt="Requirement Gathering"
-                                class="lazy"
-                                data-pagespeed-url-hash="2770433516"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-2.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-2.png.pagespeed.ic.rscK5sdqYq.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-2.png.pagespeed.ic.rscK5sdqYq.webp" alt="Requirement Gathering" class="lazy" data-pagespeed-url-hash="2770433516" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 offset-lg-1 text-center position-relative">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Requirement Gathering
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    alt="Requirement Gathering"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="3028204037"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" alt="Requirement Gathering" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="3028204037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -790,32 +593,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-3.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-3.png.pagespeed.ic.fzIhP8XXge.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-3.png.pagespeed.ic.fzIhP8XXge.webp"
-                                alt="Architecture Design"
-                                class="lazy"
-                                data-pagespeed-url-hash="3064933437"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-3.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-3.png.pagespeed.ic.fzIhP8XXge.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-3.png.pagespeed.ic.fzIhP8XXge.webp" alt="Architecture Design" class="lazy" data-pagespeed-url-hash="3064933437" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Architecture Design
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    alt="Architecture Design"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="1460411053"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" alt="Architecture Design" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="1460411053" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -828,32 +617,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative flex-md-row-reverse justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-4.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-4.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-4.png.pagespeed.ic.ts0VHgEpej.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-4.png.pagespeed.ic.ts0VHgEpej.webp"
-                                alt="Proof of Concept"
-                                class="lazy"
-                                data-pagespeed-url-hash="3359433358"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-4.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-4.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-4.png.pagespeed.ic.ts0VHgEpej.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-4.png.pagespeed.ic.ts0VHgEpej.webp" alt="Proof of Concept" class="lazy" data-pagespeed-url-hash="3359433358" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 offset-lg-1 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Proof of Concept
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    alt="Proof of Concept"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="3028204037"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" alt="Proof of Concept" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="3028204037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -866,32 +641,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-5.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-5.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-5.png.pagespeed.ic.EX_eqONbHR.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-5.png.pagespeed.ic.EX_eqONbHR.webp"
-                                alt="Implementation and Deployment"
-                                class="lazy"
-                                data-pagespeed-url-hash="3653933279"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-5.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-5.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-5.png.pagespeed.ic.EX_eqONbHR.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-5.png.pagespeed.ic.EX_eqONbHR.webp" alt="Implementation and Deployment" class="lazy" data-pagespeed-url-hash="3653933279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Implementation and Deployment
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    alt="Implementation and Deployment"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="1460411053"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" alt="Implementation and Deployment" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="1460411053" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -904,32 +665,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative flex-md-row-reverse justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-6.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-6.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-6.png.pagespeed.ic.WCyhxRDQIe.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-6.png.pagespeed.ic.WCyhxRDQIe.webp"
-                                alt="Testing and Quality Assurance"
-                                class="lazy"
-                                data-pagespeed-url-hash="3948433200"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-6.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-6.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-6.png.pagespeed.ic.WCyhxRDQIe.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-6.png.pagespeed.ic.WCyhxRDQIe.webp" alt="Testing and Quality Assurance" class="lazy" data-pagespeed-url-hash="3948433200" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 offset-lg-1 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Testing and Quality Assurance
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp"
-                                    alt="Testing and Quality Assurance"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="3028204037"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg-left.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg-left.png.pagespeed.ic.R6PJgSRl6_.webp" alt="Testing and Quality Assurance" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="3028204037" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -942,32 +689,18 @@
                 <div class="row gy-4 gy-lg-0 mt-0 position-relative justify-content-md-between align-items-md-center">
                     <div class="position-absolute left-0 right-0 top-0 bottom-0 m-auto z-index-2 bg-transparent align-items-center justify-content-center d-none d-lg-flex">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-7.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/aws-consulting/icon-j-7.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/aws-consulting/xicon-j-7.png.pagespeed.ic.v4NghNQD6h.webp"
-                                src="<?php echo asset();?>images/aws-consulting/xicon-j-7.png.pagespeed.ic.v4NghNQD6h.webp"
-                                alt="Support and Maintenance"
-                                class="lazy"
-                                data-pagespeed-url-hash="4242933121"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-7.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-j-7.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-j-7.png.pagespeed.ic.v4NghNQD6h.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-j-7.png.pagespeed.ic.v4NghNQD6h.webp" alt="Support and Maintenance" class="lazy" data-pagespeed-url-hash="4242933121" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                     <div class="col-md-6 col-lg-5 text-center">
                         <h3 class="h5 p-md-3 font-bold position-relative">
                             Support and Maintenance
                             <picture>
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
-                                <img
-                                    data-src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    src="<?php echo asset();?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp"
-                                    alt="Support and Maintenance"
-                                    class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block"
-                                    data-pagespeed-url-hash="1460411053"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/soft-dev-outsourcing/shape-bg.png" type="image/png" />
+                                <img data-src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" src="<?php echo asset(); ?>images/soft-dev-outsourcing/xshape-bg.png.pagespeed.ic.3wtSiGMdzP.webp" alt="Support and Maintenance" class="position-absolute top-0 bottom-0 left-0 h-100 d-none d-md-block" data-pagespeed-url-hash="1460411053" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </h3>
                     </div>
@@ -1005,17 +738,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        alt="LMP Solutions"
-                                                        title="LMP Solutions"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2417578463"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" alt="LMP Solutions" title="LMP Solutions" class="lazy ob-cover" data-pagespeed-url-hash="2417578463" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1023,7 +748,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached Bacancy to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -1063,17 +788,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        alt="Izuma Networks"
-                                                        title="Izuma Networks"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2838140800"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" alt="Izuma Networks" title="Izuma Networks" class="lazy ob-cover" data-pagespeed-url-hash="2838140800" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1081,7 +798,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at Bacancy identified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -1121,17 +838,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        alt="LMP Solutions"
-                                                        title="LMP Solutions"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2417578463"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" alt="LMP Solutions" title="LMP Solutions" class="lazy ob-cover" data-pagespeed-url-hash="2417578463" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1139,7 +848,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached Bacancy to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -1179,17 +888,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        alt="Izuma Networks"
-                                                        title="Izuma Networks"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2838140800"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" alt="Izuma Networks" title="Izuma Networks" class="lazy ob-cover" data-pagespeed-url-hash="2838140800" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1197,7 +898,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at Bacancy identified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -1237,17 +938,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp"
-                                                        alt="LMP Solutions"
-                                                        title="LMP Solutions"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2417578463"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-1.jpg,qv-4.pagespeed.ic.MztAEwUGlr.webp" alt="LMP Solutions" title="LMP Solutions" class="lazy ob-cover" data-pagespeed-url-hash="2417578463" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1255,7 +948,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached Bacancy to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -1295,17 +988,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 472px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        src="<?php echo asset();?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp"
-                                                        alt="Izuma Networks"
-                                                        title="Izuma Networks"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="2838140800"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/aws-consulting/case-study-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" src="<?php echo asset(); ?>images/aws-consulting/xcase-study-2.jpg,qv-4.pagespeed.ic.MUng4-PPRg.webp" alt="Izuma Networks" title="Izuma Networks" class="lazy ob-cover" data-pagespeed-url-hash="2838140800" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 472px;">
@@ -1313,7 +998,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at Bacancy identified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -1381,16 +1066,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-1.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-1.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-1.png.pagespeed.ic.yxkCBDXefm.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-1.png.pagespeed.ic.yxkCBDXefm.webp"
-                            alt="Responsive"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="1212570484"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-1.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-1.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-1.png.pagespeed.ic.yxkCBDXefm.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-1.png.pagespeed.ic.yxkCBDXefm.webp" alt="Responsive" class="lazy mb-lg" data-pagespeed-url-hash="1212570484" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">Responsive</h3>
                 </div>
@@ -1398,16 +1076,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-2.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-2.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-2.png.pagespeed.ic.Wg_5daHy1x.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-2.png.pagespeed.ic.Wg_5daHy1x.webp"
-                            alt="Upgradation"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="1507070405"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-2.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-2.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-2.png.pagespeed.ic.Wg_5daHy1x.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-2.png.pagespeed.ic.Wg_5daHy1x.webp" alt="Upgradation" class="lazy mb-lg" data-pagespeed-url-hash="1507070405" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">Upgradation</h3>
                 </div>
@@ -1415,16 +1086,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-3.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-3.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-3.png.pagespeed.ic.Jxh-YK8fYZ.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-3.png.pagespeed.ic.Jxh-YK8fYZ.webp"
-                            alt="Security"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="1801570326"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-3.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-3.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-3.png.pagespeed.ic.Jxh-YK8fYZ.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-3.png.pagespeed.ic.Jxh-YK8fYZ.webp" alt="Security" class="lazy mb-lg" data-pagespeed-url-hash="1801570326" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">Security</h3>
                 </div>
@@ -1432,16 +1096,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-4.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-4.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-4.png.pagespeed.ic.xCaZMUFLYf.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-4.png.pagespeed.ic.xCaZMUFLYf.webp"
-                            alt="Maintenance"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2096070247"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-4.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-4.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-4.png.pagespeed.ic.xCaZMUFLYf.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-4.png.pagespeed.ic.xCaZMUFLYf.webp" alt="Maintenance" class="lazy mb-lg" data-pagespeed-url-hash="2096070247" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">Maintenance</h3>
                 </div>
@@ -1449,16 +1106,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-5.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-5.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-5.png.pagespeed.ic.AR98uFrS6M.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-5.png.pagespeed.ic.AR98uFrS6M.webp"
-                            alt="Migration"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2390570168"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-5.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-5.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-5.png.pagespeed.ic.AR98uFrS6M.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-5.png.pagespeed.ic.AR98uFrS6M.webp" alt="Migration" class="lazy mb-lg" data-pagespeed-url-hash="2390570168" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">Migration</h3>
                 </div>
@@ -1466,16 +1116,9 @@
             <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                 <div class="service-box px-2">
                     <picture>
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-6.webp" type="image/webp" />
-                        <source srcset="<?php echo asset();?>images/aws-consulting/icon-k-6.png" type="image/png" />
-                        <img
-                            data-src="<?php echo asset();?>images/aws-consulting/xicon-k-6.png.pagespeed.ic.Db9BFsSDzy.webp"
-                            src="<?php echo asset();?>images/aws-consulting/xicon-k-6.png.pagespeed.ic.Db9BFsSDzy.webp"
-                            alt="PWA"
-                            class="lazy mb-lg"
-                            data-pagespeed-url-hash="2685070089"
-                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                        />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-6.webp" type="image/webp" />
+                        <source srcset="<?php echo asset(); ?>images/aws-consulting/icon-k-6.png" type="image/png" />
+                        <img data-src="<?php echo asset(); ?>images/aws-consulting/xicon-k-6.png.pagespeed.ic.Db9BFsSDzy.webp" src="<?php echo asset(); ?>images/aws-consulting/xicon-k-6.png.pagespeed.ic.Db9BFsSDzy.webp" alt="PWA" class="lazy mb-lg" data-pagespeed-url-hash="2685070089" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                     <h3 class="h6 small-heading font-bold" style="height: 24px;">PWA</h3>
                 </div>
@@ -1492,9 +1135,9 @@
             <div class="col-lg-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Bacancy Stands Out as Your AWS Consulting Company?</h2>
+                        <h2 class="section-title-text h1">Why KAS Pvt LtdStands Out as Your AWS Consulting Company?</h2>
                         <p>
-                            Bacancy has more than a decade of experience with Cloud Computing and Cloud Services, and has proved itself to be the number one AWS Cloud Consulting Company in the US and worldwide. Our expert AWS consultants
+                            KAS Pvt Ltdhas more than a decade of experience with Cloud Computing and Cloud Services, and has proved itself to be the number one AWS Cloud Consulting Company in the US and worldwide. Our expert AWS consultants
                             have hands-on experience and extensive knowledge of the AWS platform, and they understand every business with its niche and specific requirement.
                         </p>
                         <p>
@@ -1506,17 +1149,9 @@
             </div>
             <div class="col-lg-6 text-center mt-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/aws-consulting/side-img-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/aws-consulting/side-img-1.jpg?v-1" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp"
-                        src="<?php echo asset();?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp"
-                        alt="Why Bacancy Stands Out as Your AWS Consulting Company?"
-                        title="Why Bacancy Stands Out as Your AWS Consulting Company?"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="3638325973"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/aws-consulting/side-img-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/aws-consulting/side-img-1.jpg?v-1" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" alt="Why KAS Pvt LtdStands Out as Your AWS Consulting Company?" title="Why KAS Pvt LtdStands Out as Your AWS Consulting Company?" class="lazy ob-cover" data-pagespeed-url-hash="3638325973" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1536,16 +1171,9 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                alt="Our Development Center Strength"
-                title="Our Development Center Strength"
-                data-pagespeed-url-hash="102558019"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.jpg" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" alt="Our Development Center Strength" title="Our Development Center Strength" data-pagespeed-url-hash="102558019" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -1564,17 +1192,9 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        alt="Our Development Center Strength"
-                        title="Our Development Center Strength"
-                        class="mb-5 mb-lg-0"
-                        data-pagespeed-url-hash="962442249"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="mb-5 mb-lg-0" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1582,64 +1202,36 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                alt="Agile Developers"
-                                title="Agile Developers"
-                                data-pagespeed-url-hash="2109142817"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Teams" title="Agile Teams" data-pagespeed-url-hash="2109142817" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">1050+</h4>
-                        <p>Agile Developers</p>
+                        <p>Agile Teams</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/developer-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/developer-icon.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                alt="AWS Developers"
-                                title="AWS Developers"
-                                data-pagespeed-url-hash="3952180670"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" alt="AWS Developers" title="AWS Developers" data-pagespeed-url-hash="3952180670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">80+</h4>
                         <p class="small-heading" style="height: 24px;">AWS Developers</p>
                     </div>
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                alt="Agile Coaches"
-                                title="Agile Coaches"
-                                data-pagespeed-url-hash="905832657"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" alt="Agile Coaches" title="Agile Coaches" data-pagespeed-url-hash="905832657" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">05</h4>
                         <p>Agile Coaches</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                alt="Certified Scrum Masters"
-                                title="Certified Scrum Masters"
-                                data-pagespeed-url-hash="98509469"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" alt="Certified Scrum Masters" title="Certified Scrum Masters" data-pagespeed-url-hash="98509469" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">14</h4>
                         <p>Certified Scrum Masters</p>
@@ -1650,81 +1242,41 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
-                        src="<?php echo asset();?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp"
-                        alt="Work at Your Time Zone"
-                        title="Work at Your Time Zone"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2350239806"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" src="<?php echo asset(); ?>images/xcountry-icon-1.png.pagespeed.ic.BFbev0UkE9.webp" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg" data-pagespeed-url-hash="2350239806" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Work at Your Time Zone</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
-                        src="<?php echo asset();?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp"
-                        alt="Easy Communication"
-                        title="Easy Communication"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2644739727"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" src="<?php echo asset(); ?>images/xcountry-icon-2.png.pagespeed.ic.CD9p7LrMxj.webp" alt="Easy Communication" title="Easy Communication" class="mb-lg" data-pagespeed-url-hash="2644739727" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Easy Communication</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
-                        src="<?php echo asset();?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp"
-                        alt="Hire in 48 Hours"
-                        title="Hire in 48 Hours"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2939239648"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" src="<?php echo asset(); ?>images/xcountry-icon-3.png.pagespeed.ic.OfsrCfoBPY.webp" alt="Hire in 48 Hours" title="Hire in 48 Hours" class="mb-lg" data-pagespeed-url-hash="2939239648" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Hire in 48 Hours</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
-                        src="<?php echo asset();?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp"
-                        alt="In Business Since 2011"
-                        title="In Business Since 2011"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3233739569"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>In Business Since 2011</p>
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
-                        src="<?php echo asset();?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp"
-                        alt="5/5 Pro User Rating"
-                        title="5/5 Pro User Rating"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3528239490"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" src="<?php echo asset(); ?>images/xcountry-icon-5.png.pagespeed.ic.oGnKvNIT_c.webp" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg" data-pagespeed-url-hash="3528239490" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>5/5 Pro User Rating</p>
             </div>
@@ -1779,7 +1331,7 @@
                             <a href="#a" itemprop="name">What is the process for engaging AWS Managed Services?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">At Bacancy, here is how the process works step by step: initial consultation, project scoping &amp; proposal, engagement agreement, project execution, project review &amp; closure.</p>
+                            <p itemprop="text">At kasinfotech, here is how the process works step by step: initial consultation, project scoping &amp; proposal, engagement agreement, project execution, project review &amp; closure.</p>
                         </div>
                     </div>
                     <div class="accordion-item bg-white accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1807,175 +1359,4 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

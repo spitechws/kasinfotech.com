@@ -14,3 +14,11 @@
 5. Set database details and baseurl in app/config/development/constants.php
 6. Done, now you can open this project in your localhost
 
+
+# SonarQube Scanner
+- sonar-scanner -Dsonar.token=<Your token>
+
+
+# Environments
+- Testing : http://kasinfotech.pronerotest.in/
+- Production: http://kasinfotech.com/

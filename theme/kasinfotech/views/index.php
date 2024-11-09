@@ -93,7 +93,7 @@
         <div class="container">
             <div class="section-title-and-desc">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Connect, Collaborate and Create</h2>
+                    <h2 class="section-title-text h1">Our Products</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-9 mx-auto">
@@ -104,105 +104,25 @@
                     </div>
                 </div>
             </div>
-            <div class="row home-card-row g-4">
-                <div class="col-lg-6 col-12 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-one.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-one.webp'); ?>" src="<?php echo asset('images/home-cards-one.webp'); ?>" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">new edition out now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
+            <div class="row g-4">
+                <?php foreach ($aProductList->data as $product) : ?>
+                    <div class="col-md-6">
+                        <div class="card-image-primary banner-post">
+                            <figure class="banner-post-img">
+                                <picture>
+                                    <source srcset="https://placehold.co/500x200" type="image/webp">
+                                    <source srcset="https://placehold.co/500x200" type="image/jpeg">
+                                    <img data-src="https://placehold.co/500x200" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
+                                </picture>
+                            </figure>
+                            <h3 class="card-title text-white h5-2"><?php echo $product->product_name; ?></h3>
+                            <a href="<?php echo base_url('products/' . $product->slug); ?>" class="text-sm text-item-center long-arrow-hover">
+                                <span class="text-primary text-uppercase ls-sm"><a class="text-danger" href="<?php echo base_url('product/' . $product->slug); ?>">View Details</a></span>
+                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-two.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-two.webp'); ?>" src="<?php echo asset('images/home-cards-two.webp'); ?>" alt="Company Fact Sheet" title="Company Fact Sheet" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
-                            <span class="text-primary text-uppercase ls-sm">visit now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-three.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-three.webp'); ?>" src="<?php echo asset('images/home-cards-three.webp'); ?>" alt="We’re Hiring! Come Join Our Team!" title="We’re Hiring! Come Join Our Team!" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">We’re Hiring! Come Join Our Team!</h3>
-                        <a href="<?php echo base_url(); ?>careers" class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">apply now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-four.webp'); ?>" type="image/jpeg"><img data-src="<?php echo asset('images/home-cards-four.webp'); ?>" src="images/xhome-cards-four.jpg%2Cqv-3.pagespeed.ic.r4jJC-e4pI.webp" alt="The Keys to Organizational Agility: From Agile to
-                                Agility" title="The Keys to Organizational Agility: From Agile to
-                                Agility" class="lazy">
-                            </picture>
-                        </figure>
-                        <h3 class="card-title text-white h5-2">The Keys to Organizational Agility: From Agile to
-                            Agility</h3>
-                        <a href="javascript:void(0)" data-toggle="modal" data-target="#homepageVideoModal" data-video="https://player.vimeo.com/video/329760190?autoplay=1" class="text-sm text-item-center long-arrow-hover watch-video">
-                            <span class="text-primary text-uppercase ls-sm">Watch our video </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-five.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-five.webp'); ?>" src="<?php echo asset('images/home-cards-five.webp'); ?>" alt="Outsourcing: The Good,The Bad and The Honest Truth" title="Outsourcing: The Good,The Bad and The Honest Truth" class="lazy">
-                            </picture>
-                        </figure>
-                        <h4 class="card-title text-white h5-2">Outsourcing: The Good,The Bad and The Honest Truth</h4>
-                        <a href="<?php echo base_url(); ?>blog/honesty-transparency-and-integritywhy-its-hard-to-find-from-offshore-development-vendors/" target="_blank">
-                            <span class="text-primary text-uppercase ls-sm">Visit Now </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12 card-column">
-                    <div class="card-image-primary banner-post">
-                        <figure class="banner-post-img">
-                            <picture>
-                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/home-cards-six.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/home-cards-six.webp'); ?>" src="<?php echo asset('images/home-cards-six.webp'); ?>" alt="New Agile Development Center, New Chapter" title="New Agile Development Center, New Chapter" class="lazy">
-                            </picture>
-                        </figure>
-                        <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="<?php echo base_url(); ?>development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
-                            <span class="text-primary text-uppercase ls-sm">Let's connect </span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
+                <?php endforeach; ?>
             </div>
         </div>
     </section>
@@ -210,7 +130,7 @@
         <div class="container">
             <div class="section-title-and-desc">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Digital Transformations</h2>
+                    <h2 class="section-title-text h1">Our Services</h2>
                 </div>
                 <div class="row ">
                     <div class="col-xl-10 mx-auto">
@@ -224,45 +144,29 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row digital-tranformation-row g-0 digital-transformation-bg-last bg-behind-section">
-                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg')?>)"></div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four banner-post ">
-                        <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
-                        <a href="<?php echo base_url(); ?>services#2" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
+                <div class="digital-transformation-bg bg-behind-content"></div>
+                <?php foreach ($aServiceList->data as $row) : ?>
+                    <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
+                        <div class="card-image-primary card-home-four banner-post">
+                            <figure class="banner-post-img">
+                                <picture>
+                                    <source srcset="https://placehold.co/200x200" type="image/webp">
+                                    <source srcset="https://placehold.co/200x200" type="image/jpeg">
+                                    <img data-src="https://placehold.co/200x200" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
+                                </picture>
+                            </figure>
+                            <h3 class="card-title text-white h3"><?php echo $row->service_name; ?></h3>
+                            <a href="<?php echo base_url('service/' . $row->slug); ?>" class="text-sm text-item-center">
+                                <span class="text-primary text-uppercase ls-sm">View Details</span>
+                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four banner-post ">
-                        <h3 class="card-title text-white h3">Enterprise Application Management </h3>
-                        <a href="<?php echo base_url(); ?>services#3" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four ">
-                        <h3 class="card-title text-white h3">Agile QA, Automation and DevOps </h3>
-                        <a href="<?php echo base_url(); ?>services#4" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
-                    <div class="card-image-primary card-home-four ">
-                        <h3 class="card-title text-white h3">Embedded & Hardware</h3>
-                        <a href="<?php echo base_url(); ?>systems/" class="text-sm text-item-center">
-                            <span class="text-primary text-uppercase ls-sm">Discover</span>
-                            <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                        </a>
-                    </div>
-                </div>
+                <?php endforeach; ?>
+
             </div>
         </div>
+
     </section>
     <section class="section-padding section-padding-md pt-0">
         <div class="container">
@@ -278,7 +182,7 @@
                 <div class="col-6 col-sm-4 col-md mt-md-0">
                     <div class="counter-block text-center">
                         <h3 class="counter-number h1">
-                            12+ </h3>
+                            7+ </h3>
                         <p class="counter-desc text-md">
                             Countries Where We Have Happy Customers
                         </p>
@@ -287,7 +191,7 @@
                 <div class="col-6 col-sm-4 col-md mt-md-0">
                     <div class="counter-block text-center">
                         <h3 class="counter-number h1">
-                            1050+ </h3>
+                            50+ </h3>
                         <p class="counter-desc text-md">
                             Agile Enabled Employees
                         </p>
@@ -296,7 +200,7 @@
                 <div class="col-6 col-sm-4 col-md mt-md-0">
                     <div class="counter-block text-center">
                         <h3 class="counter-number h1">
-                            06 </h3>
+                            04 </h3>
                         <p class="counter-desc text-md">
                             Worldwide Offices
                         </p>
@@ -367,7 +271,7 @@
                             Success Magazine
                         </h4>
                         <p class="text-secondary  desc-margin">
-                            KAS PVT LTDrepresents the connected world, offering innovative and
+                            KAS Pvt Ltd represents the connected world, offering innovative and
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
@@ -377,129 +281,7 @@
             </div>
         </div>
     </section>
-    <!-- <section class="section-padding bg-graylight home-page-cs" id="case-study">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-11 mx-auto">
-                    <div class="section-title-and-desc">
-                        <div class="section-title-block text-center">
-                            <h2 class="section-title-text h1">Reasons why we are the best</h2>
-                            <p class="text-center text-secondary h3 section-short-desc">We've helped out various clients across several industries, and you could be next!</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row gy-4  gy-lg-0">
-                <div class="small-heading col-lg-8">
-                    <div class="row gy-4">
-                        <div class="col-12">
-                            <div class=" bg-white row flex-md-row-reverse gx-0">
-                                <div class="col-md-5 position-relative">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/verizon.jpg'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/verizon.jpg'); ?>">
-                                        <img data-src="<?php echo asset('images/verizon.jpg'); ?>" src="<?php echo asset('images/verizon.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" h-100 ob-cover">
-                                    </picture>
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/cs-logo-1.webp'); ?>" type="image/png">
-                                        <!-- <img data-src="<?php echo asset('images/cs-logo-1.webp'); ?>" src="<?php echo asset('images/cs-logo-1.webp'); ?>" alt="Verizon Express Store" title="Verizon Express Store" class=" cs-logo"> -->
-                                    <!-- </picture>
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="boxed pt-lg-0">
-                                        <picture>
-                                            <source srcset="<?php echo asset('images/cs-logo-1-new.webp'); ?>" type="image/webp">
-                                            <source srcset="<?php echo asset('images/cs-logo-1-new.webp'); ?>" type="image/jpeg">
-                                            <img data-src="<?php echo asset('images/cs-logo-1-new.webp'); ?>" src="<?php echo asset('images/cs-logo-1-new.webp'); ?>" alt=" reactjs" class="d-none d-lg-block">
-                                        </picture>
-                                        <p class="text-primary font-bold text-uppercase mb-2 mt-lg-2">E-COMMERCE</p>
-                                        <h2 class="mb-2">Verizon Express Store</h2>
-                                        <p class="text-18 cs-paragraph">Verizon is America’s biggest wireless network operator company. The Express store is a commerce project where any user in America can purchase mobile, tablets, connected devices and transfer his device to Verizon. </p>
-                                        <a href="case-study/reactjs/express-store" rel="nofollow" class="text-sm text-item-center long-arrow-hover mt-3">
-                                            <span class="text-primary text-uppercase ls-xs font-semibold ">Discover </span>
-                                            <span class="long-arrow-icon-css icon-item right "></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div> -->
-                        <!-- </div>
-                        <div class="col-12">
-                            <div class=" bg-white row  gx-0">
-                                <div class="col-md-5 position-relative">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/cs-2.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/cs-2.webp'); ?>" type="image/jpeg">
-                                        <img data-src="<?php echo asset('images/cs-2.webp'); ?>" src="<?php echo asset('images/cs-2.webp'); ?>" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" h-100 ob-cover">
-                                    </picture>
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/cs-logo-2.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/cs-logo-2.webp'); ?>" type="image/png">
-                                        <img data-src="<?php echo asset('images/cs-logo-2.webp'); ?>" src="<?php echo asset('images/cs-logo-2.webp'); ?>" alt="Academy Sports & Outdoors" title="Academy Sports & Outdoors" class=" cs-logo">
-                                    </picture>
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="boxed pb-lg-0">
-                                        <p class="text-primary font-bold text-uppercase mb-2">Real Estate</p>
-                                        <h2 class="mb-2">Academy Sports & Outdoors</h2>
-                                        <p class="text-18 cs-paragraph">Academy Sports + Outdoors is country’s biggest sporting goods and outdoor shop. They offer a wide range of quality equipment for fishing, hunting, and camping, along with items for leisure, footwear, clothes, and more. </p>
-                                        <a href="case-study/react-native/academy-sports-outdoors" class="text-sm text-item-center long-arrow-hover mt-3" rel="nofollow">
-                                            <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
-                                            <span class="long-arrow-icon-css icon-item right "></span>
-                                        </a>
-                                        <div class="text-right d-none d-lg-block">
-                                            <picture>
-                                                <source srcset="<?php echo asset('images/react-native-icon.webp'); ?>" type="image/webp">
-                                                <source srcset="<?php echo asset('images/react-native-icon.webp'); ?>" type="image/jpeg">
-                                                <img data-src="<?php echo asset('images/react-native-icon.webp'); ?>" src="<?php echo asset('images/react-native-icon.webp'); ?>" alt="react native" class=" ">
-                                            </picture>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="small-heading col-lg-4">
-                    <div class=" bg-white row flex-md-row-reverse flex-lg-column-reverse h-100 justify-content-between  gx-0">
-                        <div class="col-md-5 col-lg-12 position-relative">
-                            <picture>
-                                <source srcset="<?php echo asset('images/cs-3.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/cs-3.webp'); ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/cs-3.webp'); ?>" src="<?php echo asset('images/cs-3.webp'); ?>" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" h-100 ob-cover">
-                            </picture>
-                            <picture>
-                                <source srcset="<?php echo asset('images/cs-logo-3.webp'); ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/cs-logo-3.webp'); ?>" type="image/png">
-                                <img data-src="<?php echo asset('images/cs-logo-3.webp'); ?>" src="<?php echo asset('images/cs-logo-3.webp'); ?>" alt="Bangkok Bank DCS" title="Bangkok Bank DCS" class=" cs-logo">
-                            </picture>
-                        </div>
-                        <div class="col-md-7 col-lg-12">
-                            <div class="boxed pt-lg-0">
-                                <div class="text-right mb-3 d-none d-lg-block">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/node-icon.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/node-icon.webp'); ?>" type="image/jpeg">
-                                        <img data-src="<?php echo asset('images/node-icon.webp'); ?>" src="<?php echo asset('images/node-icon.webp'); ?>" alt="nodejs">
-                                    </picture>
-                                </div>
-                                <p class="text-primary font-bold text-uppercase mb-2">Fintech</p>
-                                <h2 class="mb-2">Bangkok Bank DCS – Digital Channel Services</h2>
-                                <p class="text-18 paragraph-right">Bangkok Bank wanted to prepare a new solution using ‘New Relic One’ which can replace all the modules of the DCS portal. New Relic One (Telemetry Platform) has been used to resolve the business challenges of physical and digital assets. challenges of physical and digital assets. </p>
-                                <a href="case-study/reactjs/bangkokbank" class="text-sm text-item-center long-arrow-hover mt-3" rel="nofollow">
-                                    <span class="text-primary text-uppercase ls-xs font-semibold ">Discover </span>
-                                    <span class="long-arrow-icon-css icon-item right "></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 text-center mt-lg pt-0">
-                    <a href="case-study/" class="btn btn-primary  text-uppercase" rel="nofollow">Case study</a>
-                </div>
-            </div>
-        </div>
-    </section> --> -->
+
     <section class="section-padding position-relative section-paragraph">
         <div class="container position-relative">
             <div class="row">
@@ -538,12 +320,12 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -553,12 +335,12 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -567,88 +349,13 @@
             </div>
         </div>
     </section>
-    <section class="fortune-clients-section section-padding section-padding-bottom banner-post">
-        <figure class="banner-post-img">
-            <picture>
-                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/webp">
-                <source srcset="<?php echo asset('images/fortune-client-bg.webp'); ?>" type="image/jpeg">
-                <img data-src="<?php echo asset('images/fortune-client-bg.webp'); ?>" src="<?php echo asset('images/fortune-client-bg.webp'); ?>" alt="Fortune-500 Clients" title="Fortune-500 Clients" class="lazy">
-            </picture>
-        </figure>
-        <div class="container section-padding pt-0">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="section-title-and-desc mb-0">
-                        <div class="section-title-block text-left">
-                            <h2 class="section-title-text h1 text-white ">Fortune-500 Clients</h2>
-                            <p class="text-left h3 section-short-desc text-white mb-50">
-                                The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2011.
-                            </p>
-                            <a href="<?php echo base_url(); ?>clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-                    <div class="col-md-6 col-lg-4 section-padding-sm border-lg-left border-lg-right">
-                        <div class="row align-items-center gy-4 gy-md-5 text-center ">
-                            <div class="boxed">
-                                <p class="text-primary mb-2 font-bold">E-Mobility</p>
-                                <h3 class="h2 font-bold mb-3">DC Fast Charger</h3>
-                                <p>Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with KAS PVT LTDtoday!</p>
-                                <a href="systems/dc-fast-charger" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <picture>
-                                <source srcset="<?php echo asset('images/bms.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/bms.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/bms.webp') ?>" src="images/bms.jpg" alt="Battery Management System - BMS" title="Battery Management System - BMS" class="lazy system-slider-img">
-                            </picture>
-                            <div class="boxed">
-                                <p class="text-primary mb-2 font-bold">E-Mobility</p>
-                                <h3 class="h2 font-bold mb-3">Battery Management System - BMS</h3>
-                                <p>KAS PVT LTD’s BMS helps to estimate the battery's State of Health SoH and State of Charge SoC. It identifies the state of the battery, whether active or dead, as well as, supports passive Cell Balancing.</p>
-                                <a href="systems/battery-management-system" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <picture>
-                                <source srcset="<?php echo asset('images/motor-control.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/motor-control.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/motor-control.webp') ?>" src="<?php echo asset('images/motor-control.webp') ?>" alt="Motor Controller" title="Motor Controller" class="lazy system-slider-img">
-                            </picture>
-                            <div class="boxed">
-                                <p class="text-primary mb-2 font-bold">E-Mobility</p>
-                                <h3 class="h2 font-bold mb-3">Motor Controller</h3>
-                                <p>KAS PVT LTD’s Motor controller fine-tunes with the electric motor to improve vehicle performance. Its fine-tuning capability supports various applications for different vehicles, incorporating an optimized control algorithm.</p>
-                                <a href="systems/motor-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <picture>
-                                <source srcset="<?php echo asset('images/slider-3.webp') ?>" type="image/webp">
-                                <source srcset="<?php echo asset('images/slider-3.webp') ?>" type="image/jpeg">
-                                <img data-src="<?php echo asset('images/slider-3.webp') ?>" src="<?php echo asset('images/slider-3.webp') ?>" alt="CCS2 Controller" title="CCS2 Controller" class="lazy system-slider-img">
-                            </picture>
-                            <div class="boxed">
-                                <p class="text-primary mb-2 font-bold">E-Mobility</p>
-                                <h3 class="h2 font-bold mb-3">CCS2 Controller</h3>
-                                <p>KAS PVT LTD’s CCS2CON is the most viable solution to build Level 3 chargers for Electric Vehicles. Compliant with DIN 70121 & ISO-15118 (PnC), it integrates DC fast charging with Power Module, RFID, HMI, etc.</p>
-                                <a href="systems/ccs2-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> 
+
+
     <section>
         <div class="container">
-            <div class="section-title-and-desc">
+            <div class="section-title-and-desc mt-5">
                 <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Insights by KAS PVT LTD</h2>
+                    <h2 class="section-title-text h1">Insights by KAS Pvt Ltd </h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-10 mx-auto">
@@ -659,104 +366,11 @@
                     </div>
                 </div>
             </div>
-            <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-                <div class="insight-slider-navigation" id="insight-navigation-block">
-                    <ul class="nav-block">
-                        <li class="nav-item active">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">01</span>
-                                <span class="text">Top 1% IT Talent</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">02</span>
-                                <span class="text">Time Zone Aligned</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">03</span>
-                                <span class="text">Experienced Team</span>
-                            </a>
-                        </li>
-                        <span class="active-line"></span>
-                    </ul>
-                </div>
-                <div class="insight-slider-main section-padding-md ">
-                    <div class="owl-carousel owl-nav-top-right" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                        <div class="item">
-                            <div class="row align-items-center">
-                            <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                            <picture>
-    <!-- Original image in WebP format
-    <source srcset="<?php echo asset('images/insight-slide-1.webp'); ?>" type="image/webp"> -->
-    <!-- Original image in JPEG format -->
-    <source srcset="<?php echo asset('images/insight-slide-1.jpg'); ?>" type="image/jpeg">
-    <!-- Original image loaded for browsers that don't support <picture> element -->
-    <img 
-        data-src="<?php echo asset('images/insight-slide-1.jpg'); ?>" 
-        src="<?php echo asset('images/insight-slide-1.jpg'); ?>" 
-        alt="Top 1% IT Talent" 
-        title="Top 1% IT Talent" 
-        class="lazy slider-img"
-        loading="lazy" 
-        style="max-width: 250px; height: auto;" 
-    >
-</picture>
 
-</div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                    <p class="text-lg text-secondary    ">KAS PVT LTDTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/insight-slide-2.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/insight-slide-2.webp'); ?>" type="image/jpeg">
-                                        <img data-src="<?php echo asset('images/insight-slide-2.webp'); ?>" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
-                                    </picture>
-                                </div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS PVT LTDTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="<?php echo asset('images/insight-slide-3.webp'); ?>" type="image/webp">
-                                        <source srcset="<?php echo asset('images/insight-slide-3.webp'); ?>" type="image/jpeg">
-                                        <img data-src="<?php echo asset('images/insight-slide-3.webp'); ?>" src="<?php echo asset('images/insight-slide-3.webp'); ?>" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
-                                    </picture>
-                                </div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                    <p class="text-lg text-secondary    ">Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </section>
 
 </div>
-<div class="modal scroll-hide fade video-pause h-100 test-video" id="homepageVideoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered mt-0 h-100">
-        <div class="modal-content bg-transparent border-0 modal-video">
-            <iframe allowfullscreen="allowfullscreen" class="border-0 js-video-src"></iframe>
-        </div>
-    </div>
-</div>
+
 <?php require_once('footer.php'); ?>

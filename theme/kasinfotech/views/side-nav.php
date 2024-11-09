@@ -3,30 +3,27 @@
         <div class="sidebar_left_outer d-none d-md-flex">
             <div class="sidebar_left">
                 <div class="d-none d-xl-flex row align-items-center gx-0">
-                    <div class="col-xl-2">
-                        <img src="<?php echo asset('images/small-gptw.webp') ?>">
-                    </div>
-                    <div class="col-xl-10">
-                        <h3 class="font-bold mb-sm">KAS PVT LTD</h3>
-                        <p class="text-18">KAS PVT LTDrepresents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
+                    <div class="col-xl-12">
+                        <h3 class="font-bold mb-sm">KAS Pvt Ltd </h3>
+                        <p class="text-18">KAS Pvt Ltd represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
                     </div>
                 </div>
                 <div class="header_company ">
                     <div class="row gy-md-4 gy-lg-5">
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">7+</h3>
                             <p>Countries where we have happy customers</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1050+</h3>
+                            <h3 class="font-bold mb-2">50+</h3>
                             <p>Agile enabled employees</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">06</h3>
+                            <h3 class="font-bold mb-2">04</h3>
                             <p>World wide offices</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">20+</h3>
                             <p>Years of Experience</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -38,11 +35,11 @@
                             <p>Certified Scrum Masters</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1000+</h3>
+                            <h3 class="font-bold mb-2">200+</h3>
                             <p>Clients projects</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1458</h3>
+                            <h3 class="font-bold mb-2">700+</h3>
                             <p>Happy customers</p>
                         </div>
                     </div>
@@ -58,14 +55,14 @@
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://twitter.com/KAS PVT LTDTech" class="social-link" target="_blank">
+                        <a href="https://twitter.com/KAS Pvt Ltd Tech" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon svg-pt">
                                 <use xlink:href="#twitter-svg" />
                             </svg>
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://www.linkedin.com/company/KAS PVT LTD-technology/" class="social-link" target="_blank">
+                        <a href="https://www.linkedin.com/company/KAS Pvt Ltd -technology/" class="social-link" target="_blank">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#linkedin-svg" />
                             </svg>
@@ -93,7 +90,7 @@
                         </a>
                     </li>
                     <li class="social-item">
-                        <a href="https://clutch.co/profile/KAS PVT LTD" class="social-link" target="_blank" rel="nofollow">
+                        <a href="https://clutch.co/profile/KAS Pvt Ltd " class="social-link" target="_blank" rel="nofollow">
                             <svg viewBox="0 0 100 100" class="svg-icon">
                                 <use xlink:href="#clutch-svg" />
                             </svg>
@@ -114,7 +111,7 @@
                             <li><a href="<?php echo base_url(); ?>case-study/angularjs/" rel="nofollow">Angular JS</a></li>
                             <li><a href="<?php echo base_url(); ?>case-study/vuejs/" rel="nofollow">Vue JS</a></li>
                             <li><a href="<?php echo base_url(); ?>case-study/nodejs/" rel="nofollow">Node JS</a></li>
-                            <li><a href="<?php echo base_url(); ?>case-study/ai-ml/" rel="nofollow">AI & ML</a></li>
+
                             <li><a href="<?php echo base_url(); ?>case-study/" rel="nofollow">Explore All</a></li>
                         </ul>
                     </ul>
@@ -157,7 +154,7 @@
                 </li>
 
                 <li class="menu_parent">
-                    <a href="#" class="res-submenu">What we do</a>
+                    <a href="#" class="res-submenu">Services</a>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Experience</a>
                         <ul class="sub-side-two">
@@ -168,8 +165,8 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>data-analytics-services">Data Analytics</a></li>
+
+
                         </ul>
                     </ul>
                     <ul class="sub-side">
@@ -193,11 +190,90 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
-                            <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="<?php echo base_url(); ?>salesforce-consulting-service">Salesforce</a></li>
+
+
+
+                            <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Assure</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>quality-assurance-testing-services">Quality Assurance</a></li>
+                            <li><a href="<?php echo base_url(); ?>it-staff-augmentation-services">IT Staff Augmentation </a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Embedded & Hardware</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>systems/">Product Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/analog-design-services">Analog Design Services</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/fpga-engineering-service">FPGA Engineering Service</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/wireless-design-services">Wireless Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/embedded-software-design">Embedded Software Design</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/hardware-engineering-solutions">Hardware Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/power-engineering-services">Power Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>systems/iot-hardware-solutions">IoT Hardware</a></li>
+                        </ul>
+
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">What We Offer</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Website Development </a></li>
+                            <li><a href="<?php echo base_url(); ?>software-engineering">Andriod App Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Digital Marketing</a></li>
+                            <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Customize Software Development</a></li>
+
+                        </ul>
+                    </ul>
+                </li>
+                <li class="menu_parent">
+                    <a href="#" class="res-submenu">Products</a>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Our Star Products</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>digital-workplace-services">PMSGo</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">Real Estate Marketing Software</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">School Management Software</a></li>
+                            <li><a href="<?php echo base_url(); ?>product-enhancement">E-Commerce Portal</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Insights</a>
+                        <ul class="sub-side-two">
+
+
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">SAP Solutions</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>sap-consulting-services">SAP Consultation</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Innovate</a>
+                        <ul class="sub-side-two">
+                            <li><a href="<?php echo base_url(); ?>hire-blockchain-developer">Blockchain </a></li>
+                            <li><a href="<?php echo base_url(); ?>software-engineering">Software Engineering</a></li>
+                            <li><a href="<?php echo base_url(); ?>web-development-services">Web Development</a></li>
+                            <li><a href="<?php echo base_url(); ?>internet-of-things-consulting-services">Internet of Things (IoT)</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-data-scientist">Data Scientist</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ai-developer">AI Developer</a></li>
+                            <li><a href="<?php echo base_url(); ?>hire-ml-developer">ML Developer</a></li>
+                        </ul>
+                    </ul>
+                    <ul class="sub-side">
+                        <a href="#" class=" res-submenu-two">Accelerate</a>
+                        <ul class="sub-side-two">
+
+                            <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
+
+
+
                             <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
@@ -222,6 +298,7 @@
                         </ul>
                     </ul>
                 </li>
+
                 <li class="menu_parent">
                     <a href="#" class="res-submenu">who we work with</a>
                     <ul class="sub-side">
@@ -242,20 +319,18 @@
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>about-us">About Us</a></li>
-                            <li><a href="<?php echo base_url(); ?>leadership">Leadership Team</a></li>
                             <li><a href="<?php echo base_url(); ?>awards-recognition">Awards & Recognition</a></li>
                             <li><a href="<?php echo base_url(); ?>infrastructure">Infrastructure </a></li>
                             <li><a href="<?php echo base_url(); ?>locations">Our Locations</a></li>
                             <li><a href="<?php echo base_url(); ?>partnership">Partnership</a></li>
-                            <li><a href="<?php echo base_url(); ?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTD Values</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTD Culture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS Pvt Ltd -values">KAS Pvt Ltd Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS Pvt Ltd -culture">KAS Pvt Ltd Culture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -322,29 +397,15 @@
                         <a href="<?php echo base_url(); ?>technologies" class>Explore All</a>
                     </ul>
                 </li>
-                <li class="menu_parent">
-                    <a href="#" class="res-submenu">Products</a>
-                    <ul class="sub-side">
-                        <li><a href="<?php echo base_url(); ?>systems/battery-management-system">Battery Management System</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/motor-controller">Motor Controller</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ccs2-controller">CCS2 Controller</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/bms-manufacturers-suppliers">BMS Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/dc-fast-charger">DC Fast Charger</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ev-components-manufacturers-suppliers">EV Manufacturers and Suppliers</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ac-fast-charger-manufacturer">AC Charger</a></li>
-                        <li><a href="<?php echo base_url(); ?>systems/ac-charge-controller">AC Charge Controller</a></li>
-                        <a href="<?php echo base_url(); ?>systems/products" class>Explore All</a>
-                    </ul>
-                </li>
+
             </ul>
             <ul>
                 <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
-                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url(); ?>about-us">Work @ KAS Pvt Ltd </a></li>
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
-                <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-                <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
+
             </ul>
         </div>
     </div>

@@ -11,8 +11,6 @@
             parent::__construct();
             parent::setModuleUrl('home');
             $this->load->model('Home_model', 'oMainModel');
-
-            
         }
 
         function load_common_data($page_name)
@@ -23,21 +21,22 @@
                 $aInput = array(
                     "page_name" => filterValue($page_name),
                     "menu" => filterValue($page_name),
-                    "page_title" => ucwords(strtolower(str_replace('-', ' ',$page_name))),
+                    "page_title" => ucwords(strtolower(str_replace('-', ' ', $page_name))),
                     "page_content" => '',
                     "meta_keywords" => $page_name,
                     "meta_description" => $page_name,
                     "meta_robots" => ''
                 );
-                $this->db->insert(tbl_prefix().'cms',$aInput);   
-                $cms = get_row('cms', array('page_name' => $page_name));             
+                $this->db->insert(tbl_prefix() . 'cms', $aInput);
+                $cms = get_row('cms', array('page_name' => $page_name));
             }
             $data['cms'] = $cms;
             $data['title'] = $cms->page_title;
             $data['menu'] = $cms->menu;
             $data['aBlog'] = $this->oMainModel->blog_list();
-            $data['aService'] = $this->oMainModel->service_list();
-            $data['aProductList'] = get_rows('product');
+            $data['aProductList'] = $this->curlCall('product');
+            $data['aServiceList'] = $this->curlCall('service');
+
             return $data;
         }
 
@@ -66,21 +65,6 @@
             load_home_view($page_name, $data);
         }
 
-        function services($slug = '')
-        {
-            if (isset($_POST['submit'])) {
-                $res = $this->oMainModel->save_enquiry();
-                set_message($res['msg']);
-            }
-            $view_name = 'service';
-            $data = $this->load_common_data($view_name);
-            $data['aContentInfo'] = get_row('service', ['slug' => $slug]);
-            if (empty($data['aContentInfo'])) {
-                redirect(base_url());
-            }
-            load_home_view($view_name, $data);
-            hide_message();
-        }
 
         function contact()
         {
@@ -89,12 +73,16 @@
             load_home_view($view_name, $data);
         }
 
-        function get_quote(){
+        function get_quote()
+        {
             $view_name = 'get_quote';
             $data = $this->load_common_data($view_name);
+            if (isset($_POST['submit'])) {
+                $res = $this->oMainModel->save_enquiry();
+                set_message($res['msg']);
+            }
             load_home_view($view_name, $data);
         }
-
 
         function blog($slug = '')
         {
@@ -118,11 +106,23 @@
             load_home_view($view_name, $data);
         }
 
-        function products($slug = '')
+        function product($slug = '')
         {
-            $view_name = 'products';
+            $view_name = 'product-details';
             $data = $this->load_common_data($view_name);
-            $data['aProduct'] = get_row('product', ['slug' => $slug]);
+            $data['aProductDetails'] = $this->curlCall('product/' . $slug);
+            $data['aProductDetails'] =  $data['aProductDetails']->data;
+
+            load_home_view($view_name, $data);
+        }
+
+        function service($slug = '')
+        {
+            $view_name = 'service';
+            $data = $this->load_common_data($view_name);
+            $data['aServiceDetails'] = $this->curlCall('service/' . $slug);
+            $data['aServiceDetails'] = $data['aServiceDetails']->data;
+
             load_home_view($view_name, $data);
         }
     }

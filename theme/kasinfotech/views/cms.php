@@ -20,16 +20,13 @@
     <div class="sidenav_menu_inner">
         <div class="sidebar_left_outer d-none d-md-flex">
             <div class="sidebar_left">
-                <div class="d-none d-xl-flex row align-items-center gx-0">
-                    <div class="col-xl-2">
-                        <img src="<?php echo asset('images/small-gptw.webp') ?>">
-                    </div>
-                    <div class="col-xl-10">
-                        <h3 class="font-bold mb-sm">KAS PVT LTD</h3>
-                        <p class="text-18">KAS PVT LTDrepresents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
+                <div class="d-none d-xl-flex row align-items-center gx-0">                   
+                    <div class="col-xl-12">
+                        <h3 class="font-bold mb-sm">KAS Pvt Ltd </h3>
+                        <p class="text-18">KAS Pvt Ltd represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™.</p>
                     </div>
                 </div>
-                <div class="header_company ">
+                <div class="header_company">
                     <div class="row gy-md-4 gy-lg-5">
                         <div class="col-lg-3 col-md-6">
                             <h3 class="font-bold mb-2">12+</h3>
@@ -111,7 +108,6 @@
                             <li><a href="<?php echo base_url('case-study/angularjs/'); ?>">Angular JS</a></li>
                             <li><a href="<?php echo base_url('case-study/vuejs/'); ?>">Vue JS</a></li>
                             <li><a href="<?php echo base_url('case-study/nodejs/'); ?>">Node JS</a></li>
-                            <li><a href="<?php echo base_url('case-study/ai-ml/'); ?>">AI & ML</a></li>
                             <li><a href="<?php echo base_url('case-study/'); ?>">Explore All</a></li>
                         </ul>
                     </ul>
@@ -165,8 +161,8 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Insights</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>ai-ml-development-services">AI & Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>data-analytics-services">Data Analytics</a></li>
+
+
                         </ul>
                     </ul>
                     <ul class="sub-side">
@@ -190,11 +186,11 @@
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Accelerate</a>
                         <ul class="sub-side-two">
-                            <li><a href="<?php echo base_url(); ?>cloud-native-application-development">Cloud - KAS PVT LTDCombalt</a> </li>
+
                             <li><a href="<?php echo base_url(); ?>digital-process-automation">Digital Process Automation </a></li>
-                            <li><a href="<?php echo base_url(); ?>open-source-web-development">Open Source </a></li>
-                            <li><a href="<?php echo base_url(); ?>dynamics-365-consulting">Microsoft Dynamics</a> </li>
-                            <li><a href="<?php echo base_url(); ?>salesforce-consulting-service">Salesforce</a></li>
+
+
+
                             <li><a href="<?php echo base_url(); ?>customer-experience-transformation">Service Experience Transformation</a></li>
                         </ul>
                     </ul>
@@ -239,20 +235,19 @@
                         <a href="#" class=" res-submenu-two">About Company</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>about-us">About Us</a></li>
-                            <li><a href="<?php echo base_url(); ?>leadership">Leadership Team</a></li>
+
                             <li><a href="<?php echo base_url(); ?>awards-recognition">Awards & Recognition</a></li>
                             <li><a href="<?php echo base_url(); ?>infrastructure">Infrastructure </a></li>
                             <li><a href="<?php echo base_url(); ?>locations">Our Locations</a></li>
                             <li><a href="<?php echo base_url(); ?>partnership">Partnership</a></li>
-                            <li><a href="<?php echo base_url(); ?>media-coverage">Media Coverage</a></li>
                         </ul>
                     </ul>
                     <ul class="sub-side">
                         <a href="#" class=" res-submenu-two">Culture</a>
                         <ul class="sub-side-two">
                             <li><a href="<?php echo base_url(); ?>agile-mindset">Agile Mindset</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-values">KAS PVT LTD Values</a></li>
-                            <li><a href="<?php echo base_url(); ?>KAS PVT LTD-culture">KAS PVT LTD Culture</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS Pvt Ltd -values">KAS Pvt Ltd Values</a></li>
+                            <li><a href="<?php echo base_url(); ?>KAS Pvt Ltd -culture">KAS Pvt Ltd Culture</a></li>
                         </ul>
                     </ul>
                 </li>
@@ -336,12 +331,12 @@
             </ul>
             <ul>
                 <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
-                <li><a href="<?php echo base_url(); ?>careers#workKAS PVT LTD">Work @ KAS PVT LTD</a></li>
+                <li><a href="<?php echo base_url(); ?>careers#workKAS Pvt Ltd ">Work @ KAS Pvt Ltd </a></li>
                 <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
                 <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-                <li><a href="https://calendly.com/KAS PVT LTDmeeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
+                <li><a href="https://calendly.com/KAS Pvt Ltd meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>
             </ul>
         </div>
     </div>
@@ -445,11 +440,11 @@
                         <figure class="banner-post-img">
                             <picture>
                                 <source srcset="images/home-cards-one.webp" type="image/webp">
-                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS PVT LTDTech Agility " title="KAS PVT LTDTech Agility " class="lazy">
+                                <source srcset="images/home-cards-one.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/home/xhome-cards-one.jpg,qv-3.pagespeed.ic.RSKMEBDI9C.webp" src="images/xhome-cards-one.jpg%2Cqv-3.pagespeed.ic.RSKMEBDI9C.webp" alt="KAS Pvt Ltd Tech Agility " title="KAS Pvt Ltd Tech Agility " class="lazy">
                             </picture>
                         </figure>
-                        <h3 class="card-title text-white h5-2">KAS PVT LTDTech Agility – Q3, 2023</h3>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-tech-agility" class="text-sm text-item-center long-arrow-hover">
+                        <h3 class="card-title text-white h5-2">KAS Pvt Ltd Tech Agility – Q3, 2023</h3>
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -tech-agility" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">new edition out now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -464,7 +459,7 @@
                             </picture>
                         </figure>
                         <h3 class="card-title text-white h5-2">Company Fact Sheet</h3>
-                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS PVT LTD_Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
+                        <a href="<?php echo base_url(); ?>main-boot-5/images/KAS Pvt Ltd _Technology_Brochure.pdf?v5" class="text-sm text-item-center long-arrow-hover" target="_blank">
                             <span class="text-primary text-uppercase ls-sm">visit now </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -527,7 +522,7 @@
                             </picture>
                         </figure>
                         <h4 class="card-title text-white h5-2">New Agile Development Center, New Chapter</h4>
-                        <a href="<?php echo base_url(); ?>development-center-KAS PVT LTD" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>development-center-KAS Pvt Ltd " class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-sm">Let's connect </span>
                             <span class="long-arrow-icon-css icon-item right arrow-white"></span>
                         </a>
@@ -554,7 +549,7 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row digital-tranformation-row g-0 digital-transformation-bg-last bg-behind-section">
-                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg')?>)"></div>
+                <div class="digital-transformation-bg bg-behind-content" style="background-image:url(<?php echo asset('images/xdigital_transformation_bg_1.jpg') ?>)"></div>
                 <div class="col-lg-3 col-6 digital-tranformation-column long-arrow-hover">
                     <div class="card-image-primary card-home-four banner-post ">
                         <h3 class="card-title text-white h3">Digital Transformation & Product Development</h3>
@@ -692,7 +687,7 @@
                             Success Magazine
                         </h4>
                         <p class="text-secondary  desc-margin">
-                            KAS PVT LTD represents the connected world, offering innovative and
+                            KAS Pvt Ltd represents the connected world, offering innovative and
                             customer-centric information technology experiences, enabling Enterprises, Associates
                             and the Society to Rise™.
                         </p>
@@ -702,7 +697,7 @@
             </div>
         </div>
     </section>
-    <section class="section-padding bg-graylight home-page-cs" id="case-study">
+    <!-- <section class="section-padding bg-graylight home-page-cs" id="case-study">
         <div class="container">
             <div class="row">
                 <div class="col-lg-11 mx-auto">
@@ -815,7 +810,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="section-padding position-relative section-paragraph">
         <div class="container position-relative">
             <div class="row">
@@ -854,12 +849,12 @@
                     <div class="remote-agile-box pr-lg-4">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             importance</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Values</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Values</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             You add value to your customer when you deliver a product or service (and the associated
                             brand experience) that has been designed specifically to solve their problem.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-values" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -values" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -869,12 +864,12 @@
                     <div class="remote-agile-box pr-lg-4 mb-0">
                         <p class="text-md ls-sm text-uppercase text-primary font-semibold category-item">
                             Mindset</p>
-                        <h3 class="h3 font-medium title-item margin-bottom">KAS PVT LTD Cultures</h3>
+                        <h3 class="h3 font-medium title-item margin-bottom">KAS Pvt Ltd Cultures</h3>
                         <p class="text-secondary text-md desc-item margin-bottom small-heading">
                             Core Team will work as Scrum Team where Team will have quarterly goal to make sure that
                             we run financial, administrative and project management prospective.
                         </p>
-                        <a href="<?php echo base_url(); ?>KAS PVT LTD-culture" class="text-sm text-item-center long-arrow-hover">
+                        <a href="<?php echo base_url(); ?>KAS Pvt Ltd -culture" class="text-sm text-item-center long-arrow-hover">
                             <span class="text-primary text-uppercase ls-xs font-semibold">Discover </span>
                             <span class="long-arrow-icon-css icon-item right"></span>
                         </a>
@@ -1043,7 +1038,7 @@
                 <div class="col-lg-7">
                     <div class="section-title-and-desc">
                         <div class="section-title-block ">
-                            <h2 class="section-title-text h1">KAS PVT LTDSystems' Elite Hardware Products</h2>
+                            <h2 class="section-title-text h1">KAS Pvt Ltd Systems' Elite Hardware Products</h2>
                         </div>
                     </div>
                 </div>
@@ -1066,7 +1061,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">AC Charge Controller</h3>
-                                <p>With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. KAS PVT LTDbrings in a top-notch solution to your consumers’ troubles.</p>
+                                <p>With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. KAS Pvt Ltd brings in a top-notch solution to your consumers’ troubles.</p>
                                 <a href="systems/ac-charge-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1078,7 +1073,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">DC Fast Charger</h3>
-                                <p>Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with KAS PVT LTDtoday!</p>
+                                <p>Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with KAS Pvt Ltd today!</p>
                                 <a href="systems/dc-fast-charger" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1090,7 +1085,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">Battery Management System - BMS</h3>
-                                <p>KAS PVT LTD’s BMS helps to estimate the battery's State of Health SoH and State of Charge SoC. It identifies the state of the battery, whether active or dead, as well as, supports passive Cell Balancing.</p>
+                                <p>KAS Pvt Ltd ’s BMS helps to estimate the battery's State of Health SoH and State of Charge SoC. It identifies the state of the battery, whether active or dead, as well as, supports passive Cell Balancing.</p>
                                 <a href="systems/battery-management-system" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1102,7 +1097,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">Motor Controller</h3>
-                                <p>KAS PVT LTD’s Motor controller fine-tunes with the electric motor to improve vehicle performance. Its fine-tuning capability supports various applications for different vehicles, incorporating an optimized control algorithm.</p>
+                                <p>KAS Pvt Ltd ’s Motor controller fine-tunes with the electric motor to improve vehicle performance. Its fine-tuning capability supports various applications for different vehicles, incorporating an optimized control algorithm.</p>
                                 <a href="systems/motor-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1114,7 +1109,7 @@
                             <div class="boxed">
                                 <p class="text-primary mb-2 font-bold">E-Mobility</p>
                                 <h3 class="h2 font-bold mb-3">CCS2 Controller</h3>
-                                <p>KAS PVT LTD’s CCS2CON is the most viable solution to build Level 3 chargers for Electric Vehicles. Compliant with DIN 70121 & ISO-15118 (PnC), it integrates DC fast charging with Power Module, RFID, HMI, etc.</p>
+                                <p>KAS Pvt Ltd ’s CCS2CON is the most viable solution to build Level 3 chargers for Electric Vehicles. Compliant with DIN 70121 & ISO-15118 (PnC), it integrates DC fast charging with Power Module, RFID, HMI, etc.</p>
                                 <a href="systems/ccs2-controller" class="btn btn-outline-primary text-uppercase ls-xs">Talk to our expert</a>
                             </div>
                         </div>
@@ -1122,158 +1117,7 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section>
-        <div class="container">
-            <div class="section-title-and-desc">
-                <div class="section-title-block text-center">
-                    <h2 class="section-title-text h1">Insights by KAS PVT LTD</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-10 mx-auto">
-                        <p class="text-center text-secondary h3 section-short-desc">
-                            Stay updated with the latest happenings in the world of mobile, cloud, AI, ML, and
-                            emerging technologies.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="insight-box-row row justify-content-center g-4 gy-md-0 gx-md-4 mb-xl-3">
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
-                        <div class="img-box">
-                            <picture>
-                                <source srcset="images/insight-box-1.webp" type="image/webp">
-                                <source srcset="images/insight-box-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" src="images/xinsight-box-1.jpg.pagespeed.ic.hxzvN2rUXL.webp" alt="White Paper" title="White Paper" class="lazy ob-cover ">
-                            </picture>
-                        </div>
-                        <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">White Paper</h3>
-                            <a href="<?php echo base_url(); ?>resources/" class="text-sm text-item-center cta-item long-arrow-hover">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
-                        <div class="img-box">
-                            <picture>
-                                <source srcset="images/insight-box-2.webp" type="image/webp">
-                                <source srcset="images/insight-box-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" src="images/xinsight-box-2.jpg.pagespeed.ic.QFf5SgoXcK.webp" alt="Case Study" title="Case Study" class="lazy ob-cover ">
-                            </picture>
-                        </div>
-                        <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">Case Study</h3>
-                            <a href="<?php echo base_url(); ?>case-study/" class="text-sm text-item-center cta-item long-arrow-hover" rel="nofollow">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 insight-box-col">
-                    <div class="insight-box">
-                        <div class="img-box">
-                            <picture>
-                                <source srcset="<?php echo asset('images/insight-box-3.webp'); ?>" type="image/webp">
-                                <source srcset="images/insight-box-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" src="images/xinsight-box-3.jpg.pagespeed.ic.RcICkzWgoa.webp" alt="Blogs" title="Blogs" class="lazy ob-cover ">
-                            </picture>
-                        </div>
-                        <div class="text-content text-center">
-                            <h3 class="text-white h4 title my-auto">Blogs</h3>
-                            <a href="<?php echo base_url(); ?>blog/" class="text-sm text-item-center cta-item long-arrow-hover">
-                                <span class="text-primary text-nowrap text-uppercase ls-sm">know more</span>
-                                <span class="long-arrow-icon-css icon-item right arrow-white"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-                <div class="insight-slider-navigation" id="insight-navigation-block">
-                    <ul class="nav-block">
-                        <li class="nav-item active">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">01</span>
-                                <span class="text">Top 1% IT Talent</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">02</span>
-                                <span class="text">Time Zone Aligned</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="javascript:void(0)" class="nav-link text-xxl">
-                                <span class="slide-number">03</span>
-                                <span class="text">Experienced Team</span>
-                            </a>
-                        </li>
-                        <span class="active-line"></span>
-                    </ul>
-                </div>
-                <div class="insight-slider-main section-padding-md ">
-                    <div class="owl-carousel owl-nav-top-right" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                        <div class="item">
-                            <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="images/insight-slide-1.jpg" type="image/webp">
-                                        <source srcset="images/insight-slide-1.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="images/xinsight-slide-1.jpg%2Cqv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="lazy slider-img">
-                                    </picture>
-                                </div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                    <p class="text-lg text-secondary    ">KAS PVT LTDTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="images/insight-slide-2.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-2.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="images/xinsight-slide-2.jpg%2Cqv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="lazy slider-img">
-                                    </picture>
-                                </div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                    <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS PVT LTDTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row align-items-center">
-                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                    <picture>
-                                        <source srcset="images/insight-slide-3.webp" type="image/webp">
-                                        <source srcset="images/insight-slide-3.jpg" type="image/jpeg"><img data-src="<?php echo base_url(); ?>main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="images/xinsight-slide-3.jpg%2Cqv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="lazy slider-img">
-                                    </picture>
-                                </div>
-                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                    <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                    <p class="text-lg text-secondary    ">Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    </section> 
+</div>
 
-</div>
-<div class="modal scroll-hide fade video-pause h-100 test-video" id="homepageVideoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered mt-0 h-100">
-        <div class="modal-content bg-transparent border-0 modal-video">
-            <iframe allowfullscreen="allowfullscreen" class="border-0 js-video-src"></iframe>
-        </div>
-    </div>
-</div>
 <?php require_once('footer.php'); ?>

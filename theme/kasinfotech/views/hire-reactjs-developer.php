@@ -19,16 +19,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                src="<?php echo asset();?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp"
-                alt="Hire React Developer"
-                title="Hire React Developer"
-                data-pagespeed-url-hash="3945081738"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/banner-3.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xbanner-3.jpg,qv-1.pagespeed.ic.f3c-oHrEbO.webp" alt="Hire React Developer" title="Hire React Developer" data-pagespeed-url-hash="3945081738" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -61,15 +54,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="875612233"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" src="data:image/webp;base64,UklGRmgBAABXRUJQVlA4TFsBAAAvKEALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQECPZbtvcB5QlZoKPhPuvVDTSqICI/k8AqbvS30Zxr9xPO3s5tnZizlgBd0u3Gj85HulVnkr/QXM7e5Vb2ljFpd2r0KVsVsfmhEhl28+2K/XHr80ob49jlXa4fu1wlXS8XZ5f9b2CLZKu8NHpK8cFnV/Bns8b2HqmZ8asf1fj/KP/b0leieHy5Xoldkm3Z3I0/DP5nvR7H8NR++1PbmpwbGcv1tmzFYevNy+SFojSvlWJ2CZ10CnitwoRLEgRVt3B5mIRbJLkcFLwYEuhGdglLRAlBQ/3QvLgN6mDTlIHDKWCBy9FWKUO6FVKwUOQw0m6Qq9yCo9eC0RJ09+gGt8ddMouZmuZ6zDlaFqVH463qdnnp5XNAwA=" alt="icon" data-pagespeed-url-hash="875612233" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -81,15 +68,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-reactjs/settings.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-reactjs/settings.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA=="
-                                        src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1442956322"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/settings.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/settings.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA==" src="data:image/webp;base64,UklGRkwEAABXRUJQVlA4TEAEAAAvLUALEB65tW2rdqPS1IRaUOZIzHvv/7+UOXe7/vee9/Qq2GZmiChljtmOsAJKjxmjNxzIjWTbtar8UyEJEsDFwtfqcs/qdS58sSG0kSRJTjeD+292u7vSKQEAAIJNbNu2bdu2bdu2bdu2bdv2s5sZuI3kJLmjl+FYeIRjZ+fBXD2Gcf0cXVQhWSGvBEBAjC+ULVKDxGbwg31xgj8xC97bc/H4wOeONaVDei+F1Qoo+UIZU+OD/JFtq+PcbGJLCugztFcLZLxwjSlmIbRewrmJSPShbKFaAKjEFYaWfWs+8CVjav9nO8mWfke4VR/2UjJ2omBkW8n4VdZpNBSUB1yXqUXHfOOw7RDgCKzhsplYE1AUQ3XWNwOSBShKRf5N3i4km1eUxZfwZkzaLjf1gaNFIEUcsrye2FLXpUApgOyiybW9ejz0TOrUXrw8JXpZgaqXor3EeZ2ark6W6kfd2JtGEoM1ZtgvuqlZiLa942Gh9mpC4DotnYfQvEZV3BWBGJ8GB/oYuuribxGGGVU3i1kI3JIEpEiEKoyridWShaobXIelmY0dKfJcJnqH78vkwNlZmOJ3NYxI8jELpak/I9fVTQ+yDB2IjlmWfqJx/2x751x0/jnyTBoYx0z3WVlAoEiEpL6+INu0CEZLFUXxfaWb2vbJY4xvmdmLG/Qa2DZyeaTfq0iK6YgbmZkCLP5If1A7bFu/V7SqB+nDuBYWPr9wxZDan9R/xcHiMeh43BjUb5mZZG2tR7z8LCgT1VOc4oq3bU/PQh7uNy0ak/uZmYeCEzfPQ6j0R2Ym6K1SqP5lpZrc4n17Zb9pxU6OR2R2PSQ1y37JH8XsrXrPJGPqZiGGJKUOs5CqXDPnJmL6IzOTdU0i/xVFDimtIH+4WY6rAjl8TGyR5ks/ihiqP8hVqzgnvlbBEPu2jdlE4rUMQXbwfQlsb84hZOxmpRRKujB/WFWTbFRJVL/XcnhtT8yCHxgdsSegmdJ/imn8bDbbxjoKVEBNPqpnTPKqIJdA4g/b91ePYXyPyFabTqOL9ZCMA/2grmX4be6ahVyifWUFtKohNH733eBn0XUpbMfKO0zdL5SHZQzJ+OLxge9GN/amIZtHIsTV4BpGF5KiMga7Td3s9N1CRmWHs0uDCnTh4IrSzyKG6te1H1hXTjGJKtS+sqP5J7X9A18vuoHRIUPQeqxwYDaGMgH/w5UUNzg3UcHCfOGylstCEC+KVup730u/qabGZUxWxN/M72L4Ysb2A+koZ2yMP4VhBHj3z4JoSn9kk6qZV2PLIpy8XUiQ+j5MBFcDhuK/OgEC0ghi0KErH5tacRQmEp/F81Pp99wen5WxO5gt3Aaef/vFZjLVLcZ6uCigbjGrqWMGaIjf3YKvFx3ZbXk9pQvPCkl0Iz9UrS2BEXJbVQEdc7djBtdl7hjMxhDQbjHje8dQLjtmoPsd86ULDA==" alt="icon" data-pagespeed-url-hash="1442956322" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -101,15 +82,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
-                                        src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1716736907"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA" src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBIBAAAvMQALEO+goG0bybkjfrxfGgrbtm2Ytv/fu2sFbaNA5fOBf5HAOJLkNKInM0t5K1SwL4BWVpu0R49OBfbpH1qjC/XAQgeoZwT/YGiswNAfKC7iByp6+rrHObkz7mwAYNm2nba5YpnZfqH5DzQrenpyoP2L6P8EQFUTlTu1ClATlT0pNFR6g7W4FVT+/9jS1N65WEfnQj3sBewBTFWL7QaAsq/xLGUAt1LqQ4sNgCPmoaUcMHNolAIUsQ85xyM5XfPlsr6h28aXuxL/FHfZTOJZnBXNRLJvYz6BPwHiCaBrQeDS8fGR3SO5B8yDzxsoHXDE5+0s8PaU4aCMDhhZTYKjrAOgd8asEnDPcihADXPC0igA" alt="icon" data-pagespeed-url-hash="1716736907" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -121,16 +96,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/banner-side-1.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp"
-                        alt="Hire React Developer"
-                        title="Hire React Developer"
-                        data-pagespeed-url-hash="3978206547"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/banner-side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/banner-side-1.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp" src="<?php echo asset(); ?>images/angular-js-dev/xbanner-side-1.png.pagespeed.ic.uRzAUJOklE.webp" alt="Hire React Developer" title="Hire React Developer" data-pagespeed-url-hash="3978206547" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -191,19 +159,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">ReactJS Developer</li>
                     </ol>
@@ -233,7 +194,7 @@
             </div>
             <div class="col-md-6 resp-btn-outer-two">
                 <div class="boxed border position-relative">
-                    <h3 class="text-xxl text-primary font-bold mb-sm">Benefits of Hiring ReactJS developers from Bacancy</h3>
+                    <h3 class="text-xxl text-primary font-bold mb-sm">Benefits of Hiring ReactJS developers from kasinfotech</h3>
                     <ul class="style-check text-18 text-secondary z-index-2 bg-transparent pb-5">
                         <li>Highly skilled at front-end engineering using Object-Oriented JavaScript (ES5, ES6), top JavaScript libraries and frameworks (ReactJS), HTML, and CSS.</li>
                         <li>Well-versed with programming languages like, NodeJS, ReactJS, Redux, React Native, HTML, CSS3, JSON-API, REST Services</li>
@@ -243,16 +204,9 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                alt="Hire React Developers"
-                                title="Hire React Developers"
-                                data-pagespeed-url-hash="1220003641"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="Hire React Developers" title="Hire React Developers" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                 </div>
@@ -285,17 +239,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        alt="Stellantis"
-                                                        title="Stellantis"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2546373787"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" alt="Stellantis" title="Stellantis" class="ob-cover" data-pagespeed-url-hash="2546373787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -343,17 +289,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        alt="SAMI Aid"
-                                                        title="SAMI Aid"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2966936124"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" alt="SAMI Aid" title="SAMI Aid" class="ob-cover" data-pagespeed-url-hash="2966936124" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -401,17 +339,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        alt="Shell TapUp"
-                                                        title="Shell TapUp"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2125811450"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp" alt="Shell TapUp" title="Shell TapUp" class="ob-cover" data-pagespeed-url-hash="2125811450" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -419,7 +349,7 @@
                                                 <h3 class="h2 text-white font-bold">Shell TapUp</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Bacancy helped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
+                                                        KAS Pvt Ltdhelped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
                                                         better, quicker, and seamless user experience, owing to our ReactJs developers. We decentralized their existing and diverse platforms such as customer, business, DSP, and drive in
                                                         fleet marketing domain.
                                                     </p>
@@ -460,17 +390,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        alt="Stellantis"
-                                                        title="Stellantis"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2546373787"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" alt="Stellantis" title="Stellantis" class="ob-cover" data-pagespeed-url-hash="2546373787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -518,17 +440,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp"
-                                                        alt="SAMI Aid"
-                                                        title="SAMI Aid"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2966936124"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-3.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-3.jpg,qv-3.pagespeed.ic.v2voe8snM8.webp" alt="SAMI Aid" title="SAMI Aid" class="ob-cover" data-pagespeed-url-hash="2966936124" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -576,17 +490,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp"
-                                                        alt="Shell TapUp"
-                                                        title="Shell TapUp"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2125811450"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-1.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-1.jpg,qv-3.pagespeed.ic.uIRJP07NWy.webp" alt="Shell TapUp" title="Shell TapUp" class="ob-cover" data-pagespeed-url-hash="2125811450" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -594,7 +500,7 @@
                                                 <h3 class="h2 text-white font-bold">Shell TapUp</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Bacancy helped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
+                                                        KAS Pvt Ltdhelped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
                                                         better, quicker, and seamless user experience, owing to our ReactJs developers. We decentralized their existing and diverse platforms such as customer, business, DSP, and drive in
                                                         fleet marketing domain.
                                                     </p>
@@ -635,17 +541,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        src="<?php echo asset();?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp"
-                                                        alt="Stellantis"
-                                                        title="Stellantis"
-                                                        class="ob-cover"
-                                                        data-pagespeed-url-hash="2546373787"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/new-cs-2.jpg?v-3" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" src="<?php echo asset(); ?>images/hire-reactjs/xnew-cs-2.jpg,qv-3.pagespeed.ic.v3-MVPhU1r.webp" alt="Stellantis" title="Stellantis" class="ob-cover" data-pagespeed-url-hash="2546373787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -710,7 +608,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Most-Preferred React JS Combinations We Cater</h2>
                         <p>
-                            At Bacancy, we are known for offering end-to-end Full Stack ReactJS development expertise. Our ReactJS developers are skilled at combining a possible number of front and back-end technologies to build scalable
+                            At kasinfotech, we are known for offering end-to-end Full Stack ReactJS development expertise. Our ReactJS developers are skilled at combining a possible number of front and back-end technologies to build scalable
                             web architectures. Work with our motivated React experts to develop your next-gen product prioritizing reliability, scalability, and security.
                         </p>
                     </div>
@@ -726,36 +624,22 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-5.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-5.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp"
-                                                alt="react node developer"
-                                                title="react node developer"
-                                                data-pagespeed-url-hash="2398003325"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-5.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-5.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-5.png.pagespeed.ic.5_1I9g6vS9.webp" alt="react node developer" title="react node developer" data-pagespeed-url-hash="2398003325" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
                                 <h3 class="h5 font-bold mb-sm">React + Node</h3>
                                 <p class="small-heading-two" style="height: 120px;">
-                                    JavaScript has molded itself into a veteran full-stack development language. <a href="https://www.bacancytechnology.com/react-node-developer" class="text-primary">Hire React Node developer</a> from us to
+                                    JavaScript has molded itself into a veteran full-stack development language. <a href="https://www.kasinfotech.com/react-node-developer" class="text-primary">Hire React Node developer</a> from us to
                                     leverage the advantages of this powerful combination to get amazing functionality for your next-gen project, along with authentication and scalability.
                                 </p>
                             </div>
@@ -767,30 +651,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-6.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-6.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp"
-                                                alt="react rails developer"
-                                                title="react rails developer"
-                                                data-pagespeed-url-hash="2692503246"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-6.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-6.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-6.png.pagespeed.ic.q5-y3aEbzu.webp" alt="react rails developer" title="react rails developer" data-pagespeed-url-hash="2692503246" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -808,30 +678,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React + Go"
-                                                title="React + Go"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React + Go" title="React + Go" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-2.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-2.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp"
-                                                alt="go react developer"
-                                                title="go react developer"
-                                                data-pagespeed-url-hash="1514503562"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-2.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-2.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-2.png.pagespeed.ic.Er6GruQvcH.webp" alt="go react developer" title="go react developer" data-pagespeed-url-hash="1514503562" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -849,30 +705,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-7.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-7.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp"
-                                                alt="react redux developer"
-                                                title="react redux developer"
-                                                data-pagespeed-url-hash="2987003167"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-7.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-7.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-7.png.pagespeed.ic.C0NpxR-8BZ.webp" alt="react redux developer" title="react redux developer" data-pagespeed-url-hash="2987003167" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -890,36 +732,22 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-3.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-3.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp"
-                                                alt="django react developer"
-                                                title="django react developer"
-                                                data-pagespeed-url-hash="1809003483"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-3.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-3.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-3.png.pagespeed.ic.jzouZFZRhG.webp" alt="django react developer" title="django react developer" data-pagespeed-url-hash="1809003483" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
                                 <h3 class="h5 font-bold mb-sm">React + Python (Django)</h3>
                                 <p class="small-heading-two" style="height: 120px;">
-                                    Full stack React developers at Bacancy will help you rapidly build your solution with multiple clients and session management. Connect with us to bring the best of Python with Django framework with the
+                                    Full stack React developers at KAS Pvt Ltdwill help you rapidly build your solution with multiple clients and session management. Connect with us to bring the best of Python with Django framework with the
                                     help of React framework.
                                 </p>
                             </div>
@@ -931,30 +759,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-4.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-4.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp"
-                                                alt="php react developer"
-                                                title="php react developer"
-                                                data-pagespeed-url-hash="2103503404"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-4.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-4.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-4.png.pagespeed.ic.urc2gWGghZ.webp" alt="php react developer" title="php react developer" data-pagespeed-url-hash="2103503404" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -971,30 +785,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-8.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-8.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp"
-                                                alt="react .net developer "
-                                                title="react .net developer "
-                                                data-pagespeed-url-hash="3281503088"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-8.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-8.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-8.png.pagespeed.ic.Q6RC6-O6Hr.webp" alt="react .net developer " title="react .net developer " data-pagespeed-url-hash="3281503088" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -1012,30 +812,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-9.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-9.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp"
-                                                alt="aws react developer"
-                                                title="aws react developer"
-                                                data-pagespeed-url-hash="3576003009"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-9.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-9.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-9.png.pagespeed.ic.ZuiFcX0skp.webp" alt="aws react developer" title="aws react developer" data-pagespeed-url-hash="3576003009" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -1052,30 +838,16 @@
                                 <ul class="d-flex mb-lg small-heading" style="height: 50px;">
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle mr-3">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-1.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp"
-                                                alt="React Developer"
-                                                title="React Developer"
-                                                data-pagespeed-url-hash="1220003641"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-1.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-1.png.pagespeed.ic.8_yIenESHi.webp" alt="React Developer" title="React Developer" data-pagespeed-url-hash="1220003641" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                     <li class="p-2 col-md-2 d-flex align-items-center justify-content-center text-center bg-graylight border rounded-circle">
                                         <picture>
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-10.webp" type="image/webp" />
-                                            <source srcset="<?php echo asset();?>images/hire-reactjs/icon-10.png" type="image/png" />
-                                            <img
-                                                data-src="<?php echo asset();?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
-                                                src="<?php echo asset();?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp"
-                                                alt="react docker developer"
-                                                title="react docker developer"
-                                                data-pagespeed-url-hash="1347348197"
-                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                            />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-10.webp" type="image/webp" />
+                                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/icon-10.png" type="image/png" />
+                                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp" src="<?php echo asset(); ?>images/hire-reactjs/xicon-10.png.pagespeed.ic.PYuZVLhiiv.webp" alt="react docker developer" title="react docker developer" data-pagespeed-url-hash="1347348197" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         </picture>
                                     </li>
                                 </ul>
@@ -1097,7 +869,7 @@
             </div>
         </div>
         <div class="text-center mt-lg">
-            <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">hire full stack react talent</a>
+            <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">hire full stack react talent</a>
         </div>
     </div>
 </section>
@@ -1133,15 +905,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="<?php echo asset(); ?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2800
                                         </h3>
@@ -1227,19 +991,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -1363,7 +1119,7 @@
                 </div>
                 <div class="service-box bg-graylight">
                     <h3 class="h5 font-bold mb-sm">React Native App Development</h3>
-                    <p>At Bacancy, our top ReactJS developers are well-versed in building cross-platform native applications with 100% guaranteed satisfaction.</p>
+                    <p>At kasinfotech, our top ReactJS developers are well-versed in building cross-platform native applications with 100% guaranteed satisfaction.</p>
                 </div>
                 <div class="service-box bg-graylight">
                     <h3 class="h5 font-bold mb-sm">ReactJS Website Migration</h3>
@@ -1412,27 +1168,19 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        alt="Why Hire React JS Developers from Bacancy?"
-                        title="Why Hire React JS Developers from Bacancy?"
-                        class=""
-                        data-pagespeed-url-hash="184066017"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" alt="Why Hire React JS Developers from kasinfotech?" title="Why Hire React JS Developers from kasinfotech?" class="" data-pagespeed-url-hash="184066017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire React JS Developers from Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Hire React JS Developers from kasinfotech?</h2>
                     </div>
                 </div>
                 <p>
-                    We are early adopters and now the veterans of this widely used front-end technology. At Bacancy, our top ReactJS engineers are known for delivering projects with extreme proficiency that syncs utterly with your industry
+                    We are early adopters and now the veterans of this widely used front-end technology. At kasinfotech, our top ReactJS engineers are known for delivering projects with extreme proficiency that syncs utterly with your industry
                     standard. From custom app development to ReactJS consultation – our ReactJS experts are well-versed at providing on-time effective solutions to all the shapes and sizes of businesses that include start-ups, SMEs,
                     large-scale enterprises, independent CEOs, and CTOs. Outsource full-time ReactJS developers from us to develop lightweight and interactive applications, as our core competency lies in building interactive user interfaces
                     with the help of powerful React libraries.
@@ -1447,17 +1195,9 @@
         <div class="row gy-4 gy-lg-0 align-items-md-center">
             <div class="col-lg-6 text-center text-lg-left mb-4 mb-lg-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-reactjs/side-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-reactjs/side-4.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
-                        src="<?php echo asset();?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp"
-                        alt="ReactJS Team Augmentation"
-                        title="ReactJS Team Augmentation"
-                        class="ob-cover"
-                        data-pagespeed-url-hash="3733097862"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/side-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-reactjs/side-4.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp" src="<?php echo asset(); ?>images/hire-reactjs/xside-4.jpg.pagespeed.ic.Q9asZCha-g.webp" alt="ReactJS Team Augmentation" title="ReactJS Team Augmentation" class="ob-cover" data-pagespeed-url-hash="3733097862" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1472,7 +1212,7 @@
                     Outsource ReactJS developers from the best <a href="reactjs-development" class="text-primary">ReactJs Development Company </a> and get your project accomplished within the pre-defined timeline and budget.
                 </p>
                 <p>
-                    The flexible team augmentation model at Bacancy enables you to conduct as many interviews as you want before you onboard ReactJS developers of your desired skillset. Once you take a hand deal, we assign motivated ReactJs
+                    The flexible team augmentation model at KAS Pvt Ltdenables you to conduct as many interviews as you want before you onboard ReactJS developers of your desired skillset. Once you take a hand deal, we assign motivated ReactJs
                     experts who will dedicatedly work for you on your project. With this said, you can manage your augmented ReactJS development team at your ease and convenience while we assure you fulfill the IT skill gap. We also provide
                     developer retention and admin support so you can stay focused on your project progress and development.
                 </p>
@@ -1567,16 +1307,16 @@
                             <p itemprop="text">
                                 We have simple and transparent pricing. We let you hire experienced React developers at a rate of $20 per hour with an average experience of 3+ years. However, the cost may vary depending on your query and
                                 the expertise of our developer. If you want to hire a team of React developers, we have customized rates for you; please
-                                <a href="https://www.bacancytechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
+                                <a href="https://www.kasinfotech.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                            <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Reactjs developers from Bacancy.</p>
+                            <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire Reactjs developers from kasinfotech.</p>
                             <strong>Dedicated Developer - Monthly basis</strong>
                             <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
                             <strong>Hourly Basis – Hours/ Month</strong>
@@ -1594,7 +1334,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
+                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
                                 of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                             </p>
                         </div>
@@ -1606,7 +1346,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Hire React Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                <strong><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype</strong> us at <strong>"Bacancy"</strong>
+                                <strong><a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype</strong> us at <strong>"kasinfotech"</strong>
                             </p>
                         </div>
                     </div>
@@ -1660,241 +1400,45 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
-                                src="<?php echo asset();?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp"
-                                alt="Here’s How to Dockerize React App [Containerize React App]"
-                                title="Here’s How to Dockerize React App [Containerize React App]"
-                                class=""
-                                data-pagespeed-url-hash="3646409457"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" alt="Here’s How to Dockerize React App [Containerize React App]" title="Here’s How to Dockerize React App [Containerize React App]" class="" data-pagespeed-url-hash="3646409457" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">Here’s How to Dockerize React App [Containerize React App]</h3>
-                    <a href="https://www.bacancytechnology.com/blog/dockerize-react-app" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/dockerize-react-app" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
-                                src="<?php echo asset();?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp"
-                                alt="ReactJS for Dashboards and Data Visualization: An Exceptional Choice"
-                                title="ReactJS for Dashboards and Data Visualization: An Exceptional Choice"
-                                class=""
-                                data-pagespeed-url-hash="4066971794"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" alt="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" title="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" class="" data-pagespeed-url-hash="4066971794" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">ReactJS for Dashboards and Data Visualization: An Exceptional Choice</h3>
-                    <a href="https://www.bacancytechnology.com/blog/reactjs-for-dashboards-and-data-visualization" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/reactjs-for-dashboards-and-data-visualization" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
-                                src="<?php echo asset();?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp"
-                                alt="A Comprehensive Guide on Developing Responsive and Common React Filter Component"
-                                title="A Comprehensive Guide on Developing Responsive and Common React Filter Component"
-                                class=""
-                                data-pagespeed-url-hash="192566835"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" alt="A Comprehensive Guide on Developing Responsive and Common React Filter Component" title="A Comprehensive Guide on Developing Responsive and Common React Filter Component" class="" data-pagespeed-url-hash="192566835" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">A Comprehensive Guide on Developing Responsive and Common React Filter Component</h3>
-                    <a href="https://www.bacancytechnology.com/blog/developing-responsive-and-common-react-filter-component" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/developing-responsive-and-common-react-filter-component" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
-
 <?php include_once('footer.php') ?>

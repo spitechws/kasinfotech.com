@@ -20,16 +20,9 @@
 <section class="header-spacing section-padding banner-post section-paragraph banner-main not-after">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/node-js-development/banner-2.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/node-js-development/banner-2.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/node-js-development/xbanner-2.jpg,qv-1.pagespeed.ic.naBPXYdRL-.webp"
-                src="<?php echo asset();?>images/node-js-development/xbanner-2.jpg,qv-1.pagespeed.ic.naBPXYdRL-.webp"
-                alt="Hire Node js Developer"
-                title="Hire Node js Developer"
-                data-pagespeed-url-hash="3548758431"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/node-js-development/banner-2.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/node-js-development/banner-2.jpg?v-1" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/node-js-development/xbanner-2.jpg,qv-1.pagespeed.ic.naBPXYdRL-.webp" src="<?php echo asset(); ?>images/node-js-development/xbanner-2.jpg,qv-1.pagespeed.ic.naBPXYdRL-.webp" alt="Hire Node js Developer" title="Hire Node js Developer" data-pagespeed-url-hash="3548758431" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -63,15 +56,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xicon-1.png,qv-1.pagespeed.ic.YDwwYPXS_L.webp"
-                                        src="<?php echo asset();?>images/ruby-on-rails-development/xicon-1.png,qv-1.pagespeed.ic.YDwwYPXS_L.webp"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="875612233"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-1.png,qv-1.pagespeed.ic.YDwwYPXS_L.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-1.png,qv-1.pagespeed.ic.YDwwYPXS_L.webp" alt="icon" data-pagespeed-url-hash="875612233" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -83,15 +70,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/node-js-development/interface.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/node-js-development/interface.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/node-js-development/xinterface.png,qv-1.pagespeed.ic.F2DvWTeGKs.webp"
-                                        src="<?php echo asset();?>images/node-js-development/xinterface.png,qv-1.pagespeed.ic.F2DvWTeGKs.webp"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="2355863287"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/node-js-development/interface.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/node-js-development/interface.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xinterface.png,qv-1.pagespeed.ic.F2DvWTeGKs.webp" src="<?php echo asset(); ?>images/node-js-development/xinterface.png,qv-1.pagespeed.ic.F2DvWTeGKs.webp" alt="icon" data-pagespeed-url-hash="2355863287" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -103,15 +84,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="<?php echo asset();?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp"
-                                        src="<?php echo asset();?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="1716736907"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/ruby-on-rails-development/icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp" src="<?php echo asset(); ?>images/ruby-on-rails-development/xicon-3.png,qv-1.pagespeed.ic.zasXmY7-7o.webp" alt="icon" data-pagespeed-url-hash="1716736907" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -123,16 +98,9 @@
             </div>
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/node-js-development/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/node-js-development/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/node-js-development/xbanner-side.png.pagespeed.ic.seLTcrtfMf.webp"
-                        src="<?php echo asset();?>images/node-js-development/xbanner-side.png.pagespeed.ic.seLTcrtfMf.webp"
-                        alt="Hire Node js Developer"
-                        title="Hire Node js Developer"
-                        data-pagespeed-url-hash="1435475571"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/node-js-development/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/node-js-development/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/node-js-development/xbanner-side.png.pagespeed.ic.seLTcrtfMf.webp" src="<?php echo asset(); ?>images/node-js-development/xbanner-side.png.pagespeed.ic.seLTcrtfMf.webp" alt="Hire Node js Developer" title="Hire Node js Developer" data-pagespeed-url-hash="1435475571" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
         </div>
@@ -193,19 +161,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Node.js Developer</li>
                     </ol>
@@ -222,7 +183,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire Node js Developer to Build Unparalleled Back-end Solutions</h2>
                         <p class="m-0">
-                            We have been frequently approached by C-suite executives asking whether we can provide a dedicated Node js developer, and the answer is yes. Bacancy is known for offering trained, tested, and vetted Node js
+                            We have been frequently approached by C-suite executives asking whether we can provide a dedicated Node js developer, and the answer is yes. KAS Pvt Ltdis known for offering trained, tested, and vetted Node js
                             developers with top-of-the-line expertise. Whether you are planning to <b>hire Node js developer</b> to crank out code, or need help with full stack Nodejs architect to help you design CI/CD pipelines or want to
                             run microservices interconnecting with external API’s, we can lend a helping hand by providing your choice of Node js programmer at your ease and convenience.
                         </p>
@@ -244,16 +205,9 @@
                     </ul>
                     <div class="bottom-0 m-2 position-absolute right-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/node-js-development/node-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/node-js-development/node-icon.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/node-js-development/xnode-icon.png.pagespeed.ic.CMLoijWuBN.webp"
-                                src="<?php echo asset();?>images/node-js-development/xnode-icon.png.pagespeed.ic.CMLoijWuBN.webp"
-                                alt="Hire Node js Developers"
-                                title="Hire Node js Developers"
-                                data-pagespeed-url-hash="1738397311"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/node-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/node-icon.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/node-js-development/xnode-icon.png.pagespeed.ic.CMLoijWuBN.webp" src="<?php echo asset(); ?>images/node-js-development/xnode-icon.png.pagespeed.ic.CMLoijWuBN.webp" alt="Hire Node js Developers" title="Hire Node js Developers" data-pagespeed-url-hash="1738397311" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </div>
                 </div>
@@ -286,17 +240,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        alt="Dayo"
-                                                        title="Dayo"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="621365468"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -344,17 +290,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp"
-                                                        alt="Dolo eCommerce"
-                                                        title="Dolo eCommerce"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1041927805"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" alt="Dolo eCommerce" title="Dolo eCommerce" class="lazy ob-cover" data-pagespeed-url-hash="1041927805" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -402,17 +340,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        alt="UPS - Global Shipping and Logistics"
-                                                        title="UPS - Global Shipping and Logistics"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="200803131"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" alt="UPS - Global Shipping and Logistics" title="UPS - Global Shipping and Logistics" class="lazy ob-cover" data-pagespeed-url-hash="200803131" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -460,17 +390,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        alt="Dayo"
-                                                        title="Dayo"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="621365468"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -518,17 +440,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp"
-                                                        alt="Dolo eCommerce"
-                                                        title="Dolo eCommerce"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="1041927805"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-3.jpg,qv-4.pagespeed.ic.YT9vaJW3oa.webp" alt="Dolo eCommerce" title="Dolo eCommerce" class="lazy ob-cover" data-pagespeed-url-hash="1041927805" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -576,17 +490,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp"
-                                                        alt="UPS - Global Shipping and Logistics"
-                                                        title="UPS - Global Shipping and Logistics"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="200803131"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-1.jpg,qv-4.pagespeed.ic.1JtQqL7AU4.webp" alt="UPS - Global Shipping and Logistics" title="UPS - Global Shipping and Logistics" class="lazy ob-cover" data-pagespeed-url-hash="200803131" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -634,17 +540,9 @@
                                         <div class="row gx-md-0 gy-4 gy-md-0 posation-relative">
                                             <div class="col-md-6 right-0 top-0 small-heading position-absolute-md" style="height: 518px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        src="<?php echo asset();?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp"
-                                                        alt="Dayo"
-                                                        title="Dayo"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="621365468"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/node-js-development/cs-img-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" src="<?php echo asset(); ?>images/node-js-development/xcs-img-2.jpg,qv-4.pagespeed.ic.hshjYE5T2A.webp" alt="Dayo" title="Dayo" class="lazy ob-cover" data-pagespeed-url-hash="621365468" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-md-7 z-index-2 bg-transparent small-heading" style="height: 518px;">
@@ -706,17 +604,9 @@
         <div class="row align-items-md-center">
             <div class="col-lg-6 text-center text-lg-left mb-4 mb-lg-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/node-js-development/circle-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/node-js-development/circle-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/node-js-development/xcircle-img.png.pagespeed.ic.s5tbmx91Su.webp"
-                        src="<?php echo asset();?>images/node-js-development/xcircle-img.png.pagespeed.ic.s5tbmx91Su.webp"
-                        alt="Positive Outsourcing Experience"
-                        title="Positive Outsourcing Experience"
-                        class="lazy"
-                        data-pagespeed-url-hash="3144168269"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/node-js-development/circle-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/node-js-development/circle-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/node-js-development/xcircle-img.png.pagespeed.ic.s5tbmx91Su.webp" src="<?php echo asset(); ?>images/node-js-development/xcircle-img.png.pagespeed.ic.s5tbmx91Su.webp" alt="Positive Outsourcing Experience" title="Positive Outsourcing Experience" class="lazy" data-pagespeed-url-hash="3144168269" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -730,7 +620,7 @@
                     We have expertise in combining a possible number of front and back end technologies like NodeJS+ ReactJS, NodeJS+ Angular, NodeJS+ Typescript to build scalable web architectures, so you don’t have to worry about
                     scalability and flexibility when your product grows.
                 </p>
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
             </div>
         </div>
     </div>
@@ -767,15 +657,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="<?php echo asset();?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp"
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="<?php echo asset(); ?>images/xstar-with-img-orange.png,qV-2.pagespeed.ic.hHGlrKvCwD.webp" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2500
                                         </h3>
@@ -861,19 +743,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -976,7 +850,7 @@
                 </table>
             </div>
             <div class="col-12 text-center mt-lg">
-                <a href="#schedule-interview" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer Interview</span></a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-outline-primary text-uppercase"><span>Schedule a Developer Interview</span></a>
             </div>
         </div>
     </div>
@@ -989,7 +863,7 @@
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1 mb-lg">Outsource Node.JS Development Services Where Back-end Evolution Begins</h2>
                         <p>
-                            Being the seasoned <a href="https://www.bacancytechnology.com/node-js-development" class="font-bold text-primary">Node js development company</a>, we are known for offering a host of Node js development services
+                            Being the seasoned <a href="https://www.kasinfotech.com/node-js-development" class="font-bold text-primary">Node js development company</a>, we are known for offering a host of Node js development services
                             that allow us to build a robust web application with back-end API services. Our Dedicated Node Developer has a sound knowledge of the functional event loop principles that helps us to deliver 360-degree Nodejs
                             solutions.
                         </p>
@@ -1002,7 +876,7 @@
             </div>
             <div class="col-md-6 col-lg-6 row m-0 gy-4 resp-btn-outer">
                 <div class="service-box bg-white active m-0">
-                    <h3 class="h5 font-bold mb-sm"><a href="https://www.bacancytechnology.com/nodejs-consulting" class="text-primary font-bold">Node.js Consulting</a></h3>
+                    <h3 class="h5 font-bold mb-sm"><a href="https://www.kasinfotech.com/nodejs-consulting" class="text-primary font-bold">Node.js Consulting</a></h3>
                     <p>Our Node.js consulting and audit services are offering comprehensive architecture analysis, code review, and assessment development processes.</p>
                 </div>
                 <div class="service-box bg-white active">
@@ -1066,17 +940,9 @@
         <div class="row flex-lg-row-reverse gy-4 gy-lg-0 align-items-lg-center">
             <div class="col-lg-6 text-center">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        src="<?php echo asset();?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp"
-                        alt="Collaborate with our Nodejs Developers"
-                        title="Collaborate with our Nodejs Developers"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="184066017"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/angular-js-dev/cs-sec-img.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" src="<?php echo asset(); ?>images/angular-js-dev/xcs-sec-img.png.pagespeed.ic.PDSWHCDWpk.webp" alt="Collaborate with our Nodejs Developers" title="Collaborate with our Nodejs Developers" class="lazy ob-cover" data-pagespeed-url-hash="184066017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1182,16 +1048,16 @@
                                 <p itemprop="text">
                                     We have simple and transparent pricing. We let you hire experienced Node JS developers at a rate of $18 per hour with an average experience of 3+ years. However, the cost may vary depending on your query
                                     and the expertise of our developer. If you want to hire a team of Node JS developers, we have customized rates for you; please
-                                    <a href="https://www.bacancytechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
+                                    <a href="https://www.kasinfotech.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
                                 </p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab bg-white" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What are the hiring engagement options available at kasinfotech?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                                <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs and you can hire Node.JSdevelopers from Bacancy.</p>
+                                <p itemprop="text">We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs and you can hire Node.JSdevelopers from kasinfotech.</p>
                                 <strong>Dedicated Developer – Monthly basis</strong>
                                 <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
                                 <strong>Hourly Basis – Hours/ Month</strong>
@@ -1209,7 +1075,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
+                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
                                     the help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>
@@ -1221,7 +1087,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Senior NodeJS Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or skype "Bacancy.”
+                                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or skype "kasinfotech.”
                                 </p>
                             </div>
                         </div>
@@ -1278,240 +1144,45 @@
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp"
-                                src="<?php echo asset();?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp"
-                                alt="How to Build Secure Node.js Rest APIs in 05 Minutes"
-                                title="How to Build Secure Node.js Rest APIs in 05 Minutes"
-                                class="lazy"
-                                data-pagespeed-url-hash="263965492"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" alt="How to Build Secure Node.js Rest APIs in 05 Minutes" title="How to Build Secure Node.js Rest APIs in 05 Minutes" class="lazy" data-pagespeed-url-hash="263965492" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">How to Build Secure Node.js Rest APIs in 05 Minutes</h3>
-                    <a href="https://www.bacancytechnology.com/blog/how-to-build-nodejs-rest-apis" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/how-to-build-nodejs-rest-apis" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp"
-                                src="<?php echo asset();?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp"
-                                alt="What’s New in Node v16? (Highlights of Node.js 16 Features)"
-                                title="What’s New in Node v16? (Highlights of Node.js 16 Features)"
-                                class="lazy"
-                                data-pagespeed-url-hash="684527829"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" alt="What’s New in Node v16? (Highlights of Node.js 16 Features)" title="What’s New in Node v16? (Highlights of Node.js 16 Features)" class="lazy" data-pagespeed-url-hash="684527829" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">What’s New in Node v16? (Highlights of Node.js 16 Features)</h3>
-                    <a href="https://www.bacancytechnology.com/blog/node-js-16-features" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/node-js-16-features" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
                 <div class="blog-cell banner-post mb-0">
                     <figure class="banner-post-img">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/node-js-development/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp"
-                                src="<?php echo asset();?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp"
-                                alt="Node.js is First and Foremost Choice for Building an eCommerce Application"
-                                title="Node.js is First and Foremost Choice for Building an eCommerce Application"
-                                class="lazy"
-                                data-pagespeed-url-hash="1105090166"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.jpg?v-1" type="image/jpeg" />
+                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" alt="Node.js is First and Foremost Choice for Building an eCommerce Application" title="Node.js is First and Foremost Choice for Building an eCommerce Application" class="lazy" data-pagespeed-url-hash="1105090166" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">Node.js is First and Foremost Choice for Building an eCommerce Application</h3>
-                    <a href="https://www.bacancytechnology.com/blog/nodejs-is-first-choice-for-building-an-ecommerce-application" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/nodejs-is-first-choice-for-building-an-ecommerce-application" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

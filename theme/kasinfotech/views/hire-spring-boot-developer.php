@@ -21,16 +21,9 @@
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse">
             <div class="col-lg-5 d-none d-lg-block">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/banner-side.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/banner-side.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-springboot-developer/banner-side.png"
-                        src="<?php echo asset();?>images/hire-springboot-developer/banner-side.png"
-                        alt="Hire Spring Boot Developer"
-                        title="Hire Spring Boot Developer "
-                        data-pagespeed-url-hash="883773478"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/banner-side.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/banner-side.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/banner-side.png" src="<?php echo asset(); ?>images/hire-springboot-developer/banner-side.png" alt="Hire Spring Boot Developer" title="Hire Spring Boot Developer " data-pagespeed-url-hash="883773478" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-7">
@@ -61,15 +54,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="4181604599"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-1.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" alt="icon" data-pagespeed-url-hash="4181604599" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -81,15 +68,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA"
-                                        alt="icon"
-                                        data-pagespeed-url-hash="307199640"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-2.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" src="data:image/webp;base64,UklGRgICAABXRUJQVlA4TPUBAAAvL8ALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQtG3bittYCyjJpVhyF8NSyP9/KUiWfZvniP5PAP/H45/zj22OH7K6Pb0vnn9g/pxwViPpY4asOsH6GeFqNwdi2RjekbKbM9SN8Q3VvSPUXjiu2i2PJidID/Wbw8+qZYrAsGpOQF1dDruolkR/1vxFG4+abBOkr8tf4KY+fzm+2i5QVe+BaJsv6aXx72+A0e5IzI0z3Bod94WvrCvE3INq9wlT55vd6amWCHdfKlt115hVB7i4OZJ6N1ialb3V9gaD2zPMTYmE3MQ91bYEQt6RAwy3dQ4wqU7srHZPcHXvPdCvqg92RrsPGNz//G3iRbXEPaFY1nVNr2n++bnbHdkdIpv1lZ2VQ2OC+j1P0/Ja5dglJ/qpvDBzbNR1g2nfiYMXHwGGu3lk3FU52keARXWCHWXg8FuAxbaSth6Rty62JXDaWAJvPdkdYOiUyntHuxWgqrcAob4h5k6FFKCWARjz+oZVtSRI+R5ow1lvx1XVR4KUdW6Gp3o6rqi3AEN2HYF4VS3hsKRlAAhTBYjZduL40ymwe7R9hDe8fGpK5HMntSQ+eNGS+OTVkvjoNCX+owEA" alt="icon" data-pagespeed-url-hash="307199640" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -101,15 +82,9 @@
                         <div class="row align-items-center">
                             <div class="col-3">
                                 <picture>
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.webp" type="image/webp" />
-                                    <source srcset="<?php echo asset();?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA=="
-                                        alt="icon"
-                                        data-pagespeed-url-hash="727761977"
-                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                    />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.webp" type="image/webp" />
+                                    <source srcset="<?php echo asset(); ?>images/hire-python/banner-icon-3.png?v-1" type="image/jpeg" />
+                                    <img data-src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" src="data:image/webp;base64,UklGRu4BAABXRUJQVlA4TOEBAAAvL8ALEOdgIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgGA75UM7oDBKob0x4WOwRww/VCdUcVkQEQxDBjoBQMSJaPYgbQmJs220bvS+asEyaOegCcP+NigjUbgER/Z8A/Qebn/kAOOafxyd8BbLXv7vcweXmvX+D4G75BdiHRpfNsAP81rMJ2KOy4w4EqxWATu/ffd/3XyZJHbBanQFeUVIznVzPTlLzgrlKBJxkv2T3kpoXPCvYCU/JVgpXkyKcVtbBItlK8WrSAmPR44SHNFMxSPYCK3nCKLVUjdIIzxIPjXTUOaQHHAUGu+So3Eo7WJ6DURprDdIALi9CJ621VqmFLq+DOQSqhzDXuP/zlryhLMYyf8urldrXLV1i9977LpokWey8936/p1PFLrHUGWosiS7vmfA1fOKZ90icVoFkk6fhiljWJhYV2na1ZriD7M1KZP6CZ6oj25squtHvQJN4LN77Hdj96FR9hPPn6j0Co+4dgfBnFy4Am9X77qcQApeh78PJewhh7r9quINbj7YocnsscOSerUu2Zw4u78hiUnIi+7CcSGG8ihTGnKPkbN4eZ8mR0VC8mqSV4iY1lDFJA+VjylegbanobznPW7oadYeU7Z+xW0o2vj5gNP2bAA==" alt="icon" data-pagespeed-url-hash="727761977" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -177,19 +152,12 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
-                                <img
-                                    src="images/bacancy-icon.svg?v-1"
-                                    alt="Agile Software Development Company"
-                                    title="Agile Software Development Company"
-                                    class="h-20"
-                                    data-pagespeed-url-hash="4281980927"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                            <a href="https://www.kasinfotech.com/">
+                                <img src="images/kasinfotech-icon.svg?v-1" alt="Agile Software Development Company" title="Agile Software Development Company" class="h-20" data-pagespeed-url-hash="4281980927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.kasinfotech.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Hire Spring Boot Developer</li>
                     </ol>
@@ -206,7 +174,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire Java Spring Boot Developer to Boost Your Product’s Backend Capabilities</h2>
                         <p>
-                            At Bacancy, our Java Spring Boot developers have in-depth knowledge and extensive experience in building next-gen applications in Java. Leverage our top-of-the-line Java Spring development expertise to integrate
+                            At kasinfotech, our Java Spring Boot developers have in-depth knowledge and extensive experience in building next-gen applications in Java. Leverage our top-of-the-line Java Spring development expertise to integrate
                             various Spring Boot application ecosystems like Spring JDBC, Spring Security, Spring ORM, and Spring Data.
                         </p>
                         <p>
@@ -224,17 +192,9 @@
         <div class="row gy-4 gy-lg-0 flex-lg-row-reverse">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-2.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-springboot-developer/side-2.jpg"
-                        src="<?php echo asset();?>images/hire-springboot-developer/side-2.jpg"
-                        alt="Rely on the industry&amp;#39;s best Spring team for optimal results:"
-                        title="Rely on the industry&amp;#39;s best Spring team for optimal results:"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="649442808"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-2.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/side-2.jpg" src="<?php echo asset(); ?>images/hire-springboot-developer/side-2.jpg" alt="Rely on the industry&amp;#39;s best Spring team for optimal results:" title="Rely on the industry&amp;#39;s best Spring team for optimal results:" class="lazy ob-cover" data-pagespeed-url-hash="649442808" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -262,17 +222,9 @@
         <div class="row align-items-md-center">
             <div class="col-lg-6 text-center text-lg-left mb-4 mb-lg-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-1.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-springboot-developer/side-1.png"
-                        src="<?php echo asset();?>images/hire-springboot-developer/side-1.png"
-                        alt="Positive outsourcing experience of Spring Boot"
-                        title="Positive outsourcing experience of Spring Boot"
-                        class="lazy"
-                        data-pagespeed-url-hash="355045591"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-1.png" type="image/png" />
+                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/side-1.png" src="<?php echo asset(); ?>images/hire-springboot-developer/side-1.png" alt="Positive outsourcing experience of Spring Boot" title="Positive outsourcing experience of Spring Boot" class="lazy" data-pagespeed-url-hash="355045591" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -283,7 +235,7 @@
                     </div>
                 </div>
                 <p>
-                    At Bacancy, we have top-of-the-line expertise in combining a possible number of front and back end technologies like
+                    At kasinfotech, we have top-of-the-line expertise in combining a possible number of front and back end technologies like
                     <strong>Spring Boot + Angular, Spring Boot + React, Spring Boot + Vue, Spring Boot + MySQL, Spring Boot + Docker, Spring Boot + Swagger and Spring Boot + Kafka</strong> to build enterprise-level fast and secure
                     applications for your business.
                 </p>
@@ -313,7 +265,7 @@
                 <div class="service-box bg-white active m-md-0">
                     <h3 class="h5 font-bold mb-sm">Microservices with Spring Boot</h3>
                     <p>
-                        Take your <a href="https://www.bacancytechnology.com/blog/spring-boot-microservices" class="text-primary">Spring Boot Microservices</a> to the next level with our proven expertise. Our team has successfully delivered
+                        Take your <a href="https://www.kasinfotech.com/blog/spring-boot-microservices" class="text-primary">Spring Boot Microservices</a> to the next level with our proven expertise. Our team has successfully delivered
                         both server-less and server-based solutions, using the best design patterns for messaging, service discovery, logging, failure detection, storage, and identity. Let our spring developers help you revolutionize your
                         microservices approach.
                     </p>
@@ -396,15 +348,7 @@
                             <a href="#form">
                                 <div class="price-box bg-primary position-relative">
                                     <div class="price-box-top bg-white">
-                                        <img
-                                            src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs="
-                                            alt="starts with"
-                                            title=""
-                                            class="position-absolute top-0 left-0 right-0 m-auto"
-                                            style="margin-top: -7px !important;"
-                                            data-pagespeed-url-hash="1544378606"
-                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                        />
+                                        <img src="data:image/webp;base64,UklGRv4BAABXRUJQVlA4TPIBAAAvjwAIEA+hKJKkZkj+BWKAb053gA2Fbds2StI+0P8P3ZWaNpKcWf6gns1XOf9Xy7aRJEVlvsXMH8DnnxljAL7+lU/9lE99hEd8hEt8xG27bZblMH/XTfKP4g32/Mu9HgjNSG1wgIoJZqQnKD5kyA26TBDu7ir0daTBCsi2badt9IQW2NIpY+D/P9OyUnA96iCi/xOglFL3p4N4r/rX1xOH8PR67T2cjsLpoXN5Ow5vl9XT6TicHpVS548j8XlW6vl0JE7P6u79WLzfvZyOxelFrY+CGjxAUYtJEKU/A1VCT0TEFkD6DohaTNoIZpX1apEKzkGU/gzOdST+pGgrObCehX4UvREhyczaRdbRVnLYyFIBLwWYDD1gFrq/wkW2B0zSeQAbx1xktEmGJjYAdtoL/wWL1OBHTLrBD2E9FJM1NCk7EcWkdktwFGkbbdJ1LIpJbSBqCFOThSzsBFGLzjfoDDp1RMRXxohadN5aZEHP+Ingv0b6PwuK1W2oSIPJdiLWcwsUq9sGOs0aksGkr3GsfxxV5iEv3dqbZb6NKvNWcFOAKkXqXrROHWlSAMzUI5g21jp1K4stgDWGnag60YJjJGvWyWw0HYeqTrTg2G4iDZhk2guyFR3akA2dKnOPJMsI2YoObQDrARYpu/FH/290EDs=" alt="starts with" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -7px !important;" data-pagespeed-url-hash="1544378606" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                         <h3 class="form-price text-primary mt-sm">
                                             $2960
                                         </h3>
@@ -490,19 +434,11 @@
                         </div>
                         <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                             <picture>
-                                <source srcset="<?php echo asset();?>images/form-mail.webp" type="image/webp" />
-                                <source srcset="<?php echo asset();?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img
-                                    data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY="
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
-                                    class="mr-3 mt-3 d-none d-md-block"
-                                    data-pagespeed-url-hash="4022199950"
-                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
+                                <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
+                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -627,17 +563,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        alt="KPMG"
-                                                        title="KPMG"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="479696279"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" alt="KPMG" title="KPMG" class="lazy ob-cover" data-pagespeed-url-hash="479696279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -684,17 +612,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4"
-                                                        alt="Express Store"
-                                                        title="Express Store"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="900258616"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" src="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" alt="Express Store" title="Express Store" class="lazy ob-cover" data-pagespeed-url-hash="900258616" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -741,17 +661,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4"
-                                                        alt="The Container Store"
-                                                        title="The Container Store"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="59133942"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" src="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" alt="The Container Store" title="The Container Store" class="lazy ob-cover" data-pagespeed-url-hash="59133942" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -798,17 +710,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        alt="KPMG"
-                                                        title="KPMG"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="479696279"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" alt="KPMG" title="KPMG" class="lazy ob-cover" data-pagespeed-url-hash="479696279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -855,17 +759,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-3.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/cs-3.jpg?v-4"
-                                                        alt="Express Store"
-                                                        title="Express Store"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="900258616"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" src="<?php echo asset(); ?>images/hire-springboot-developer/cs-3.jpg?v-4" alt="Express Store" title="Express Store" class="lazy ob-cover" data-pagespeed-url-hash="900258616" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -912,17 +808,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-1.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/cs-1.jpg?v-4"
-                                                        alt="The Container Store"
-                                                        title="The Container Store"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="59133942"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" src="<?php echo asset(); ?>images/hire-springboot-developer/cs-1.jpg?v-4" alt="The Container Store" title="The Container Store" class="lazy ob-cover" data-pagespeed-url-hash="59133942" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -969,17 +857,9 @@
                                         <div class="row gx-lg-0 posation-relative">
                                             <div class="col-lg-6 position-absolute right-0 top-0 small-heading d-none d-lg-block" style="height: 442px;">
                                                 <picture>
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
-                                                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        src="<?php echo asset();?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp"
-                                                        alt="KPMG"
-                                                        title="KPMG"
-                                                        class="lazy ob-cover"
-                                                        data-pagespeed-url-hash="479696279"
-                                                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                    />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.webp" type="image/webp" />
+                                                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/cs-2.jpg?v-4" type="image/jpeg" />
+                                                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" src="<?php echo asset(); ?>images/hire-springboot-developer/xcs-2.jpg,qv-4.pagespeed.ic.IRmbyLXQQg.webp" alt="KPMG" title="KPMG" class="lazy ob-cover" data-pagespeed-url-hash="479696279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 442px;">
@@ -1041,13 +921,13 @@
             <div class="col-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Hire Java Spring Boot Developers from Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Hire Java Spring Boot Developers from kasinfotech?</h2>
                         <p>
                             Being a globally renowned Java Spring Boot development company, we can help you develop and deliver unrivaled Spring applications in a pre-defined time frame. With years of proven expertise in emerging
                             technologies, our team of dedicated Spring Boot developers ensures to build custom Spring Boot apps with efficiency and modernity, fulfilling your unique business needs.
                         </p>
                         <p>
-                            <a class="text-primary" href="https://www.bacancytechnology.com/hire-java-developers">Hire Java developers</a> from us with expertise in spring boot to experience easy integration, Spring boot migration, and unit
+                            <a class="text-primary" href="https://www.kasinfotech.com/hire-java-developers">Hire Java developers</a> from us with expertise in spring boot to experience easy integration, Spring boot migration, and unit
                             testing. Partner with us to build a one-of-a-kind robust and secure solution with inbuilt features.
                         </p>
                     </div>
@@ -1055,21 +935,13 @@
             </div>
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-3.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/hire-springboot-developer/side-3.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/hire-springboot-developer/side-3.jpg"
-                        src="<?php echo asset();?>images/hire-springboot-developer/side-3.jpg"
-                        alt="Why hire Java Spring Boot Developers from Bacancy?"
-                        title="Why hire Java Spring Boot Developers from Bacancy?"
-                        class="lazy ob-cover"
-                        data-pagespeed-url-hash="943942729"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" src="<?php echo asset(); ?>images/hire-springboot-developer/side-3.jpg" alt="Why hire Java Spring Boot Developers from kasinfotech?" title="Why hire Java Spring Boot Developers from kasinfotech?" class="lazy ob-cover" data-pagespeed-url-hash="943942729" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
-                <h3 class="h5 font-bold mb-lg">Benefits you can avail when you hire Java Spring developers from Bacancy:</h3>
+                <h3 class="h5 font-bold mb-lg">Benefits you can avail when you hire Java Spring developers from kasinfotech:</h3>
                 <ul class="style-check text-18">
                     <li>Agile methodology</li>
                     <li>Skilled and experienced Spring developers</li>
@@ -1090,16 +962,9 @@
 <section class="section-padding section-padding-md banner-post company-counting">
     <figure class="banner-post-img">
         <picture>
-            <source srcset="<?php echo asset();?>images/counting-bg.webp" type="image/webp" />
-            <source srcset="<?php echo asset();?>images/counting-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                src="<?php echo asset();?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp"
-                alt="Our Development Center Strength"
-                title="Our Development Center Strength"
-                data-pagespeed-url-hash="102558019"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.webp" type="image/webp" />
+            <source srcset="<?php echo asset(); ?>images/counting-bg.jpg" type="image/jpeg" />
+            <img data-src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" src="<?php echo asset(); ?>images/xcounting-bg.jpg.pagespeed.ic.gtQG_MquTp.webp" alt="Our Development Center Strength" title="Our Development Center Strength" data-pagespeed-url-hash="102558019" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -1118,17 +983,9 @@
         <div class="row text-center align-items-lg-center section-padding section-padding-md">
             <div class="col-lg-6">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        src="<?php echo asset();?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp"
-                        alt="Our Development Center Strength"
-                        title="Our Development Center Strength"
-                        class="mb-5 mb-lg-0"
-                        data-pagespeed-url-hash="962442249"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/engagement-model/side-img-5.jpg" type="image/jpeg" />
+                    <img data-src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" src="<?php echo asset(); ?>images/engagement-model/xside-img-5.jpg.pagespeed.ic.8AqLueOKEE.webp" alt="Our Development Center Strength" title="Our Development Center Strength" class="mb-5 mb-lg-0" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1136,64 +993,36 @@
                 <div class="row justify-content-center">
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-developer.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-developer.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                src="<?php echo asset();?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp"
-                                alt="Agile Developers"
-                                title="Agile Developers"
-                                data-pagespeed-url-hash="2109142817"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-developer.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" src="<?php echo asset(); ?>images/xagile-developer.png.pagespeed.ic.13HIIIEYEx.webp" alt="Agile Teams" title="Agile Teams" data-pagespeed-url-hash="2109142817" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">1050+</h4>
-                        <p>Agile Developers</p>
+                        <p>Agile Teams</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/developer-icon.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/developer-icon.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                src="<?php echo asset();?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp"
-                                alt="Spring Boot Developers"
-                                title="Spring Boot Developers"
-                                data-pagespeed-url-hash="3952180670"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/developer-icon.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" src="<?php echo asset(); ?>images/xdeveloper-icon.png.pagespeed.ic.7lDCVbd6AF.webp" alt="Spring Boot Developers" title="Spring Boot Developers" data-pagespeed-url-hash="3952180670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">80+</h4>
                         <p class="small-heading" style="height: 48px;">Spring Boot Developers</p>
                     </div>
                     <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/agile-coach.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/agile-coach.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                src="<?php echo asset();?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp"
-                                alt="Agile Coaches"
-                                title="Agile Coaches"
-                                data-pagespeed-url-hash="905832657"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/agile-coach.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" src="<?php echo asset(); ?>images/xagile-coach.png.pagespeed.ic.MQdoRh2rbB.webp" alt="Agile Coaches" title="Agile Coaches" data-pagespeed-url-hash="905832657" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">05</h4>
                         <p>Agile Coaches</p>
                     </div>
                     <div class="col-6 col-lg-3">
                         <picture>
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/certified-scrum-master.png" type="image/png" />
-                            <img
-                                data-src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                src="<?php echo asset();?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp"
-                                alt="Certified Scrum Masters"
-                                title="Certified Scrum Masters"
-                                data-pagespeed-url-hash="98509469"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.webp" type="image/webp" />
+                            <source srcset="<?php echo asset(); ?>images/certified-scrum-master.png" type="image/png" />
+                            <img data-src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" src="<?php echo asset(); ?>images/xcertified-scrum-master.png.pagespeed.ic.iAwwUp-Dqu.webp" alt="Certified Scrum Masters" title="Certified Scrum Masters" data-pagespeed-url-hash="98509469" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                         <h4 class="h1 font-bold mt-3">14</h4>
                         <p>Certified Scrum Masters</p>
@@ -1204,81 +1033,41 @@
         <div class="row text-center count-bottom justify-content-center">
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-1.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-1.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
-                        src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA=="
-                        alt="Work at Your Time Zone"
-                        title="Work at Your Time Zone"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2350239806"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-1.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA==" src="data:image/webp;base64,UklGRiIEAABXRUJQVlA4IBYEAACQFQCdASoqACoAPm0qkkWkIqGY7M0AQAbEtIAJzN4I9+bwh7AZxf6d/bfyD/Lz4P3hP+Sf3b8o+AJ45/TP9PxlfSf/D+g7/e/yu9+/8B4A1AD+W/17/geyf/Hf8jyp/R3/N/xnwDfyT+t/6/84f7v4Ff2x9jP9gDZF/la/Q4Pmh/mWjtmJFZs+8W4AXqKwnddenLHWJM7O/C09h02nu72KTlF0VMkU5UkzBnGBYJNf9OOxLswAAP7+iHJS9z0duaqXI22YH1NCujlAfZbC+O1W4QncPz1EBKerJZ+SlX1mnrp47sPXDy3lqoyP7SZHix/xtmHbQXQMWwyWZFPg5X7JJzMzacVnSoX1k2BeTiPbOx/2cTY43recEloH4CSKdAZwSPm9pnsco2gh+OgCvXGNAJxZXha4HE1ZR+DOdqMwj2gNq2qrnvxnrnWi7Mk2fOgTeh2cqUtHcjfg/GD7dK+8zCdNLa3HtjLZ8Nce+cm4T+U3gBD0oVS88b4klZHAKn7803rvtE0nTcFDLOvsXmQYJ6zFpReHKWR6Lpjq+9JFJ78G/5SnfZpj8d2b2MPjAVZxTketQAWvweRgFiBfLJBO9nVuJOrtsdExd6wOCrB5Z0V+F+Un8Lm3wxu359Ov5esml8dqjvFBFELQ8i0yaU6L/kwrIv+qaBPqUq4wrIZWTNPncT+rkf7oymCIdWDzkMOM6nRPLvsKdKY1VP//HyL1ANLO1MyNVxXXru56/mX+zNWivmVzSYd41Wi6uPn7Cv38KYaBGxIAn6IBZCG6L3Pjcluo/pFsotxAVLh3H17q4XXE1E4B+sKz86+yIWBm/LoivY6mHt9dxxCP0t5H+wr4k/L+YmHAuMtntJEi/DiZaJDybGM1LWq+B/RmirnaqwKfrw6D7a5eSTeexQLDWjU6xRTR0ExoDhBN3KquezAxO03hR/IK6i6/hXQhUqBm16x1f9R2XRBea6rxuRcfqLczVXW11k3+Dt8GGIF+3O2yxF4BDbRJ6S7YTRKggFtTbYEAZB//2uPFm0l9g60TcG/HH1RbyXB4wO/rchppXEOzy46qyc2L0r/6vaahwAl49Z2dx9wY7lNb9VD0zBks051/+L5N1EwL5wfKs/+n+l2aIbWI79Vea6pOfNX+wcxB0w74V8x3nzzg5AAmR2gj/Bm26XCLWTur4lpzfzsCe7v+56T7Ty31hQdtC+XihPwwoynw5rz6HiojtRiEvS4QZMM6zd1z/07S7E//5yGVCtcn0VpcYsIanjOp3dXNffxoYq5fsi/Q1xSLw2ft4oau69kdvy8e5yQtx1NuBwd9MsgkvuMTKU0boheF2LfNE/bYX0ySN6QqKKdASmekZiWNI9hpX/+hxzknZLiqQt+g9Vsmd2LmacAAAA==" alt="Work at Your Time Zone" title="Work at Your Time Zone" class="mb-lg" data-pagespeed-url-hash="2350239806" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Work at Your Time Zone</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-2.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-2.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
-                        src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA"
-                        alt="Easy Communication"
-                        title="Easy Communication"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2644739727"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-2.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA" src="data:image/webp;base64,UklGRvICAABXRUJQVlA4TOUCAAAvKUAKAMekoG0jR116AM8f7P8NDAbStg3SbuMCbiBt2yDtNi7g86/IbdsGOY0O+hv3P4ASAEpQUQFU9wDtHgAAAFVJSpANAIASZekGJQCqlBi2QhSp7p072RTCrUH51VETV5QlTzZUAC9BIX6AzdcQm9ItSJQk2bStubZt27Zt27bNZ188v/red9fae50/iOg/A0dS23CuaZzDwSPEHq65k2evvv77/v5yrSRIHEHi1AOWOK0yXmWvAfw7XhvvHFg4+AZwYbhoAd51ZLmIhtimU2AxwKCfwnWDhx2XvB14lWPbH2DGUwzQA+TZMDmDDjFDoG2bhlUxRTQQa8Eiy5Eu0ggTFiSOeB8oGmLULzl5W7DasJqKoFQ0lLCgOPhNkMWlJ8Y0CjMcWxAf5JOISChYRWWIX+rJnP9S66AlQ5tCIBN8HDR5xYnioIlHsUAt2yIiHhAvFljnXnEwzp3i4OIs+OVkKqnwRBGRYzUWo3wThYb6ZDwUih2CoP3FQQdopgy+MGVrFVDw4mBEHSJutcuHvLO1JZ4Vsa9yr3bttTKYtun1MKqd9kTE7wagVpdLl2XPB/XJMCWOK1C1oGkj6hMcpOm5vAIUifrkf210QIWk6nrL/AxsD9YmV/Zugq4Ir2vGRK7YV76vadiv4zMWmNCUOwaxkga56vdXRbTF+lvg/WZvrIWqmRDp4atRrnkle1tmu5pr62ypPE7M8zcPKBeRt4xoTL6Z1gQ/oEXNqG67OmNvHm95p/yoNywb1C67lgMkK/K4NayHI1uXXxkJERHpACIUkSY5UmO/zlSHKe3WTYJgzqxuA+sTAHy4BSXvBqBODBAPiyKejdcAqDEO+sKfdPvudgvuajVMLu2oyUvRI/o+0q4nbEKG/QHVdmzNw78XaDXqsqqpX6tofQ/ws8SszytCS55+eH57fvb6AWAzwawnw3bf7AFWmE8RB0o9wMNE//zexkBzQZyYo3T344/j4WJxGAIA" alt="Easy Communication" title="Easy Communication" class="mb-lg" data-pagespeed-url-hash="2644739727" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Easy Communication</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-3.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-3.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
-                        src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP"
-                        alt="Hire in 48 Hours"
-                        title="Hire in 48 Hours"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="2939239648"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-3.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP" src="data:image/webp;base64,UklGRlwCAABXRUJQVlA4TFACAAAvKUAKAGehoI0kJcf47N/ti1DYtpEa0jE/KmzbSA3pmB/nvw7v/0QkMwEAAFBVmBkzExEiYq4FADCzzAQARIS7Q0Sqyt0BAERkZkTE2ltEEBEAQESYGUT0LaqKiEQEEQEA5loAQHdDRKBgW3sVK/rUiMYoGgv9se6jhL5pCH3mP8E8iuoRRPR/AnTvcFmWBGl5vQx6pLNEdzJ3lrMMkNYneFoTQDZ3StiANQ5SgCAN0wps/oQIrEGl25NTGVYg3nWFI+rEeMD1jhnyoFN9BuuKAHPHp08dM0Ds8Jk9cbQ+w+cWpJ3sWwt4N4+tAKE1zs7D0hhhUndfOcFY29j1GO1slRHioyKMxROHHqWDpyLz9LgnNkkexrPef2yN4KUIwzlfn8EaA0TJQGf8/hd6BFZsdrmv/O/lh+oX24oVIPR8/0v5z68PagaAVboBq+uh/PlOvW4FbpKR1f/GHwi6N2MFrk8KJziKAOEevb3p3gBBcmB3nTiDk5TYHreRJGmCi9m3ni9mX3q+mV1gKhzV5GtuAVhczSfKwxVaK6TaQvW1lqiuKge4ORnEIsCT9AS+iDDJ3WAoAnhJO3MxgSQHUzGzS/IQGkFSrhm4viwpNNxB8sMVYuHhdRgWGIoIV+cThyuGjfpYhEw1h2Kkvg2SfKYdpZHOUYq0s5cSPFl5wOAyx2xmNh9kDbBb+QRJHiZVPViEoOoIo4FX1cBP4GpaWZ841DyYV1bVHUw3kpoGG7fWjQTWUOKWSda8AizWXACu1kzknf/t7veew+LRs0c7enYP" alt="Hire in 48 Hours" title="Hire in 48 Hours" class="mb-lg" data-pagespeed-url-hash="2939239648" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>Hire in 48 Hours</p>
             </div>
             <div class="col">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-4.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-4.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
-                        src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM="
-                        alt="In Business Since 2011"
-                        title="In Business Since 2011"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3233739569"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>In Business Since 2011</p>
             </div>
             <div class="col mb-0">
                 <picture>
-                    <source srcset="<?php echo asset();?>images/country-icon-5.webp" type="image/webp" />
-                    <source srcset="<?php echo asset();?>images/country-icon-5.png" type="image/png" />
-                    <img
-                        data-src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
-                        src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA="
-                        alt="5/5 Pro User Rating"
-                        title="5/5 Pro User Rating"
-                        class="mb-lg"
-                        data-pagespeed-url-hash="3528239490"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.webp" type="image/webp" />
+                    <source srcset="<?php echo asset(); ?>images/country-icon-5.png" type="image/png" />
+                    <img data-src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA=" src="data:image/webp;base64,UklGRlgCAABXRUJQVlA4TEsCAAAvKUAKABfDuG3bQJDsXF/3uv2XvXQItm3bCI5CkvNfffVs27YRHIUk57/66udfaJpgsu2O7/+ruklRdaNSAbpJAQBSVIAtJUWlSpk7qoV0owKoUhYAmDuA875Uqm66mTvv91GpUrpJWeitVAEAKXNHpQLs/b5L3U0K4HkeFykFoAKc9wXZtm0nUrW5jrsFpxUP2hJcct1wl/X/f1GhUth7RP8nQMlV36bUy8tK3eZX9XgO6qnmYT5VHXKPAZg0l3CZxgAkxlb8Ofzn7ldlWlJu9fslwOX31Zyk6cqvO/7CuV8ZI7hC0kgkKxWSkiG5RNDCiZWshcMvkgNnJevASV8OwVrJnoCVg4pUgMNuSXKwLC2Dk6TuQyhIFXCSvnE1ZCx0K/idLWO2+K5gN1gzcc03STqiClvQHrplH/a5DbXDFmxzlLgmXAg08mhjoED4OnEClfIJlAMtgLVAS6AMJ+UKnCRGZlsklfMKj1tJsuMK58uSWmZHEhkOT08P63laAPsscgRzz6EGfX1Qew4eL3n8W9fSIb3vbXoOwB9zCjvdzyJ82Ph0tgLMVsDureaexkseKxHMPZdrYOR5eA3ATEx/aXYktIiVFslJnqIENsIC7AdkJMlIUosy6CEYivwMU+mmwDQ6HrLogtF0s9AoObIYhJ50I+AkOZbjJuFTOq2Bk2QUP829Ihs2wSnTBY5j9G4XXCYb+Ch92AeXxQULcfp4AC5uAAYy0Oev4KLmuFGmjT/AxTjWs1Hzb3A2/RlzGan1H/EDWanzZ5RTEgA=" alt="5/5 Pro User Rating" title="5/5 Pro User Rating" class="mb-lg" data-pagespeed-url-hash="3528239490" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
                 <p>5/5 Pro User Rating</p>
             </div>
@@ -1316,7 +1105,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based? What is the team size of Spring Boot developers?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased? What is the team size of Spring Boot developers?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 80+ in-house certified Spring Boot developers with an average experience of 5+ years.</p>
@@ -1356,7 +1145,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     That's quite impossible. However, we provide information to you about an exit policy before getting developers on board on your project. Either Party to this agreement may terminate the contract, with or
-                                    without cause, by providing at least 14 days (2) weeks written notice to the other Party. Upon termination of this agreement, Bacancy shall deliver a termination Invoice for work completed to date, which
+                                    without cause, by providing at least 14 days (2) weeks written notice to the other Party. Upon termination of this agreement, KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which
                                     shall be paid by the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining work done until the termination date. All work completed to date shall be
                                     delivered to the client in a usable electronic format on termination.
                                 </p>
@@ -1368,175 +1157,4 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-            <div class="insight-slider-navigation" id="insight-navigation-block">
-                <ul class="nav-block">
-                    <li class="nav-item active">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">01</span>
-                            <span class="text">Top 1% IT Talent</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">02</span>
-                            <span class="text">Time Zone Aligned</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="javascript:void(0)" class="nav-link text-xxl">
-                            <span class="slide-number">03</span>
-                            <span class="text">Experienced Team</span>
-                        </a>
-                    </li>
-                    <span class="active-line"></span>
-                </ul>
-            </div>
-            <div class="insight-slider-main section-padding-md">
-                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                            <div class="owl-item active" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                    alt="Top 1% IT Talent"
-                                                    title="Top 1% IT Talent"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="2883500071"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                            <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
-                                                across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                    alt="Time Zone Aligned"
-                                                    title="Time Zone Aligned"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3304062408"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                            <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
-                                                collaborate from far away to work according to your time zone, deadline, and milestone.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-item" style="width: 1296px;">
-                                <div class="item">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                            <picture>
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp" />
-                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                <img
-                                                    data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                    alt="Experienced Team"
-                                                    title="Experienced Team"
-                                                    class="lazy slider-img"
-                                                    data-pagespeed-url-hash="3724624745"
-                                                    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                />
-                                            </picture>
-                                        </div>
-                                        <div class="col-lg-4 offset-lg-1 col-md-8">
-                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                            <p class="text-lg text-secondary">
-                                                Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a
-                                                full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="owl-nav">
-                        <button type="button" role="presentation" class="owl-prev disabled">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                        </button>
-                        <button type="button" role="presentation" class="owl-next">
-                            <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                        </button>
-                    </div>
-                    <div class="owl-dots disabled"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$config['base_url'] = get_base_url();
+$config['base_url'] = getBaseUrl();
 $config['root_path'] = FCPATH;
 $config['theme_path'] =$config['root_path'].'/theme/';
 $config['media_url'] = $config['base_url'] . 'media/';

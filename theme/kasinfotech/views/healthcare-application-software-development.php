@@ -21,12 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/healthcare-assets/xbanner.jpg,qv-1.pagespeed.ic.DBKdeduIah.webp"
-                src="<?php echo asset(); ?>images/healthcare-assets/xbanner.jpg,qv-1.pagespeed.ic.DBKdeduIah.webp"
-                alt="Healthcare Software Development Company"
-                title="Healthcare Software Development Company"
-            />
+            <img data-src="<?php echo asset(); ?>images/healthcare-assets/xbanner.jpg,qv-1.pagespeed.ic.DBKdeduIah.webp" src="<?php echo asset(); ?>images/healthcare-assets/xbanner.jpg,qv-1.pagespeed.ic.DBKdeduIah.webp" alt="Healthcare Software Development Company" title="Healthcare Software Development Company" />
         </picture>
     </figure>
     <div class="container">
@@ -49,11 +44,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-1.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-1.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA="
-                                        alt="icon"
-                                    />
+                                    <img data-src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" src="data:image/webp;base64,UklGRiABAABXRUJQVlA4TBMBAAAvLUALELdgIG2b7MrvvDYUtm3bMOn//+56QAxEkuET/ElA/xYaaPSB+sSEhxs85KNAIyL6SGwIYIZAZNGKxcXDlW1bTXOwIBZi4er85xp8Cen5i+j/BPDJusboyvlN5s0XanVzW2aXjsF4JO1lpIj5kEoNtuEuUQ8arxz+UTwOAqTHSBBghvgYEWZQhX8MTyVQgPQICcLVDPERIsxXqvCP4KmUCZDKJQi5GWK5CHNOFb6cp9JJgFQqQTibIZaKMJ+pwp+tDqPbzzyVDAHWkwHzcJIgWDaohnwL3ZjtoR3yNWwWBcy78piDTJqaMs2kG4wXzBfdeofdNpfTNBonPUDZP0eC+EgR3PI4iwPojv0hj47PEgA=" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -67,11 +58,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-2.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-2.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRpQBAABXRUJQVlA4TIgBAAAvLoALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQsmzbiiLpPCiJIsoe9YXW/EcqPMg+PyP6PwH8BP+Mi6qeT2eR/9Omup9/XV23afl0heeu5X9SMap5v26yqHnzplFrL3CbVu7e0Gt9J4tW764QtOHea8OpsLRoHDJB3+2c6d+PZl7tAmtNuGnzF1w119sEkJr4Ji+AoeK6pVbXrasIt9l2rIVE9rC5W7R55tyV600Hd2/qwWUSEBx405AhGQ4B4u0CzgeQLF0uGiKAHKoHEHQDoiGRl1Am+1CNwKnqQULZFyodkA4Br6o9bx5OoIvAoKp7K3mWdw2AgNP79Cx7E5caN7JDxriKjcGgj5vTysNR+zLsAgwVh6da1pJGkL3C01DWkjqi2i+aylraRjUfnsYyFCoPT/uhRfK85aNuFd62OyoG4a19MkXeocylI/A+Y251vFefVDXyjmV4BX4DAQ=="
-                                        src="data:image/webp;base64,UklGRpQBAABXRUJQVlA4TIgBAAAvLoALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQsmzbiiLpPCiJIsoe9YXW/EcqPMg+PyP6PwH8BP+Mi6qeT2eR/9Omup9/XV23afl0heeu5X9SMap5v26yqHnzplFrL3CbVu7e0Gt9J4tW764QtOHea8OpsLRoHDJB3+2c6d+PZl7tAmtNuGnzF1w119sEkJr4Ji+AoeK6pVbXrasIt9l2rIVE9rC5W7R55tyV600Hd2/qwWUSEBx405AhGQ4B4u0CzgeQLF0uGiKAHKoHEHQDoiGRl1Am+1CNwKnqQULZFyodkA4Br6o9bx5OoIvAoKp7K3mWdw2AgNP79Cx7E5caN7JDxriKjcGgj5vTysNR+zLsAgwVh6da1pJGkL3C01DWkjqi2i+aylraRjUfnsYyFCoPT/uhRfK85aNuFd62OyoG4a19MkXeocylI/A+Y251vFefVDXyjmV4BX4DAQ=="
-                                        alt="icon"
-                                    />
+                                    <img data-src="data:image/webp;base64,UklGRpQBAABXRUJQVlA4TIgBAAAvLoALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQsmzbiiLpPCiJIsoe9YXW/EcqPMg+PyP6PwH8BP+Mi6qeT2eR/9Omup9/XV23afl0heeu5X9SMap5v26yqHnzplFrL3CbVu7e0Gt9J4tW764QtOHea8OpsLRoHDJB3+2c6d+PZl7tAmtNuGnzF1w119sEkJr4Ji+AoeK6pVbXrasIt9l2rIVE9rC5W7R55tyV600Hd2/qwWUSEBx405AhGQ4B4u0CzgeQLF0uGiKAHKoHEHQDoiGRl1Am+1CNwKnqQULZFyodkA4Br6o9bx5OoIvAoKp7K3mWdw2AgNP79Cx7E5caN7JDxriKjcGgj5vTysNR+zLsAgwVh6da1pJGkL3C01DWkjqi2i+aylraRjUfnsYyFCoPT/uhRfK85aNuFd62OyoG4a19MkXeocylI/A+Y251vFefVDXyjmV4BX4DAQ==" src="data:image/webp;base64,UklGRpQBAABXRUJQVlA4TIgBAAAvLoALEN9gIG2b7MrvvDYUtm3b0P3/4F0PCIK2bbMiWIZgFE75UM7oDBKob0x4WOwRw69OqOawIiIYggh2BISKEdHqQdwQsmzbiiLpPCiJIsoe9YXW/EcqPMg+PyP6PwH8BP+Mi6qeT2eR/9Omup9/XV23afl0heeu5X9SMap5v26yqHnzplFrL3CbVu7e0Gt9J4tW764QtOHea8OpsLRoHDJB3+2c6d+PZl7tAmtNuGnzF1w119sEkJr4Ji+AoeK6pVbXrasIt9l2rIVE9rC5W7R55tyV600Hd2/qwWUSEBx405AhGQ4B4u0CzgeQLF0uGiKAHKoHEHQDoiGRl1Am+1CNwKnqQULZFyodkA4Br6o9bx5OoIvAoKp7K3mWdw2AgNP79Cx7E5caN7JDxriKjcGgj5vTysNR+zLsAgwVh6da1pJGkL3C01DWkjqi2i+aylraRjUfnsYyFCoPT/uhRfK85aNuFd62OyoG4a19MkXeocylI/A+Y251vFefVDXyjmV4BX4DAQ==" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -85,11 +72,7 @@
                                 <picture>
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-3.webp" type="image/webp" />
                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/banner-ico-3.png?v-1" type="image/jpeg" />
-                                    <img
-                                        data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
-                                        src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA=="
-                                        alt="icon"
-                                    />
+                                    <img data-src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" src="data:image/webp;base64,UklGRrYDAABXRUJQVlA4TKkDAAAvLUALEOfmOJIkR8lGa/HFL/zFJZ4n2w3IkSQpkjx7mfXXbvfuFLgfVzpqJMmRovrs+/jDOxZjCpIjSYqkzOiamuyemWVmfvr+aG97ZuZqiggYXNkXvMERHEk3RhAE+c35Dmj82NDQ+MMB4YJL8kaUuNPhVl0uOKljQ1sy/hb1Bbcmr/HS2V073PylyXrkHZKCvuFKJhOKSFqJsBQe5p8B2EEQVnsKVYJTiAjCmobFSRckGtRYQS7CQAEgK0MEJ0NxlFLTIgwDSFNK5YNRVGJABxWI2BDYIwOIbUC1IFTJKihFBcAxQUIC0MAxRUYgB4PD4SgQBKFXhq5MAClFjgAgvRIEoYbDkeDqGw+UKMUwBSwMCQ4g1B9JxeF4DwoCqiOYUGW5vR8xN9XbLKqK1v4YQHq8oSvvrbs1t0qtWZpthMXKf2qdQWTMZDG7ozRlchrnOsnLZnmbGzE7dmzp6bezv/2f4t/crBczHGdmMz/r/4O342f7/7j3Pv42f+HwiZ8TdwZPww+DtFvbDrt5Yjupbdu2bbs9dRsnM+9J6sa4a9u2bcTGv3nfmXkm+B7R/wmgRtYt5OGUJc96+NYJl85fzgjIsWt/1oFhdzUY6lfGVNlUMxjmc5542zMg1gKODbWl/JKwgqNt7FgLxoXefL+jOU4E8g1I50jty/c5hwOf+CYIlol8D3SWp3wjs1kG8fXK4IjvxdfxOEdkFz76xjHVzYaKa8LSkXyys2e0lbg+ZO9LC1mffG2i3rtzjLRTw2vJ9l+j9uqKmEdNqE76th34bM2Ldq5E5NWp+4jxQ8JLS+wgokp3VyKiltPPJgDQo+f2q+XxCfu4dMf5Q5mZcSvdfFanCKhF0rIySx1+jN12GIa3mvusSoVZbXGBufYrbqYLGGuvaXUqzOszPEz4Dd4P07nr6VUKrKb3NvrjSIR55wCv6cLMVUc6IOYbRBwUsBjVpdNZmLz4r/glgGRPRdtzsLyloHuCkbjdgqgVALxVTNatzfUZAQBpC3YBl/+6UteT0jqpKBHW79N46SvR49PBRMHbIc+XxoFxTs0QabQr1RQSBW0WiknSd46theE6gAPPfYgoKFJA+U5awHG9abMLAKDNau3+f7OA0pnHtu+H/0YB+fiGewJqB8mLODCP+icpzDrfKD4IjvjQ2mWaldmFimoHB3YGlE3TzW3qRuqOy/fcsH5nuGvBzHRh5Jzdjcy6MhKRR+/5yQqn400h1UnPD+vmT3qfR40jAA==" alt="icon" />
                                 </picture>
                             </div>
                             <div class="col-9">
@@ -158,7 +141,7 @@
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1 mb-lg">Our Healthcare Software Development Services</h2>
                         <p>
-                            At Bacancy, our certified healthcare software engineers provide unrivaled custom healthcare software development services. We prioritize meeting client needs, using advanced tech for seamless solutions to benefit
+                            At kasinfotech, our certified healthcare software engineers provide unrivaled custom healthcare software development services. We prioritize meeting client needs, using advanced tech for seamless solutions to benefit
                             healthcare professionals and patients.
                         </p>
                     </div>
@@ -320,7 +303,7 @@
                                         <div class="row">
                                             <div class="col-12">
                                                 <p class="pb-4 border-bottom">
-                                                    Bacancy assures advanced patient care delivery and high customer satisfaction by building patient engagement ecosystems. With digital health services designed by our software developers,
+                                                    KAS Pvt Ltdassures advanced patient care delivery and high customer satisfaction by building patient engagement ecosystems. With digital health services designed by our software developers,
                                                     your patients can access their health-related information and book appointments.
                                                 </p>
                                             </div>
@@ -357,7 +340,7 @@
                                         <div class="row">
                                             <div class="col-12">
                                                 <p class="pb-4 border-bottom">
-                                                    At Bacancy, you can even come up with the requirement of custom medical imaging software solutions. Our software developers leave no stone unturned to make radiologists and physicians work
+                                                    At kasinfotech, you can even come up with the requirement of custom medical imaging software solutions. Our software developers leave no stone unturned to make radiologists and physicians work
                                                     quickly and collaboratively.
                                                 </p>
                                             </div>
@@ -546,61 +529,16 @@
                 </div>
             </div>
             <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" />
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)" />
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </form>
+              
 
                 <div class="text-center">
                     <div class="d-flex justify-content-center mb-sm mt-lg text-white-all">
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                alt="Bacancy Mail"
-                                title="Bacancy Mail"
-                                class="mr-3 mt-3 d-none d-md-block"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" />
                         </picture>
-                        <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                        <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                     </div>
                     <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                     <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -703,13 +641,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        alt="AI-based Medical Care Solution"
-                                                        title="AI-based Medical Care Solution"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" alt="AI-based Medical Care Solution" title="AI-based Medical Care Solution" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -758,13 +690,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-3.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp"
-                                                        alt="Service Satisfaction Analysis Tool for Healthcare Sector"
-                                                        title="Service Satisfaction Analysis Tool for Healthcare Sector"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp" alt="Service Satisfaction Analysis Tool for Healthcare Sector" title="Service Satisfaction Analysis Tool for Healthcare Sector" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -813,13 +739,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-1.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp"
-                                                        alt="Salesforce healthcare solutions"
-                                                        title="Salesforce healthcare solutions"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp" alt="Salesforce healthcare solutions" title="Salesforce healthcare solutions" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -868,13 +788,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        alt="AI-based Medical Care Solution"
-                                                        title="AI-based Medical Care Solution"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" alt="AI-based Medical Care Solution" title="AI-based Medical Care Solution" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -923,13 +837,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-3.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-3.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp"
-                                                        alt="Service Satisfaction Analysis Tool for Healthcare Sector"
-                                                        title="Service Satisfaction Analysis Tool for Healthcare Sector"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-3.jpg,qv-4.pagespeed.ic.qQH5wm1Lm5.webp" alt="Service Satisfaction Analysis Tool for Healthcare Sector" title="Service Satisfaction Analysis Tool for Healthcare Sector" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -978,13 +886,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-1.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-1.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp"
-                                                        alt="Salesforce healthcare solutions"
-                                                        title="Salesforce healthcare solutions"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-1.jpg,qv-4.pagespeed.ic.A_rBcqt4AR.webp" alt="Salesforce healthcare solutions" title="Salesforce healthcare solutions" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -1033,13 +935,7 @@
                                                 <picture>
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.webp" type="image/webp" />
                                                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/case-2.jpg?v-4" type="image/jpeg" />
-                                                    <img
-                                                        data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp"
-                                                        alt="AI-based Medical Care Solution"
-                                                        title="AI-based Medical Care Solution"
-                                                        class="ob-cover"
-                                                    />
+                                                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" src="<?php echo asset(); ?>images/healthcare-assets/xcase-2.jpg,qv-4.pagespeed.ic.w6b7O2CeRm.webp" alt="AI-based Medical Care Solution" title="AI-based Medical Care Solution" class="ob-cover" />
                                                 </picture>
                                             </div>
                                             <div class="col-lg-7 z-index-2 bg-transparent small-heading" style="height: 466px;">
@@ -1102,13 +998,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/healthcare-assets/side-img-1.jpg?v-2" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/healthcare-assets/xside-img-1.jpg,qv-2.pagespeed.ic.5gb2RiaYKV.webp"
-                        src="<?php echo asset(); ?>images/healthcare-assets/xside-img-1.jpg,qv-2.pagespeed.ic.5gb2RiaYKV.webp"
-                        alt="Healthcare Software Compliances We Follow/Meet"
-                        title="Healthcare Software Compliances We Follow/Meet"
-                        class="ob-cover"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/healthcare-assets/xside-img-1.jpg,qv-2.pagespeed.ic.5gb2RiaYKV.webp" src="<?php echo asset(); ?>images/healthcare-assets/xside-img-1.jpg,qv-2.pagespeed.ic.5gb2RiaYKV.webp" alt="Healthcare Software Compliances We Follow/Meet" title="Healthcare Software Compliances We Follow/Meet" class="ob-cover" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -1140,7 +1030,7 @@
                         <h2 class="section-title-text h1">Empowering Healthcare Sector: Specialized Healthcare Solutions for Clients</h2>
                         <p>
                             We not only limit ourselves to a particular healthcare development; we are well-versed in developing any type of website or application, be it patient-focused, with healthcare professionals in mind, or
-                            considering both. Bacancy always impresses its clients with quality work, versatile developers, and feasible hourly, monthly, or fixed rates.
+                            considering both. KAS Pvt Ltdalways impresses its clients with quality work, versatile developers, and feasible hourly, monthly, or fixed rates.
                         </p>
                     </div>
                 </div>
@@ -1173,7 +1063,7 @@
                 <div class="col-lg-10 mx-auto">
                     <div class="section-title-and-desc text-center">
                         <div class="section-title-block">
-                            <h2 class="section-title-text h1">Healthcare Software Development Timeframe by Bacancy</h2>
+                            <h2 class="section-title-text h1">Healthcare Software Development Timeframe by kasinfotech</h2>
                             <p>Unlike others, we invest little time in development, making the software costly. We have a proper timeline for every software development. Below is a detailed timeline list:</p>
                         </div>
                     </div>
@@ -1183,13 +1073,7 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="price-box position-relative">
                                 <div class="price-box-top bg-white">
-                                    <img
-                                        src="images/healthcare-assets/xtimeframe-ico-1.png,qV-2.pagespeed.ic.kwceGAR615.webp"
-                                        alt="Medical Software Project Initiation Time"
-                                        title=""
-                                        class="position-absolute top-0 left-0 right-0 m-auto"
-                                        style="margin-top: -75px !important;"
-                                    />
+                                    <img src="images/healthcare-assets/xtimeframe-ico-1.png,qV-2.pagespeed.ic.kwceGAR615.webp" alt="Medical Software Project Initiation Time" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -75px !important;" />
                                     <h3 class="form-price-tag-line small-heading text-dark pt-5" style="height: 114px;">
                                         Medical Software Project <br />
                                         Initiation Time
@@ -1203,13 +1087,7 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="price-box position-relative">
                                 <div class="price-box-top bg-white">
-                                    <img
-                                        src="images/healthcare-assets/xtimeframe-ico-2.png,qV-2.pagespeed.ic.5dTzinw3cg.webp"
-                                        alt="MVP Release"
-                                        title=""
-                                        class="position-absolute top-0 left-0 right-0 m-auto"
-                                        style="margin-top: -75px !important;"
-                                    />
+                                    <img src="images/healthcare-assets/xtimeframe-ico-2.png,qV-2.pagespeed.ic.5dTzinw3cg.webp" alt="MVP Release" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -75px !important;" />
                                     <h3 class="form-price-tag-line small-heading text-dark pt-5" style="height: 114px;">MVP Release</h3>
                                 </div>
                                 <div class="price-box-center small-heading-two border-primary border-top bg-white" style="height: 90px;">
@@ -1220,13 +1098,7 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="price-box position-relative">
                                 <div class="price-box-top bg-white">
-                                    <img
-                                        src="images/healthcare-assets/xtimeframe-ico-3.png,qV-2.pagespeed.ic.Ph4sBDtNH0.webp"
-                                        alt="ew Healthcare Software Versions"
-                                        title=""
-                                        class="position-absolute top-0 left-0 right-0 m-auto"
-                                        style="margin-top: -75px !important;"
-                                    />
+                                    <img src="images/healthcare-assets/xtimeframe-ico-3.png,qV-2.pagespeed.ic.Ph4sBDtNH0.webp" alt="ew Healthcare Software Versions" title="" class="position-absolute top-0 left-0 right-0 m-auto" style="margin-top: -75px !important;" />
                                     <h3 class="form-price-tag-line small-heading text-dark pt-5" style="height: 114px;">
                                         New Healthcare Software <br />
                                         Versions
@@ -1254,8 +1126,8 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Why Choose Us for Custom Healthcare Software Development?</h2>
                         <p>
-                            Bacancy has been known to offer affordable rates for custom software development services. And not only affordability but we are also one of the quality and on-time delivery companies. From scalable architecture
-                            to meticulous detailing and managing projects effectively to complying with industry standards, Bacancy can be an investment-worthy partnership.
+                            KAS Pvt Ltdhas been known to offer affordable rates for custom software development services. And not only affordability but we are also one of the quality and on-time delivery companies. From scalable architecture
+                            to meticulous detailing and managing projects effectively to complying with industry standards, KAS Pvt Ltdcan be an investment-worthy partnership.
                         </p>
                     </div>
                 </div>
@@ -1264,13 +1136,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/fintech-developer/side-img-2.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/fintech-developer/side-img-2.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/fintech-developer/xside-img-2.jpg.pagespeed.ic.I7QBQh914E.webp"
-                        src="<?php echo asset(); ?>images/fintech-developer/xside-img-2.jpg.pagespeed.ic.I7QBQh914E.webp"
-                        alt="Why Choose Us for Custom Healthcare Software Development?"
-                        title="Why Choose Us for Custom Healthcare Software Development?"
-                        class="ob-cover"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/fintech-developer/xside-img-2.jpg.pagespeed.ic.I7QBQh914E.webp" src="<?php echo asset(); ?>images/fintech-developer/xside-img-2.jpg.pagespeed.ic.I7QBQh914E.webp" alt="Why Choose Us for Custom Healthcare Software Development?" title="Why Choose Us for Custom Healthcare Software Development?" class="ob-cover" />
                 </picture>
             </div>
             <div class="col-lg-5">
@@ -1307,7 +1173,7 @@
                     <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
                             <a href="#a" itemprop="name" class="">
-                                How does Bacancy reduce healthcare software development costs?
+                                How does KAS Pvt Ltdreduce healthcare software development costs?
                             </a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
@@ -1323,17 +1189,17 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                Bacancy complies with ISO 27001 to ensure top-notch security. Our healthcare clients have never reached out to us with a complaint about security breaches in their systems. And it's not limited to only the
+                                KAS Pvt Ltdcomplies with ISO 27001 to ensure top-notch security. Our healthcare clients have never reached out to us with a complaint about security breaches in their systems. And it's not limited to only the
                                 healthcare vertical; we ensure that any possible security breach is always found in the development stage so that we fix them before making the healthcare product live.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What healthcare software does Bacancy offer?</a>
+                            <a href="#a" itemprop="name">What healthcare software does KAS Pvt Ltdoffer?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Here is the list of healthcare software that Bacancy is capable of building:</p>
+                            <p itemprop="text">Here is the list of healthcare software that KAS Pvt Ltdis capable of building:</p>
                             <ul>
                                 <li>Electronic Health Records (EHRs) &amp; Electronic Medical Records (EMRs)</li>
                                 <li>Patients Portal</li>
@@ -1346,18 +1212,18 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does Bacancy build customized healthcare software?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltdbuild customized healthcare software?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                Yes, we offer customized healthcare solutions from scratch or on demand. Rest assured that you join hands with Bacancy, which has a proven track record of building healthcare solutions that are convenient and
+                                Yes, we offer customized healthcare solutions from scratch or on demand. Rest assured that you join hands with kasinfotech, which has a proven track record of building healthcare solutions that are convenient and
                                 compliant with geographical standards.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does Bacancy build healthcare mobile applications?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltdbuild healthcare mobile applications?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
@@ -1379,7 +1245,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does Bacancy create a prototype of healthcare software?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltdcreate a prototype of healthcare software?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
@@ -1409,17 +1275,12 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp"
-                                src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp"
-                                alt="Top 10 Challenges Faced by Healthcare Service Providers"
-                                title="Top 10 Challenges Faced by Healthcare Service Providers"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" alt="Top 10 Challenges Faced by Healthcare Service Providers" title="Top 10 Challenges Faced by Healthcare Service Providers" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">Top 10 Challenges Faced by Healthcare Service Providers</h3>
-                    <a href="https://www.bacancytechnology.com/blog/top-10-challenges-faced-by-healthcare-service-providers" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/top-10-challenges-faced-by-healthcare-service-providers" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -1428,17 +1289,12 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp"
-                                src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp"
-                                alt="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare"
-                                title="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" alt="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" title="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare</h3>
-                    <a href="https://www.bacancytechnology.com/blog/ai-and-big-data-is-transforming-the-future-of-healthcare" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/ai-and-big-data-is-transforming-the-future-of-healthcare" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
@@ -1447,189 +1303,15 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp"
-                                src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp"
-                                alt="How IoT solutions are changing the face of healthcare industry"
-                                title="How IoT solutions are changing the face of healthcare industry"
-                            />
+                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" alt="How IoT solutions are changing the face of healthcare industry" title="How IoT solutions are changing the face of healthcare industry" />
                         </picture>
                     </figure>
                     <div class="tag">blog</div>
                     <h3 class="small-heading" style="height: 90px;">How IoT solutions are changing the face of healthcare industry</h3>
-                    <a href="https://www.bacancytechnology.com/blog/iot-healthcare-solutions" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
+                    <a href="https://www.kasinfotech.com/blog/iot-healthcare-solutions" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-                    <div class="insight-slider-navigation" id="insight-navigation-block">
-                        <ul class="nav-block">
-                            <li class="nav-item active">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">01</span>
-                                    <span class="text">Top 1% IT Talent</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">02</span>
-                                    <span class="text">Time Zone Aligned</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">03</span>
-                                    <span class="text">Experienced Team</span>
-                                </a>
-                            </li>
-                            <span class="active-line"></span>
-                        </ul>
-                    </div>
-                    <div class="insight-slider-main section-padding-md">
-                        <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                                    <div class="owl-item active" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
-                                                        come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="slider-img"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
-                                                        and collaborate from far away to work according to your time zone, deadline, and milestone.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="slider-img"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We
-                                                        are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-nav">
-                                <button type="button" role="presentation" class="owl-prev disabled">
-                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                                </button>
-                                <button type="button" role="presentation" class="owl-next">
-                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                                </button>
-                            </div>
-                            <div class="owl-dots disabled"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>

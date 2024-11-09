@@ -21,14 +21,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.jpg?v-1" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.jpg?v-1"
-                src="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.jpg?v-1"
-                alt="Custom Mobility Solutions for Transportation and Logistics Industry"
-                title="Custom Mobility Solutions for Transportation and Logistics Industry"
-                data-pagespeed-url-hash="3938479197"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.jpg?v-1" src="<?php echo asset(); ?>images/logistics-mobile-application-development/banner.jpg?v-1" alt="Custom Mobility Solutions for Transportation and Logistics Industry" title="Custom Mobility Solutions for Transportation and Logistics Industry" data-pagespeed-url-hash="3938479197" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container-fluid">
@@ -186,15 +179,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.jpg" type="image/jpeg" />
-            <img
-                data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.jpg"
-                src="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.jpg"
-                alt="Leverage Solutions for Transportation and Logistics Industry"
-                title="Leverage Solutions for Transportation and Logistics Industry"
-                class=""
-                data-pagespeed-url-hash="2449799310"
-                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-            />
+            <img data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.jpg" src="<?php echo asset(); ?>images/logistics-mobile-application-development/form-bg.jpg" alt="Leverage Solutions for Transportation and Logistics Industry" title="Leverage Solutions for Transportation and Logistics Industry" class="" data-pagespeed-url-hash="2449799310" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -207,48 +192,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12">
-                <form action="" class="inquiry-form-block form--square tech-form" id="contactfullForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input
-                                            type="text"
-                                            class="form-control bg-graylight validate-required focus-class"
-                                            id="focus-id"
-                                            maxlength="80"
-                                            name="contactName"
-                                            size="20"
-                                            placeholder="Your Name"
-                                            style="outline: rgb(149, 143, 143) solid 2px;"
-                                        />
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control bg-graylight validate-required" placeholder="Email Address" id="email" maxlength="80" name="contactEmail" size="20" />
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-lg-4">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control bg-graylight validate-required" placeholder="Phone Number" id="phone" maxlength="40" name="contactPhone" size="20" nkeypress="return isNumberKey(event)" />
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control bg-graylight validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <button class="btn btn-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -257,7 +201,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="bg-primary section-padding form-contact text-center">
-                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a>
+                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a>
                     <p class="h3 text-white suce-head">Your Success Is Guaranteed !</p>
                     <p class="text-white text-xxl mb-3">We accelerate the release of digital products and guarantee your success</p>
                     <p class="text-white text-xxl mb-0">We Use <b> Slack, </b> <b> Jira </b> &amp; <b>GitHub</b> for Accurate Deployment and Effective Communication.</p>
@@ -273,15 +217,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.jpg"
-                        src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.jpg"
-                        alt="Make Your Logistics And Transportation Business Smarter, Faster And Even More Profitable "
-                        title="Make Your Logistics And Transportation Business Smarter, Faster And Even More Profitable "
-                        class="w-100"
-                        data-pagespeed-url-hash="145482092"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.jpg" src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-2.jpg" alt="Make Your Logistics And Transportation Business Smarter, Faster And Even More Profitable " title="Make Your Logistics And Transportation Business Smarter, Faster And Even More Profitable " class="w-100" data-pagespeed-url-hash="145482092" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -296,7 +232,7 @@
                     improve ROI and promote operational excellence.
                 </p>
                 <p>
-                    At Bacancy, we strive for developing logistics mobility solutions to assist enterprises to automate their shipping, improve operational excellence, better supply chain visibility, superior on-time delivery and overcome
+                    At kasinfotech, we strive for developing logistics mobility solutions to assist enterprises to automate their shipping, improve operational excellence, better supply chain visibility, superior on-time delivery and overcome
                     every operation hurdle. Our skillful expertise in providing end-to-end IT services and futuristic solutions help the organizations to streamline the functioning of their business.
                 </p>
             </div>
@@ -310,15 +246,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.jpg" type="image/jpeg" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.jpg"
-                        src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.jpg"
-                        alt="Customized Mobile App Solution To Bring Everything Together And Accelerate Innovation "
-                        title="Customized Mobile App Solution To Bring Everything Together And Accelerate Innovation "
-                        class="mb-4 mb-lg-0 w-100"
-                        data-pagespeed-url-hash="4145949467"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.jpg" src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-1.jpg" alt="Customized Mobile App Solution To Bring Everything Together And Accelerate Innovation " title="Customized Mobile App Solution To Bring Everything Together And Accelerate Innovation " class="mb-4 mb-lg-0 w-100" data-pagespeed-url-hash="4145949467" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">
@@ -328,11 +256,11 @@
                     </div>
                 </div>
                 <p>
-                    Bacancy possesses in-depth knowledge and extensive experience in the field transportation and logistics industry. We have the skillful expertise to develop customized logistics service app solutions to address the
+                    KAS Pvt Ltdpossesses in-depth knowledge and extensive experience in the field transportation and logistics industry. We have the skillful expertise to develop customized logistics service app solutions to address the
                     ever-changing requirements of transportation and logistics.
                 </p>
                 <p>
-                    To complement the business requisites and to simplify complex and highly challenging business operations, we design and develop futuristic mobile app solutions that the world admires. Bacancy is geared to simplify your
+                    To complement the business requisites and to simplify complex and highly challenging business operations, we design and develop futuristic mobile app solutions that the world admires. KAS Pvt Ltdis geared to simplify your
                     transportation and logistics industry with a mobile application. Our advanced app solutions are trusted by global retail logistics and transportation services and we have a huge portfolio to develop advanced logistics
                     mobile app solutions.
                 </p>
@@ -348,15 +276,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.png" type="image/png" />
-                    <img
-                        data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.png"
-                        src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.png"
-                        alt="Get Custom Logistics Application Development Solutions"
-                        title="Get Custom Logistics Application Development Solutions"
-                        class="mb-4 mb-md-0"
-                        data-pagespeed-url-hash="440084717"
-                        onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                    />
+                    <img data-src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.png" src="<?php echo asset(); ?>images/logistics-mobile-application-development/side-img-3.png" alt="Get Custom Logistics Application Development Solutions" title="Get Custom Logistics Application Development Solutions" class="mb-4 mb-md-0" data-pagespeed-url-hash="440084717" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-md-6 mobile-spacing">
@@ -408,8 +328,8 @@
                     </div>
                 </div>
                 <p>
-                    Bacancy is geared to simplify your transportation and logistics industry. We are trusted by global retail logistics and transportation services and we have successfully implemented latest technology towards
-                    transportation planning. Explore Bacancy’s specialized and customized logistics and transportation services to focus on your core business operations. We also own special expertise in Mobile apps for Transportation and
+                    KAS Pvt Ltdis geared to simplify your transportation and logistics industry. We are trusted by global retail logistics and transportation services and we have successfully implemented latest technology towards
+                    transportation planning. Explore kasinfotech’s specialized and customized logistics and transportation services to focus on your core business operations. We also own special expertise in Mobile apps for Transportation and
                     Logistics.
                 </p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">Schedule a Developer Interview</a>
@@ -459,14 +379,14 @@
                                 <p>The team and project manager define sprint task and estimate the efforts for the same, in conjunction with the client product manager. Based on task refinements, actual hours may vary.</p>
                                 <strong>Under Client Management:</strong>
                                 <p>
-                                    Teams work allocation is under client project manager, whereas Admin and HR responsibility is with Bacancy. This is like the client’s center, with no infrastructure, licenses, and compliance management
+                                    Teams work allocation is under client project manager, whereas Admin and HR responsibility is with kasinfotech. This is like the client’s center, with no infrastructure, licenses, and compliance management
                                     worries.
                                 </p>
                             </div>
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is Bacancy based in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -495,7 +415,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     We have incredibly talented and seasoned React native developers who have in-depth knowledge and extensive experience in building the next-generation solution with desired features and seamless
-                                    performance. React native developers at Bacancy have an average experience of 4+ years. Hire certified React native developers from us for top-grade react native development services to achieve desired
+                                    performance. React native developers at KAS Pvt Ltdhave an average experience of 4+ years. Hire certified React native developers from us for top-grade react native development services to achieve desired
                                     business results.
                                 </p>
                             </div>
@@ -507,7 +427,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Hire Dedicated Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                    <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> or skype "Bacancy.”
+                                    <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> or skype "kasinfotech.”
                                 </p>
                             </div>
                         </div>
@@ -585,7 +505,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">What is the cost and engagement options available at Bacancy?</a>
+                                <a href="#a" itemprop="name">What is the cost and engagement options available at kasinfotech?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We provide three types of hiring engagement models.</p>
@@ -656,181 +576,4 @@
         </div>
     </div>
 </section>
-<section class="">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
-                    <div class="insight-slider-navigation" id="insight-navigation-block">
-                        <ul class="nav-block">
-                            <li class="nav-item active">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">01</span>
-                                    <span class="text">Top 1% IT Talent</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">02</span>
-                                    <span class="text">Time Zone Aligned</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="javascript:void(0)" class="nav-link text-xxl">
-                                    <span class="slide-number">03</span>
-                                    <span class="text">Experienced Team</span>
-                                </a>
-                            </li>
-                            <span class="active-line"></span>
-                        </ul>
-                    </div>
-                    <div class="insight-slider-main section-padding-md">
-                        <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
-                                    <div class="owl-item active" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-1.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp"
-                                                            alt="Top 1% IT Talent"
-                                                            title="Top 1% IT Talent"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="2883500071"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever
-                                                        come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.webp" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-2.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp"
-                                                            alt="Time Zone Aligned"
-                                                            title="Time Zone Aligned"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3304062408"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us
-                                                        and collaborate from far away to work according to your time zone, deadline, and milestone.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 1296px;">
-                                        <div class="item">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-                                                    <picture>
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.webp" type="image/webp" />
-                                                        <source srcset="<?php echo asset(); ?>images/insight-slide-3.jpg?v-1" type="image/jpeg" />
-                                                        <img
-                                                            data-src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            src="<?php echo asset(); ?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp"
-                                                            alt="Experienced Team"
-                                                            title="Experienced Team"
-                                                            class="slider-img"
-                                                            data-pagespeed-url-hash="3724624745"
-                                                            onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                                                        />
-                                                    </picture>
-                                                </div>
-                                                <div class="col-lg-4 offset-lg-1 col-md-8">
-                                                    <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
-                                                    <p class="text-lg text-secondary">
-                                                        Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We
-                                                        are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-nav">
-                                <button type="button" role="presentation" class="owl-prev disabled">
-                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span>
-                                </button>
-                                <button type="button" role="presentation" class="owl-next">
-                                    <span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span>
-                                </button>
-                            </div>
-                            <div class="owl-dots disabled">
-                                <button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-padding bg-graylight" id="footer-form-id">
-    <div class="container">
-        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
-            <div class="row align-items-lg-baseline">
-                <div class="col-lg-3">
-                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We Help?</h2>
-                </div>
-                <div class="col-lg-9">
-                    <div class="m-0">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" />
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="form-group">
-                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" />
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-12 text-right">
-                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn">inquire now</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-
 <?php include_once('footer.php') ?>
