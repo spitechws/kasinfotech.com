@@ -51,7 +51,7 @@
                                                     <figure class="banner-post-img">
                                                         <picture>
                                                             <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
-                                                            <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
+                                                            <source srcset="<?php echo asset('images/cs-img.jpg'); ?>" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
                                                         </picture>
                                                     </figure>
                                                     <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
@@ -62,7 +62,8 @@
                                                         </div>
                                                         <picture>
                                                             <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
-                                                            <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
+                                                            <source srcset="images/gptw(5).png" type="image/jpeg">
+                                                            <img data-src="<?php echo asset('images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png')?>" src="<?php echo asset('images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png')?>" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
                                                         </picture>
                                                     </div>
                                                 </a>
@@ -129,7 +130,7 @@
                                                 </picture>
                                                 <div class="img-text-inner">
                                                     <p class="text-dark img-text-heading font-bold">Let’s grow together <b class="d-lg-block">Partner with us</b></p>
-                                                    <a href="<?php echo base_url('get-quote') ?>" class="text-uppercase text-primary">get quote<span class="long-arrow-icon-css icon-item right mt-0"></span></a>
+                                                    <a href="<?php echo base_url('get-quote') ?>" class="text-uppercase text-primary">Get Quote<span class="long-arrow-icon-css icon-item right mt-0"></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -140,7 +141,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">technology</a>
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Technology</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
@@ -154,15 +155,15 @@
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-python-developer') ?>">Python</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('android-application-development') ?>">Android</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('automation-testing-services') ?>">Automation Testing</a>
-
-
                                         </div>
                                         <div class="col-lg-3 col-xl-5 d-none d-xl-block">
                                             <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
                                                 <figure class="banner-post-img">
                                                     <picture>
                                                         <source srcset="<?php echo asset('images/banner.webp'); ?>" type="image/webp">
-                                                        <source srcset="images/banner.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" src="images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
+                                                        <source srcset="<?php echo asset('images/banner.jpg') ?>" type="image/jpeg">
+                                                        <img data-src="<?php echo asset('images/header/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp') ?>"
+                                                            src="<?php echo asset('images/xbanner.jpg.pagespeed.ic.TStxzDJ7vj.webp') ?>" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
                                                     </picture>
                                                 </figure>
                                                 <div class="img-text-inner img-text-trans-none">
