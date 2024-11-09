@@ -34,7 +34,7 @@
                         <p>Let’s get together. Rejuvenate our businesses digitally with innovation and technology.</p>
                     </div>
                 </div>
-                <a href="https://www.kasinfotech.com/get-quote" class="btn btn-primary text-uppercase ls-xs mt-lg"><span>Inquire a partnership</span></a>
+                <a href="<?php echo base_url('get-quote'); ?>" class="btn btn-primary text-uppercase ls-xs mt-lg"><span>Inquire a partnership</span></a>
             </div>
         </div>
     </div>
@@ -128,7 +128,7 @@
                             <li>Our partnership focuses on collaborative ventures and investments in tools and tech solutions, and we do not entertain influential partnerships or marketing assistance.</li>
                         </ul>
                     </div>
-                    <a href="https://www.kasinfotech.com/get-quote" class="btn btn-outline-primary text-uppercase ls-xs mt-lg">LET'S discuss</a>
+                    <a href="<?php echo base_url('get-quote'); ?>" class="btn btn-outline-primary text-uppercase ls-xs mt-lg">LET'S discuss</a>
                 </div>
             </div>
         </div>

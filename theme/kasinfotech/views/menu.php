@@ -21,72 +21,68 @@
                 </a>
                 <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
                     <ul class="navbar-nav mr-auto navbar-nav-destop">
+                        <li class="nav-item">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">about us</a>
+                            <ul class="dropdown-menu submenu">
+                                <div class="container-fluid submenu-inner">
+                                    <div class="row">
+                                        <div class="col-lg-2">
+                                            <p class="dropdown-item nav-link font-semibold">Culture</p>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('agile-mindset') ?>">Agile Mindset</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS Pvt Ltd Values</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS Pvt Ltd Culture</a>
+                                        </div>
+                                        <div class="col-lg-2">
+                                            <p class="dropdown-item nav-link font-semibold">About Company</p>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
 
-                        <!-- <li class="nav-item">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">HR Consultancy</a>
-                <ul class="dropdown-menu submenu">
-                    <div class="container-fluid submenu-inner">
-                        <div class="row">
-                            <div class="col-lg-2">
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('organizational-structure') ?>">Organizational Structure</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hr-transformation') ?>">HR transformation</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('lifecycle-management') ?>">Employee Lifecycle Management</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('talent-assessments-and-performance') ?>">Talent Assessments and Performance</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('employee-engagement-surveys') ?>">Employee Engagement Surveys</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('rewards-and-recognition') ?>">Rewards and Recognition</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('workforce-analytics') ?>">Workforce Analytics</a>
-                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-hr-and-process-automation') ?>">Digital HR and Process Automation</a>
-                            </div>
 
-                        </div>
-                    </div>
-                    <?php require('menu_contact_info.php'); ?>
-                </ul>
-            </li> -->
+                                        </div>
+                                        <div class="col-lg-2">
+                                            <p class="dropdown-item nav-link font-semibold"></p>
+
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
+
+                                        </div>
+                                        <div class=" col-lg-3 col-xl d-none d-xl-block">
+                                            <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
+                                                <a href="<?php echo base_url('great-place-to-work') ?>">
+                                                    <figure class="banner-post-img">
+                                                        <picture>
+                                                            <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
+                                                            <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
+                                                        </picture>
+                                                    </figure>
+                                                    <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
+                                                        <div>
+                                                            <p class="font-bold h5">WE ARE</p>
+                                                            <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK<sup class="text-18"></sup></p>
+                                                            <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
+                                                        </div>
+                                                        <picture>
+                                                            <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
+                                                            <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
+                                                        </picture>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <?php require('menu_contact_info.php'); ?>
+                            </ul>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
                                         <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">What We Offer</p>
                                             <?php foreach ($aServiceList->data as $row) : ?>
-                                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('service/' . $row->slug); ?>"><?php echo $row->service_name; ?></a>
+                                                <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('service/' . $row->slug); ?>">
+                                                    <?php echo $row->service_name; ?></a>
                                             <?php endforeach; ?>
-                                        </div>
-
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Innovate</p>
-
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('software-engineering') ?>">Software Engineering</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('web-development-services') ?>">Web Development</a>
-
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-data-scientist') ?>">Data Science</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ai-developer') ?>">Artificial Intelligence</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-ml-developer') ?>">Machine Learning</a>
-                                        </div>
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Accelerate</p>
-
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-process-automation') ?>">Digital Process Automation </a>
-
-                                        </div>
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Assure</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Quality Assurance </a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('it-staff-augmentation-services') ?>">IT Staff Augmentation </a>
-                                        </div>
-
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Experience</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('digital-workplace-services') ?>">Digital Workplace Services</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('product-enhancement') ?>">Product Enhancement</a>
-                                            <p class="dropdown-item nav-link font-semibold">Insights</p>
-
-
-                                            <p class="dropdown-item nav-link font-semibold">SAP Solutions</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('sap-consulting-services') ?>">SAP Consultation</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('services') ?>">Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -142,97 +138,24 @@
                                 <?php require('menu_contact_info.php'); ?>
                             </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">about us</a>
-                            <ul class="dropdown-menu submenu">
-                                <div class="container-fluid submenu-inner">
-                                    <div class="row">
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">Culture</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('agile-mindset') ?>">Agile Mindset</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-values') ?>">KAS Pvt Ltd Values</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('kas-pvt-ltd-culture') ?>">KAS Pvt Ltd Culture</a>
-                                        </div>
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold">About Company</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('about-us') ?>">About Us</a>
 
-
-                                        </div>
-                                        <div class="col-lg-2">
-                                            <p class="dropdown-item nav-link font-semibold"></p>
-
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('locations') ?>">Our Locations</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('partnership') ?>">Partnership</a>
-
-                                        </div>
-                                        <div class=" col-lg-3 col-xl d-none d-xl-block">
-                                            <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
-                                                <a href="<?php echo base_url('great-place-to-work') ?>">
-                                                    <figure class="banner-post-img">
-                                                        <picture>
-                                                            <source srcset="<?php echo asset('images/cs-img.webp'); ?>" type="image/webp">
-                                                            <source srcset="images/cs-img.jpg" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" src="images/xcs-img.jpg.pagespeed.ic.rnWRlRSD0j.webp" alt="KAS Pvt Ltd " title="KAS Pvt Ltd ">
-                                                        </picture>
-                                                    </figure>
-                                                    <div class="img-text-inner img-text-trans-none w-100 d-flex justify-content-between align-items-center">
-                                                        <div>
-                                                            <p class="font-bold h5">WE ARE</p>
-                                                            <p class="text-dark img-text-heading font-bold">GREAT PLACE TO WORK<sup class="text-18"></sup></p>
-                                                            <p class="text-18">Building and sustaining High-Trust, High-Performance Culture<sup class="text-sm">TM</sup></p>
-                                                        </div>
-                                                        <picture>
-                                                            <source srcset="<?php echo asset('images/gptw(5).png'); ?>" type="image/webp">
-                                                            <source srcset="images/gptw(5).png" type="image/jpeg"><img data-src="https://kasinfotech.com/main-boot-5/images/header/xgptw.png,qv-3.pagespeed.ic._V8cEQRcAj.png" src="images/xgptw.png%2Cqv-3.pagespeed.ic._V8cEQRcAj.png" alt="KAS Pvt Ltd  Great Place to Work" title="KAS Pvt Ltd  Great Place to Work">
-                                                        </picture>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <?php require('menu_contact_info.php'); ?>
-                            </ul>
-                        </li>
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">technology</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
                                         <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Front End</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('angular-js-development') ?>">Angular</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-reactjs-developer') ?>">Reactjs</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-vuejs-developer') ?>">Vue.js</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ui-ux-enhancement-service') ?>">UI/UX</a>
-                                            <p class="dropdown-item nav-link font-semibold">Platforms</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-microsoft-dynamics-365-developer') ?>">MS Dynamics</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-salesforce-developer') ?>">Salesforce</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Back End</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ruby-on-rails-development') ?>">Ruby on Rails</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-node-developer') ?>">Node.js</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-golang-developer') ?>">Golang</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-php-developer') ?>">PHP</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-laravel-developer') ?>">Laravel</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-dot-net-developer') ?>">.NET</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-spring-boot-developer') ?>">Java </a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-python-developer') ?>">Python</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Mobile</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-react-native-developer') ?>">React Native</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-flutter-developer') ?>">Flutter</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('android-application-development') ?>">Android</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('mobile-app-development') ?>">iOS</a>
-                                            <p class="dropdown-item nav-link font-semibold">Cloud</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('aws-cloud-consulting-services') ?>">AWS</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-devops-developers') ?>">DevOps</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">QA</p>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('automation-testing-services') ?>">Automation Testing</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Software Testing </a>
+
+
                                         </div>
                                         <div class="col-lg-3 col-xl-5 d-none d-xl-block">
                                             <div class="img-text position-relative banner-post h-100 d-flex align-items-end">

@@ -32,7 +32,16 @@
                         <h1 class="section-title-text h1-xl lh-normal text-white">SAP Consulting Services</h1>
                         <p class="text-white mb-lg">Leverage our Expertise with the Ultimate ERP platform to build your World-class Enterprise Solution</p>
                         <p class="text-white font-bold">Save up to 40% on Maintenance/Support Cost</p>
-                        
+                        <form class="m-0 emailFormbanner_org" id="emailFormbanner" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
+                            <div class="row gx-0 mt-lg gy-md-0 gy-4">
+                                <div class="form-group small-heading-two mb-0 col-md-6" style="height: 45.6px;">
+                                    <input type="text" class="form-control rounded-0 h-100 bg-white" placeholder="Email Address" id="email" maxlength="80" name="contactEmailHD" size="20" fdprocessedid="h9mdob">
+                                </div>
+                                <div class="form-group small-heading-two mb-0 col-md-6" style="height: 45.6px;">
+                                    <button class="btn btn-primary text-uppercase ls-xs h-100 px-3" name="contactBtn" fdprocessedid="5rhj0f">inquire now</button>
+                                </div>
+                            </div>
+                        </form>
                     </div>
                 </div>
                 <div class="row gy-4 mt-0 justify-content-center text-white-all align-items-center">
@@ -388,7 +397,7 @@
                         <source srcset="<?php echo asset();?>images/icon-11bag.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-11bag.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-1.png.pagespeed.ic.CkRWZwDiWS.webp" src="<?php echo asset();?>images/xicon-1.png.pagespeed.ic.CkRWZwDiWS.webp" alt="11+ Years of Experience" title="11+ Years of Experience" class="mb-lg" data-pagespeed-url-hash="3039835708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">7+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">12+</h3>
                     <p class="small-heading-two" style="height: 30px;">Years of Experience</p>
                 </div>
             </div>
@@ -398,7 +407,7 @@
                         <source srcset="<?php echo asset();?>images/icon-21.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-21.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-2.png.pagespeed.ic.hGdtRuuiPv.webp" src="<?php echo asset();?>images/xicon-2.png.pagespeed.ic.hGdtRuuiPv.webp" alt="1050+ Agile Employees" title="1050+ Agile Employees" class="mb-lg" data-pagespeed-url-hash="3334335629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">50+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">1050+</h3>
                     <p class="small-heading-two" style="height: 30px;">Agile Employees</p>
                 </div>
             </div>
@@ -418,7 +427,7 @@
                         <source srcset="<?php echo asset();?>images/icon-41.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-41.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-4.png.pagespeed.ic.ICMaiiD9AI.webp" src="<?php echo asset();?>images/xicon-4.png.pagespeed.ic.ICMaiiD9AI.webp" alt="100+ Clients Projects" title="100+ Clients Projects" class="mb-lg" data-pagespeed-url-hash="3923335471" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">200+</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">100+</h3>
                     <p class="small-heading-two" style="height: 30px;">Clients Projects</p>
                 </div>
             </div>
@@ -438,7 +447,7 @@
                         <source srcset="<?php echo asset();?>images/icon-61.webp" type="image/webp">
                         <source srcset="<?php echo asset();?>images/icon-61.png" type="image/png"><img data-src="<?php echo asset();?>images/xicon-6.png.pagespeed.ic.EEaXoygwa0.webp" src="<?php echo asset();?>images/xicon-6.png.pagespeed.ic.EEaXoygwa0.webp" alt="6+ Global Offices" title="6+ Global Offices" class="mb-lg" data-pagespeed-url-hash="217368017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                     </picture>
-                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">04</h3>
+                    <h3 class="h3 font-bold mb-sm small-heading" style="height: 45px;">06</h3>
                     <p class="small-heading-two" style="height: 60px;">Global Offices</p>
                 </div>
             </div>
@@ -465,4 +474,142 @@
         </div>
     </div>
 </section>
+<section class="">
+    <div class="container">
+        <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
+            <div class="insight-slider-navigation" id="insight-navigation-block">
+                <ul class="nav-block">
+                    <li class="nav-item active">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">01</span>
+                            <span class="text">Top 1% IT Talent</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">02</span>
+                            <span class="text">Time Zone Aligned</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:void(0)" class="nav-link text-xxl">
+                            <span class="slide-number">03</span>
+                            <span class="text">Experienced Team</span>
+                        </a>
+                    </li>
+                    <span class="active-line"></span>
+                </ul>
+            </div>
+            <div class="insight-slider-main section-padding-md ">
+                <div class="owl-carousel owl-nav-top-right owl-loaded owl-drag" id="insight-owl-carousel" data-sync="#insight-navigation-block">
+
+
+
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3888px;">
+                            <div class="owl-item active" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" src="<?php echo asset();?>images/xinsight-slide-1.jpg,qv-1.pagespeed.ic._FQ1OEjjc1.webp" alt="Top 1% IT Talent" title="Top 1% IT Talent" class="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
+                                            <p class="text-lg text-secondary    ">KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.webp" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-2.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" src="<?php echo asset();?>images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.vEG9u-JiPl.webp" alt="Time Zone Aligned" title="Time Zone Aligned" class="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
+                                            <p class="text-lg text-secondary">Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and collaborate from far away to work according to your time zone, deadline, and milestone.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 1296px;">
+                                <div class="item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
+                                            <picture>
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.webp" type="image/webp">
+                                                <source srcset="<?php echo asset();?>images/insight-slide-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" src="<?php echo asset();?>images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zwTqXmxv14.webp" alt="Experienced Team" title="Experienced Team" class="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                                            </picture>
+                                        </div>
+                                        <div class="col-lg-4 offset-lg-1 col-md-8">
+                                            <h4 class="h3 slider-title font-semibold">Experienced Team</h4>
+                                            <p class="text-lg text-secondary    ">Whether you are looking for skilled developers in emerging technologies or looking for an extended arm to augment your existing team, we can lend a helping hand in both situations. We are a full-stack software development company with 650+ skilled and experienced software developers whom you can hire at your convenience to address ongoing business challenges.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled" fdprocessedid="qnnyb"><span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item icon-left"></span></span></button><button type="button" role="presentation" class="owl-next" fdprocessedid="hynulf"><span class="long-arrow-hover"><span class="long-arrow-icon-css icon-item"></span></span></button></div>
+                    <div class="owl-dots disabled"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-padding bg-graylight" id="footer-form-id">
+    <div class="container">
+        <form action="" class="inquiry-form-block form--square" id="contactForm" data-success="Thanks for your enquiry, we'll be in touch soon" data-error="Please fill all required fields" novalidate="novalidate">
+            <div class="row align-items-lg-baseline">
+                <div class="col-lg-3">
+                    <h2 class="h1 font-semibold form-group mb-lg-0">How Can We
+                        Help?
+                    </h2>
+                </div>
+                <div class="col-lg-9">
+                    <div class="m-0">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" name="contactName" placeholder="Full Name" fdprocessedid="3g576w">
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" placeholder="Email" name="contactEmail" fdprocessedid="hjphhl">
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control validate-required" placeholder="Phone Number" name="contactPhone" nkeypress="return isNumberKey(event)" fdprocessedid="zm8e0z">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea class="form-control validate-required" rows="3" placeholder="Describe Your Requirements" name="contactMessage"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-12 text-right">
+                                <button class="btn btn-outline-primary text-uppercase ls-xs" name="contactBtn" fdprocessedid="mnpj4l">inquire now</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+
+
 <?php include_once('footer.php') ?>
