@@ -229,9 +229,9 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <picture>
-                                    <source srcset="<?php echo asset('images/gptw_1.webp'); ?>" type="image/webp">
-                                    <source srcset="<?php echo asset('images/gptw_1.webp'); ?>" type="image/jpeg">
-                                    <img data-src="<?php echo asset('images/gptw_1.webp'); ?>" src="<?php echo asset('images/gptw_1.webp'); ?>" alt="Great Place to Work" title="Great Place to Work" class="lazy d-block w-100">
+                                    <source srcset="<?php echo asset('images/gptw_1.png'); ?>" type="image/webp">
+                                    <source srcset="<?php echo asset('images/gptw_1.png'); ?>" type="image/jpeg">
+                                    <img data-src="<?php echo asset('images/gptw_1.png'); ?>" src="<?php echo asset('images/gptw_1.png'); ?>" alt="" title="" class="lazy d-block w-100">
                                 </picture>
                             </div>
                             <div class="carousel-item ">
