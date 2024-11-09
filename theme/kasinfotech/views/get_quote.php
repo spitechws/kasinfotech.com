@@ -43,10 +43,10 @@
                                                 <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
                                                     <option value="">Select Service</option>
                                                     <?php
-                                                    if (!empty($aService)) {
-                                                        foreach ($aService as $row) {
+                                                    if (!empty($aServiceList->data)) {
+                                                        foreach ($aServiceList->data as $row) {
                                                     ?>
-                                                            <option value="<?php echo $row->id ?>"><?php echo $row->name ?></option>
+                                                            <option value="<?php echo $row->id ?>"><?php echo $row->service_name ?></option>
                                                     <?php
                                                         }
                                                     }
