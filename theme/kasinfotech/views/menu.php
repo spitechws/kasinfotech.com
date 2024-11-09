@@ -21,7 +21,7 @@
                 </a>
                 <div class="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
                     <ul class="navbar-nav mr-auto navbar-nav-destop">
-                    <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">about us</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
@@ -78,12 +78,12 @@
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
-                                        <div class="col-lg-2">                                            
+                                        <div class="col-lg-2">
                                             <?php foreach ($aServiceList->data as $row) : ?>
                                                 <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('service/' . $row->slug); ?>">
                                                     <?php echo $row->service_name; ?></a>
                                             <?php endforeach; ?>
-                                        </div>                                       
+                                        </div>
                                     </div>
                                 </div>
                                 <?php require('menu_contact_info.php'); ?>
@@ -138,46 +138,24 @@
                                 <?php require('menu_contact_info.php'); ?>
                             </ul>
                         </li>
-                      
+
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">technology</a>
                             <ul class="dropdown-menu submenu">
                                 <div class="container-fluid submenu-inner">
                                     <div class="row">
                                         <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Front End</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('angular-js-development') ?>">Angular</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-reactjs-developer') ?>">Reactjs</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-vuejs-developer') ?>">Vue.js</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ui-ux-enhancement-service') ?>">UI/UX</a>
-                                            <p class="dropdown-item nav-link font-semibold">Platforms</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-microsoft-dynamics-365-developer') ?>">MS Dynamics</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-salesforce-developer') ?>">Salesforce</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Back End</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('ruby-on-rails-development') ?>">Ruby on Rails</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-node-developer') ?>">Node.js</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-golang-developer') ?>">Golang</a>
+                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-php-developer') ?>">PHP</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-laravel-developer') ?>">Laravel</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-dot-net-developer') ?>">.NET</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-spring-boot-developer') ?>">Java </a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-python-developer') ?>">Python</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">Mobile</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-react-native-developer') ?>">React Native</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-flutter-developer') ?>">Flutter</a>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('android-application-development') ?>">Android</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('mobile-app-development') ?>">iOS</a>
-                                            <p class="dropdown-item nav-link font-semibold">Cloud</p>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('aws-cloud-consulting-services') ?>">AWS</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('hire-devops-developers') ?>">DevOps</a>
-                                        </div>
-                                        <div class="col-lg-3 col-xl">
-                                            <p class="dropdown-item nav-link font-semibold">QA</p>
                                             <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('automation-testing-services') ?>">Automation Testing</a>
-                                            <a class="dropdown-item nav-link p text-secondary" href="<?php echo base_url('quality-assurance-testing-services') ?>">Software Testing </a>
+
+
                                         </div>
                                         <div class="col-lg-3 col-xl-5 d-none d-xl-block">
                                             <div class="img-text position-relative banner-post h-100 d-flex align-items-end">
