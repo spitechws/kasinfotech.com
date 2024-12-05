@@ -43,7 +43,7 @@
                         </p>
                     </div>
                 </div>
-                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Consultation</a>
             </div>
         </div>
     </div>

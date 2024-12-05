@@ -224,7 +224,7 @@
                             <b>Dynamics 365 developer</b> serves you to define, design, and successfully transition your organization in the following key areas:
                         </p>
                         <div class="resp-btn">
-                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-md-0">Request A Free Consultation</a>
+                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-md-0">Request A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -433,7 +433,7 @@
                         </tr>
                         <tr>
                             <td>SDK</td>
-                            <td><span>Microsoft Dynamics 2011</span> <span>Microsoft Dynamics 2013</span><span>Microsoft Dynamics 2015</span><span>Microsoft Dynamics 2016</span></td>
+                            <td><span>Microsoft Dynamics 2017</span> <span>Microsoft Dynamics 2013</span><span>Microsoft Dynamics 2015</span><span>Microsoft Dynamics 2016</span></td>
                         </tr>
                         <tr>
                             <td>Communication Tools</td>
@@ -776,9 +776,9 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
-                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2017" title="In Business Since 2017" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
-                <p>In Business Since 2011</p>
+                <p>In Business Since 2017</p>
             </div>
             <div class="col mb-0">
                 <picture>

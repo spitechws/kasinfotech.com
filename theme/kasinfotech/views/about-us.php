@@ -145,10 +145,10 @@
         <div class="row align-items-center">
             <div class="col-md-5 d-lg-flex align-items-lg-end text-center mt-5 mt-lg-0">
                 <picture>
-                    <img src="<?php echo asset(); ?>images/about-us/cp-image.webp" alt="Chandresh Patel" title="Chandresh Patel" class="cp-img d-none d-lg-block" />
+                    <!-- <img src="<?php echo asset(); ?>images/logo-white.png" alt="KAS Infotech" title="Chandresh Patel" class="logo-img logo-white-none d-lg-block" /> -->
                 </picture>
                 <picture>
-                    <img src="<?php echo asset(); ?>images/about-us/resp-img.webp" alt="Chandresh Patel" title="Chandresh Patel" class="cp-img d-lg-none" />
+                    <img src="<?php echo asset(); ?>images/logo-white.png" alt="KAS Infotech" title="KAS Infotech" class="logo-img logo-white-none d-lg-block" />
                 </picture>
             </div>
             <div class="col-md-7 abt-cp-contain">
@@ -156,8 +156,8 @@
                     <use xlink:href="#double-quote"></use>
                 </svg>
                 <h2 class="abt-text h2">We partner with all the shapes and sizes of clients across the globe to build top-notch digital products that are used by millions of people around the world. Our heart beats for diversity.</h2>
-                <h6 class="text-white font-semibold text-small-headin">Chandresh Patel</h6>
-                <p class="text-primary text-posti">M. D. &amp; Agile Coach | India</p>
+                <h6 class="text-white font-semibold text-small-headin">Arjun</h6>
+              
             </div>
         </div>
     </div>
@@ -173,8 +173,8 @@
                     Without a doubt, you can rely on our talented pool of network – a team of certified Scrums Masters, UI and UX experts, product developers, and strategists who are always ready to lend a helping hand to emerge you as a
                     winner of today and tomorrow.
                 </h2>
-                <ul class="section-padding pb-0">
-                    <li class="text-left">
+                <!-- <ul class="section-padding pb-0"> -->
+                    <!-- <li class="text-left">
                         <h5 class="font-semibold">
                             Read our <br />
                             reviews on:
@@ -209,8 +209,8 @@
                                 <img src="<?php echo asset(); ?>images/about-us/clutch-review.webp" alt="clutch-review" title="clutch-review" class="" />
                             </picture>
                         </a>
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                         <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/firms.webp" alt="goodfirms-review" title="goodfirms-review" class="" />
@@ -222,7 +222,7 @@
                             </picture>
                         </a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </div>

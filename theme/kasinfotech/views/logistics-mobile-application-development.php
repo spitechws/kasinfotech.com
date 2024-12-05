@@ -111,7 +111,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Leverage Our Logistics Services</h2>
                         <div class="resp-btn">
-                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request a free consultation</a>
+                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request A Consultation</a>
                         </div>
                     </div>
                 </div>

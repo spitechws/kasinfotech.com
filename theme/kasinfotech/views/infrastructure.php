@@ -2228,7 +2228,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/infrastructure/device-3.jpg" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2011524992" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" src="<?php echo asset(); ?>images/infrastructure/device-3.jpg" alt="Our Office" title="Our Office" class="d-block w-100" data-pagespeed-url-hash="2017524992" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                         </div>
                         <div class="carousel-item active">

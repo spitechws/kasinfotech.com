@@ -35,11 +35,11 @@
                             <p>Certified Scrum Masters</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">200+</h3>
+                            <h3 class="font-bold mb-2">20+</h3>
                             <p>Clients projects</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">700+</h3>
+                            <h3 class="font-bold mb-2">70+</h3>
                             <p>Happy customers</p>
                         </div>
                     </div>

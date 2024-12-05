@@ -24,7 +24,7 @@
                     <div class="section-title-block ">
                         <h1 class="section-title-text h1-xl m-0">IoT Application Development Company and Consulting Services</h1>
                         <p class="awards__banner-subtitle h3">Improve Business Productivity and Efficiency using our high-end IoT professional services</p>
-                        <a href="#form" class="btn btn-primary text-uppercase ls-xs">Request A Free Consultation</a>
+                        <a href="#form" class="btn btn-primary text-uppercase ls-xs">Request A Consultation</a>
                     </div>
                 </div>
             </div>

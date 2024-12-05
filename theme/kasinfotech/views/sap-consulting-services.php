@@ -330,7 +330,7 @@
                 </div>
             </div>
             <div class="col-12 text-center">
-                <a href="contactus" class="btn btn-outline-primary ls-xs text-uppercase">Request a Free Consultation</a>
+                <a href="contactus" class="btn btn-outline-primary ls-xs text-uppercase">Request A Consultation</a>
             </div>
         </div>
     </div>

@@ -23,7 +23,7 @@
                 <div class="section-title-and-desc m-0">
                     <div class="section-title-block section-padding">
                         <h1 class="section-title-text h1-xl m-0">Software Engineering Services </h1>
-                        <p class="career__banner-subtitle h3 ">Since 2011, KAS is building
+                        <p class="career__banner-subtitle h3 ">Since 2017, KAS is building
                             impactful software solutions for SMBS, startups, and leading enterprises with Agility,
                             speed, and scale. Leverage our unique software engineering services, to prosper in the
                             midst of fierce competition. </p>
@@ -123,7 +123,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg"> Time-Tested Software Engineering Services</h2>
                         <div class="resp-btn">
-                            <a href="#footer-form-id" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request a free consultation</a>
+                            <a href="#footer-form-id" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request A Consultation</a>
                         </div>
                     </div>
                 </div>

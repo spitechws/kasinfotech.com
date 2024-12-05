@@ -942,9 +942,9 @@
             <div class="col">
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp">
-                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2011" title="In Business Since 2011" class=" mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2017" title="In Business Since 2017" class=" mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </picture>
-                <p>In Business Since 2011</p>
+                <p>In Business Since 2017</p>
             </div>
             <div class="col mb-0">
                 <picture>

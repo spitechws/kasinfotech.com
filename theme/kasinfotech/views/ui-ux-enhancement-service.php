@@ -31,7 +31,7 @@
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl">UX/UI Design and Development Services</h1>
                         <p class="text-xxl">Creating visually compelling, highly intuitive and optimal designs with the end-user in mind to captivate your audience and convert them into potential customers.</p>
-                        <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-5">Request a Free Consultation</a>
+                        <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-5">Request A Consultation</a>
                     </div>
                 </div>
             </div>

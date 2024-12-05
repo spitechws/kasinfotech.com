@@ -209,7 +209,7 @@
                             practices to scale up your business and bring the best of both worlds. <i>Hire DevOps engineer</i> to bridge the DevOps gap.
                         </p>
                         <div class="resp-btn overflow-hidden">
-                            <a href="#form" class="btn btn-outline-primary text-uppercase mt-4 mt-lg-5 ls-xs">Request a Free Consultation</a>
+                            <a href="#form" class="btn btn-outline-primary text-uppercase mt-4 mt-lg-5 ls-xs">Request A Consultation</a>
                         </div>
                     </div>
                 </div>

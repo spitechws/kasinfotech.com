@@ -24,7 +24,7 @@
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl m-0">Product Enhancement Services</h1>
                         <p class="awards__banner-subtitle h3">Seize the opportunity to make your product stand out. We enable our clients to innovate faster, by ensuring accessibility, agility and accountability to satisfy ever-changing market needs.</p>
-                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ">Request A Free Consultation</a>
+                        <a href="<?php echo base_url('get-quote') ?>" class="btn btn-primary text-uppercase ">Request A Consultation</a>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                         <h2 class="section-title-text h1 mb-lg">Our Product Enhancement Services</h2>
                         <p>KAS delivers its finest application enhancement services for Software applications, Android/iOS/Hybrid Mobile Applications, and Web Applications.</p>
                         <div class="resp-btn overflow-hidden mt-4 mb-lg-0">
-                            <a href="#form" class="btn btn-primary text-uppercase">Request A Free Consultation</a>
+                            <a href="#form" class="btn btn-primary text-uppercase">Request A Consultation</a>
                         </div>
                     </div>
                 </div>

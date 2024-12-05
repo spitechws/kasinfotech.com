@@ -34,7 +34,7 @@
                             Developing solutions for validating your MVP product and it’s viability with our MVP development services. Optimize your path to a successful market-worthy minimum viable product partnering with a prominent MVP
                             development company.
                         </p>
-                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request a Free Consultation</a>
+                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request A Consultation</a>
                     </div>
                 </div>
             </div>
