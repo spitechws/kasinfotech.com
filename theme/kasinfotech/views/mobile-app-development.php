@@ -1076,57 +1076,7 @@
 </section>
 <section class="blog-outer section-padding section-padding-bottom pb-0">
     <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp" src="<?php echo asset(); ?>images/mobile-app-development/xblog-1.jpg,qv-1.pagespeed.ic.advL9nq7ua.webp" alt="Hire Ionic Developer to Build Cross-platform, Feature-rich, and most advanced hybrid application Faster Than Ever Before" title="Hire Ionic Developer to Build Cross-platform, Feature-rich, and most advanced hybrid application Faster Than Ever Before" class="lazy" data-pagespeed-url-hash="3722839488" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Hire Ionic Developer to Build Cross-platform, Feature-rich, and most advanced hybrid application Faster Than Ever Before</h3>
-                    <a href="https://www.kasinfotech.com/blog/ionic-framework-is-an-ideal-choice-for-hybrid-app-development-in-2020" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp" src="<?php echo asset(); ?>images/mobile-app-development/xblog-2.jpg,qv-1.pagespeed.ic.28h3Mk4SPa.webp" alt="Getting Started with SwiftUI: A Comprehensive Guideline to Build A Form UI for iPhone Apps" title="Getting Started with SwiftUI: A Comprehensive Guideline to Build A Form UI for iPhone Apps" class="lazy" data-pagespeed-url-hash="4143401825" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Getting Started with SwiftUI: A Comprehensive Guideline to Build A Form UI for iPhone Apps</h3>
-                    <a href="https://www.kasinfotech.com/blog/getting-started-with-swiftui" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mobile-app-development/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp" src="<?php echo asset(); ?>images/mobile-app-development/xblog-3.jpg,qv-1.pagespeed.ic.HqQgquW1Wg.webp" alt="12 Simple Steps to Prepare your iOS App for Development and Distribution" title="12 Simple Steps to Prepare your iOS App for Development and Distribution" class="lazy" data-pagespeed-url-hash="268996866" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">12 Simple Steps to Prepare your iOS App for Development and Distribution</h3>
-                    <a href="https://www.kasinfotech.com/blog/prepare-your-ios-app-for-development-and-distribution" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
+       
     </div>
 </section>
 <?php include_once('footer.php') ?>

@@ -1388,56 +1388,11 @@
 </section>
 <section class="blog-outer section-padding pb-0">
     <div class="container">
-        <div class="row justify-content-md-center">
+<div class="row justify-content-md-center">
             <div class="col-12 text-center">
                 <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" alt="Here’s How to Dockerize React App [Containerize React App]" title="Here’s How to Dockerize React App [Containerize React App]" class="" data-pagespeed-url-hash="3646409457" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Here’s How to Dockerize React App [Containerize React App]</h3>
-                    <a href="https://www.kasinfotech.com/blog/dockerize-react-app" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" alt="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" title="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" class="" data-pagespeed-url-hash="4066971794" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">ReactJS for Dashboards and Data Visualization: An Exceptional Choice</h3>
-                    <a href="https://www.kasinfotech.com/blog/reactjs-for-dashboards-and-data-visualization" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" alt="A Comprehensive Guide on Developing Responsive and Common React Filter Component" title="A Comprehensive Guide on Developing Responsive and Common React Filter Component" class="" data-pagespeed-url-hash="192566835" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">A Comprehensive Guide on Developing Responsive and Common React Filter Component</h3>
-                    <a href="https://www.kasinfotech.com/blog/developing-responsive-and-common-react-filter-component" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
+                    
+                   
         </div>
     </div>
 </section>

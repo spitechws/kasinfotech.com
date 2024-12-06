@@ -2133,7 +2133,7 @@
                     </div>
                     <ul class="text-18 text-secondary style-check">
                         <li>Over 19,000 Sq. Ft of state-of-the-art development center</li>
-                        <li>Currently housing team of 400+ Bacancyers</li>
+                        <li>Currently housing team of 400+ KASers</li>
                         <li>Expandable capacity of 1050+ employees</li>
                         <li>Open seating for cross team collaboration</li>
                         <li>Green energy conservation systems</li>

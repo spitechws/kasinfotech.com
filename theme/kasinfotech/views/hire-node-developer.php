@@ -1131,58 +1131,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding section-padding-bottom pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" alt="How to Build Secure Node.js Rest APIs in 05 Minutes" title="How to Build Secure Node.js Rest APIs in 05 Minutes" class="lazy" data-pagespeed-url-hash="263965492" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How to Build Secure Node.js Rest APIs in 05 Minutes</h3>
-                    <a href="https://www.kasinfotech.com/blog/how-to-build-nodejs-rest-apis" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" alt="What’s New in Node v16? (Highlights of Node.js 16 Features)" title="What’s New in Node v16? (Highlights of Node.js 16 Features)" class="lazy" data-pagespeed-url-hash="684527829" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">What’s New in Node v16? (Highlights of Node.js 16 Features)</h3>
-                    <a href="https://www.kasinfotech.com/blog/node-js-16-features" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" alt="Node.js is First and Foremost Choice for Building an eCommerce Application" title="Node.js is First and Foremost Choice for Building an eCommerce Application" class="lazy" data-pagespeed-url-hash="1105090166" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Node.js is First and Foremost Choice for Building an eCommerce Application</h3>
-                    <a href="https://www.kasinfotech.com/blog/nodejs-is-first-choice-for-building-an-ecommerce-application" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

@@ -545,56 +545,7 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-1.webp" type="image/webp">
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-1.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/iot-application-development/xblog-1.jpg,qv-1.pagespeed.ic.rI2kncynK_.webp" src="<?php echo asset(); ?>images/iot-application-development/xblog-1.jpg,qv-1.pagespeed.ic.rI2kncynK_.webp" alt="Top 08 IoT Trends to Watch Out in 2020 (Top IoT Trends + Digital Transformation = Drive Innovation in Your Business)" title="Top 08 IoT Trends to Watch Out in 2020 (Top IoT Trends + Digital Transformation = Drive Innovation in Your Business)" class="" data-pagespeed-url-hash="665706683" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Top 08 IoT Trends to Watch Out in 2020 (Top IoT Trends + Digital Transformation = Drive Innovation in Your Business)</h3>
-                    <a href="<?php echo asset(); ?>blog/top-8-iot-trends-innovation-in-business" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-2.webp" type="image/webp">
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-2.jpg?v-1" type="image/jpeg"><img data-src="data:image/webp;base64,UklGRowFAABXRUJQVlA4IIAFAABwNgCdASrCAREBPplMoE0lpCaioPkoyNATCWlu64Kl/4UAK8IiSB0C3v/aR/xGVgDh/r3e+vA8p8Fu5XeyZEIq314HlprvfZIeomjjDUYTykp6qKt9kyIqSoXNWmvA8s6QEwKjPEh8IHGPFQP2RzQPpwsQD3Y4HSc4huUglLoz5ILY8iioLof/e8CHyYQlWVOGyehNuiDkhRJXKk8Zc8DajFzVprs8oooXRw64Jm7atkCw97bmLRvTKf3CWQtEly4YzTIm4QuZdl//0oD/0G/GGoUp3nI/0A24PT4nzlSiF/IRUiVFXfzE0DzBMqhozVS/40rvKkNRP3PN6UTgu5kK3JNN0/ilfPIaSHpbFpLQPRoHptIL5851cK5geWmvA8tNdbUFTgW8ImlI/7MTRxi4sdrbwPLTAqDhPdCzDSzy014HlprsPRxiz1D9HGY3YxwoH14GoNL2PMpLhl/Q1iPnmsvO0EkaOMWbPGlPa51GNP/A6ER9Rv2MRNHGLmrTXYC1wzRxi5vbSoDy01zdMGcRPQDuUZje+vA9TTy014Hlpq2+uYWmvA8tnUHlprwPLTXgeWmvA8tNeB5aasAA/vnS7/9Xfez6nvY/4dzfr0yoG9A1TQaBl4obCcVCcbPwwt9fMrMyPp0BW190xNEsh8kwaAnM4Uq9DgEDTYY6LsLbyUFSC/oY/Ar0Cp4c10AD9sIc57us17S2/jcHNfqEEpyClBs1A/9wvk0NWAJ9pQbq5yEcnyA5ehH79oVF0XY3Mm7bvSlsIbrx90ROOx62GQRUx471YZGFaW3z0WjGwIY4rHShGEZR0NiAgteiFD6uL3aUvUT2zXhknCVSmyfgPB6UF1ZL9D9FsFiUyUv2E9alS2SMyKwx4iYjvt/YLfxi2JMoWLpVlnK4wIJYjo1/eZ+qSqWc0y/etfsmgSZ9pIBb9tTHOeiELY4UJwLGBBIjtvjvQ8/kQLjIizzHbujgnFIdPQpAtKMVop05LyZn9xeMwE8vDelUGh7spSyFs36GendYekkwFpcHUl7AEGzDLdYzpUGVmkuq1vNeHLx/LkxpAeBdf8N+wWL2akLgfEHkAuWvqvWWOlngnnBmDxES21C9BtSYH/QLXnNqsXVbXbU6ycy8B2tRON9q6YzEjFiCaqDtaCzzNbSlIyaVebLAaXDkN6MGDpU9elIwa5AVY2vUwUESMjFSS5P2yr7QKNiAPF80NedpMiUehjXG6xbXSw3YGrv+fpuDI8TKnwd2wWeRhx2cG5fMQcs/+6n4G+nbvsrxp0eaMJAOhHTFNNbX+5LO4s/WJKF+qVZxgbdp01ppjZ4MMjCo4qNDiWfYhSNBrow10+Fpv7JfAvoFn2SSrjvPk5BudYw3Dgeb4WoGcaxp/kVOScl2lPFGLdMOp60jBfW5qp7iQ5/BS/89bQ6z2u5uxk3UaCemyUGK8PFBmsIbO075dQTbigxFV+/hQ0oTOp+9G0P2jiu6vFrVTMtSPYlZ3qlOSsydZXltppgjrcQxxWYQu4Z9HFV2JKkCH3m3WkWXrz3RORHFM3Gfd9VqMW2MtOL9TGMy759cjmwfKxS1FHrPpyJMFVITPKh14G7zheIP0R/pc9YfWes0nvRDHx94cescl/u/vEB1Fy66QPUo3DHk/nIxs+HNwl+m5ffx71K4XekfR3u7g1r1mchyzBdosMCefUZ9RjuGWzbbsUbAktkWk5IdDe5pXXcWoHUXAZjUBC8gc/j+vZEAfA12QW6bPKEaD1lkTu1WvUdlO6dBPhVnPOQrXXEGQQLS3IJUPpTn0AAKB+FJgYhKKe5l09gAAAtVtky+v9jY2txs/WXeVA9Kje4hMgHK70MlxhCmRwB72hH/tSg1u4AAX9QAAAAA" src="data:image/webp;base64,UklGRowFAABXRUJQVlA4IIAFAABwNgCdASrCAREBPplMoE0lpCaioPkoyNATCWlu64Kl/4UAK8IiSB0C3v/aR/xGVgDh/r3e+vA8p8Fu5XeyZEIq314HlprvfZIeomjjDUYTykp6qKt9kyIqSoXNWmvA8s6QEwKjPEh8IHGPFQP2RzQPpwsQD3Y4HSc4huUglLoz5ILY8iioLof/e8CHyYQlWVOGyehNuiDkhRJXKk8Zc8DajFzVprs8oooXRw64Jm7atkCw97bmLRvTKf3CWQtEly4YzTIm4QuZdl//0oD/0G/GGoUp3nI/0A24PT4nzlSiF/IRUiVFXfzE0DzBMqhozVS/40rvKkNRP3PN6UTgu5kK3JNN0/ilfPIaSHpbFpLQPRoHptIL5851cK5geWmvA8tNdbUFTgW8ImlI/7MTRxi4sdrbwPLTAqDhPdCzDSzy014HlprsPRxiz1D9HGY3YxwoH14GoNL2PMpLhl/Q1iPnmsvO0EkaOMWbPGlPa51GNP/A6ER9Rv2MRNHGLmrTXYC1wzRxi5vbSoDy01zdMGcRPQDuUZje+vA9TTy014Hlpq2+uYWmvA8tnUHlprwPLTXgeWmvA8tNeB5aasAA/vnS7/9Xfez6nvY/4dzfr0yoG9A1TQaBl4obCcVCcbPwwt9fMrMyPp0BW190xNEsh8kwaAnM4Uq9DgEDTYY6LsLbyUFSC/oY/Ar0Cp4c10AD9sIc57us17S2/jcHNfqEEpyClBs1A/9wvk0NWAJ9pQbq5yEcnyA5ehH79oVF0XY3Mm7bvSlsIbrx90ROOx62GQRUx471YZGFaW3z0WjGwIY4rHShGEZR0NiAgteiFD6uL3aUvUT2zXhknCVSmyfgPB6UF1ZL9D9FsFiUyUv2E9alS2SMyKwx4iYjvt/YLfxi2JMoWLpVlnK4wIJYjo1/eZ+qSqWc0y/etfsmgSZ9pIBb9tTHOeiELY4UJwLGBBIjtvjvQ8/kQLjIizzHbujgnFIdPQpAtKMVop05LyZn9xeMwE8vDelUGh7spSyFs36GendYekkwFpcHUl7AEGzDLdYzpUGVmkuq1vNeHLx/LkxpAeBdf8N+wWL2akLgfEHkAuWvqvWWOlngnnBmDxES21C9BtSYH/QLXnNqsXVbXbU6ycy8B2tRON9q6YzEjFiCaqDtaCzzNbSlIyaVebLAaXDkN6MGDpU9elIwa5AVY2vUwUESMjFSS5P2yr7QKNiAPF80NedpMiUehjXG6xbXSw3YGrv+fpuDI8TKnwd2wWeRhx2cG5fMQcs/+6n4G+nbvsrxp0eaMJAOhHTFNNbX+5LO4s/WJKF+qVZxgbdp01ppjZ4MMjCo4qNDiWfYhSNBrow10+Fpv7JfAvoFn2SSrjvPk5BudYw3Dgeb4WoGcaxp/kVOScl2lPFGLdMOp60jBfW5qp7iQ5/BS/89bQ6z2u5uxk3UaCemyUGK8PFBmsIbO075dQTbigxFV+/hQ0oTOp+9G0P2jiu6vFrVTMtSPYlZ3qlOSsydZXltppgjrcQxxWYQu4Z9HFV2JKkCH3m3WkWXrz3RORHFM3Gfd9VqMW2MtOL9TGMy759cjmwfKxS1FHrPpyJMFVITPKh14G7zheIP0R/pc9YfWes0nvRDHx94cescl/u/vEB1Fy66QPUo3DHk/nIxs+HNwl+m5ffx71K4XekfR3u7g1r1mchyzBdosMCefUZ9RjuGWzbbsUbAktkWk5IdDe5pXXcWoHUXAZjUBC8gc/j+vZEAfA12QW6bPKEaD1lkTu1WvUdlO6dBPhVnPOQrXXEGQQLS3IJUPpTn0AAKB+FJgYhKKe5l09gAAAtVtky+v9jY2txs/WXeVA9Kje4hMgHK70MlxhCmRwB72hH/tSg1u4AAX9QAAAAA" alt="IoT + Machine Learning: Exploring Future Possibilities" title="IoT + Machine Learning: Exploring Future Possibilities" class="" data-pagespeed-url-hash="1086269020" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">IoT + Machine Learning: Exploring Future Possibilities</h3>
-                    <a href="<?php echo asset(); ?>blog/machine-learning-and-iot" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-3.webp" type="image/webp">
-                            <source srcset="<?php echo asset(); ?>images/iot-application-development/blog-3.jpg?v-1" type="image/jpeg"><img data-src="<?php echo asset(); ?>images/iot-application-development/xblog-3.jpg,qv-1.pagespeed.ic.CSfRAk_uOm.webp" src="<?php echo asset(); ?>images/iot-application-development/xblog-3.jpg,qv-1.pagespeed.ic.CSfRAk_uOm.webp" alt="Full Stack Development for IoT – Here’s Everything You Need to Know to Get Started and Everything In Between" title="Full Stack Development for IoT – Here’s Everything You Need to Know to Get Started and Everything In Between" class="" data-pagespeed-url-hash="1506831357" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Full Stack Development for IoT – Here’s Everything You Need to Know to Get Started and Everything In Between</h3>
-                    <a href="<?php echo asset(); ?>blog/fullstack-development-for-iot" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 
 

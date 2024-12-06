@@ -839,37 +839,7 @@
 <section class="blog-outer">
     <div class="container">
         <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" alt="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" title="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" class="" data-pagespeed-url-hash="1021741627" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Augmented Reality Trends Bringing a Revolution in Real Estate Industry</h3>
-                    <a href="https://www.kasinfotech.com/blog/" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" alt="In What Ways VR is Modernizing the Real Estate Industry?" title="In What Ways VR is Modernizing the Real Estate Industry?" class="" data-pagespeed-url-hash="1442303964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
+            
                     <h3 class="small-heading" style="height: 60px;">In What Ways VR is Modernizing the Real Estate Industry?</h3>
                     <a href="https://www.kasinfotech.com/blog/vr-in-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
@@ -883,10 +853,7 @@
                             <img data-src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" alt="How Blockchain Is Transforming The Real Estate Industry?" title="How Blockchain Is Transforming The Real Estate Industry?" class="" data-pagespeed-url-hash="1862866301" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">How Blockchain Is Transforming The Real Estate Industry?</h3>
-                    <a href="https://www.kasinfotech.com/blog/blockchain-transforming-the-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
+                    
             </div>
         </div>
     </div>

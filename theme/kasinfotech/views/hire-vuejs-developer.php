@@ -1114,58 +1114,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding section-padding-bottom bg-graylight">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp" src="<?php echo asset(); ?>images/hire-vuejs-developer/xblog-1.jpg,qv-1.pagespeed.ic.7Uoj0aqT8t.webp" alt="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)" title="Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)" class="lazy" data-pagespeed-url-hash="1075578861" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Top 12 Vue.js Developer Tools and Component Libraries (To Speed Up Vue.js Development)</h3>
-                    <a href="https://www.kasinfotech.com/blog/list-of-vue-component-libraries" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA=" src="data:image/webp;base64,UklGRgoFAABXRUJQVlA4IP4EAACwQwCdASrCAREBPuFwsFOopiokIlI5eUAcCWluzRbn6LWjGX99vU97k6a/f8sUF2Ab+PM+DJeNK5MaVyY0rkxpXJjSuTGjxVeXikbVIF0k5OBrrnj+YRKtXRrx3SFdnLFMgzNJ80lmQAGh5YM+DJIJkow8z4FwNjQOHHLjZOZOoO2FWhxWP078efamBRmuujYCZ8GNSWQDyWYAKK2eyr75urLQZ65ScDXMxMaeQGF16RlB9CYfMrUC6Osy45vyB2i6NePPurkwgd717ULVynZSlNDUK4t6H50hp06QjNih6VCk+rSPNAI/oYh8InMJQQ3/2yCmugmAGSjx3L3y3VmafM8X70CuFV6oHOhinFMo4k8dfuhkJ24AxmlXx6hkgA0eF0tF0drhEi8JmQ8uBbDIjlY5Y23eVE40sIPKtWZxkS6bYAdalKrlP5svOPMJRZvaQ1/KT4quLxpBCaiVGOiXAc5MLikdEIQ4sh1Znol626L+nDhn4ofx9uErOvrUxxgBEuH5X9Aw+fHHyX1wg6rjxjjXjSFx2ZPuPhcTMwOfIPnvwdtFm8zsvWNsTLojq+8DBoenAZO59YHazXNDRh5nBd1Nm+cxgJzvsiyPOEMl4HajFY83wlntmBehgUDXpi0QEsu12H70FO1KvCD+G+dJvpAkj8dC/rwLr6s+SyLHGvHyNQT9NUI+PAq/czXaC+aujyXNFVyvATEsIIvxWsaAGaMZHEAAAP7wm3/Ox7g/6D4t8iqAAA5clQALNn/+rLPuQvBTB/vmO+YBpNtPc7yEbeNsITenmVgkZemF08gb5OMWxm/CODEdD7+t44BJaUuaoKrVM+qlgEHGVzn28JbUmT5hSlW18BrEy56Wt1yXAsAXaXmCZLVGOQg1zfK9hGlLC36LKC8g2Z4c2MBmdEuw/tXDQjAeSWpipVL5oQ/NuSn7Qot8SIv5z+YgWVXMlYjTIz9YPdUXeV4WaaEMSEH8rSIMO35pM998ZmEYFfVKBUh0sBMfQBtiCqKfoIH2U9HBh+1nF/XMikWyJ7gcdqgYNpI6RRh4MV9A2+jCergK0o1QbYqqt/dQUewcN/ClZ6bziFYz0YDKTTy+jRfw37CNaiHnkkBdnbJPIQZmH+T8LLfVGClgFS3vW+cYgU8csJ9Uat/aGpI3SMb3rjn4FKToURVJaBKhRF3yab9sQYd6kxuT2qin9q2dGpLgElOFCiA6bTBrdAQrkNO8NnDSN8+3aIXwHuuPF2kFjhN4nseplE9+xhc1RYUjj6qes0b1DA2uxmam+f0MVtZP/8QsRvVqvirOFdtUy5dHj1R4Blb84jo0eGh+bMvImeHTpZ006JnHXvT9b3/Qf51R0IhppNS/KTeRqnTmkHWcVLournbM2YUxzosZwJS0Q8anLSbV7fNsWkq6476US9/O+sWsmM/SXSqKgXBk3qqioaEmQuyOINfjjkU7DVRxbDXpu27tsxoabZgq6uzU2m90fJ+X+JO7bw/fAiGOmAC8UcLUrYkmkqnq4EG+6vbzWivyhBqpPUGY3Z0OvNXS9YG/MILVg1jnT35ntynpmAI7wLYZpb2B4aimLgNdjo21IG7WSGR3hVCnJscQuyukY0WiiF1g+0HlHB99Lv0kb3NLAo5YqJtIrIcWsKuuiXwWf1txgQXMJMauMD02RtPvcKOi92HUbAIOosaALiHuxfLlh8QAAAA=" alt="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications" title="VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications" class="lazy" data-pagespeed-url-hash="1496141198" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">VueJS as Front-End and Laravel as Back-End is a beautiful full-stack combination To Build API Driven Applications</h3>
-                    <a href="https://www.kasinfotech.com/blog/why-use-vue-js" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-vuejs-developer/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA" src="data:image/webp;base64,UklGRrwCAABXRUJQVlA4ILACAAAQLQCdASrCAREBPuFwsVQopiokIZFJSUAcCWlu/GwX+OtPv/6sPfPWQ/DB+gDMoUy/mX8y/mX8y/mX8y/mX8y/mX8Hh+/1Z+rP1Z8jhm7AfU+E4Bxuo0i5x3OO5x3OO5x11vAU8yJPfZFM9pntM2z9gPsB9h4+cXc58fYD7AfYD7AfYAEvxyWKgM5oY0bsB9gPsB9gPvd0hDP72AOfv9Wfqz9Wfq0H9ODsgOx+w0J5+wH2A+wH19b7CSraR87Rb3hznLM9pntM9pm1kgOLEaw95KAZ8F8MZ0mNsPaZ7TPaWgSwQFEOLxBrrGyVVXApl/Mv5l/MsCMPCR4XMC7D2bkSC0IF62s0z2me0z2mezXBX/F4TKmEMPLDtGUFTEA+wH2A+wH1WDhY1tOL1PA4DxUxAPsB9gPsB9gPaP4IA5jk2xnFQbDbnHc47nHc47nHc2rDqubc47nHc47nHc47nHc47nHc47nHc47nHc47nHc46wAA/vhSkxHb9B8WyRED1PCVE+Gw9hIkqlFhiW4XcwDVVPJOePTDyAdtmNz5YeapjeQlkhBOenVzfqxyiPZ8TUB6VM9A7UmpRkW24mx4vL15nj40m4dJvXkMRyI80rtNO72zXCl+3sldS8AjrKYG1qd4HxmZ+WIw1fFuvkjpcgRiMipOEBPNh9fPH431lxdajJ0ZIR6IVGj7Io6qiDn0tieyinTjIcZYjfNkfGlF/Cdkj5Z2DPqgPnYV+FxY6NV8AOixy5/49uGkAbvjiTGGAqPVmELpwOUAVN0ooCT87KAjJgNRn52Pi7noAotUiUB4lZzBDHHXVfsPEmh07Hf+s+qeodY0+uWGPF9v52D29AagBDhT2O7yr4KzFBu81JEXtEa2bwUGqtLIuFjETLtxUlcz2+e3t9jlGIDfkWG3nsAA" alt="Vue vs Angular: Neck-to-Neck Comparison" title="Vue vs Angular: Neck-to-Neck Comparison" class="lazy" data-pagespeed-url-hash="1916703535" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 120px;">Vue vs Angular: Neck-to-Neck Comparison</h3>
-                    <a href="https://www.kasinfotech.com/blog/vue-vs-angular" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

@@ -1143,58 +1143,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" alt="Flutter for Building MVPs – What makes it an Optimal Choice?" title="Flutter for Building MVPs – What makes it an Optimal Choice?" class="" data-pagespeed-url-hash="3472165594" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Flutter for Building MVPs – What makes it an Optimal Choice?</h3>
-                    <a href="https://www.kasinfotech.com/blog/flutter-app-development-cost" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" alt="Why Is React Native The Best Platform To Launch Your MVP?" title="Why Is React Native The Best Platform To Launch Your MVP?" class="" data-pagespeed-url-hash="3892727931" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Why Is React Native The Best Platform To Launch Your MVP?</h3>
-                    <a href="https://www.kasinfotech.com/blog/react-native-for-mvp" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" alt="MVP Development with Ruby on Rails – How and Why?" title="MVP Development with Ruby on Rails – How and Why?" class="" data-pagespeed-url-hash="18322972" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">MVP Development with Ruby on Rails – How and Why?</h3>
-                    <a href="https://www.kasinfotech.com/blog/mvp-development-with-ruby-on-rails" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 </section>
 <?php include_once('footer.php') ?>

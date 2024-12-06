@@ -1334,54 +1334,7 @@
     <div class="container">
         <div class="row justify-content-md-center gy-4 gy-md-0">
             <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-img-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-img-1.png?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp" src="<?php echo asset(); ?>images/angular-js-dev/xblog-img-1.png,qv-1.pagespeed.ic.HvvATgAurs.webp" alt="What’s New in Angular 15: Deep Dive into Latest Features of Angular 15" title="What’s New in Angular 15: Deep Dive into Latest Features of Angular 15" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">What’s New in Angular 15: Deep Dive into Latest Features of Angular 15</h3>
-                    <a href="https://www.kasinfotech.com/blog/whats-new-in-angular-15" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-img-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-img-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp" src="<?php echo asset(); ?>images/angular-js-dev/xblog-img-2.jpg,qv-1.pagespeed.ic.D_5BftFBcX.webp" alt="All You Need To Know About Angular With AWS Combination" title="All You Need To Know About Angular With AWS Combination" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">All You Need To Know About Angular With AWS Combination</h3>
-                    <a href="https://www.kasinfotech.com/blog/angular-with-aws-combination" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/angular-js-dev/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp" src="<?php echo asset(); ?>images/angular-js-dev/xblog-3.jpg,qv-1.pagespeed.ic.U7TXT6FrV5.webp" alt="React vs Angular: Choose the Right to Uplift Your User Experience" title="React vs Angular: Choose the Right to Uplift Your User Experience" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">React vs Angular: Choose the Right to Uplift Your User Experience</h3>
-                    <a href="https://www.kasinfotech.com/blog/react-vs-angular" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
+               
         </div>
     </div>
 </section>

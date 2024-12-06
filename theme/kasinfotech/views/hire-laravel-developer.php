@@ -1128,58 +1128,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp" src="<?php echo asset(); ?>images/laravel-development/xblog-1.jpg,qv-1.pagespeed.ic.mb0QZAJCdN.webp" alt="Everything You Need to Know About Laravel Microservices" title="Everything You Need to Know About Laravel Microservices" class="lazy" data-pagespeed-url-hash="2122644335" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Everything You Need to Know About Laravel Microservices</h3>
-                    <a href="https://www.kasinfotech.com/blog/laravel-microservices" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp" src="<?php echo asset(); ?>images/laravel-development/xblog-2.jpg,qv-1.pagespeed.ic.UPfTAdEAVI.webp" alt="Laravel 10: New Features and Latest Updates" title="Laravel 10: New Features and Latest Updates" class="lazy" data-pagespeed-url-hash="2543206672" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Laravel 10: New Features and Latest Updates</h3>
-                    <a href="https://www.kasinfotech.com/blog/whats-new-in-laravel-10" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/laravel-development/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp" src="<?php echo asset(); ?>images/laravel-development/xblog-3.jpg,qv-1.pagespeed.ic.otWZq_Nw8e.webp" alt="Why Use Laravel in 2023?" title="Why Use Laravel in 2023?" class="lazy" data-pagespeed-url-hash="2963769009" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Why Use Laravel in 2023?</h3>
-                    <a href="https://www.kasinfotech.com/blog/why-use-laravel" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

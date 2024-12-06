@@ -69,7 +69,7 @@
                         <div class="service-box box-color-7">
                             <h3 class="h5 font-bold mb-sm">Think like a Product, Not as Tasks or Features</h3>
                             <p>
-                                Each Bacancyer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build
+                                Each KASer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build
                                 better software.
                             </p>
                         </div>

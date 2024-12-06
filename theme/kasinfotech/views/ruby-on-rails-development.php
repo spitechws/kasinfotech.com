@@ -192,9 +192,9 @@
                 <nav aria-label="breadcrumb" class="d-flex mb-0">
                     <ol class="breadcrumb breadcrumb-schema bg-transparent d-flex align-items-center mb-0">
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/">
+                            <a href="https://www.KAStechnology.com/">
                                 <img
-                                    src="images/bacancy-icon.svg?v-1"
+                                    src="images/KAS-icon.svg?v-1"
                                     alt="Agile Software Development Company"
                                     title="Agile Software Development Company"
                                     class="h-20"
@@ -204,7 +204,7 @@
                             </a>
                         </li>
                         <li class="breadcrumb-item">
-                            <a href="https://www.bacancytechnology.com/technologies">Technology</a>
+                            <a href="https://www.KAStechnology.com/technologies">Technology</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">Ruby on Rails Developer</li>
                     </ol>
@@ -221,7 +221,7 @@
                     <div class="section-title-block mb-0">
                         <h2 class="section-title-text h1 mb-lg">Hire Dedicated Ruby on Rails Developer with Most Relevant Experience to Keep Your Project Schedule Up-to-Date</h2>
                         <p>
-                            If you are looking for the best Ruby on Rails development expertise in the industry, then Bacancy is a one-stop solution for hiring Ruby on Rails developers. We have industry’s best full-stack RoR developers
+                            If you are looking for the best Ruby on Rails development expertise in the industry, then KAS is a one-stop solution for hiring Ruby on Rails developers. We have industry’s best full-stack RoR developers
                             whose expertise can be leveraged to reduce IT expenses, avoid costly development mistakes and build feature-rich RoR products. Our dedicated Ruby on Rails programmers firmly believes in adding value to your
                             project with our result-oriented software development services. <b>Hire Ruby on Rails developer</b> from us to improve your Ruby on Rails performance, implement the best RoR gems and experience the sheer
                             excellence of your ROR application.
@@ -1083,14 +1083,14 @@
                                 <img
                                     data-src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
                                     src="<?php echo asset();?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp"
-                                    alt="Bacancy Mail"
-                                    title="Bacancy Mail"
+                                    alt="KAS Mail"
+                                    title="KAS Mail"
                                     class="mr-3 mt-3 d-none d-md-block"
                                     data-pagespeed-url-hash="4022199950"
                                     onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
                                 />
                             </picture>
-                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> </span>
+                            <span class="border-bottom border-primary h1"> <a href="mailto:solutions@KAS.com" class="mail-id">solutions@KAS.com</a> </span>
                         </div>
                         <p class="h4 text-white font-light mb-sm">Your Success Is Guaranteed !</p>
                         <p class="text-xxl mb-sm text-white">We accelerate the release of digital products and guarantee your success</p>
@@ -1256,7 +1256,7 @@
                 </div>
                 <div class="service-box bg-graylight active">
                     <h3 class="h5 font-bold mb-sm">Advanced RoR Programming</h3>
-                    <p>At Bacancy, our Ruby on Rails developers uses the latest technology and RoR development tactics in order to keep our client's project up to date with the upgraded tach excellence and advanced RoR Programming.</p>
+                    <p>At KAS, our Ruby on Rails developers uses the latest technology and RoR development tactics in order to keep our client's project up to date with the upgraded tach excellence and advanced RoR Programming.</p>
                 </div>
                 <div class="service-box bg-graylight active">
                     <h3 class="h5 font-bold mb-sm">Rails On Docker containerization</h3>
@@ -1310,7 +1310,7 @@
                     </div>
                 </div>
                 <p>
-                    Now is the ideal time to boost your application with hassle-free <a class="text-primary font-bold" href="https://www.bacancytechnology.com/rails-upgrade-service">Rails Upgrade Service</a> Upgrading your Rails app to the
+                    Now is the ideal time to boost your application with hassle-free <a class="text-primary font-bold" href="https://www.KAStechnology.com/rails-upgrade-service">Rails Upgrade Service</a> Upgrading your Rails app to the
                     latest version will help you eliminate vulnerabilities and security issues, and rails 3.x is no longer supporting the latest updates. So, do not let security alerts and deprecation warnings eat your time anymore. Hire
                     Ruby on Rails developers from us to implement the required changes for a victorious upgrade.
                 </p>
@@ -1361,11 +1361,11 @@
                     </div>
                 </div>
                 <p>
-                    At Bacancy, we strive to bring state-of-the-art industry practices and technological know-how to build powerful Ruby on Rails applications. Whether you are starting a new project or maintaining an existing one, our Ruby
+                    At KAS, we strive to bring state-of-the-art industry practices and technological know-how to build powerful Ruby on Rails applications. Whether you are starting a new project or maintaining an existing one, our Ruby
                     developers and programmers have well-proven expertise in building next-gen software solutions.
                 </p>
                 <p>
-                    Bacancy is a top-notch <a href="https://www.bacancytechnology.com/ruby-on-rails-development-company" class="text-primary font-bold">Ruby on Rails development company</a> renowned for offering best-in-class rails product
+                    KAS is a top-notch <a href="https://www.KAStechnology.com/ruby-on-rails-development-company" class="text-primary font-bold">Ruby on Rails development company</a> renowned for offering best-in-class rails product
                     development services to businesses to meet the growing demand for data-driven and highly efficient web-based applications. Our RoR expertise and skills are nothing but an outcome of our vast experience working on
                     world-class RoR products. Contact with us today to hire senior Ruby on Rails developer from us to fulfill your business requirements for result-oriented RoR web app development.
                 </p>
@@ -1460,17 +1460,17 @@
                             <p itemprop="text">
                                 We have simple and transparent pricing. We let you hire experienced Ruby on Rails developers at a rate of $25 per hour with an average experience of 3+ years. However, the cost may vary depending on your
                                 query and the expertise of our developer. If you want to hire a team of Ruby on Rails developers, we have customized rates for you; please
-                                <a href="https://www.bacancytechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
+                                <a href="https://www.KAStechnology.com/contactus" class="text-primary font-bold">contact us</a> us to know more details.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item bg-white accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What are the hiring engagement options available at Bacancy?</a>
+                            <a href="#a" itemprop="name">What are the hiring engagement options available at KAS?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire ruby on rails developers from Bacancy.
+                                We provide three types of hiring engagement models. You can choose the preferred model that fits your business needs according to that you can hire ruby on rails developers from KAS.
                             </p>
                             <strong>Dedicated Developer - Monthly basis</strong>
                             <p>160 Hours a Month. 8 hours a day, 5 days a week</p>
@@ -1489,7 +1489,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name Bacancy Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
+                                We are a registered entity in the United States with the name KAS Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
                                 of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                             </p>
                         </div>
@@ -1501,8 +1501,8 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Hire Ruby Developers from us to work according to your time zone (EST/PST/CST/MST), deadline and milestone. To know more get in touch with us at
-                                <strong><a href="mailto:solutions@bacancy.com" class="mail-id">solutions@bacancy.com</a> OR Skype</strong> us at
-                                <strong>"Bacancy"</strong>
+                                <strong><a href="mailto:solutions@KAS.com" class="mail-id">solutions@KAS.com</a> OR Skype</strong> us at
+                                <strong>"KAS"</strong>
                             </p>
                         </div>
                     </div>
@@ -1542,85 +1542,7 @@
         </div>
     </div>
 </section>
-<section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-1.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-1.jpeg,qv-1.pagespeed.ic.6vUsxKKNRp.webp"
-                                alt="Why Build Real Estate App With Ruby on Rails: In-depth Justification"
-                                title="Why Build Real Estate App With Ruby on Rails: In-depth Justification"
-                                class="lazy"
-                                data-pagespeed-url-hash="749204789"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Why Build Real Estate App With Ruby on Rails: In-depth Justification</h3>
-                    <a href="https://www.bacancytechnology.com/blog/real-estate-app-with-ruby-on-rails" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-2.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-2.jpeg,qv-1.pagespeed.ic.Xs1WzxnNAh.webp"
-                                alt="How to Use Hotwire Rails: Getting Started Tutorial"
-                                title="How to Use Hotwire Rails: Getting Started Tutorial"
-                                class="lazy"
-                                data-pagespeed-url-hash="8296088"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">How to Use Hotwire Rails: Getting Started Tutorial</h3>
-                    <a href="https://www.bacancytechnology.com/blog/hotwire-rails-tutorial" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset();?>images/ruby-on-rails-development/blog-3.jpeg?v-1" type="image/jpeg" />
-                            <img
-                                data-src="<?php echo asset();?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp"
-                                src="<?php echo asset();?>images/ruby-on-rails-development/xblog-3.jpeg,qv-1.pagespeed.ic.GUQC8tzn4Q.webp"
-                                alt="How to Reduce Ruby on Rails Maintenance Cost?"
-                                title="How to Reduce Ruby on Rails Maintenance Cost?"
-                                class="lazy"
-                                data-pagespeed-url-hash="3562354683"
-                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"
-                            />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">How to Reduce Ruby on Rails Maintenance Cost?</h3>
-                    <a href="https://www.bacancytechnology.com/blog/ruby-on-rails-maintenance-cost" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <section class="">
     <div class="container">
         <div class="insight-slider-wrapper section-padding pb-0 section-paragraph">
@@ -1672,7 +1594,7 @@
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                             <p class="text-lg text-secondary">
-                                                Bacancy Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                KAS Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                 across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                             </p>
                                         </div>
@@ -1700,7 +1622,7 @@
                                         <div class="col-lg-4 offset-lg-1 col-md-8">
                                             <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                             <p class="text-lg text-secondary">
-                                                Timezone is never a constraint when you are working with Bacancy Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                Timezone is never a constraint when you are working with KAS Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                 collaborate from far away to work according to your time zone, deadline, and milestone.
                                             </p>
                                         </div>

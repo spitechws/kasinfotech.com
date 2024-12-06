@@ -1260,58 +1260,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" alt="Top 10 Challenges Faced by Healthcare Service Providers" title="Top 10 Challenges Faced by Healthcare Service Providers" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Top 10 Challenges Faced by Healthcare Service Providers</h3>
-                    <a href="https://www.kasinfotech.com/blog/top-10-challenges-faced-by-healthcare-service-providers" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" alt="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" title="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare</h3>
-                    <a href="https://www.kasinfotech.com/blog/ai-and-big-data-is-transforming-the-future-of-healthcare" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" alt="How IoT solutions are changing the face of healthcare industry" title="How IoT solutions are changing the face of healthcare industry" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How IoT solutions are changing the face of healthcare industry</h3>
-                    <a href="https://www.kasinfotech.com/blog/iot-healthcare-solutions" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

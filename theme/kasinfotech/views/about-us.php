@@ -79,7 +79,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">Why Choose Bacancy?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS?</h2>
                         <p class="text-center text-secondary h3 section-short-desc">
                             Strategically positioned to deliver outstanding user experiences to respond to the ever-changing needs through emerging technologies.
                         </p>
@@ -191,7 +191,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.glassdoor.co.in/Reviews/Bacancy-Technology-Reviews-E755927.htm" target="_blank">
+                        <a href="https://www.glassdoor.co.in/Reviews/KAS-Technology-Reviews-E755927.htm" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/glassdor.webp" alt="glassdoor-review" title="glassdoor-review" class="" />
                             </picture>
@@ -201,7 +201,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://clutch.co/profile/bacancy" target="_blank">
+                        <a href="https://clutch.co/profile/KAS" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/clutch.webp" alt="clutch-review" title="clutch-review" class="" />
                             </picture>
@@ -211,7 +211,7 @@
                         </a>
                     </li> -->
                     <!-- <li>
-                        <a href="https://www.goodfirms.co/companies/view/549/bacancy-technology" target="_blank">
+                        <a href="https://www.goodfirms.co/companies/view/549/KAS-technology" target="_blank">
                             <picture>
                                 <img src="<?php echo asset(); ?>images/about-us/firms.webp" alt="goodfirms-review" title="goodfirms-review" class="" />
                             </picture>
