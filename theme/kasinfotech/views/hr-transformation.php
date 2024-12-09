@@ -2,7 +2,7 @@
 <style>
     .hrcontpera{
         margin-top: 1%;
-        margin-bottom: 1s%;
+        margin-bottom: 1%;
     }
 </style>
 <header class="header-wrapper section-wrapper">
