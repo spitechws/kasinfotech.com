@@ -43,7 +43,7 @@
                         </p>
                     </div>
                 </div>
-                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Free Consultation</a>
+                <a href="<?php echo base_url('get-quote') ?>" class="btn btn-bg-white text-uppercase ls-xs mt-lg">Request A Consultation</a>
             </div>
         </div>
     </div>
@@ -567,7 +567,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltd based in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -744,7 +744,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltd  to know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -762,7 +762,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltd  shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>

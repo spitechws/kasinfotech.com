@@ -150,10 +150,11 @@
                         <div class="card-image-primary card-home-four banner-post">
                             <figure class="banner-post-img">
                                 <picture>
-                                    <source srcset="https://placehold.co/200x200" type="image/webp">
-                                    <source srcset="https://placehold.co/200x200" type="image/jpeg">
-                                    <img data-src="https://placehold.co/200x200" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
+                                    <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxy9mMRav7oyV-axbP_W8V1cBPAepHnOeq3g&s" type="image/webp">
+                                    <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxy9mMRav7oyV-axbP_W8V1cBPAepHnOeq3g&s" type="image/jpeg">
+                                    <img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxy9mMRav7oyV-axbP_W8V1cBPAepHnOeq3g&s" src="https://placehold.co/500x200" alt="<?php echo $product->product_name; ?>" title="<?php echo $product->product_name; ?>" class="lazy">
                                 </picture>
+                                
                             </figure>
                             <h3 class="card-title text-white h3"><?php echo $row->service_name; ?></h3>
                             <a href="<?php echo base_url('service/' . $row->slug); ?>" class="text-sm text-item-center">

@@ -303,7 +303,7 @@
                                         <div class="row">
                                             <div class="col-12">
                                                 <p class="pb-4 border-bottom">
-                                                    KAS Pvt Ltdassures advanced patient care delivery and high customer satisfaction by building patient engagement ecosystems. With digital health services designed by our software developers,
+                                                    KAS Pvt Ltd  assures advanced patient care delivery and high customer satisfaction by building patient engagement ecosystems. With digital health services designed by our software developers,
                                                     your patients can access their health-related information and book appointments.
                                                 </p>
                                             </div>
@@ -536,7 +536,7 @@
                         <picture>
                             <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                             <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" />
+                            <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" />
                         </picture>
                         <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                     </div>
@@ -1030,7 +1030,7 @@
                         <h2 class="section-title-text h1">Empowering Healthcare Sector: Specialized Healthcare Solutions for Clients</h2>
                         <p>
                             We not only limit ourselves to a particular healthcare development; we are well-versed in developing any type of website or application, be it patient-focused, with healthcare professionals in mind, or
-                            considering both. KAS Pvt Ltdalways impresses its clients with quality work, versatile developers, and feasible hourly, monthly, or fixed rates.
+                            considering both. KAS Pvt Ltd  always impresses its clients with quality work, versatile developers, and feasible hourly, monthly, or fixed rates.
                         </p>
                     </div>
                 </div>
@@ -1126,8 +1126,8 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Why Choose Us for Custom Healthcare Software Development?</h2>
                         <p>
-                            KAS Pvt Ltdhas been known to offer affordable rates for custom software development services. And not only affordability but we are also one of the quality and on-time delivery companies. From scalable architecture
-                            to meticulous detailing and managing projects effectively to complying with industry standards, KAS Pvt Ltdcan be an investment-worthy partnership.
+                            KAS Pvt Ltd  has been known to offer affordable rates for custom software development services. And not only affordability but we are also one of the quality and on-time delivery companies. From scalable architecture
+                            to meticulous detailing and managing projects effectively to complying with industry standards, KAS Pvt Ltd  can be an investment-worthy partnership.
                         </p>
                     </div>
                 </div>
@@ -1173,7 +1173,7 @@
                     <div class="accordion-item accordian-tab active" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
                             <a href="#a" itemprop="name" class="">
-                                How does KAS Pvt Ltdreduce healthcare software development costs?
+                                How does KAS Pvt Ltd  reduce healthcare software development costs?
                             </a>
                         </div>
                         <div class="accordian-text active" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="">
@@ -1189,17 +1189,17 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                KAS Pvt Ltdcomplies with ISO 27001 to ensure top-notch security. Our healthcare clients have never reached out to us with a complaint about security breaches in their systems. And it's not limited to only the
+                                KAS Pvt Ltd  complies with ISO 27001 to ensure top-notch security. Our healthcare clients have never reached out to us with a complaint about security breaches in their systems. And it's not limited to only the
                                 healthcare vertical; we ensure that any possible security breach is always found in the development stage so that we fix them before making the healthcare product live.
                             </p>
                         </div>
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">What healthcare software does KAS Pvt Ltdoffer?</a>
+                            <a href="#a" itemprop="name">What healthcare software does KAS Pvt Ltd  offer?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
-                            <p itemprop="text">Here is the list of healthcare software that KAS Pvt Ltdis capable of building:</p>
+                            <p itemprop="text">Here is the list of healthcare software that KAS Pvt Ltd  is capable of building:</p>
                             <ul>
                                 <li>Electronic Health Records (EHRs) &amp; Electronic Medical Records (EMRs)</li>
                                 <li>Patients Portal</li>
@@ -1212,7 +1212,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does KAS Pvt Ltdbuild customized healthcare software?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltd  build customized healthcare software?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
@@ -1223,7 +1223,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does KAS Pvt Ltdbuild healthcare mobile applications?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltd  build healthcare mobile applications?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
@@ -1245,7 +1245,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Does KAS Pvt Ltdcreate a prototype of healthcare software?</a>
+                            <a href="#a" itemprop="name">Does KAS Pvt Ltd  create a prototype of healthcare software?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
@@ -1260,58 +1260,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-1.jpg,qv-1.pagespeed.ic.VYTaFXtPMb.webp" alt="Top 10 Challenges Faced by Healthcare Service Providers" title="Top 10 Challenges Faced by Healthcare Service Providers" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Top 10 Challenges Faced by Healthcare Service Providers</h3>
-                    <a href="https://www.kasinfotech.com/blog/top-10-challenges-faced-by-healthcare-service-providers" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-2.jpg,qv-1.pagespeed.ic.fCwtWYLOkz.webp" alt="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" title="How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How Big Data, Analytics and Artificial Intelligence is Transforming the Future of Healthcare</h3>
-                    <a href="https://www.kasinfotech.com/blog/ai-and-big-data-is-transforming-the-future-of-healthcare" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/healthcare-app/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" src="<?php echo asset(); ?>images/healthcare-app/xblog-3.jpg,qv-1.pagespeed.ic.rwOYuY8BJV.webp" alt="How IoT solutions are changing the face of healthcare industry" title="How IoT solutions are changing the face of healthcare industry" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How IoT solutions are changing the face of healthcare industry</h3>
-                    <a href="https://www.kasinfotech.com/blog/iot-healthcare-solutions" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

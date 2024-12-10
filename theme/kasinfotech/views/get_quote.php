@@ -92,43 +92,48 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <div class="boxed bg-white shadow-custom trust-by-1">
                     <div class="row text-center">
-                        <div class="col-12">
-                            <span class="h4 font-bold text-center d-block d-lg-none mb-3">Trusted By</span>
+                        <div class="col-md-12">
+                            <span class="h4 font-bold text-center d-block d-sm-none mb-3">Inspired By</span>
                             <ul>
-                                <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
+                                <li class="h4 font-italic d-none d-lg-block">Inspired By</li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes">
+                                        <img src="<?php echo asset('images/get-quote/hcl.png'); ?>" alt="hcl" title="hcl">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros">
+                                        <img src="<?php echo asset('images/get-quote/tata.png'); ?>" alt="tata" title="tata">
+                                        <img src="<?php echo asset('images/get-quote/infosys.png'); ?>" alt="infosys" title="infosys">
+                                        <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft">
+                                        <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple">
+                                        <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla">
+
                                     </picture>
                                 </li>
-                                <li>
+                                
+                                    <!-- <picture>
+                                        <img src="<?php echo asset('images/get-quote/infosys.png'); ?>" alt="infosys" title="infosys">
+                                    </picture>
+                                -->
+                               
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney">
+                                        <!-- <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft"> -->
                                     </picture>
-                                </li>
-                                <li>
+                                
+                                
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar">
+                                        <!-- <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple"> -->
                                     </picture>
-                                </li>
-                                <li>
+                                
+                               
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull">
+                                        <!-- <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla"> -->
                                     </picture>
-                                </li>
-                                <li>
-                                    <picture>
-                                        <img src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m">
-                                    </picture>
-                                </li>
+                               
                             </ul>
                         </div>
                     </div>
@@ -187,7 +192,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-3 text-right">
                                 <picture>
-                                    <img src="<?php echo asset(); ?>images/usa-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
+                                    <img src="<?php echo asset(); ?>images/india-flag.webp" alt="KAS Phone" title="KAS Phone" class="mr-3">
                                 </picture>
                             </div>
                             <div class="col-lg-7 text-left">
@@ -252,7 +257,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc mb-0">
                     <div class="section-title-block text-center">
-                        <h2 class="section-title-text h1">20+ Years and Counting...</h2>
+                        <h2 class="section-title-text h1">7+ Years and Counting...</h2>
                         <p class="h3 section-title-text-two font-light top-line">By establishing a IT development, we offer our tailored engagement models cater to the unique needs by providing <b>B2B</b> and <b>B2C</b> Dedicated development support.</p>
                     </div>
                 </div>
@@ -320,9 +325,9 @@
             <div class="col">
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp">
-                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg">
+                    <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png"><img data-src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" src="<?php echo asset(); ?>images/xcountry-icon-4.png.pagespeed.ic.ctr6PWgiYB.webp" alt="In Business Since 2017" title="In Business Since 2017" class="mb-lg">
                 </picture>
-                <p>In Business Since 2011</p>
+                <p>In Business Since 2017</p>
             </div>
             <div class="col mb-0">
                 <picture>

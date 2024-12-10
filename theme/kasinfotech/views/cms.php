@@ -29,7 +29,7 @@
                 <div class="header_company">
                     <div class="row gy-md-4 gy-lg-5">
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">7+</h3>
                             <p>Countries where we have happy customers</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -41,7 +41,7 @@
                             <p>World wide offices</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">12+</h3>
+                            <h3 class="font-bold mb-2">7+</h3>
                             <p>Years of Experience</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -53,11 +53,11 @@
                             <p>Certified Scrum Masters</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1000+</h3>
+                            <h3 class="font-bold mb-2">20+</h3>
                             <p>Clients projects</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <h3 class="font-bold mb-2">1458</h3>
+                            <h3 class="font-bold mb-2">70</h3>
                             <p>Happy customers</p>
                         </div>
                     </div>
@@ -777,7 +777,7 @@
                         <div class="section-title-block text-left">
                             <h2 class="section-title-text h1 text-white ">Fortune-500 Clients</h2>
                             <p class="text-left h3 section-short-desc text-white mb-50">
-                                The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2011.
+                                The path to empower startups and serial entrepreneurs with 360°actions start here. We are trusted by the world’s greatest leaders since 2017.
                             </p>
                             <a href="<?php echo base_url(); ?>clientele" class="btn btn-outline-white-text text-uppercase ">Clientele
                             </a>

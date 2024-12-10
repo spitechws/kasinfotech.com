@@ -22,7 +22,7 @@
             <div class="col-xl-5 col-md-6">
                 <div class="section-title-and-desc section-title-and-desc-two mb-md-0 side-sticky-section">
                     <div class="section-title-block">
-                        <h1 class="section-title-text h1-xl m-0">KAS Pvt Ltd<span class="text-primary">Values</span></h1>
+                        <h1 class="section-title-text h1-xl m-0">KAS Pvt Ltd  <span class="text-primary">Values</span></h1>
                         <p class="awards__banner-subtitle h3">You add value to your customer when you deliver a product or service (and the associated brand experience) that has been designed specifically to solve their problem.</p>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                         <div class="service-box box-color-7">
                             <h3 class="h5 font-bold mb-sm">Think like a Product, Not as Tasks or Features</h3>
                             <p>
-                                Each Bacancyer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build
+                                Each KASer working on a client’s project, make sure to put their heart into it to deliver value to the end customers. Additional tasks and features are referred to as capabilities to help the client build
                                 better software.
                             </p>
                         </div>
@@ -151,9 +151,9 @@
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/culture.png" type="image/png" />
-                        <img data-src="<?php echo asset(); ?>images/agile-mindset/culture.png" src="<?php echo asset(); ?>images/agile-mindset/culture.png" alt="KAS Pvt LtdCultures" title="KAS Pvt LtdCultures" class="mb-lg" data-pagespeed-url-hash="1743680598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                        <img data-src="<?php echo asset(); ?>images/agile-mindset/culture.png" src="<?php echo asset(); ?>images/agile-mindset/culture.png" alt="KAS Pvt Ltd  Cultures" title="KAS Pvt Ltd  Cultures" class="mb-lg" data-pagespeed-url-hash="1743680598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
-                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Pvt LtdCultures</h2>
+                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Pvt Ltd  Cultures</h2>
                     <p class="small-heading" style="height: 90px;">Core Team will work as Scrum Team where Team will have quarterly goal to make sure that we run financial, administrative and project management prospective.</p>
                     <a href="https://www.kasinfotech.com/kasinfotech-culture" class="text-primary font-bold">DISCOVER<span class="long-arrow-icon-css icon-item right mt-0 ml-2"></span></a>
                 </div>

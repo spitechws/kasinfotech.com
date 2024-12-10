@@ -14,7 +14,7 @@
                             <picture>
                                 <source srcset="<?php echo asset('images/call-yellow-icon.webp'); ?>" type="image/webp">
                                 <source srcset="<?php echo asset('images/call-yellow-icon.png'); ?>" type="image/png">
-                                <img alt="KAS Pvt Ltd" title="KAS Pvt Ltd" class="lazy img-item">
+                                <img alt="KAS Pvt Ltd  " title="KAS Pvt Ltd  " class="lazy img-item">
                             </picture>
                         </div>
                         <div class="right-content">

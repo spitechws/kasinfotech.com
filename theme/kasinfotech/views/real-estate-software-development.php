@@ -115,7 +115,7 @@
                     developments, among many others. Thus, the use of technology and automation is indeed required to improve communication and reduce friction for real estate businesses.
                 </p>
                 <p>
-                    KAS Pvt Ltdprovides innovative <a href="https://www.kasinfotech.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
+                    KAS Pvt Ltd  provides innovative <a href="https://www.kasinfotech.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
                     Whether you are a leading real estate company, a small agency associated with property business, or an individual real estate agent, leverage our custom software development for the real estate industry to build advanced
                     real estate solutions to offer improved property buying experience to both buyers as well as sellers.
                 </p>
@@ -132,7 +132,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Custom Real Estate Solutions With Top Key Features</h2>
                         <div class="resp-btn">
-                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request a free consultation</a>
+                            <a href="#form" class="btn btn-primary text-uppercase ls-xs mt-4 mt-lg-0">Request A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -723,7 +723,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose KAS Pvt LtdFor Custom Real Estate App Development?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS Pvt Ltd  For Custom Real Estate App Development?</h2>
                     </div>
                 </div>
             </div>
@@ -829,7 +829,7 @@
                 <p class="text-18 mb-lg">We are a leading real estate software development company and we can help you build your choice of custom real estate application.</p>
                 <p class="text-18 mb-lg">
                     Our specialists with sound experience in building applications for real estate will facilitate your idea and support you during the development. So, if you are looking for an application as an innovative solution to your
-                    business and advanced services to your customers chose KAS Pvt Ltdcan be your one stop solution partner. Get in touch with us today.
+                    business and advanced services to your customers chose KAS Pvt Ltd  can be your one stop solution partner. Get in touch with us today.
                 </p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">talk to our expert</a>
             </div>
@@ -839,37 +839,7 @@
 <section class="blog-outer">
     <div class="container">
         <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-1.jpg?v-1" alt="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" title="Augmented Reality Trends Bringing a Revolution in Real Estate Industry" class="" data-pagespeed-url-hash="1021741627" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Augmented Reality Trends Bringing a Revolution in Real Estate Industry</h3>
-                    <a href="https://www.kasinfotech.com/blog/" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-2.jpg?v-1" alt="In What Ways VR is Modernizing the Real Estate Industry?" title="In What Ways VR is Modernizing the Real Estate Industry?" class="" data-pagespeed-url-hash="1442303964" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
+            
                     <h3 class="small-heading" style="height: 60px;">In What Ways VR is Modernizing the Real Estate Industry?</h3>
                     <a href="https://www.kasinfotech.com/blog/vr-in-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
                 </div>
@@ -883,10 +853,7 @@
                             <img data-src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" src="<?php echo asset(); ?>images/real-estate/blog-3.jpg?v-1" alt="How Blockchain Is Transforming The Real Estate Industry?" title="How Blockchain Is Transforming The Real Estate Industry?" class="" data-pagespeed-url-hash="1862866301" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                         </picture>
                     </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">How Blockchain Is Transforming The Real Estate Industry?</h3>
-                    <a href="https://www.kasinfotech.com/blog/blockchain-transforming-the-real-estate-industry" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
+                    
             </div>
         </div>
     </div>

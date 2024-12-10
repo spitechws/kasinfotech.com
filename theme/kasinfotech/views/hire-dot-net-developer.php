@@ -23,7 +23,7 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h1 class="section-title-text h1-xl lh-normal text-white">Hire .NET Developer on Hourly or Monthly Basis</h1>
-                        <p class="text-white mb-lg">We at KAS Pvt Ltdlet you hire .NET developers with top-of-the-line expertise in building secure, scalable and enterprise-level web and mobile apps.</p>
+                        <p class="text-white mb-lg">We at KAS Pvt Ltd  let you hire .NET developers with top-of-the-line expertise in building secure, scalable and enterprise-level web and mobile apps.</p>
                         <ul class="style-check text-18 text-white style-check-orange mb-lg">
                             <li>80+ skilled and experienced Dot NET developers</li>
                             <li>Well-versed in VB. NET, .NET core, C#, C++, Typescript and ASP.NET</li>
@@ -1691,7 +1691,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -1947,9 +1947,9 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
-                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2017" title="In Business Since 2017" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
-                <p>In Business Since 2011</p>
+                <p>In Business Since 2017</p>
             </div>
             <div class="col mb-0">
                 <picture>
@@ -2025,7 +2025,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
+                                    We are a registered entity in the United States with the name KAS Pvt Ltd  Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
                                     help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>

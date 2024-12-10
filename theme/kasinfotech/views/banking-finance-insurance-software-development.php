@@ -34,7 +34,7 @@
                             In the emerging technological environment, we are offering reliable banking and financial software development services and innovative insurance solutions to help you stay ahead and accelerate in this sector
                             comply with all industry norms and standards.
                         </p>
-                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request a Free Consultation</a>
+                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request A Consultation</a>
                     </div>
                 </div>
             </div>
@@ -394,7 +394,7 @@
             </div>
             <div class="col-md-6">
                 <p class="text-18">
-                    Globally, banking, financial services, and insurance organizations rely on KAS Pvt Ltdto incorporate new technologies and improve their operational efficiency to resolve their most complex business and technology
+                    Globally, banking, financial services, and insurance organizations rely on KAS Pvt Ltd  to incorporate new technologies and improve their operational efficiency to resolve their most complex business and technology
                     challenges. Our adroit industry experts, web and mobile developers, and data scientists are specialized in delivering BFSI services. We ensure optimal user experience for your customers with improved, secured, and
                     compliant network.
                 </p>
@@ -615,7 +615,7 @@
                     </div>
                 </div>
                 <p>
-                    The world of BFSI industry is on the verge of rapid and fundamental change due to which customers are expecting a seamless, personalized experience across multiple platforms. KAS Pvt Ltdis a globally renowned BFSI IT
+                    The world of BFSI industry is on the verge of rapid and fundamental change due to which customers are expecting a seamless, personalized experience across multiple platforms. KAS Pvt Ltd  is a globally renowned BFSI IT
                     solution provider and <a href="https://www.kasinfotech.com/software-consulting-services" class="text-primary">software consulting company</a>, delivering fundamental financial IT solutions and services that
                     institutions require to speed up the financial operations as well as innovation. Our software developers have in-depth knowledge and skillful expertise in technical and domain sectors, and we have helped numbers of
                     organizations to help them grow their business.
@@ -663,7 +663,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltd  based in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -840,7 +840,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltd  to know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -858,7 +858,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltd  shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>
