@@ -183,7 +183,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Hire Node js Developer to Build Unparalleled Back-end Solutions</h2>
                         <p class="m-0">
-                            We have been frequently approached by C-suite executives asking whether we can provide a dedicated Node js developer, and the answer is yes. KAS Pvt Ltdis known for offering trained, tested, and vetted Node js
+                            We have been frequently approached by C-suite executives asking whether we can provide a dedicated Node js developer, and the answer is yes. KAS Pvt Ltd  is known for offering trained, tested, and vetted Node js
                             developers with top-of-the-line expertise. Whether you are planning to <b>hire Node js developer</b> to crank out code, or need help with full stack Nodejs architect to help you design CI/CD pipelines or want to
                             run microservices interconnecting with external API’s, we can lend a helping hand by providing your choice of Node js programmer at your ease and convenience.
                         </p>
@@ -745,7 +745,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -1075,7 +1075,7 @@
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
-                                    We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
+                                    We are a registered entity in the United States with the name KAS Pvt Ltd  Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with
                                     the help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                                 </p>
                             </div>
@@ -1131,58 +1131,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding section-padding-bottom pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-1.jpg,qv-1.pagespeed.ic.kWyuPj5WCT.webp" alt="How to Build Secure Node.js Rest APIs in 05 Minutes" title="How to Build Secure Node.js Rest APIs in 05 Minutes" class="lazy" data-pagespeed-url-hash="263965492" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">How to Build Secure Node.js Rest APIs in 05 Minutes</h3>
-                    <a href="https://www.kasinfotech.com/blog/how-to-build-nodejs-rest-apis" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-2.jpg,qv-1.pagespeed.ic.hvWNcep1zH.webp" alt="What’s New in Node v16? (Highlights of Node.js 16 Features)" title="What’s New in Node v16? (Highlights of Node.js 16 Features)" class="lazy" data-pagespeed-url-hash="684527829" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">What’s New in Node v16? (Highlights of Node.js 16 Features)</h3>
-                    <a href="https://www.kasinfotech.com/blog/node-js-16-features" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/node-js-development/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" src="<?php echo asset(); ?>images/node-js-development/xblog-3.jpg,qv-1.pagespeed.ic.9kPbPNOP4c.webp" alt="Node.js is First and Foremost Choice for Building an eCommerce Application" title="Node.js is First and Foremost Choice for Building an eCommerce Application" class="lazy" data-pagespeed-url-hash="1105090166" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Node.js is First and Foremost Choice for Building an eCommerce Application</h3>
-                    <a href="https://www.kasinfotech.com/blog/nodejs-is-first-choice-for-building-an-ecommerce-application" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </section>
 <?php include_once('footer.php') ?>

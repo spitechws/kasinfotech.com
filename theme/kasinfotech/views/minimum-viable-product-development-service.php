@@ -34,7 +34,7 @@
                             Developing solutions for validating your MVP product and it’s viability with our MVP development services. Optimize your path to a successful market-worthy minimum viable product partnering with a prominent MVP
                             development company.
                         </p>
-                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request a Free Consultation</a>
+                        <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs mt-5">Request A Consultation</a>
                     </div>
                 </div>
             </div>
@@ -118,7 +118,7 @@
                         </h2>
                     </div>
                 </div>
-                <p>Verify Your Idea With KAS Pvt LtdAnd Turn It Into Reality</p>
+                <p>Verify Your Idea With KAS Pvt Ltd  And Turn It Into Reality</p>
                 <p>
                     Before taking off on your potential digital product, we make sure that your idea is tested for market potential. However, not each of you would need an MVP. For example, some of the entrepreneurs with well-defined
                     processes clearly know their end product needs and have a pre-approved budget for a fully formed digital product. However, there are so many entrepreneurs as well as tech startups that face constraints, and do you know
@@ -442,7 +442,7 @@
             <div class="col-md-6 col-lg-5">
                 <div class="section-title-and-desc side-sticky-section mb-md-0">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1 mb-lg">How KAS Pvt LtdCan Help You As Leading MVP Development Company</h2>
+                        <h2 class="section-title-text h1 mb-lg">How KAS Pvt Ltd  Can Help You As Leading MVP Development Company</h2>
                         <p>Our minimum viable product development services assist you to create a presentable prototype of your mobile MVP and web app in just a couple of weeks.</p>
                     </div>
                 </div>
@@ -501,7 +501,7 @@
                     developers are well versed with front-end, back-end, and full-stack development expertise.
                 </p>
                 <p>
-                    We at KAS Pvt Ltdcreate experiences that are simple to use, fulfilling all your business requirements. We are an Agile-based MVP company that firmly believes in branding and design. We are very focused on developing
+                    We at KAS Pvt Ltd  create experiences that are simple to use, fulfilling all your business requirements. We are an Agile-based MVP company that firmly believes in branding and design. We are very focused on developing
                     out-of-the-box features that your end-users expect from you and obviously from your business. Whether you hire one developer or a complete team, we assure you to provide the right solution with our top-notch minimum
                     viable product development services.
                 </p>
@@ -936,7 +936,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltd  based in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -1113,7 +1113,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our
-                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
+                                    expert at <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltd  to know more about the services we provide &amp; how many projects we completed till now.
                                 </p>
                                 <p>Here is a simple procedure we follow once you start your project with us:</p>
                                 <ul>
@@ -1131,7 +1131,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     Either Party to this agreement may terminate the agreement, with or without cause, by providing at least 14 days (2 weeks) written notice to the other Party. Upon termination of this agreement, the
-                                    KAS Pvt Ltdshall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
+                                    KAS Pvt Ltd  shall deliver a termination Invoice for work completed to date, which shall be paid by the the client (in 3 business days). The Termination Invoice shall specify all unpaid work and the remaining
                                     amount of the work done till termination date. On termination all work completed to date shall be delivered to the client in a usable electronic format.
                                 </p>
                             </div>
@@ -1143,58 +1143,6 @@
     </div>
 </section>
 <section class="blog-outer section-padding pb-0">
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-12 text-center">
-                <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-1.jpg?v-1" alt="Flutter for Building MVPs – What makes it an Optimal Choice?" title="Flutter for Building MVPs – What makes it an Optimal Choice?" class="" data-pagespeed-url-hash="3472165594" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Flutter for Building MVPs – What makes it an Optimal Choice?</h3>
-                    <a href="https://www.kasinfotech.com/blog/flutter-app-development-cost" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-2.jpg?v-1" alt="Why Is React Native The Best Platform To Launch Your MVP?" title="Why Is React Native The Best Platform To Launch Your MVP?" class="" data-pagespeed-url-hash="3892727931" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">Why Is React Native The Best Platform To Launch Your MVP?</h3>
-                    <a href="https://www.kasinfotech.com/blog/react-native-for-mvp" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" src="<?php echo asset(); ?>images/mvp-services/blog-img-3.jpg?v-1" alt="MVP Development with Ruby on Rails – How and Why?" title="MVP Development with Ruby on Rails – How and Why?" class="" data-pagespeed-url-hash="18322972" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 60px;">MVP Development with Ruby on Rails – How and Why?</h3>
-                    <a href="https://www.kasinfotech.com/blog/mvp-development-with-ruby-on-rails" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 </section>
 <?php include_once('footer.php') ?>

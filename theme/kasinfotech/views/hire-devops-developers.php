@@ -205,11 +205,11 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">DevOps Development Services We Offer</h2>
                         <p class="mb-0">
-                            KAS Pvt Ltdis a DevOps service provider that empowers a continuous workflow from development to operations by confirming more predictable releases. We use best-in-class development tools and state-of-the-art
+                            KAS Pvt Ltd  is a DevOps service provider that empowers a continuous workflow from development to operations by confirming more predictable releases. We use best-in-class development tools and state-of-the-art
                             practices to scale up your business and bring the best of both worlds. <i>Hire DevOps engineer</i> to bridge the DevOps gap.
                         </p>
                         <div class="resp-btn overflow-hidden">
-                            <a href="#form" class="btn btn-outline-primary text-uppercase mt-4 mt-lg-5 ls-xs">Request a Free Consultation</a>
+                            <a href="#form" class="btn btn-outline-primary text-uppercase mt-4 mt-lg-5 ls-xs">Request A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -304,7 +304,7 @@
                         </div>
                         <div class="col-lg-10">
                             <h3 class="h5 font-bold mb-sm">Platform-As-A-Service (Paas)</h3>
-                            <p>KAS Pvt Ltdis offering DevOps as a service and owning this expertise to provide comprehensive DevOps software development services like planning, strategy execution and managed services.</p>
+                            <p>KAS Pvt Ltd  is offering DevOps as a service and owning this expertise to provide comprehensive DevOps software development services like planning, strategy execution and managed services.</p>
                         </div>
                     </div>
                 </div>
@@ -488,7 +488,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -509,7 +509,7 @@
                     <div class="section-title-block text-center">
                         <h2 class="section-title-text h1">DevOps Tools Expertise</h2>
                         <p class="h3 section-title-text-two font-light">
-                            The KAS Pvt Ltdteam lets you broaden your horizons with the skillful expertise in the state-of-the-art continuous integration and continuous delivery tools to accelerate your go-to-market initiatives and exemplify
+                            The KAS Pvt Ltd  team lets you broaden your horizons with the skillful expertise in the state-of-the-art continuous integration and continuous delivery tools to accelerate your go-to-market initiatives and exemplify
                             DevOps Possibilities.
                         </p>
                     </div>
@@ -941,7 +941,7 @@
             <div class="col-12">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Hire DevOps Engineers Through KAS Pvt Ltdin Easy Steps</h2>
+                        <h2 class="section-title-text h1">Hire DevOps Engineers Through KAS Pvt Ltd  in Easy Steps</h2>
                     </div>
                 </div>
             </div>
@@ -1162,7 +1162,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
+                                We are a registered entity in the United States with the name KAS Pvt Ltd  Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
                                 help of a W9 form; here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfers from all across the globe.
                             </p>
                         </div>

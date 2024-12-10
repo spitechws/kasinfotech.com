@@ -349,7 +349,7 @@
                                                 <h3 class="h2 text-white font-bold">Shell TapUp</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        KAS Pvt Ltdhelped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
+                                                        KAS Pvt Ltd  helped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
                                                         better, quicker, and seamless user experience, owing to our ReactJs developers. We decentralized their existing and diverse platforms such as customer, business, DSP, and drive in
                                                         fleet marketing domain.
                                                     </p>
@@ -500,7 +500,7 @@
                                                 <h3 class="h2 text-white font-bold">Shell TapUp</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        KAS Pvt Ltdhelped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
+                                                        KAS Pvt Ltd  helped Shell rewoke its manual business processes by transforming data into digital platforms using React.js and Node. This project's flawless front-end development delivered a
                                                         better, quicker, and seamless user experience, owing to our ReactJs developers. We decentralized their existing and diverse platforms such as customer, business, DSP, and drive in
                                                         fleet marketing domain.
                                                     </p>
@@ -747,7 +747,7 @@
                                 </ul>
                                 <h3 class="h5 font-bold mb-sm">React + Python (Django)</h3>
                                 <p class="small-heading-two" style="height: 120px;">
-                                    Full stack React developers at KAS Pvt Ltdwill help you rapidly build your solution with multiple clients and session management. Connect with us to bring the best of Python with Django framework with the
+                                    Full stack React developers at KAS Pvt Ltd  will help you rapidly build your solution with multiple clients and session management. Connect with us to bring the best of Python with Django framework with the
                                     help of React framework.
                                 </p>
                             </div>
@@ -993,7 +993,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -1212,7 +1212,7 @@
                     Outsource ReactJS developers from the best <a href="reactjs-development" class="text-primary">ReactJs Development Company </a> and get your project accomplished within the pre-defined timeline and budget.
                 </p>
                 <p>
-                    The flexible team augmentation model at KAS Pvt Ltdenables you to conduct as many interviews as you want before you onboard ReactJS developers of your desired skillset. Once you take a hand deal, we assign motivated ReactJs
+                    The flexible team augmentation model at KAS Pvt Ltd  enables you to conduct as many interviews as you want before you onboard ReactJS developers of your desired skillset. Once you take a hand deal, we assign motivated ReactJs
                     experts who will dedicatedly work for you on your project. With this said, you can manage your augmented ReactJS development team at your ease and convenience while we assure you fulfill the IT skill gap. We also provide
                     developer retention and admin support so you can stay focused on your project progress and development.
                 </p>
@@ -1334,7 +1334,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
+                                We are a registered entity in the United States with the name KAS Pvt Ltd  Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with help
                                 of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe.
                             </p>
                         </div>
@@ -1388,56 +1388,11 @@
 </section>
 <section class="blog-outer section-padding pb-0">
     <div class="container">
-        <div class="row justify-content-md-center">
+<div class="row justify-content-md-center">
             <div class="col-12 text-center">
                 <div class="section-title-and-desc">
-                    <div class="section-title-block">
-                        <h2 class="section-title-text h1">Useful Links</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-1.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-1.jpg,qv-1.pagespeed.ic.Ctn9kFULpa.webp" alt="Here’s How to Dockerize React App [Containerize React App]" title="Here’s How to Dockerize React App [Containerize React App]" class="" data-pagespeed-url-hash="3646409457" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">Here’s How to Dockerize React App [Containerize React App]</h3>
-                    <a href="https://www.kasinfotech.com/blog/dockerize-react-app" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-2.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-2.jpg,qv-1.pagespeed.ic.Kl6LXaVGh7.webp" alt="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" title="ReactJS for Dashboards and Data Visualization: An Exceptional Choice" class="" data-pagespeed-url-hash="4066971794" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">ReactJS for Dashboards and Data Visualization: An Exceptional Choice</h3>
-                    <a href="https://www.kasinfotech.com/blog/reactjs-for-dashboards-and-data-visualization" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-cell banner-post mb-0">
-                    <figure class="banner-post-img">
-                        <picture>
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.webp" type="image/webp" />
-                            <source srcset="<?php echo asset(); ?>images/hire-reactjs/blog-3.jpg?v-1" type="image/jpeg" />
-                            <img data-src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" src="<?php echo asset(); ?>images/hire-reactjs/xblog-3.jpg,qv-1.pagespeed.ic.b0PAiCAw_W.webp" alt="A Comprehensive Guide on Developing Responsive and Common React Filter Component" title="A Comprehensive Guide on Developing Responsive and Common React Filter Component" class="" data-pagespeed-url-hash="192566835" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-                        </picture>
-                    </figure>
-                    <div class="tag">blog</div>
-                    <h3 class="small-heading" style="height: 90px;">A Comprehensive Guide on Developing Responsive and Common React Filter Component</h3>
-                    <a href="https://www.kasinfotech.com/blog/developing-responsive-and-common-react-filter-component" class="btn btn-outline-primary text-uppercase ls-xs"><span>read more</span></a>
-                </div>
-            </div>
+                    
+                   
         </div>
     </div>
 </section>

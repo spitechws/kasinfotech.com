@@ -208,7 +208,7 @@
                         <h2 class="section-title-text h1 mb-lg">Digital Workplace Services: Unlock the TruePotential of Your Business </h2>
                         <p class="text-18">We design and develop digital solutions to ensure team collaboration, business continuity, and access to the apps as well as services during this crisis.</p>
                         <div class="resp-btn">
-                            <a href="#form" class="btn btn-primary text-uppercase mt-4 mt-md-0 ">Request a Free Consultation</a>
+                            <a href="#form" class="btn btn-primary text-uppercase mt-4 mt-md-0 ">Request A Consultation</a>
                         </div>
                     </div>
                 </div>

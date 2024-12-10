@@ -42,7 +42,7 @@
                                             <div class="col-lg-4 offset-lg-1 col-md-8">
                                                 <h4 class="h3 slider-title font-semibold">Top 1% IT Talent</h4>
                                                 <p class="text-lg text-secondary">
-                                                    KAS Pvt LtdTechnology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
+                                                    KAS Pvt Ltd  Technology is an exclusive hub of top dedicated software developers, UI/UX designers, QA experts, and product managers with incredibly rare and hidden talents you will ever come
                                                     across. We let you access the top 1% of IT talent worldwide, from independent software developers to fully managed teams.
                                                 </p>
                                             </div>
@@ -62,7 +62,7 @@
                                             <div class="col-lg-4 offset-lg-1 col-md-8">
                                                 <h4 class="h3 slider-title font-semibold">Time Zone Aligned</h4>
                                                 <p class="text-lg text-secondary">
-                                                    Timezone is never a constraint when you are working with KAS Pvt LtdTechnology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
+                                                    Timezone is never a constraint when you are working with KAS Pvt Ltd  Technology. We follow a simple procedure- our developers and your time zone. Hire dedicated software developers from us and
                                                     collaborate from far away to work according to your time zone, deadline, and milestone.
                                                 </p>
                                             </div>

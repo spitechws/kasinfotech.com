@@ -36,7 +36,7 @@
                         </p>
                     </div>
                 </div>
-                <a href="#form" class="btn btn-bg-white text-uppercase ls-xs">Request A Free Consultation</a>
+                <a href="#form" class="btn btn-bg-white text-uppercase ls-xs">Request A Consultation</a>
             </div>
         </div>
     </div>
@@ -168,7 +168,7 @@
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Cut Operational Cost With Automation Testing Services</h2>
-                        <h3 class="mb-lg">Request A Free Consultation / Schedule an Interview</h3>
+                        <h3 class="mb-lg">Request A Consultation / Schedule an Interview</h3>
                         <p class="mb-lg">Leverage our top QA expert for reduce time of development and boost your testing speed with test automation.</p>
                     </div>
                 </div>

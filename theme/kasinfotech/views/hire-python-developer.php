@@ -611,7 +611,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" src="data:image/webp;base64,UklGRiwBAABXRUJQVlA4TCABAAAvKUAKEN+gqG0jyXPxXf6PLY35V9y2CWSuP/sPCwYiyfAJnga+gf6tJLhAvdtnlnJQsQXEBJAC4gES4KcgNES4EO8gwoXgdvnyIEmSJEWSPKozm4q5LOv/P6WMmYVrRP8nQP/gj7x2z6qR3OM3XdtXXN9XIrB8XiFnLCegOStgeyl/WCCe9FDI0zZWOyjgI98Ir4MSkpM22oOBTd4D68ngVsKdtrMb9u1SpgBrcSmN8MqkGogXwgqT5VIJNCcvoNZxDu0bjEmSdUCUh9IEdFWzwlbIR1ZzPJm8pL0FpqjL2bL+38xuA9tBCeY10x4EKJ0CvA60sCYXG9nsaIe5cLAePjqtge75SBnS49kAgy6W+NZ2Ral2aINuh73MGYPpfxY=" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -1264,9 +1264,9 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/country-icon-4.png" type="image/png" />
-                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2011" title="In Business Since 2011" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <img data-src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" src="data:image/webp;base64,UklGRlwBAABXRUJQVlA4TFABAAAvKUAKAN/BoJEkRemZOXwG/2bPBMO2kRTnlMw8MzBsG0lxTsnMM8P8v8Hh+77//0urDAMn0gJISTkBAACckGrTxImxLNICzHUFADgBAJRhkBbAiQWkJXVdF6k2TcowOI5DGQZpAaQAUoBV+r6PE1Jp1XFUhkEdR2NZAJZsu2kkDfM0MzMz993/ykbStJs/I/o/AXIB3/INZ+YzyMcO9z4S4Jt/vx0uBb/i/Ibc4RpMxT2l4Us33Ewb7ikNd2LN0W457h85wh+tfgx1bXEMc42vcF+YtXBVbcws3JT5nwa8h3qHhlEOVbb6jEKNmGhZeHVEnI4XKGmPULRwWwV41qRH34j4IkafgRhp2Ex1iJgw1deQtKSNNyJqBG9LHBJrT3WImDDVm1Fx2RHcEfEeQHwSSCJOCXbwO8qSztMxPHRZtTnahjSPZSgi8UrjCEsxOdM=" alt="In Business Since 2017" title="In Business Since 2017" class="mb-lg" data-pagespeed-url-hash="3233739569" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
-                <p>In Business Since 2011</p>
+                <p>In Business Since 2017</p>
             </div>
             <div class="col mb-0">
                 <picture>
@@ -1309,7 +1309,7 @@
                     </div>
                     <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <div class="faq-heading">
-                            <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
+                            <a href="#a" itemprop="name">Where is KAS Pvt Ltd  based in? What is the team-strength?</a>
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 8+ years.</p>
@@ -1441,7 +1441,7 @@
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
                                 Yes, we have. Interestingly, our skilled and experienced developers have worked upon many projects and ensured smooth transition &amp; efficient processes for our many clients. Get in touch with our expert at
-                                <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltdto know more about the services we provide &amp; how many projects we completed till now.
+                                <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> OR Skype us at KAS Pvt Ltd  to know more about the services we provide &amp; how many projects we completed till now.
                             </p>
                             <p>Here is a simple procedure we follow once you start your project with us:</p>
                             <ul>

@@ -22,13 +22,13 @@
             <div class="col-12">
                 <div class="section-title-and-desc m-0">
                     <div class="section-title-block section-padding">
-                        <h1 class="section-title-text h1-xl m-0">KAS Pvt Ltd<span class="text-primary">Culture</span></h1>
+                        <h1 class="section-title-text h1-xl m-0">KAS Pvt Ltd  <span class="text-primary">Culture</span></h1>
                         <p class="career__banner-subtitle h3 pb-0">Core Team will work as Scrum Team where Team will have quarterly goal to make sure that we run financial, administrative and project management prospective.</p>
                     </div>
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/kasinfotech-culture/banner.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/kasinfotech-culture/banner.jpg" type="image/jpeg" />
-                        <img data-src="<?php echo asset(); ?>images/kasinfotech-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" src="<?php echo asset(); ?>images/kasinfotech-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" alt="KAS Pvt LtdCulture" title="KAS Pvt LtdCulture" data-pagespeed-url-hash="1951740093" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                        <img data-src="<?php echo asset(); ?>images/kasinfotech-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" src="<?php echo asset(); ?>images/kasinfotech-culture/xbanner.jpg.pagespeed.ic.8A9tEG82Av.webp" alt="KAS Pvt Ltd  Culture" title="KAS Pvt Ltd  Culture" data-pagespeed-url-hash="1951740093" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
                 </div>
             </div>
@@ -182,9 +182,9 @@
                     <picture>
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/value.webp" type="image/webp" />
                         <source srcset="<?php echo asset(); ?>images/agile-mindset/value.png" type="image/png" />
-                        <img data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" alt="KAS Pvt LtdValues" title="KAS Pvt LtdValues" class="mb-lg" data-pagespeed-url-hash="1588904997" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                        <img data-src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" src="<?php echo asset(); ?>images/agile-mindset/xvalue.png.pagespeed.ic.ftIzmqRtSn.webp" alt="KAS Pvt Ltd  Values" title="KAS Pvt Ltd  Values" class="mb-lg" data-pagespeed-url-hash="1588904997" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                     </picture>
-                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Pvt LtdValues</h2>
+                    <h2 class="h3 font-bold mb-lg small-heading" style="height: 45px;">KAS Pvt Ltd  Values</h2>
                     <p class="small-heading" style="height: 90px;">You add value to your customer when you deliver a product or service (and the associated brand experience) that has been designed specifically to solve their problem.</p>
                     <a href="https://www.kasinfotech.com/kasinfotech-values" class="text-primary font-bold">DISCOVER<span class="long-arrow-icon-css icon-item right mt-0 ml-2"></span></a>
                 </div>

@@ -12,7 +12,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/partnership/banner.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/partnership/banner.jpg?v-2" type="image/jpeg" />
-            <img data-src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" alt="KAS Pvt LtdPartner" title="KAS Pvt LtdPartner" data-pagespeed-url-hash="1027017593" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+            <img data-src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" src="<?php echo asset(); ?>images/partnership/xbanner.jpg,qv-2.pagespeed.ic.-yRtKqGB-Q.webp" alt="KAS Pvt Ltd  Partner" title="KAS Pvt Ltd  Partner" data-pagespeed-url-hash="1027017593" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
