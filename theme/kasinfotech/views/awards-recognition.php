@@ -42,7 +42,7 @@
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
                         <h2 class="section-title-text h1">Our Awards</h2>
-                        <h3 class="section-short-desc text-secondary">Numbers of external and independent organizations have recognized KAS Pvt Ltdfor top talent. Here’s a glimpse of our corporate accomplishments.</h3>
+                        <h3 class="section-short-desc text-secondary">Numbers of external and independent organizations have recognized KAS Pvt Ltd for top talent. Here’s a glimpse of our corporate accomplishments.</h3>
                     </div>
                 </div>
             </div>
@@ -55,12 +55,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" alt="KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers" title="KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers" class="lazy w-100" />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-6.webp" alt="KAS Pvt Ltd Ranked 1st Among Top Ahmedabad Custom Software Developers" title="KAS Pvt Ltd  Ranked 1st Among Top Ahmedabad Custom Software Developers" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
                                     <h3 class="font-bold mb-lg">
-                                        KAS Pvt LtdRanked 1st Among Top Ahmedabad Custom Software Developers
+                                        KAS Pvt Ltd Ranked 1st Among Top Ahmedabad Custom Software Developers
                                     </h3>
                                     <a href="https://clutch.co/in/developers/ahmedabad/leaders-matrix" class="btn btn-outline-primary text-uppercase ls-xs" target="_blank">KNOW MORE</a>
                                 </div>
@@ -74,12 +74,12 @@
                             <div class="row gx-lg-5 align-items-center">
                                 <div class="col-6 col-md-4">
                                     <picture>
-                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" alt="KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021" title="KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021" class="lazy w-100" />
+                                        <img data-src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" src="<?php echo asset(); ?>images/awards-recognition/aw-5.webp" alt="KAS Pvt Ltd Bags “Best EV Developer of the Year” At EV India Expo 2021" title="KAS Pvt Ltd  Bags “Best EV Developer of the Year” At EV India Expo 2021" class="lazy w-100" />
                                     </picture>
                                 </div>
                                 <div class="col-12 col-md-8 awards__card-title">
-                                    <h3 class="font-bold mb-lg">
-                                        KAS Pvt LtdBags “Best EV Developer of the Year” At EV India Expo 2021
+                                    <h3 class="font-bold mb-lg"> 
+                                        KAS Pvt Ltd  Bags “Best EV Developer of the Year” At EV India Expo 2021
                                     </h3>
                                     <a href="https://e-vehicleinfo.com/kasinfotech-bags-best-ev-developer-of-the-year-at-ev-india-expo/" class="btn btn-outline-primary text-uppercase ls-xs" target="_blank">KNOW MORE</a>
                                 </div>

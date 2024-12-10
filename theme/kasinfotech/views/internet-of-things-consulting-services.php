@@ -163,7 +163,7 @@
         <picture>
             <source srcset="<?php echo asset(); ?>images/form-bg.webp" type="image/webp" />
             <source srcset="<?php echo asset(); ?>images/form-bg.jpg" type="image/jpeg" />
-            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltdcan help" title="Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltdcan help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+            <img data-src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" src="<?php echo asset(); ?>images/xform-bg.jpg.pagespeed.ic.w6fXk-UvWg.webp" alt="Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltd  can help" title="Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltd  can help" class="" data-pagespeed-url-hash="1445677510" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
         </picture>
     </figure>
     <div class="container">
@@ -172,9 +172,9 @@
             <div class="col-lg-10 mx-auto text-center">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="h1 mb-lg text-white">Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltdcan help.</h2>
+                        <h2 class="h1 mb-lg text-white">Planning to bridge the physical and digital world with an IoT project? KAS Pvt Ltd  can help.</h2>
                         <p class="mb-xl text-white">
-                            KAS Pvt LtdIoT is a sum of smart people, great technology and innovative business culture. We are delivering cognitive insights from IoT to exploit intelligent technologies to fuel innovation and transform your
+                            KAS Pvt Ltd  IoT is a sum of smart people, great technology and innovative business culture. We are delivering cognitive insights from IoT to exploit intelligent technologies to fuel innovation and transform your
                             workforce productivity. Let’s get in touch to empower your business model to succeed.
                         </p>
                     </div>

@@ -92,41 +92,41 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <div class="boxed bg-white shadow-custom trust-by-1">
                     <div class="row text-center">
-                        <div class="col-12">
-                            <span class="h4 font-bold text-center d-block d-lg-none mb-3">Trusted By</span>
+                        <div class="col-md-12">
+                            <span class="h4 font-bold text-center d-block d-sm-none mb-3">Inspired By</span>
                             <ul>
-                                <li class="h4 font-medium d-none d-lg-block">Trusted By</li>
+                                <li class="h4 font-italic d-none d-lg-block">Inspired By</li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-1.png'); ?>" alt="mercedes" title="mercedes">
+                                        <img src="<?php echo asset('images/get-quote/hcl.png'); ?>" alt="hcl" title="hcl">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-2.png'); ?>" alt="Warner Bros" title="Warner Bros">
+                                        <img src="<?php echo asset('images/get-quote/tata.png'); ?>" alt="tata" title="tata">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-3.png'); ?>" alt="disney" title="disney">
+                                        <img src="<?php echo asset('images/get-quote/infosys.png'); ?>" alt="infosys" title="infosys">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-4.png'); ?>" alt="dubai bazaar" title="dubai bazaar">
+                                        <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-5.png'); ?>" alt="red bull" title="red bull">
+                                        <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple">
                                     </picture>
                                 </li>
                                 <li>
                                     <picture>
-                                        <img src="<?php echo asset('images/logo-6.png'); ?>" alt="3m" title="3m">
+                                        <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla">
                                     </picture>
                                 </li>
                             </ul>

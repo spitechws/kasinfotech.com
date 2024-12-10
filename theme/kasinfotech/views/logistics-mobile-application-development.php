@@ -256,11 +256,11 @@
                     </div>
                 </div>
                 <p>
-                    KAS Pvt Ltdpossesses in-depth knowledge and extensive experience in the field transportation and logistics industry. We have the skillful expertise to develop customized logistics service app solutions to address the
+                    KAS Pvt Ltd  possesses in-depth knowledge and extensive experience in the field transportation and logistics industry. We have the skillful expertise to develop customized logistics service app solutions to address the
                     ever-changing requirements of transportation and logistics.
                 </p>
                 <p>
-                    To complement the business requisites and to simplify complex and highly challenging business operations, we design and develop futuristic mobile app solutions that the world admires. KAS Pvt Ltdis geared to simplify your
+                    To complement the business requisites and to simplify complex and highly challenging business operations, we design and develop futuristic mobile app solutions that the world admires. KAS Pvt Ltd  is geared to simplify your
                     transportation and logistics industry with a mobile application. Our advanced app solutions are trusted by global retail logistics and transportation services and we have a huge portfolio to develop advanced logistics
                     mobile app solutions.
                 </p>
@@ -328,7 +328,7 @@
                     </div>
                 </div>
                 <p>
-                    KAS Pvt Ltdis geared to simplify your transportation and logistics industry. We are trusted by global retail logistics and transportation services and we have successfully implemented latest technology towards
+                    KAS Pvt Ltd  is geared to simplify your transportation and logistics industry. We are trusted by global retail logistics and transportation services and we have successfully implemented latest technology towards
                     transportation planning. Explore kasinfotech’s specialized and customized logistics and transportation services to focus on your core business operations. We also own special expertise in Mobile apps for Transportation and
                     Logistics.
                 </p>
@@ -386,7 +386,7 @@
                         </div>
                         <div class="accordion-item accordian-tab" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                             <div class="faq-heading">
-                                <a href="#a" itemprop="name">Where is KAS Pvt Ltdbased in? What is the team-strength?</a>
+                                <a href="#a" itemprop="name">Where is KAS Pvt Ltd  based in? What is the team-strength?</a>
                             </div>
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">We are based in the USA, Canada, and India. We have 1050+ in-house skilled developers with an average experience of 12+ years.</p>
@@ -415,7 +415,7 @@
                             <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                                 <p itemprop="text">
                                     We have incredibly talented and seasoned React native developers who have in-depth knowledge and extensive experience in building the next-generation solution with desired features and seamless
-                                    performance. React native developers at KAS Pvt Ltdhave an average experience of 4+ years. Hire certified React native developers from us for top-grade react native development services to achieve desired
+                                    performance. React native developers at KAS Pvt Ltd  have an average experience of 4+ years. Hire certified React native developers from us for top-grade react native development services to achieve desired
                                     business results.
                                 </p>
                             </div>

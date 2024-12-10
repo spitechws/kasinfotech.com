@@ -115,7 +115,7 @@
                     developments, among many others. Thus, the use of technology and automation is indeed required to improve communication and reduce friction for real estate businesses.
                 </p>
                 <p>
-                    KAS Pvt Ltdprovides innovative <a href="https://www.kasinfotech.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
+                    KAS Pvt Ltd  provides innovative <a href="https://www.kasinfotech.com/enterprise-software-development" class="text-primary">Enterprise Software Development services</a> to bring complex real estate ideas to life.
                     Whether you are a leading real estate company, a small agency associated with property business, or an individual real estate agent, leverage our custom software development for the real estate industry to build advanced
                     real estate solutions to offer improved property buying experience to both buyers as well as sellers.
                 </p>
@@ -723,7 +723,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="section-title-and-desc text-center">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why Choose KAS Pvt LtdFor Custom Real Estate App Development?</h2>
+                        <h2 class="section-title-text h1">Why Choose KAS Pvt Ltd  For Custom Real Estate App Development?</h2>
                     </div>
                 </div>
             </div>
@@ -829,7 +829,7 @@
                 <p class="text-18 mb-lg">We are a leading real estate software development company and we can help you build your choice of custom real estate application.</p>
                 <p class="text-18 mb-lg">
                     Our specialists with sound experience in building applications for real estate will facilitate your idea and support you during the development. So, if you are looking for an application as an innovative solution to your
-                    business and advanced services to your customers chose KAS Pvt Ltdcan be your one stop solution partner. Get in touch with us today.
+                    business and advanced services to your customers chose KAS Pvt Ltd  can be your one stop solution partner. Get in touch with us today.
                 </p>
                 <a href="#form" class="btn btn-outline-primary text-uppercase ls-xs">talk to our expert</a>
             </div>

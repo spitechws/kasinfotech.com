@@ -180,7 +180,7 @@
                     <div class="section-title-block">
                         <h2 class="section-title-text h1 mb-lg">Build Fully-Functional Web and Mobile App with Our Laravel Developer</h2>
                         <p class="m-0">
-                            <b>Hire Laravel developer</b> on a full-time, part-time, and hourly basis to build functional web solutions. All the Laravel developers at KAS Pvt Ltdare official PHP community trust council members. This ensures
+                            <b>Hire Laravel developer</b> on a full-time, part-time, and hourly basis to build functional web solutions. All the Laravel developers at KAS Pvt Ltd  are official PHP community trust council members. This ensures
                             that your product will be designed and developed according to best industry practices. Hire dedicated Laravel developers on a full-time, part-time, and hourly contract basis to build functional web solutions. We
                             have the industry's best Laravel experts whose expertise can be leveraged for modular programming and error-free coding to make the most out of your project.
                         </p>
@@ -722,7 +722,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -1075,7 +1075,7 @@
                         </div>
                         <div class="accordian-text" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="display: none;">
                             <p itemprop="text">
-                                We are a registered entity in the United States with the name KAS Pvt LtdTechnology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
+                                We are a registered entity in the United States with the name KAS Pvt Ltd  Technology LLC, so you can choose to pay us in a Bank of America account via ACH or wire transfer. We can also help you save tax with the
                                 help of a W9 form, here is our TIN number 83-4332237. Regardless of your physical location, we accept wire transfer from all across the globe
                             </p>
                         </div>

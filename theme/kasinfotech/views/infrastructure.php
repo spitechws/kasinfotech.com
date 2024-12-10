@@ -199,7 +199,7 @@
                                                     <div class="w-vulcan--background w-css-reset" style="height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;">
                                                         <div class="w-css-reset" data-handle="statusBar"></div>
                                                         <div class="w-css-reset" data-handle="backgroundFocus">
-                                                            <button aria-label="Play Video: KAS Pvt LtdNew House" class="w-css-reset w-vulcan-v2-button" tabindex="0" style="width: 0px; height: 0px; pointer-events: none;"></button>
+                                                            <button aria-label="Play Video: KAS Pvt Ltd  New House" class="w-css-reset w-vulcan-v2-button" tabindex="0" style="width: 0px; height: 0px; pointer-events: none;"></button>
                                                         </div>
                                                         <div class="w-css-reset" data-handle="thumbnail">
                                                             <div>
@@ -254,7 +254,7 @@
                                                             <div class="w-css-reset" style="height: 685px;">
                                                                 <div class="w-css-reset" data-handle="bigPlayButton" style="pointer-events: auto;">
                                                                     <div class="w-bpb-wrapper w-css-reset w-css-reset-tree" style="border-radius: 0px; display: block; left: calc(50%); margin-left: -81.25px; margin-top: -52px; overflow: hidden; position: absolute; top: calc(50% - 0px);">
-                                                                        <button class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" aria-label="Play Video: KAS Pvt LtdNew House" tabindex="0" style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;">
+                                                                        <button class="w-big-play-button w-css-reset-button-important w-vulcan-v2-button" aria-label="Play Video: KAS Pvt Ltd  New House" tabindex="0" style="cursor: pointer; height: 104px; box-shadow: none; width: 162.5px;">
                                                                             <div style="background: rgb(245, 130, 32); display: block; left: 0px; height: 104px; mix-blend-mode: darken; position: absolute; top: 0px; width: 162.5px;"></div>
                                                                             <div style="
                                                                                     background-color: rgba(245, 130, 32, 0.7);

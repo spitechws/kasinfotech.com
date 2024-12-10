@@ -513,7 +513,7 @@
                             <picture>
                                 <source srcset="<?php echo asset(); ?>images/form-mail.webp" type="image/webp" />
                                 <source srcset="<?php echo asset(); ?>images/form-mail.png?v-4" type="image/jpeg" />
-                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt LtdMail" title="KAS Pvt LtdMail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                                <img data-src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" src="<?php echo asset(); ?>images/xform-mail.png,qv-4.pagespeed.ic.J9DxmIuytn.webp" alt="KAS Pvt Ltd  Mail" title="KAS Pvt Ltd  Mail" class="mr-3 mt-3 d-none d-md-block" data-pagespeed-url-hash="4022199950" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                             </picture>
                             <span class="border-bottom border-primary h1"> <a href="mailto:solutions@kasinfotech.com" class="mail-id">solutions@kasinfotech.com</a> </span>
                         </div>
@@ -748,7 +748,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltd  to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -798,7 +798,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltd  identified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -848,7 +848,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltd  to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -898,7 +898,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltd  identified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -948,7 +948,7 @@
                                                 <h3 class="h2 text-white font-bold">LMP Solutions</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltdto enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
+                                                        LMP Solutions is a global leader in Consulting, and they approached KAS Pvt Ltd  to enhance their customer support &amp; convert visitors to leads. Our proficient AWS consultants instantly
                                                         identified the need of the hour, upgraded the client database on AWS Cloud, and created flows in Amazon Connect. This helped them streamline their business flows to fortify their
                                                         profits overnight.
                                                     </p>
@@ -998,7 +998,7 @@
                                                 <h3 class="h2 text-white font-bold">Izuma Networks</h3>
                                                 <div class="boxed bg-white mt-sm">
                                                     <p>
-                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltdidentified the issues of multiple
+                                                        Izuma Networks is a big-scale IoT manufacturer in Austin, USA. As they contacted us for extended development support, the Cloud Architects at KAS Pvt Ltd  identified the issues of multiple
                                                         repositories having outdated dependencies. Hence, we developed a unique Operating System for them hosted on the AWS Cloud and managed their costs and expenditures with Kubernetes and
                                                         Docker implementations.
                                                     </p>
@@ -1135,9 +1135,9 @@
             <div class="col-lg-12">
                 <div class="section-title-and-desc">
                     <div class="section-title-block">
-                        <h2 class="section-title-text h1">Why KAS Pvt LtdStands Out as Your AWS Consulting Company?</h2>
+                        <h2 class="section-title-text h1">Why KAS Pvt Ltd  Stands Out as Your AWS Consulting Company?</h2>
                         <p>
-                            KAS Pvt Ltdhas more than a decade of experience with Cloud Computing and Cloud Services, and has proved itself to be the number one AWS Cloud Consulting Company in the US and worldwide. Our expert AWS consultants
+                            KAS Pvt Ltd  has more than a decade of experience with Cloud Computing and Cloud Services, and has proved itself to be the number one AWS Cloud Consulting Company in the US and worldwide. Our expert AWS consultants
                             have hands-on experience and extensive knowledge of the AWS platform, and they understand every business with its niche and specific requirement.
                         </p>
                         <p>
@@ -1151,7 +1151,7 @@
                 <picture>
                     <source srcset="<?php echo asset(); ?>images/aws-consulting/side-img-1.webp" type="image/webp" />
                     <source srcset="<?php echo asset(); ?>images/aws-consulting/side-img-1.jpg?v-1" type="image/jpeg" />
-                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" alt="Why KAS Pvt LtdStands Out as Your AWS Consulting Company?" title="Why KAS Pvt LtdStands Out as Your AWS Consulting Company?" class="lazy ob-cover" data-pagespeed-url-hash="3638325973" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+                    <img data-src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" src="<?php echo asset(); ?>images/aws-consulting/xside-img-1.jpg,qv-1.pagespeed.ic.YeizQHusCR.webp" alt="Why KAS Pvt Ltd  Stands Out as Your AWS Consulting Company?" title="Why KAS Pvt Ltd  Stands Out as Your AWS Consulting Company?" class="lazy ob-cover" data-pagespeed-url-hash="3638325973" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
                 </picture>
             </div>
             <div class="col-lg-6">

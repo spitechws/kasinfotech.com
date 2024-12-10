@@ -229,7 +229,7 @@
 </section>
 <section class="abt-team section-padding pt-0">
     <picture>
-        <img src="<?php echo asset(); ?>images/about-us/team-img-1.webp" alt="KAS Pvt Ltdteam" title="KAS Pvt Ltdteam" class="w-100" />
+        <img src="<?php echo asset(); ?>images/about-us/team-img-1.webp" alt="team" title="KAS Pvt Ltd  ,team" class="w-100" />
     </picture>
     <div class="container">
         <div class="row">
