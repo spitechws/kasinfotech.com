@@ -329,11 +329,9 @@
                     </ul>
                 </li>
             </ul>
-            <ul>
-                <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
+            <ul>               
                 <li><a href="<?php echo base_url(); ?>careers#workKAS Pvt Ltd ">Work @ KAS Pvt Ltd </a></li>
-                <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
-                <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
+                <li><a href="<?php echo base_url(); ?>technologies">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>testimonials">Customer Reviews</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
                 <li><a href="https://calendly.com/KAS Pvt Ltd meeting/30-minute-meeting" target="_blank" class="btn btn-outline-white mt-4 d-xl-none book-call-org text-uppercase">book a 30 min call</a></li>

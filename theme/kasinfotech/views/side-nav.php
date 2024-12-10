@@ -399,13 +399,10 @@
                 </li>
 
             </ul>
-            <ul>
-                <li><a href="<?php echo base_url(); ?>careers">Careers</a></li>
+            <ul>               
                 <li><a href="<?php echo base_url(); ?>about-us">Work @ KAS Pvt Ltd </a></li>
-                <li><a href="<?php echo base_url(); ?>blog/">Blogs</a></li>
-                <li><a href="<?php echo base_url(); ?>resources/">Resources</a></li>
+                <li><a href="<?php echo base_url(); ?>technologies">Resources</a></li>
                 <li><a href="<?php echo base_url(); ?>contactus">Contact</a></li>
-
             </ul>
         </div>
     </div>
