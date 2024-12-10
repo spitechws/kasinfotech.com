@@ -107,28 +107,33 @@
                                 <li>
                                     <picture>
                                         <img src="<?php echo asset('images/get-quote/tata.png'); ?>" alt="tata" title="tata">
+                                        <img src="<?php echo asset('images/get-quote/infosys.png'); ?>" alt="infosys" title="infosys">
+                                        <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft">
+                                        <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple">
+                                        <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla">
+
                                     </picture>
                                 </li>
-                                <li>
-                                    <picture>
+                                
+                                    <!-- <picture>
                                         <img src="<?php echo asset('images/get-quote/infosys.png'); ?>" alt="infosys" title="infosys">
                                     </picture>
-                                </li>
-                                <li>
+                                -->
+                               
                                     <picture>
-                                        <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft">
+                                        <!-- <img src="<?php echo asset('images/get-quote/micrfosoft.png'); ?>" alt="microsoft" title="microsoft"> -->
                                     </picture>
-                                </li>
-                                <li>
+                                
+                                
                                     <picture>
-                                        <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple">
+                                        <!-- <img src="<?php echo asset('images/get-quote/Apple_logo_grey (1).png'); ?>" alt="apple" title="apple"> -->
                                     </picture>
-                                </li>
-                                <li>
+                                
+                               
                                     <picture>
-                                        <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla">
+                                        <!-- <img src="<?php echo asset('images/get-quote/download.png'); ?>" alt="tesla" title="tesla"> -->
                                     </picture>
-                                </li>
+                               
                             </ul>
                         </div>
                     </div>
